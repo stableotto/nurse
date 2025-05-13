@@ -173,6 +173,10 @@ def search_pharmacist_jobs():
         jobs_df = pd.DataFrame(jobs)
         logger.info(f"Scraped {len(jobs_df)} total jobs")
         
+        # Filter for only remote jobs
+        jobs_df = jobs_df[jobs_df['is_remote'] == True]
+        logger.info(f"Found {len(jobs_df)} remote jobs after filtering")
+        
         # Create unique identifiers for new jobs
         jobs_df['job_id'] = jobs_df.apply(
             lambda x: f"{x['title']}|{x['company']}|{x['location']}", axis=1
@@ -182,7 +186,7 @@ def search_pharmacist_jobs():
         new_jobs_df = jobs_df[~jobs_df['job_id'].isin(existing_jobs)]
         new_jobs_df = new_jobs_df.drop('job_id', axis=1)
         
-        logger.info(f"Found {len(new_jobs_df)} new jobs after filtering duplicates")
+        logger.info(f"Found {len(new_jobs_df)} new remote jobs after filtering duplicates")
         
         if len(new_jobs_df) > 0:
             # Update Google Sheet with new jobs
