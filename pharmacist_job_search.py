@@ -18,6 +18,14 @@ SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 SPREADSHEET_ID = os.environ.get('GOOGLE_SHEET_ID')
 RANGE_NAME = 'Sheet1!A:Z'  # Changed to Sheet1 as it's the default first sheet name
 
+def serialize_dates(obj):
+    """Convert datetime objects to string format."""
+    if pd.isna(obj):
+        return ""
+    if isinstance(obj, (pd.Timestamp, datetime)):
+        return obj.strftime('%Y-%m-%d')
+    return str(obj)
+
 def get_google_sheets_service():
     """Initialize Google Sheets service."""
     try:
@@ -91,10 +99,13 @@ def update_google_sheet(new_jobs_df):
         if new_jobs_df.empty:
             logger.info("No new jobs to add to Google Sheet")
             return
+
+        # Convert all values to strings and handle dates
+        processed_df = new_jobs_df.applymap(serialize_dates)
             
         # Prepare the data
-        values = [new_jobs_df.columns.tolist()]  # Header row
-        values.extend(new_jobs_df.values.tolist())
+        values = [processed_df.columns.tolist()]  # Header row
+        values.extend(processed_df.values.tolist())
         
         body = {
             'values': values
