@@ -14,6 +14,12 @@ Multiple options to filter jobs by posting date (see below for details).
 - **`job_url`**: This column name is now available for your custom use
 - **`job_url_direct`**: Still available (contains direct application URLs when available)
 
+### ✅ Enhanced Remote Job Filtering
+- **Strict Filtering**: Jobs with `is_remote = False` are completely excluded from Google Sheets
+- **Multi-Layer Protection**: Initial filter → verification → final safeguard before Google Sheets
+- **Detailed Logging**: See exactly how many non-remote jobs were filtered out
+- **Zero Tolerance**: Absolutely no non-remote jobs will make it to your spreadsheet
+
 ## Column Layout After Changes
 
 Your Google Sheet will now have these URL-related columns in this order:

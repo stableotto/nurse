@@ -211,9 +211,26 @@ def search_pharmacist_jobs_with_date_filter(date_filter_option="today", hours_ol
         jobs_df = pd.DataFrame(jobs)
         logger.info(f"Scraped {len(jobs_df)} total jobs")
         
-        # Filter for only remote jobs
-        jobs_df = jobs_df[jobs_df['is_remote'] == True]
-        logger.info(f"Found {len(jobs_df)} remote jobs after filtering")
+        # STRICT FILTERING: Only include jobs where is_remote = True, completely exclude is_remote = False
+        if not jobs_df.empty and 'is_remote' in jobs_df.columns:
+            # Count non-remote jobs before filtering
+            non_remote_count = len(jobs_df[jobs_df['is_remote'] == False])
+            
+            # Apply strict remote-only filter
+            jobs_df = jobs_df[jobs_df['is_remote'] == True]
+            
+            logger.info(f"REMOTE FILTERING: Found {len(jobs_df)} remote jobs, excluded {non_remote_count} non-remote jobs")
+            
+            # Double-check: Ensure no non-remote jobs slipped through
+            if len(jobs_df) > 0:
+                remaining_non_remote = len(jobs_df[jobs_df['is_remote'] == False])
+                if remaining_non_remote > 0:
+                    logger.warning(f"WARNING: {remaining_non_remote} non-remote jobs still present after filtering!")
+                    jobs_df = jobs_df[jobs_df['is_remote'] == True]  # Apply filter again
+                else:
+                    logger.info("✅ VERIFIED: All remaining jobs are remote (is_remote=True)")
+        else:
+            logger.warning("⚠️ 'is_remote' column not found or DataFrame is empty")
         
         # Apply date filtering if specified
         if filter_date is not None and not jobs_df.empty and 'date_posted' in jobs_df.columns:
@@ -258,6 +275,17 @@ def search_pharmacist_jobs_with_date_filter(date_filter_option="today", hours_ol
         new_jobs_df = new_jobs_df.drop('job_id', axis=1)
         
         logger.info(f"Found {len(new_jobs_df)} new remote jobs from {filter_description} after filtering duplicates")
+        
+        # FINAL SAFETY CHECK: Ensure absolutely no non-remote jobs are being sent to Google Sheets
+        if len(new_jobs_df) > 0 and 'is_remote' in new_jobs_df.columns:
+            non_remote_final = len(new_jobs_df[new_jobs_df['is_remote'] == False])
+            if non_remote_final > 0:
+                logger.error(f"🚨 CRITICAL: {non_remote_final} non-remote jobs about to be sent to Google Sheets!")
+                # Remove any remaining non-remote jobs as a final safeguard
+                new_jobs_df = new_jobs_df[new_jobs_df['is_remote'] == True]
+                logger.info(f"🛡️ SAFEGUARD: Removed {non_remote_final} non-remote jobs before Google Sheets update")
+            
+            logger.info(f"🎯 FINAL VERIFICATION: Sending {len(new_jobs_df)} confirmed remote jobs to Google Sheets")
         
         if len(new_jobs_df) > 0:
             # Update Google Sheet with new jobs
