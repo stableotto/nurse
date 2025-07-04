@@ -1,38 +1,41 @@
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Virtual Environment
+# Virtual environments
+nurse_env/
 venv/
-ENV/
+env/
+.env
 
-# IDE
-.idea/
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Google Sheets credentials (if any)
+service_account.json
+credentials.json
+token.json
+
+# IDE files
 .vscode/
+.idea/
 *.swp
 *.swo
+
+# OS files
+.DS_Store
+Thumbs.db
 
 # Logs
 *.log
 
-# Local development
-.env
+# Test files
+test_*.py
+*_test.py
+
+# Temporary files
+*.tmp
+*.temp

@@ -255,3 +255,154 @@ Naukri specific
 ├── vacancy_count
 └── work_from_home_type
 ```
+
+# Daily Nurse Jobs Feed
+
+Automated daily nurse job search with direct company application links, delivered via XML RSS feed.
+
+## 🚀 Features
+
+- **Daily automated job search** for nursing positions across the US
+- **Direct company URLs only** - filters out Indeed redirect links
+- **XML RSS feed** - easy integration with feed readers or other systems
+- **GitHub Actions powered** - runs automatically every day
+- **Comprehensive filtering** - jobs posted today only, all job types (remote, on-site, hybrid)
+
+## 📊 Current Feed
+
+The latest nurse jobs feed is available at: `nurses_jobs_feed.xml`
+
+## 🔧 Setup for GitHub Actions
+
+### 1. Repository Setup
+```bash
+# Clone and push to your GitHub repository
+git clone <your-repo-url>
+cd <your-repo>
+git add .
+git commit -m "Initial setup for daily nurse jobs"
+git push origin main
+```
+
+### 2. Enable GitHub Actions
+1. Go to your repository on GitHub
+2. Click on the **Actions** tab
+3. Enable GitHub Actions if prompted
+4. The workflow will run automatically daily at 9:00 AM UTC
+
+### 3. Manual Trigger
+You can manually trigger the job search:
+1. Go to **Actions** tab in your repository
+2. Click on **Daily Nurse Job Search**
+3. Click **Run workflow**
+
+## 📁 Output Files
+
+- **`job_results/nurse_jobs_today_YYYYMMDD.csv`** - Daily CSV results
+- **`nurses_jobs_feed.xml`** - RSS XML feed (updated daily)
+
+## 🎯 Filtering Criteria
+
+- **Search term:** "nurse" (nationwide US search)
+- **Date filter:** Jobs posted today only
+- **URL filter:** Only jobs with direct company application links (excludes Indeed redirects)
+- **Job types:** All types included (remote, on-site, hybrid)
+- **Results:** Up to 500 jobs scraped, filtered down to today's direct-link jobs
+
+## 📋 XML Feed Format
+
+The RSS feed includes:
+- Job title and company
+- Location and job type
+- Salary information (when available)
+- Direct application URLs
+- Job descriptions (truncated)
+- Publication date
+
+## 🛠️ Local Development
+
+### Prerequisites
+- Python 3.10+
+- Virtual environment (recommended)
+
+### Installation
+```bash
+# Create virtual environment
+python3 -m venv nurse_env
+source nurse_env/bin/activate  # On Windows: nurse_env\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+### Manual Run
+```bash
+# Search for jobs
+python3 nurse_job_search.py
+
+# Generate XML feed
+python3 generate_xml_feed.py
+```
+
+## 📈 Filter Modes
+
+The script supports different filtering modes in `nurse_job_search.py`:
+
+```python
+FILTER_MODE = "strict"    # Only direct company URLs (recommended)
+FILTER_MODE = "moderate"  # All jobs, flagged which are direct
+FILTER_MODE = "none"      # All jobs, no URL filtering
+```
+
+## 🔗 Accessing the Feed
+
+### Direct Access
+- Raw XML: `https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/nurses_jobs_feed.xml`
+- Repository: `https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/nurses_jobs_feed.xml`
+
+### RSS Feed Readers
+Add the raw GitHub URL to any RSS reader:
+- Feedly
+- Inoreader  
+- RSS Bot for Discord/Slack
+- Custom applications
+
+## ⚙️ Customization
+
+### Change Schedule
+Edit `.github/workflows/daily-nurse-jobs.yml`:
+```yaml
+schedule:
+  - cron: '0 9 * * *'  # Daily at 9 AM UTC
+```
+
+### Modify Search Parameters
+Edit `nurse_job_search.py`:
+```python
+jobs = scrape_jobs(
+    search_term="nurse",           # Change search term
+    location="United States",      # Change location
+    results_wanted=500,           # Adjust result count
+    hours_old=scrape_hours_old,   # Adjust time window
+)
+```
+
+## 🐛 Troubleshooting
+
+### GitHub Actions Issues
+1. Check **Actions** tab for error logs
+2. Verify repository permissions for Actions
+3. Ensure `requirements.txt` includes all dependencies
+
+### Feed Issues
+1. Check if CSV files are being generated in `job_results/`
+2. Verify XML feed exists and is valid
+3. Test locally with `python3 generate_xml_feed.py`
+
+## 📧 Support
+
+For issues or questions, please create an issue in this repository.
+
+## 📄 License
+
+MIT License - see LICENSE file for details.
