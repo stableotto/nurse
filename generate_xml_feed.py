@@ -107,6 +107,40 @@ def create_rss_feed(jobs_df, output_file="nurses_jobs_feed.xml"):
         description_text = "\n".join(description_parts)
         ET.SubElement(item, "description").text = description_text
         
+        # Add custom XML tags for structured data
+        # Job Type
+        if pd.notna(job.get('job_type')):
+            job_type_value = job['job_type']
+            if isinstance(job_type_value, list):
+                job_type_text = ", ".join(str(jt).title() for jt in job_type_value)
+            else:
+                job_type_text = str(job_type_value).title()
+            ET.SubElement(item, "jobType").text = job_type_text
+        
+        # Location
+        if pd.notna(job.get('location')):
+            ET.SubElement(item, "jobLocation").text = str(job['location'])
+        
+        # Salary Min
+        if pd.notna(job.get('min_amount')):
+            ET.SubElement(item, "salaryMin").text = str(int(job['min_amount']))
+        
+        # Salary Max
+        if pd.notna(job.get('max_amount')):
+            ET.SubElement(item, "salaryMax").text = str(int(job['max_amount']))
+        
+        # Salary Schedule (interval)
+        if pd.notna(job.get('interval')):
+            ET.SubElement(item, "salarySchedule").text = str(job['interval']).lower()
+        
+        # Currency (bonus tag)
+        if pd.notna(job.get('currency')):
+            ET.SubElement(item, "salaryCurrency").text = str(job['currency'])
+        
+        # Remote work status (bonus tag)
+        if pd.notna(job.get('is_remote')):
+            ET.SubElement(item, "isRemote").text = str(job['is_remote']).lower()
+        
         # Category
         ET.SubElement(item, "category").text = "Nursing Jobs"
     

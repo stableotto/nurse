@@ -4,7 +4,7 @@
     <title>Daily Nurse Jobs Feed</title>
     <description>Daily feed of nursing jobs with direct company application links</description>
     <link>https://github.com/your-username/your-repo</link>
-    <lastBuildDate>Sun, 06 Jul 2025 05:50:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 20:32:16 +0000</lastBuildDate>
     <generator>Nurse Job Search Bot</generator>
     <language>en-us</language>
     <item>
@@ -23,6 +23,13 @@
 * The Registered Nurse (RN) works with his/her team partner(s), using the nursing process to assess, plan, implement and evaluate direct patient care. The Registered Nurse (RN) works with his/her team partner(s) to provide quality patient care. As a member of the Patient Care Team, the RN provides hands\\-on care to patients. Is responsible for making sound clinical decisions and to provide a comprehensive delivery of care to each individual patient; provide a wide...
 🔗 Apply Direct: https://lcmh.hrmdirect.com/employment/view.php?req=3404187&amp;jbsrc=1014&amp;location=0c713ce7-a918-2596-a86a-78d5c81b8030
 🔗 Job Board: https://www.indeed.com/viewjob?jk=295c5383f5bd84b2</description>
+      <jobType>Parttime</jobType>
+      <jobLocation>Lake Charles, LA, US</jobLocation>
+      <salaryMin>56870</salaryMin>
+      <salaryMax>77131</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -44,6 +51,13 @@ Milan Laser Hair Removal is one of the nation’s premier laser hair removal pro
 **Position Summ...
 🔗 Apply Direct: https://milanlaser.hrmdirect.com/employment/view.php?req=3404059&amp;jbsrc=1014&amp;location=4bb96aee-18a0-e07c-063f-d63edfb44937
 🔗 Job Board: https://www.indeed.com/viewjob?jk=5fd0b17fd3f07dca</description>
+      <jobType>Fulltime</jobType>
+      <jobLocation>Orlando, FL, US</jobLocation>
+      <salaryMin>65815</salaryMin>
+      <salaryMax>80317</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -68,6 +82,13 @@ The 61st Street Service Corporation, provides administrative and clinical suppor
 The Licensed Practical Nurse (LPN) will se...
 🔗 Apply Direct: https://servcorphr.hrmdirect.com/employment/view.php?req=3404286&amp;jbsrc=1014&amp;location=92d12499-788b-d7a2-28d5-01facc672c13
 🔗 Job Board: https://www.indeed.com/viewjob?jk=fd7b82a53aad7cbb</description>
+      <jobType>Fulltime</jobType>
+      <jobLocation>White Plains, NY, US</jobLocation>
+      <salaryMin>29</salaryMin>
+      <salaryMax>44</salaryMax>
+      <salarySchedule>hourly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -91,6 +112,12 @@ Here at Grace Manor, we believe in offering our employees the opportunity to cre
 As an important member of our interdisciplinary team, the LPN delivers quality nursing care to patients thr...
 🔗 Apply Direct: https://gracemanorcarecenter.hrmdirect.com/employment/view.php?req=3403644&amp;jbsrc=1014&amp;location=48059cbc-1dcc-0a1f-8d31-2ab62c20a289
 🔗 Job Board: https://www.indeed.com/viewjob?jk=2ab395fe0e35a2ed</description>
+      <jobLocation>Burlington, CO, US</jobLocation>
+      <salaryMin>26</salaryMin>
+      <salaryMax>29</salaryMax>
+      <salarySchedule>hourly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -115,6 +142,13 @@ The Care Manager is responsible for providing care management to a group of heal
 * Provides care management for ...
 🔗 Apply Direct: https://nascentiahealth.hrmdirect.com/employment/view.php?req=3403535&amp;jbsrc=1014&amp;location=152e21ec-ba43-ed9e-c471-e4ebc5e009b7
 🔗 Job Board: https://www.indeed.com/viewjob?jk=4c807b2ddc71db79</description>
+      <jobType>Fulltime</jobType>
+      <jobLocation>Latham, NY, US</jobLocation>
+      <salaryMin>72415</salaryMin>
+      <salaryMax>83922</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>true</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -136,6 +170,13 @@ The Care Manager is responsible for providing care management to a group of heal
 We invite you to become a part of ...
 🔗 Apply Direct: https://stathomehealth.hrmdirect.com/employment/view.php?req=3403925&amp;jbsrc=1014&amp;location=c3d85a33-9613-9ecd-e085-153c85e5b4c5
 🔗 Job Board: https://www.indeed.com/viewjob?jk=a0592c67a27ceef5</description>
+      <jobType>Fulltime</jobType>
+      <jobLocation>Hammond, LA, US</jobLocation>
+      <salaryMin>63448</salaryMin>
+      <salaryMax>75312</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -158,6 +199,13 @@ We invite you to become a part of ...
 **Meridian Health Services** is a progressive healthcare organization that believes in treating the “whole\\-person” integrating physical, mental and social well\\-being to help people achieve their optimum health. This approach connects treatments and doctors working together to heal both the body and mind for total well\\-being...
 🔗 Apply Direct: https://meridianhs.hrmdirect.com/employment/view.php?req=3403783&amp;jbsrc=1014&amp;location=a1169a52-b955-d73a-1d58-81171432a214
 🔗 Job Board: https://www.indeed.com/viewjob?jk=23f8a6af967abd19</description>
+      <jobType>Parttime</jobType>
+      <jobLocation>West Lafayette, IN, US</jobLocation>
+      <salaryMin>62952</salaryMin>
+      <salaryMax>79711</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -189,6 +237,12 @@ As a Registered Nurse (RN), do you aspire to be a part of a cohesive and compass
 * Shif...
 🔗 Apply Direct: https://miravistabhc.hrmdirect.com/employment/view.php?req=3403657&amp;jbsrc=1014&amp;location=99a98e01-9dc1-8913-e401-e3525d6e5e2e
 🔗 Job Board: https://www.indeed.com/viewjob?jk=2924218ae41fdb7a</description>
+      <jobLocation>Holyoke, MA, US</jobLocation>
+      <salaryMin>75800</salaryMin>
+      <salaryMax>94173</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -228,6 +282,13 @@ Responsible for providing comprehensive nursing care and services to the residen
 * Responsible for m...
 🔗 Apply Direct: https://twinlakescomm.hrmdirect.com/employment/view.php?req=3403124&amp;jbsrc=1014&amp;location=c52a56c1-0372-3824-d950-be2f988d44d3
 🔗 Job Board: https://www.indeed.com/viewjob?jk=206eb0db3b26e0c5</description>
+      <jobType>Parttime</jobType>
+      <jobLocation>Burlington, NC, US</jobLocation>
+      <salaryMin>50947</salaryMin>
+      <salaryMax>66349</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -245,6 +306,12 @@ Responsible for providing comprehensive nursing care and services to the residen
 Under the supervision of the Team/Program Manager, the HH clinician is accountable for effectively managing or caring for a caseload of patients from admission to transition into the community, involving interdisciplinary support and referrals when appropriate. This position coordinates the interdisciplinary care, monitors and adjusts treatment to achieve positive therapeutic outcomes, and identifies opportunities for process improvement. These responsibilities will be carried...
 🔗 Apply Direct: https://vnacarenewengland.hrmdirect.com/employment/view.php?req=3399874&amp;jbsrc=1014&amp;location=e282b96f-2d25-f64e-14a5-0d1aa600ed50
 🔗 Job Board: https://www.indeed.com/viewjob?jk=efa52cb75fbfbbf0</description>
+      <jobLocation>Warwick, RI, US</jobLocation>
+      <salaryMin>51597</salaryMin>
+      <salaryMax>71998</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -269,6 +336,13 @@ Functions \\&amp; Responsibilities:
 * Maintains current knowledge of home health comp...
 🔗 Apply Direct: https://vnacare.hrmdirect.com/employment/view.php?req=3383314&amp;jbsrc=1014&amp;location=5546b205-b307-8ceb-8d56-47c02a4c971f
 🔗 Job Board: https://www.indeed.com/viewjob?jk=0e82832e9ac8f270</description>
+      <jobType>Fulltime</jobType>
+      <jobLocation>Southborough, MA, US</jobLocation>
+      <salaryMin>90000</salaryMin>
+      <salaryMax>100000</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -287,6 +361,13 @@ Functions \\&amp; Responsibilities:
 St. John’s Episcopal Hospital is the only hospital providing emergency and ambulatory care to the densely populated, culturally and economically diverse, and medically underserved populations of the Rockaways and Five Towns in southern Queens County and southwestern Nassau County, New York. Celebrating over 110 years of community care, the 257\\-bed facility provides people of all faiths with comprehensive preventive, diagnostic treatment and rehabilitative services, regardless...
 🔗 Apply Direct: https://stjohn.hrmdirect.com/employment/view.php?req=2352540&amp;jbsrc=1014&amp;location=8df1be5a-9f13-d77b-868d-6a3e01796f67
 🔗 Job Board: https://www.indeed.com/viewjob?jk=5fbbc14c13c849ff</description>
+      <jobType>Parttime</jobType>
+      <jobLocation>Far Rockaway, NY, US</jobLocation>
+      <salaryMin>57</salaryMin>
+      <salaryMax>73</salaryMax>
+      <salarySchedule>hourly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -305,6 +386,13 @@ St. John’s Episcopal Hospital is the only hospital providing emergency and amb
 If you enjoy working in a vibrant critical care atmosphere, with coworkers who are committed to learnin...
 🔗 Apply Direct: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=90a9541d-a793-485d-81dc-263381082a51&amp;ccId=19000101_000001&amp;jobId=596405&amp;source=IN&amp;lang=en_US
 🔗 Job Board: https://www.indeed.com/viewjob?jk=5e93897607d95a6d</description>
+      <jobType>Fulltime</jobType>
+      <jobLocation>Columbia, MO, US</jobLocation>
+      <salaryMin>53350</salaryMin>
+      <salaryMax>68813</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -322,6 +410,13 @@ If you enjoy working in a vibrant critical care atmosphere, with coworkers who a
 We're hiring Full\\-Time **Registered Nurses (RN), days \\&amp; nights, ( TAP)** *and*charge nurses for both days \\&amp; nights as well as for both days \\&amp; nights \\- who want to grow their career and critical care skills. Our team of **Registered Nurses** excel in their field and utilize all their skills in our critical care environment while playing a significant role on the multi\\-disciplinary team. If ...
 🔗 Apply Direct: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=90a9541d-a793-485d-81dc-263381082a51&amp;ccId=19000101_000001&amp;jobId=596403&amp;source=IN&amp;lang=en_US
 🔗 Job Board: https://www.indeed.com/viewjob?jk=a7b093e22f66dd8b</description>
+      <jobType>Temporary</jobType>
+      <jobLocation>Columbia, MO, US</jobLocation>
+      <salaryMin>84230</salaryMin>
+      <salaryMax>110473</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -339,6 +434,13 @@ We're hiring Full\\-Time **Registered Nurses (RN), days \\&amp; nights, ( TAP)**
   ...
 🔗 Apply Direct: https://mdclinics.bamboohr.com/careers/17?source=indeed&amp;src=indeed&amp;postedDate=2025-07-06
 🔗 Job Board: https://www.indeed.com/viewjob?jk=6570de0561db583a</description>
+      <jobType>Fulltime</jobType>
+      <jobLocation>Prestonsburg, KY, US</jobLocation>
+      <salaryMin>41294</salaryMin>
+      <salaryMax>53195</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -362,6 +464,13 @@ The competent Nurse, in the same or similar clinical setting, practices independ
 Responsibilitie...
 🔗 Apply Direct: https://careers.christushealth.org/opportunity/rn-registered-nurse-med-surg-269999?utm_campaign=Indeed
 🔗 Job Board: https://www.indeed.com/viewjob?jk=f689321df5e29b4c</description>
+      <jobType>Fulltime</jobType>
+      <jobLocation>Tyler, TX, US</jobLocation>
+      <salaryMin>53720</salaryMin>
+      <salaryMax>75253</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -385,6 +494,13 @@ The competent Nurse, in the same or similar clinical setting, practices independ
 Responsibilitie...
 🔗 Apply Direct: https://careers.christushealth.org/opportunity/rn-registered-nurse-medical-icu-full-time-276650?utm_campaign=Indeed
 🔗 Job Board: https://www.indeed.com/viewjob?jk=e9509bf54cfac181</description>
+      <jobType>Fulltime</jobType>
+      <jobLocation>Longview, TX, US</jobLocation>
+      <salaryMin>57837</salaryMin>
+      <salaryMax>78512</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -407,6 +523,12 @@ The competent Nurse, in the same or similar clinical setting, practices independ
 Responsibilitie...
 🔗 Apply Direct: https://careers.christushealth.org/opportunity/rn-registered-nurse-neonatal-icu-prn-277091?utm_campaign=Indeed
 🔗 Job Board: https://www.indeed.com/viewjob?jk=779710e451713e3b</description>
+      <jobLocation>Longview, TX, US</jobLocation>
+      <salaryMin>64270</salaryMin>
+      <salaryMax>92767</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -425,6 +547,13 @@ Responsibilitie...
 The Registered Nurse Transfer Center is responsible for evaluating, coordinating, processing, screening, and documentation of patient transfers into the CHRISTUS Health System. The CHRISTUS Transfer Center RN will collaborate with relevant business partners for appropriate level of care and transport of patients into the CHRISTUS Health system. The CHRISTUS Transfer Center will be responsible for obtaining appropriate medical and demographic information and coordin...
 🔗 Apply Direct: https://careers.christushealth.org/opportunity/rn-registered-nurse-transfer-center-patient-intake-279800?utm_campaign=Indeed
 🔗 Job Board: https://www.indeed.com/viewjob?jk=8e653d5c5eb105fd</description>
+      <jobType>Fulltime</jobType>
+      <jobLocation>Alexandria, LA, US</jobLocation>
+      <salaryMin>54412</salaryMin>
+      <salaryMax>72875</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -440,6 +569,13 @@ The Registered Nurse Transfer Center is responsible for evaluating, coordinating
 📝 Description: **Description** **POSITION SUMMARY:** The Registered Nurse is a clinical practitioner who coordinates and implements patient care specific to the age of the patient population served on the assigned units. He/she ensures that quality care is provided in an efficient and safe manner, consistent with the unit’s standards of care. He/she demonstrates performance consistent with the mission, philosophy and goals of the unit and organization. Demonstrates quality and effectiveness in work habits and ...
 🔗 Apply Direct: https://careers.christushealth.org/opportunity/clinical-nurse-rn-peds-full-time-5001127485200?utm_campaign=Indeed
 🔗 Job Board: https://www.indeed.com/viewjob?jk=db526d8724f5995e</description>
+      <jobType>Fulltime</jobType>
+      <jobLocation>Santa Fe, NM, US</jobLocation>
+      <salaryMin>58393</salaryMin>
+      <salaryMax>84109</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -464,6 +600,13 @@ Please enter info here
 **CERTIFICATION/LICENSES:** Current New Mexico RN license or current Compact state license. BLS Certification required or within 2 weeks of hire date. All other required certifications must be obtained within 6 months of hire date. If nurse has the required certifications at time of hire, they must maintain the certifications and wil...
 🔗 Apply Direct: https://careers.christushealth.org/opportunity/clinical-nurse-rn-icu-full-time-5001127471900?utm_campaign=Indeed
 🔗 Job Board: https://www.indeed.com/viewjob?jk=376dc350bddf79de</description>
+      <jobType>Parttime</jobType>
+      <jobLocation>Santa Fe, NM, US</jobLocation>
+      <salaryMin>58334</salaryMin>
+      <salaryMax>81138</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -486,6 +629,12 @@ The competent Nurse, in the same or similar clinical setting, practices independ
 Responsibilitie...
 🔗 Apply Direct: https://careers.christushealth.org/opportunity/rn-registered-nurse-neonatal-icu-prn-277090?utm_campaign=Indeed
 🔗 Job Board: https://www.indeed.com/viewjob?jk=742d17f657ec02f5</description>
+      <jobLocation>Longview, TX, US</jobLocation>
+      <salaryMin>64270</salaryMin>
+      <salaryMax>92767</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -506,6 +655,13 @@ Summary:
 CHRISTUS Health is hiring a Full\\-time CRNA located at CHRISTUS Mother Frances Hospital in Sulphur Springs, Texas. This is a hospital\\-employed W\\-2 opportunity. If you want to experience a cohesive and collaborative team that supports one another, come join us!! Independent CRNA model that covers Ortho, ENT (adult \\&amp; pedi), Urology, General Surgery, OB, Pain, Dental, GI, and Podiatry cases. You also have the opportunity to perform your own regional blocks with ...
 🔗 Apply Direct: https://careers.christushealth.org/opportunity/crna-anesthesia-sulphur-springs-280014?utm_campaign=Indeed
 🔗 Job Board: https://www.indeed.com/viewjob?jk=039afdc4a0b912cc</description>
+      <jobType>Fulltime</jobType>
+      <jobLocation>Sulphur Springs, TX, US</jobLocation>
+      <salaryMin>21418</salaryMin>
+      <salaryMax>71134</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -531,6 +687,13 @@ The competent Nurse, in the **Critical Care and similar clinical setting**, prac
 Respo...
 🔗 Apply Direct: https://careers.christushealth.org/opportunity/rn-registered-nurse-float-iv-nursing-float-pool-full-time-275941?utm_campaign=Indeed
 🔗 Job Board: https://www.indeed.com/viewjob?jk=129b6b1cc0a93d01</description>
+      <jobType>Fulltime</jobType>
+      <jobLocation>Longview, TX, US</jobLocation>
+      <salaryMin>61307</salaryMin>
+      <salaryMax>87302</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -554,6 +717,13 @@ The competent Nurse, in the same or similar clinical setting, practices independ
 Responsibilitie...
 🔗 Apply Direct: https://careers.christushealth.org/opportunity/rn-registered-nurse-endoscopy-277033?utm_campaign=Indeed
 🔗 Job Board: https://www.indeed.com/viewjob?jk=573d1d5f2096686a</description>
+      <jobType>Fulltime</jobType>
+      <jobLocation>Tyler, TX, US</jobLocation>
+      <salaryMin>57956</salaryMin>
+      <salaryMax>78257</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -569,6 +739,13 @@ Responsibilitie...
 📝 Description: **Description** **POSITION SUMMARY:** The Clinical Supervisor, in collaboration with and under the direction of the Nursing Department Director/Manager, is accountable for ongoing shift leadership and operations of a clinical department and for nursing care safety and quality. The Clinical Supervisor uses sound human resource and budget principles to guide the daily provision of nursing services to patients and families. The Clinical Supervisor supports comprehensive patient and family services ...
 🔗 Apply Direct: https://careers.christushealth.org/opportunity/clinical-supervisor-inpatient-ortho-full-time-5001120542300?utm_campaign=Indeed
 🔗 Job Board: https://www.indeed.com/viewjob?jk=7017c8764432cda4</description>
+      <jobType>Fulltime</jobType>
+      <jobLocation>Santa Fe, NM, US</jobLocation>
+      <salaryMin>73119</salaryMin>
+      <salaryMax>106758</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -584,6 +761,13 @@ Responsibilitie...
 📝 Description: **Description** **POSITION SUMMARY:** The Registered Nurse is a clinical practitioner who coordinates and implements patient care specific to the age of the patient population served on the assigned units. He/she ensures that quality care is provided in an efficient and safe manner, consistent with the unit’s standards of care. He/she demonstrates performance consistent with the mission, philosophy and goals of the unit and organization. Demonstrates quality and effectiveness in work habits and ...
 🔗 Apply Direct: https://careers.christushealth.org/opportunity/clinical-nurse-rn-ed-full-time-5001120548100?utm_campaign=Indeed
 🔗 Job Board: https://www.indeed.com/viewjob?jk=8da8faf49d731d11</description>
+      <jobType>Fulltime</jobType>
+      <jobLocation>Santa Fe, NM, US</jobLocation>
+      <salaryMin>59881</salaryMin>
+      <salaryMax>85919</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -607,6 +791,13 @@ The competent Nurse, in the same or similar clinical setting, practices independ
 Responsibilitie...
 🔗 Apply Direct: https://careers.christushealth.org/opportunity/registered-nurse-seasonal-imc-cardiovascular-full-time-250735?utm_campaign=Indeed
 🔗 Job Board: https://www.indeed.com/viewjob?jk=c1e234957f2d5b2b</description>
+      <jobType>Fulltime</jobType>
+      <jobLocation>Alexandria, LA, US</jobLocation>
+      <salaryMin>53091</salaryMin>
+      <salaryMax>70127</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -629,6 +820,12 @@ The competent Nurse, in the same or similar clinical setting, practices independ
 Responsibilitie...
 🔗 Apply Direct: https://careers.christushealth.org/opportunity/rn-registered-nurse-kerrville-surgery-center-250150?utm_campaign=Indeed
 🔗 Job Board: https://www.indeed.com/viewjob?jk=20cec7271396e86f</description>
+      <jobLocation>Kerrville, TX, US</jobLocation>
+      <salaryMin>54407</salaryMin>
+      <salaryMax>77047</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -650,6 +847,13 @@ Responsibilitie...
 **EDUCATION:** Graduate of an accredited program for Registered Nursing. BSN pr...
 🔗 Apply Direct: https://careers.christushealth.org/opportunity/clinical-manager-rn-pediatrics-full-time-5001093747400?utm_campaign=Indeed
 🔗 Job Board: https://www.indeed.com/viewjob?jk=98a04c1a6c840c2c</description>
+      <jobType>Fulltime</jobType>
+      <jobLocation>Santa Fe, NM, US</jobLocation>
+      <salaryMin>82535</salaryMin>
+      <salaryMax>124187</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -673,6 +877,12 @@ Please enter info here
 **CERTIFICATION/LICENSES:** Current New Mexico RN license or current Compact state license. BLS Certification required or within 2 weeks of hire date. All other required certifications must be obtained within 6 months of hire date. If nurse has the required certifications at time of hire, they must maintain the certifications and wil...
 🔗 Apply Direct: https://careers.christushealth.org/opportunity/clinical-nurse-rn-iv-infusion-per-diem-5001093751000?utm_campaign=Indeed
 🔗 Job Board: https://www.indeed.com/viewjob?jk=0d160d42fd49a688</description>
+      <jobLocation>Santa Fe, NM, US</jobLocation>
+      <salaryMin>58670</salaryMin>
+      <salaryMax>83380</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -696,6 +906,13 @@ The competent Nurse, in the same or similar clinical setting, practices independ
 Responsibilitie...
 🔗 Apply Direct: https://careers.christushealth.org/opportunity/registered-nurse-acute-medsurgical-b-full-time-237183?utm_campaign=Indeed
 🔗 Job Board: https://www.indeed.com/viewjob?jk=d2dd3fdd5e3bbe67</description>
+      <jobType>Fulltime</jobType>
+      <jobLocation>Lake Charles, LA, US</jobLocation>
+      <salaryMin>54236</salaryMin>
+      <salaryMax>77237</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
     <item>
@@ -711,6 +928,13 @@ Responsibilitie...
 📝 Description: **Description** **POSITION SUMMARY:** The Registered Nurse is a clinical practitioner who coordinates and implements patient care specific to the age of the patient population served on the assigned units. He/she ensures that quality care is provided in an efficient and safe manner, consistent with the unit’s standards of care. He/she demonstrates performance consistent with the mission, philosophy and goals of the unit and organization. Demonstrates quality and effectiveness in work habits and ...
 🔗 Apply Direct: https://careers.christushealth.org/opportunity/clinical-nurse-rn-or-full-time-5001049209106?utm_campaign=Indeed
 🔗 Job Board: https://www.indeed.com/viewjob?jk=2462d716b7660376</description>
+      <jobType>Fulltime</jobType>
+      <jobLocation>Santa Fe, NM, US</jobLocation>
+      <salaryMin>59983</salaryMin>
+      <salaryMax>85751</salaryMax>
+      <salarySchedule>yearly</salarySchedule>
+      <salaryCurrency>USD</salaryCurrency>
+      <isRemote>false</isRemote>
       <category>Nursing Jobs</category>
     </item>
   </channel>
