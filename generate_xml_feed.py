@@ -108,6 +108,10 @@ def create_rss_feed(jobs_df, output_file="nurses_jobs_feed.xml"):
         ET.SubElement(item, "description").text = description_text
         
         # Add custom XML tags for structured data
+        # Company Name
+        if pd.notna(job.get('company')):
+            ET.SubElement(item, "companyName").text = str(job['company'])
+        
         # Job Type
         if pd.notna(job.get('job_type')):
             job_type_value = job['job_type']
