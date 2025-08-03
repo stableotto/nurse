@@ -82,11 +82,9 @@ def create_rss_feed(jobs_df, output_file="nurses_jobs_feed.xml"):
             interval = job.get('interval', 'yearly')
             description_parts.append(f"💰 Salary: {currency} {job['min_amount']:,.0f}+ ({interval})")
         
-        # Job description (truncated)
+        # Job description (full)
         if pd.notna(job.get('description')):
-            desc_text = str(job['description'])[:500]
-            if len(str(job['description'])) > 500:
-                desc_text += "..."
+            desc_text = str(job['description'])
             description_parts.append(f"\n📝 Description: {desc_text}")
         
         # Application URLs
