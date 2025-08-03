@@ -51,15 +51,10 @@ def create_rss_feed(jobs_df, output_file="nurses_jobs_feed.xml"):
         guid.text = f"{job.get('company', '')}-{job.get('title', '')}-{job.get('location', '')}"
         guid.set("isPermaLink", "false")
         
-        # Publication date
-        pub_date = job.get('date_posted', datetime.now().date())
-        if pd.notna(pub_date):
-            try:
-                if isinstance(pub_date, str):
-                    pub_date = pd.to_datetime(pub_date).date()
-                ET.SubElement(item, "pubDate").text = datetime.combine(pub_date, datetime.min.time()).strftime("%a, %d %b %Y %H:%M:%S +0000")
-            except:
-                ET.SubElement(item, "pubDate").text = datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0000")
+        # Publication date - Use current date when XML is generated, not the old job posting date
+        # This ensures the XML feed shows current timestamps even for older job data
+        current_time = datetime.now()
+        ET.SubElement(item, "pubDate").text = current_time.strftime("%a, %d %b %Y %H:%M:%S +0000")
         
         # Description with job details
         description_parts = []
