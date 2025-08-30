@@ -1,23 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Daily Nurse Jobs Feed</title>
-    <description>Daily feed of nursing jobs with direct company application links</description>
-    <link>https://github.com/your-username/your-repo</link>
-    <lastBuildDate>Sat, 30 Aug 2025 09:15:07 +0000</lastBuildDate>
-    <generator>Nurse Job Search Bot</generator>
-    <language>en-us</language>
-    <item>
-      <title>Licensed Practical Nurse (LPN) - School Transport - Part Time at Public Sector Solutions Group</title>
-      <link>https://digidoc-inc-dba-public-sector-solutions-group.breezy.hr/p/f866c7fbc536-licensed-practical-nurse-lpn-school-transport--part-time</link>
-      <guid isPermaLink="false">Public Sector Solutions Group-Licensed Practical Nurse (LPN) - School Transport - Part Time-Washington, DC, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Washington, DC, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 58,454 - 76,398 (yearly)
-
-📝 Description: **PS2G’s Healthcare practice has exciting opportunities for LPNs**
+"id","site","job_board_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type","job_url"
+"in-37a49bd42cf76823","indeed","https://www.indeed.com/viewjob?jk=37a49bd42cf76823","https://digidoc-inc-dba-public-sector-solutions-group.breezy.hr/p/f866c7fbc536-licensed-practical-nurse-lpn-school-transport--part-time","Licensed Practical Nurse (LPN) - School Transport - Part Time","Public Sector Solutions Group","Washington, DC, US","2025-08-30","parttime","direct_data","yearly",58454.0,76398.0,"USD",False,"","","","","**PS2G’s Healthcare practice has exciting opportunities for LPNs**
 
 
 **We are looking for LPNs licensed in Washington, DC, to work with students in the DC public school system.**
@@ -80,28 +62,8 @@ Continuity of services must be provided, uninterrupted, throughout the school ye
 * Experience: Nursing: 1 year (Required)
 * Shift availability: Day Shift (Required)
 * Willingness to travel: 75% (Preferred)
-* Work Location: On the road
-🔗 Apply Direct: https://digidoc-inc-dba-public-sector-solutions-group.breezy.hr/p/f866c7fbc536-licensed-practical-nurse-lpn-school-transport--part-time
-🔗 Job Board: https://www.indeed.com/viewjob?jk=37a49bd42cf76823</description>
-      <companyName>Public Sector Solutions Group</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Washington, DC, US</jobLocation>
-      <salaryMin>58454</salaryMin>
-      <salaryMax>76398</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>TRAVEL RN - L&amp;D - Mountain Ridge MC - 7P - 7A at Care Partners Staffing Inc.</title>
-      <link>https://www.1st-ally.com/wp-content/plugins/bullhorn-oscp/#/jobs/7594?source=Indeed</link>
-      <guid isPermaLink="false">Care Partners Staffing Inc.-TRAVEL RN - L&amp;D - Mountain Ridge MC - 7P - 7A-Thornton, CO, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Thornton, CO, US
-🏠 Work: On-site
-
-📝 Description: Care Partners Staffing, Inc. has multiple per diem, travel, and local contract positions, as well as permanent placements available for healthcare professionals. Our goal is to meet the needs of our clients while providing great work/life balance for those professionals that choose us!  
+* Work Location: On the road","","https://www.indeed.com/cmp/Public-Sector-Solutions-Group","","","","","","","","","","","","",""
+"in-db3c468a09333ab6","indeed","https://www.indeed.com/viewjob?jk=db3c468a09333ab6","https://www.1st-ally.com/wp-content/plugins/bullhorn-oscp/#/jobs/7594?source=Indeed","TRAVEL RN - L&D - Mountain Ridge MC - 7P - 7A","Care Partners Staffing Inc.","Thornton, CO, US","2025-08-30","","","weekly","","","USD",False,"","","","","Care Partners Staffing, Inc. has multiple per diem, travel, and local contract positions, as well as permanent placements available for healthcare professionals. Our goal is to meet the needs of our clients while providing great work/life balance for those professionals that choose us!  
 
   
 
@@ -162,7 +124,7 @@ Address:9191 Grant Street
 
 
 * Versions, C/Sections, vaginal assisted deliveries
-* D\\&amp;C's
+* D\\&C's
   
 
 
@@ -188,25 +150,8 @@ Address:9191 Grant Street
 
   
 
-Care Partners Staffing, Inc. is an equal opportunity employer and bases all employment decisions on the qualifications of each applicant. They do not discriminate against any employee or applicant on the grounds of race, color, sex, religion, sexual orientation, gender identity, national origin, disability, age, or veteran status.
-🔗 Apply Direct: https://www.1st-ally.com/wp-content/plugins/bullhorn-oscp/#/jobs/7594?source=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=db3c468a09333ab6</description>
-      <companyName>Care Partners Staffing Inc.</companyName>
-      <jobLocation>Thornton, CO, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>TRAVEL - RN - L&amp;D - PSL MC - 7P - 7A at Care Partners Staffing Inc.</title>
-      <link>https://www.1st-ally.com/wp-content/plugins/bullhorn-oscp/#/jobs/9003?source=Indeed</link>
-      <guid isPermaLink="false">Care Partners Staffing Inc.-TRAVEL - RN - L&amp;D - PSL MC - 7P - 7A-Denver, CO, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Denver, CO, US
-🏠 Work: On-site
-
-📝 Description: Care Partners Staffing, Inc. has multiple per diem, travel, and local contract positions, as well as permanent placements available for healthcare professionals. Our goal is to meet the needs of our clients while providing great work/life balance for those professionals that choose us!  
+Care Partners Staffing, Inc. is an equal opportunity employer and bases all employment decisions on the qualifications of each applicant. They do not discriminate against any employee or applicant on the grounds of race, color, sex, religion, sexual orientation, gender identity, national origin, disability, age, or veteran status.","","https://www.indeed.com/cmp/Care-Partners-Staffing-Inc.-2","","https://1st-ally.com/","","","","","","","","","","",""
+"in-e33d9952d1424d68","indeed","https://www.indeed.com/viewjob?jk=e33d9952d1424d68","https://www.1st-ally.com/wp-content/plugins/bullhorn-oscp/#/jobs/9003?source=Indeed","TRAVEL - RN - L&D - PSL MC - 7P - 7A","Care Partners Staffing Inc.","Denver, CO, US","2025-08-30","","","weekly","","","USD",False,"","","","","Care Partners Staffing, Inc. has multiple per diem, travel, and local contract positions, as well as permanent placements available for healthcare professionals. Our goal is to meet the needs of our clients while providing great work/life balance for those professionals that choose us!  
 
   
 
@@ -252,8 +197,8 @@ Address: 1719 E. 19th Ave Denver CO 80218
 **Must have**:
 
 
-* Antepartum/high risk L\\&amp;D experience
-* At least 2 years L\\&amp;D experience
+* Antepartum/high risk L\\&D experience
+* At least 2 years L\\&D experience
 
 
 **Preferred or nice to have**:
@@ -291,25 +236,8 @@ Address: 1719 E. 19th Ave Denver CO 80218
 
   
 
-Care Partners Staffing, Inc. is an equal opportunity employer and bases all employment decisions on the qualifications of each applicant. They do not discriminate against any employee or applicant on the grounds of race, color, sex, religion, sexual orientation, gender identity, national origin, disability, age, or veteran status.
-🔗 Apply Direct: https://www.1st-ally.com/wp-content/plugins/bullhorn-oscp/#/jobs/9003?source=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e33d9952d1424d68</description>
-      <companyName>Care Partners Staffing Inc.</companyName>
-      <jobLocation>Denver, CO, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>TRAVEL - RN - L&amp;D - Swedish MC - 5P - 5A at Care Partners Staffing Inc.</title>
-      <link>https://www.1st-ally.com/wp-content/plugins/bullhorn-oscp/#/jobs/9320?source=Indeed</link>
-      <guid isPermaLink="false">Care Partners Staffing Inc.-TRAVEL - RN - L&amp;D - Swedish MC - 5P - 5A-Denver, CO, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Denver, CO, US
-🏠 Work: On-site
-
-📝 Description: Care Partners Staffing, Inc. has multiple per diem, travel, and local contract positions, as well as permanent placements available for healthcare professionals. Our goal is to meet the needs of our clients while providing great work/life balance for those professionals that choose us!  
+Care Partners Staffing, Inc. is an equal opportunity employer and bases all employment decisions on the qualifications of each applicant. They do not discriminate against any employee or applicant on the grounds of race, color, sex, religion, sexual orientation, gender identity, national origin, disability, age, or veteran status.","","https://www.indeed.com/cmp/Care-Partners-Staffing-Inc.-2","","https://1st-ally.com/","","","","","","","","","","",""
+"in-dd278dbf05d31311","indeed","https://www.indeed.com/viewjob?jk=dd278dbf05d31311","https://www.1st-ally.com/wp-content/plugins/bullhorn-oscp/#/jobs/9320?source=Indeed","TRAVEL - RN - L&D - Swedish MC - 5P - 5A","Care Partners Staffing Inc.","Denver, CO, US","2025-08-30","","","weekly","","","USD",False,"","","","","Care Partners Staffing, Inc. has multiple per diem, travel, and local contract positions, as well as permanent placements available for healthcare professionals. Our goal is to meet the needs of our clients while providing great work/life balance for those professionals that choose us!  
 
   
 
@@ -371,7 +299,7 @@ Address: 501 E Hampden Ave, Englewood, CO 80113
 **Typical procedures performed on unit(s):**
 
 
-* Cerclages, versions, c\\-sections, vaginal deliveries, D\\&amp;C's, care of fetal demise, epidurals.
+* Cerclages, versions, c\\-sections, vaginal deliveries, D\\&C's, care of fetal demise, epidurals.
   
 
 
@@ -400,27 +328,8 @@ Address: 501 E Hampden Ave, Englewood, CO 80113
 
   
 
-Care Partners Staffing, Inc. is an equal opportunity employer and bases all employment decisions on the qualifications of each applicant. They do not discriminate against any employee or applicant on the grounds of race, color, sex, religion, sexual orientation, gender identity, national origin, disability, age, or veteran status.
-🔗 Apply Direct: https://www.1st-ally.com/wp-content/plugins/bullhorn-oscp/#/jobs/9320?source=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=dd278dbf05d31311</description>
-      <companyName>Care Partners Staffing Inc.</companyName>
-      <jobLocation>Denver, CO, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse Casual at McLaren Health Care</title>
-      <link>https://careers.mclaren.org/jobs/registered-nurse-casual-30291</link>
-      <guid isPermaLink="false">McLaren Health Care-Registered Nurse Casual-Bay City, MI, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Bay City, MI, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 70,752 - 105,381 (yearly)
-
-📝 Description: About Us
+Care Partners Staffing, Inc. is an equal opportunity employer and bases all employment decisions on the qualifications of each applicant. They do not discriminate against any employee or applicant on the grounds of race, color, sex, religion, sexual orientation, gender identity, national origin, disability, age, or veteran status.","","https://www.indeed.com/cmp/Care-Partners-Staffing-Inc.-2","","https://1st-ally.com/","","","","","","","","","","",""
+"in-e583675e9a7ef55c","indeed","https://www.indeed.com/viewjob?jk=e583675e9a7ef55c","https://careers.mclaren.org/jobs/registered-nurse-casual-30291","Registered Nurse Casual","McLaren Health Care","Bay City, MI, US","2025-08-30","perdiem","direct_data","yearly",70752.0,105381.0,"USD",False,"","","","","About Us
 
 
 
@@ -500,29 +409,8 @@ Additional Information
 * Hours Per Pay Period: 0
 * On Call: Yes
 * Weekends: No
-McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.
-🔗 Apply Direct: https://careers.mclaren.org/jobs/registered-nurse-casual-30291
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e583675e9a7ef55c</description>
-      <companyName>McLaren Health Care</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Bay City, MI, US</jobLocation>
-      <salaryMin>70752</salaryMin>
-      <salaryMax>105381</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LVN / LPN at ResCare Community Living</title>
-      <link>https://careers-brightspring.icims.com/jobs/173588/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">ResCare Community Living-LVN / LPN-Temple, TX, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Temple, TX, US
-💼 Type: Fulltime
-🏠 Work: Remote
-
-📝 Description: Our Company:
+McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.","Health Care","https://www.indeed.com/cmp/Mclaren-Health-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/28532a7a1265e65cbdee4a32ef445cff","https://www.mclaren.org","One McLaren Parkway Grand Blanc, MI 48439","10,000+","$100M to $500M (USD)","McLaren - Doing What's Best.","","","","","","",""
+"in-31fb19d47b78a5b1","indeed","https://www.indeed.com/viewjob?jk=31fb19d47b78a5b1","https://careers-brightspring.icims.com/jobs/173588/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","LVN / LPN","ResCare Community Living","Temple, TX, US","2025-08-30","fulltime","","hourly","","","USD",True,"","","","","Our Company:
 
 ResCare Community Living
 Overview:
@@ -564,27 +452,8 @@ Qualifications:
 * Ability to communicate (verbally and written) with all levels of personnel, internal and external to the company
 
 
-About our Line of Business: ResCare Community Living, an affiliate of BrightSpring Health Services, has five decades of experience in the disability services field, providing support to individuals who need assistance with daily living due to an intellectual, developmental, or cognitive disability. We provide a comprehensive range of high\\-quality services, including: community living, adult host homes for adults regardless of disability, behavioral/mental health support, in\\-home pharmacy solutions, telecare and remote support, supported employment and training programs, and day programs. For more information, please visit www.rescarecommunityliving.com. Follow us on Facebook and LinkedIn. Salary Range: USD $25\\.00 / Hour
-🔗 Apply Direct: https://careers-brightspring.icims.com/jobs/173588/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=31fb19d47b78a5b1</description>
-      <companyName>ResCare Community Living</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Temple, TX, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>true</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LVN / LPN at ResCare Community Living</title>
-      <link>https://careers-brightspring.icims.com/jobs/173587/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">ResCare Community Living-LVN / LPN-Abilene, TX, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Abilene, TX, US
-💼 Type: Fulltime
-🏠 Work: Remote
-
-📝 Description: Our Company:
+About our Line of Business: ResCare Community Living, an affiliate of BrightSpring Health Services, has five decades of experience in the disability services field, providing support to individuals who need assistance with daily living due to an intellectual, developmental, or cognitive disability. We provide a comprehensive range of high\\-quality services, including: community living, adult host homes for adults regardless of disability, behavioral/mental health support, in\\-home pharmacy solutions, telecare and remote support, supported employment and training programs, and day programs. For more information, please visit www.rescarecommunityliving.com. Follow us on Facebook and LinkedIn. Salary Range: USD $25\\.00 / Hour","","https://www.indeed.com/cmp/Rescare-Community-Living","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cf598a0316e387e17f63c50a5dba8011","https://rescarecommunityliving.com/","","10,000+","$1B to $5B (USD)","ResCare Community Living provides support to individuals who need assistance with daily living due to an intellectual, developmental or cognitive disability. ","","","","","","",""
+"in-600615c8e7cc9555","indeed","https://www.indeed.com/viewjob?jk=600615c8e7cc9555","https://careers-brightspring.icims.com/jobs/173587/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","LVN / LPN","ResCare Community Living","Abilene, TX, US","2025-08-30","fulltime","","hourly","","","USD",True,"","","","","Our Company:
 
 ResCare Community Living
 Overview:
@@ -626,28 +495,8 @@ Qualifications:
 * Ability to communicate (verbally and written) with all levels of personnel, internal and external to the company
 
 
-About our Line of Business: ResCare Community Living, an affiliate of BrightSpring Health Services, has five decades of experience in the disability services field, providing support to individuals who need assistance with daily living due to an intellectual, developmental, or cognitive disability. We provide a comprehensive range of high\\-quality services, including: community living, adult host homes for adults regardless of disability, behavioral/mental health support, in\\-home pharmacy solutions, telecare and remote support, supported employment and training programs, and day programs. For more information, please visit www.rescarecommunityliving.com. Follow us on Facebook and LinkedIn. Salary Range: USD $25\\.00 / Hour
-🔗 Apply Direct: https://careers-brightspring.icims.com/jobs/173587/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=600615c8e7cc9555</description>
-      <companyName>ResCare Community Living</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Abilene, TX, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>true</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Regional Resource Float Pool RN at nan</title>
-      <link>https://AdventHealth.contacthr.com/148854493</link>
-      <guid isPermaLink="false">nan-Regional Resource Float Pool RN-Hinsdale, IL, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Hinsdale, IL, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 53 - 100 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+About our Line of Business: ResCare Community Living, an affiliate of BrightSpring Health Services, has five decades of experience in the disability services field, providing support to individuals who need assistance with daily living due to an intellectual, developmental, or cognitive disability. We provide a comprehensive range of high\\-quality services, including: community living, adult host homes for adults regardless of disability, behavioral/mental health support, in\\-home pharmacy solutions, telecare and remote support, supported employment and training programs, and day programs. For more information, please visit www.rescarecommunityliving.com. Follow us on Facebook and LinkedIn. Salary Range: USD $25\\.00 / Hour","","https://www.indeed.com/cmp/Rescare-Community-Living","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cf598a0316e387e17f63c50a5dba8011","https://rescarecommunityliving.com/","","10,000+","$1B to $5B (USD)","ResCare Community Living provides support to individuals who need assistance with daily living due to an intellectual, developmental or cognitive disability. ","","","","","","",""
+"in-8dc3a5f355563872","indeed","https://www.indeed.com/viewjob?jk=8dc3a5f355563872","https://AdventHealth.contacthr.com/148854493","Regional Resource Float Pool RN","","Hinsdale, IL, US","2025-08-30","perdiem","direct_data","hourly",53.0,100.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Career Development
@@ -723,29 +572,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25033851
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148854493
-🔗 Job Board: https://www.indeed.com/viewjob?jk=8dc3a5f355563872</description>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Hinsdale, IL, US</jobLocation>
-      <salaryMin>53</salaryMin>
-      <salaryMax>100</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Labor and Delivery RN at UChicago Medicine AdventHealth Hinsdale</title>
-      <link>https://AdventHealth.contacthr.com/148854605</link>
-      <guid isPermaLink="false">UChicago Medicine AdventHealth Hinsdale-Labor and Delivery RN-Hinsdale, IL, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Hinsdale, IL, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 33 - 56 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","","","","","","","","","","","","","",""
+"in-db917260608262ff","indeed","https://www.indeed.com/viewjob?jk=db917260608262ff","https://AdventHealth.contacthr.com/148854605","Labor and Delivery RN","UChicago Medicine AdventHealth Hinsdale","Hinsdale, IL, US","2025-08-30","perdiem","direct_data","hourly",33.0,56.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Career Development
@@ -776,7 +604,7 @@ Responsible for coordinating and delivering patient\\-centered nursing care with
 **The value you'll bring to the team:**
 
 
-Assist with newborn care at deliveries, providing immediate care and support to newborns during and after delivery. \\* Maintain skills in neonatal resuscitation to respond effectively in emergencies. \\* Demonstrate assessment skills in high and low\\-risk obstetrical patients to identify potential risks and health issues. \\* Identify and report maternal and newborn problems to the physician promptly. \\* Assist with the transfer of newborns to other facilities when indicated, ensuring safe and efficient transfers. \\* Accurately identify and band newborns, mothers, and significant others to prevent mix\\-ups. \\* Document all care activities accurately, including band identification numbers in medical records. \\* Provide care during obstetrical surgical procedures, assisting in the Labor \\&amp; Delivery Operating Suite. \\* Perform intraoperative and post\\-anesthesia care according to established standards. \\* Conduct steam sterilization processing for instruments and supplies, ensuring all sterilization parameters are met. \\* Provide emotional support for grieving parents, offering compassionate support and connecting them with appropriate support groups. \\* Educate and support families about newborn care, health conditions, and post\\-discharge care.
+Assist with newborn care at deliveries, providing immediate care and support to newborns during and after delivery. \\* Maintain skills in neonatal resuscitation to respond effectively in emergencies. \\* Demonstrate assessment skills in high and low\\-risk obstetrical patients to identify potential risks and health issues. \\* Identify and report maternal and newborn problems to the physician promptly. \\* Assist with the transfer of newborns to other facilities when indicated, ensuring safe and efficient transfers. \\* Accurately identify and band newborns, mothers, and significant others to prevent mix\\-ups. \\* Document all care activities accurately, including band identification numbers in medical records. \\* Provide care during obstetrical surgical procedures, assisting in the Labor \\& Delivery Operating Suite. \\* Perform intraoperative and post\\-anesthesia care according to established standards. \\* Conduct steam sterilization processing for instruments and supplies, ensuring all sterilization parameters are met. \\* Provide emotional support for grieving parents, offering compassionate support and connecting them with appropriate support groups. \\* Educate and support families about newborn care, health conditions, and post\\-discharge care.
 
 
 Qualifications
@@ -815,30 +643,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25034317
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148854605
-🔗 Job Board: https://www.indeed.com/viewjob?jk=db917260608262ff</description>
-      <companyName>UChicago Medicine AdventHealth Hinsdale</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Hinsdale, IL, US</jobLocation>
-      <salaryMin>33</salaryMin>
-      <salaryMax>56</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Cystoscopy Clinic Registered Nurse at nan</title>
-      <link>https://AdventHealth.contacthr.com/148854479</link>
-      <guid isPermaLink="false">nan-RN Cystoscopy Clinic Registered Nurse-Denver, CO, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Denver, CO, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 34 - 59 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","https://www.indeed.com/cmp/Uchicago-Medicine-Adventhealth-Hinsdale","","http://www.joinadventhealth.com","Hinsdale, IL","Decline to state","Decline to state","","","","","","","",""
+"in-964db8d3930954ec","indeed","https://www.indeed.com/viewjob?jk=964db8d3930954ec","https://AdventHealth.contacthr.com/148854479","RN Cystoscopy Clinic Registered Nurse","","Denver, CO, US","2025-08-30","parttime","direct_data","hourly",34.0,59.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * **Sign on Bonus Eligible**
@@ -911,29 +717,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25033769
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148854479
-🔗 Job Board: https://www.indeed.com/viewjob?jk=964db8d3930954ec</description>
-      <jobType>Parttime</jobType>
-      <jobLocation>Denver, CO, US</jobLocation>
-      <salaryMin>34</salaryMin>
-      <salaryMax>59</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Cardiac Rehab at UChicago Medicine AdventHealth La Grange</title>
-      <link>https://AdventHealth.contacthr.com/148854437</link>
-      <guid isPermaLink="false">UChicago Medicine AdventHealth La Grange-RN Cardiac Rehab-La Grange, IL, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: La Grange, IL, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 33 - 56 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","","","","","","","","","","","","","",""
+"in-a2dde4d5b7667c9a","indeed","https://www.indeed.com/viewjob?jk=a2dde4d5b7667c9a","https://AdventHealth.contacthr.com/148854437","RN Cardiac Rehab","UChicago Medicine AdventHealth La Grange","La Grange, IL, US","2025-08-30","perdiem","direct_data","hourly",33.0,56.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Benefits from Day One
@@ -1035,30 +820,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25031401
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148854437
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a2dde4d5b7667c9a</description>
-      <companyName>UChicago Medicine AdventHealth La Grange</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>La Grange, IL, US</jobLocation>
-      <salaryMin>33</salaryMin>
-      <salaryMax>56</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Nursery RN at UChicago Medicine AdventHealth Bolingbrook</title>
-      <link>https://AdventHealth.contacthr.com/148854507</link>
-      <guid isPermaLink="false">UChicago Medicine AdventHealth Bolingbrook-Nursery RN-Bolingbrook, IL, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Bolingbrook, IL, US
-💼 Type: Parttime, Fulltime
-🏠 Work: On-site
-💰 Salary: USD 33 - 56 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","https://www.indeed.com/cmp/Uchicago-Medicine-Adventhealth-La-Grange","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/aa565c3e569d1ed20dabf6273e6fed32","http://www.joinadventhealth.com","La Grange, IL","Decline to state","Decline to state","AdventHealth La Grange provides state-of-the-art health care and advanced medical services to the community. We strive to create an environment that promotes healing, health and relaxation.","","","","","","",""
+"in-0e3b3de81b655578","indeed","https://www.indeed.com/viewjob?jk=0e3b3de81b655578","https://AdventHealth.contacthr.com/148854507","Nursery RN","UChicago Medicine AdventHealth Bolingbrook","Bolingbrook, IL, US","2025-08-30","parttime, fulltime","direct_data","hourly",33.0,56.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Benefits from Day One for FT/PT positions
@@ -1143,30 +906,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25033912
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148854507
-🔗 Job Board: https://www.indeed.com/viewjob?jk=0e3b3de81b655578</description>
-      <companyName>UChicago Medicine AdventHealth Bolingbrook</companyName>
-      <jobType>Parttime, Fulltime</jobType>
-      <jobLocation>Bolingbrook, IL, US</jobLocation>
-      <salaryMin>33</salaryMin>
-      <salaryMax>56</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>NICU RN at UChicago Medicine AdventHealth Hinsdale</title>
-      <link>https://AdventHealth.contacthr.com/148854430</link>
-      <guid isPermaLink="false">UChicago Medicine AdventHealth Hinsdale-NICU RN-Hinsdale, IL, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Hinsdale, IL, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 33 - 56 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","https://www.indeed.com/cmp/Uchicago-Medicine-Adventhealth-Bolingbrook-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b1c9b66c6f14301c8f945aef5299dbf8","http://www.joinadventhealth.com","Bolingbrook, IL","Decline to state","Decline to state","AdventHealth Bolingbrook has been providing faith-based care in the Adventist tradition to Chicago’s western and southwestern suburbs since 2008.","","","","","","",""
+"in-39c66d19afd9c0f6","indeed","https://www.indeed.com/viewjob?jk=39c66d19afd9c0f6","https://AdventHealth.contacthr.com/148854430","NICU RN","UChicago Medicine AdventHealth Hinsdale","Hinsdale, IL, US","2025-08-30","perdiem","direct_data","hourly",33.0,56.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Career Development
@@ -1233,30 +974,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25031090
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148854430
-🔗 Job Board: https://www.indeed.com/viewjob?jk=39c66d19afd9c0f6</description>
-      <companyName>UChicago Medicine AdventHealth Hinsdale</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Hinsdale, IL, US</jobLocation>
-      <salaryMin>33</salaryMin>
-      <salaryMax>56</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Care Manager - Mansfield at Texas Health Huguley Hospital</title>
-      <link>https://AdventHealth.contacthr.com/148854528</link>
-      <guid isPermaLink="false">Texas Health Huguley Hospital-RN Care Manager - Mansfield-Mansfield, TX, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Mansfield, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 31 - 59 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","https://www.indeed.com/cmp/Uchicago-Medicine-Adventhealth-Hinsdale","","http://www.joinadventhealth.com","Hinsdale, IL","Decline to state","Decline to state","","","","","","","",""
+"in-b52504f8fb7bef8e","indeed","https://www.indeed.com/viewjob?jk=b52504f8fb7bef8e","https://AdventHealth.contacthr.com/148854528","RN Care Manager - Mansfield","Texas Health Huguley Hospital","Mansfield, TX, US","2025-08-30","fulltime","direct_data","hourly",31.0,59.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Benefits from Day One
@@ -1376,30 +1095,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25034063
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148854528
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b52504f8fb7bef8e</description>
-      <companyName>Texas Health Huguley Hospital</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Mansfield, TX, US</jobLocation>
-      <salaryMin>31</salaryMin>
-      <salaryMax>59</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN NICU Contract Nights $58.31/hr. at AdventHealth Fish Memorial</title>
-      <link>https://AdventHealth.contacthr.com/148854619</link>
-      <guid isPermaLink="false">AdventHealth Fish Memorial-RN NICU Contract Nights $58.31/hr.-Orange City, FL, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Orange City, FL, US
-💼 Type: Fulltime, Contract
-🏠 Work: On-site
-💰 Salary: USD 20 - 180 (hourly)
-
-📝 Description: **RN NICU Contract Nights\\- StaffFlex Fish Memorial**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","https://www.indeed.com/cmp/Texas-Health-Huguley-Hospital","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8fefed441b699de31e4459abcd988023","http://www.joinadventhealth.com/texashealthhuguley","Fort Worth, TX","1,001 to 5,000","$25M to $100M (USD)","As a member of AdventHealth, we carry on the tradition that recognizes that total health is achieved through the proper balance of physical, mental, social and spiritual well-being.","","","","","","",""
+"in-5c7d8a15a22fc419","indeed","https://www.indeed.com/viewjob?jk=5c7d8a15a22fc419","https://AdventHealth.contacthr.com/148854619","RN NICU Contract Nights $58.31/hr.","AdventHealth Fish Memorial","Orange City, FL, US","2025-08-30","fulltime, contract","direct_data","hourly",20.0,180.0,"USD",False,"","","","","**RN NICU Contract Nights\\- StaffFlex Fish Memorial**
 
 
 **Registered Nurse Flexible Contract Assignments:**
@@ -1467,30 +1164,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25034533
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148854619
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5c7d8a15a22fc419</description>
-      <companyName>AdventHealth Fish Memorial</companyName>
-      <jobType>Fulltime, Contract</jobType>
-      <jobLocation>Orange City, FL, US</jobLocation>
-      <salaryMin>20</salaryMin>
-      <salaryMax>180</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse- Endoscopy at AdventHealth Kissimmee</title>
-      <link>https://AdventHealth.contacthr.com/148854500</link>
-      <guid isPermaLink="false">AdventHealth Kissimmee-Registered Nurse- Endoscopy-Kissimmee, FL, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Kissimmee, FL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 31 - 52 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","https://www.indeed.com/cmp/Adventhealth-Fish-Memorial","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/388902cddf36077b1a9dc2bde5638856","http://www.joinadventhealth.com/fish","Altamonte Springs, FL","501 to 1,000","$1M to $5M (USD)","The mission of AdventHealth Fish Memorial is “Extending the Healing Ministry of Christ”.","","","","","","",""
+"in-227b318e9a1b5979","indeed","https://www.indeed.com/viewjob?jk=227b318e9a1b5979","https://AdventHealth.contacthr.com/148854500","Registered Nurse- Endoscopy","AdventHealth Kissimmee","Kissimmee, FL, US","2025-08-30","fulltime","direct_data","hourly",31.0,52.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Benefits from Day One
@@ -1572,30 +1247,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25033899
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148854500
-🔗 Job Board: https://www.indeed.com/viewjob?jk=227b318e9a1b5979</description>
-      <companyName>AdventHealth Kissimmee</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Kissimmee, FL, US</jobLocation>
-      <salaryMin>31</salaryMin>
-      <salaryMax>52</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse Cardiology ECHO FT Days at AdventHealth Celebration</title>
-      <link>https://AdventHealth.contacthr.com/148854472</link>
-      <guid isPermaLink="false">AdventHealth Celebration-Registered Nurse Cardiology ECHO FT Days-Celebration, FL, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Celebration, FL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 31 - 52 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","https://www.indeed.com/cmp/Adventhealth-Kissimmee","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cf1226b271563f4276b9e8a1b759003a","http://www.joinadventhealth.com","Kissimmee, FL","501 to 1,000","Decline to state","AdventHealth Kissimmee offers comprehensive health care services for a population of more than 375,000 residents of Osceola and Southwest Orange counties.","","","","","","",""
+"in-b64371ade3e7aaeb","indeed","https://www.indeed.com/viewjob?jk=b64371ade3e7aaeb","https://AdventHealth.contacthr.com/148854472","Registered Nurse Cardiology ECHO FT Days","AdventHealth Celebration","Celebration, FL, US","2025-08-30","fulltime","direct_data","hourly",31.0,52.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Benefits from Day One
@@ -1675,30 +1328,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25033653
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148854472
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b64371ade3e7aaeb</description>
-      <companyName>AdventHealth Celebration</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Celebration, FL, US</jobLocation>
-      <salaryMin>31</salaryMin>
-      <salaryMax>52</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at nan</title>
-      <link>https://jobs.keldair.com/jobs/91871?token=xACmkQSwnES4nruQkmepUw</link>
-      <guid isPermaLink="false">nan-Registered Nurse-Hilo, HI, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Hilo, HI, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 42 - 46 (hourly)
-
-📝 Description: **Job Description**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","https://www.indeed.com/cmp/Adventhealth-Celebration","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cf1226b271563f4276b9e8a1b759003a","http://www.joinadventhealth.com","Celebration, FL","1,001 to 5,000","Decline to state","Our faith-based mission is the foundation for everything we do. We believe health should be measured in terms of the whole person — body, mind and spirit.","","","","","","",""
+"in-f487e5d58e5cbb58","indeed","https://www.indeed.com/viewjob?jk=f487e5d58e5cbb58","https://jobs.keldair.com/jobs/91871?token=xACmkQSwnES4nruQkmepUw","Registered Nurse","","Hilo, HI, US","2025-08-30","fulltime","direct_data","hourly",42.0,46.0,"USD",False,"","","","","**Job Description**
 -------------------
 
 
@@ -1782,7 +1413,7 @@ This is a position in a health care facility open 24 hours a day, 365 days a yea
 * 401(K) retirement plan
 * Sick and vacation leave
 
-**About Hilo \\&amp; The Big Island**
+**About Hilo \\& The Big Island**
 --------------------------------
 
 
@@ -1809,29 +1440,8 @@ Offers of employment will be contingent on successfully passing a pre\\-employme
 ------------------------------
 
 
-The East Hawaii Region of Hawaii Health Systems Corporation is a drug free workplace and an Equal Opportunity Employer.
-🔗 Apply Direct: https://jobs.keldair.com/jobs/91871?token=xACmkQSwnES4nruQkmepUw
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f487e5d58e5cbb58</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Hilo, HI, US</jobLocation>
-      <salaryMin>42</salaryMin>
-      <salaryMax>46</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse / Licensed Vocational Nurse at nan</title>
-      <link>https://jobs.keldair.com/jobs/91870?token=2m9Mqdn7hECS7DK8ca10kg</link>
-      <guid isPermaLink="false">nan-Licensed Practical Nurse / Licensed Vocational Nurse-Hilo, HI, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Hilo, HI, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 32 - 36 (hourly)
-
-📝 Description: **Job Description**
+The East Hawaii Region of Hawaii Health Systems Corporation is a drug free workplace and an Equal Opportunity Employer.","","","","","","","","","","","","","","",""
+"in-4329502fad854058","indeed","https://www.indeed.com/viewjob?jk=4329502fad854058","https://jobs.keldair.com/jobs/91870?token=2m9Mqdn7hECS7DK8ca10kg","Licensed Practical Nurse / Licensed Vocational Nurse","","Hilo, HI, US","2025-08-30","fulltime","direct_data","hourly",32.0,36.0,"USD",False,"","","","","**Job Description**
 -------------------
 
 
@@ -1917,7 +1527,7 @@ This is a position in a health care facility open 24 hours a day, 365 days a yea
 * 401(K) retirement plan
 * Sick and vacation leave
 
-**About Hilo \\&amp; The Big Island**
+**About Hilo \\& The Big Island**
 --------------------------------
 
 
@@ -1944,28 +1554,8 @@ Offers of employment will be contingent on successfully passing a pre\\-employme
 ------------------------------
 
 
-The East Hawaii Region of Hawaii Health Systems Corporation is a drug free workplace and an Equal Opportunity Employer.
-🔗 Apply Direct: https://jobs.keldair.com/jobs/91870?token=2m9Mqdn7hECS7DK8ca10kg
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4329502fad854058</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Hilo, HI, US</jobLocation>
-      <salaryMin>32</salaryMin>
-      <salaryMax>36</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Professional Nurse III - Nurse Navigator, East Hawaii Health Cancer Center 277639 at nan</title>
-      <link>https://jobs.keldair.com/jobs/93468?token=3QTa2zJ/ckyQ7zdKuaRYA</link>
-      <guid isPermaLink="false">nan-Registered Professional Nurse III - Nurse Navigator, East Hawaii Health Cancer Center 277639-Hilo, HI, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Hilo, HI, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Job Description**
+The East Hawaii Region of Hawaii Health Systems Corporation is a drug free workplace and an Equal Opportunity Employer.","","","","","","","","","","","","","","",""
+"in-588232f5256a7570","indeed","https://www.indeed.com/viewjob?jk=588232f5256a7570","https://jobs.keldair.com/jobs/93468?token=3QTa2zJ/ckyQ7zdKuaRYA","Registered Professional Nurse III - Nurse Navigator, East Hawaii Health Cancer Center 277639","","Hilo, HI, US","2025-08-30","fulltime","","yearly","","","USD",False,"","","","","**Job Description**
 -------------------
 
 
@@ -2014,7 +1604,7 @@ Possession of the required number of years of experience will not in itself be a
 * Medical, dental, vision, and prescription plans
 * Employee Assistance Program
 * Participation in the State of Hawaii’s retirement system
-* Potential eligibility for various student loan repayment \\&amp; scholarship programs
+* Potential eligibility for various student loan repayment \\& scholarship programs
 * *Rates listed for paid holidays, vacation and sick days are for 1\\.0 Full Time Equivalent (FTE) positions assigned to 8 hour shifts. Accruals for these benefits are otherwise prorated based on FTE.*
 
 **Pre\\-Employment Health Requirements**
@@ -2038,31 +1628,13 @@ The East Hawaii Region of Hawaii Health Systems Corporation is a drug free workp
 **Shift Details**
 -----------------
 
-***Must be available to work shifts, weekends and holidays as necessary based on hospital operations. Services are provided 24/7\\.***
-🔗 Apply Direct: https://jobs.keldair.com/jobs/93468?token=3QTa2zJ/ckyQ7zdKuaRYA
-🔗 Job Board: https://www.indeed.com/viewjob?jk=588232f5256a7570</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Hilo, HI, US</jobLocation>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN LPN CMA - SYCAMORE PAIN &amp; WELLNESS CLINIC at Horizon Health</title>
-      <link>https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6d761223-04f6-4d39-a498-276f6ca9389f&amp;ccId=19000101_000001&amp;jobId=538364&amp;source=IN&amp;lang=en_US</link>
-      <guid isPermaLink="false">Horizon Health-RN LPN CMA - SYCAMORE PAIN &amp; WELLNESS CLINIC-Terre Haute, IN, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Terre Haute, IN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Horizon Health** is a Critical Access, Rural Health Facility comprised of 25\\-inpatient beds located in Paris, IL \\&amp; a multitude of outpatient clinic settings including Family Practice and Specialty Clinics in Paris and surrounding cities. We have been serving residents of Edgar County since 1968 though community education, emergency services, and outpatient care. As we continue to expand our services \\&amp; locations, our community has grown far beyond Paris. Our rich history and strong community support pave the way for the future of healthcare as we serve you—our family, friends, and neighbors.
+***Must be available to work shifts, weekends and holidays as necessary based on hospital operations. Services are provided 24/7\\.***","","","","","","","","","","","","","","",""
+"in-d45a6214ecc6e0c6","indeed","https://www.indeed.com/viewjob?jk=d45a6214ecc6e0c6","https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6d761223-04f6-4d39-a498-276f6ca9389f&ccId=19000101_000001&jobId=538364&source=IN&lang=en_US","RN LPN CMA - SYCAMORE PAIN & WELLNESS CLINIC","Horizon Health","Terre Haute, IN, US","2025-08-30","fulltime","","hourly","","","USD",False,"","","","","**Horizon Health** is a Critical Access, Rural Health Facility comprised of 25\\-inpatient beds located in Paris, IL \\& a multitude of outpatient clinic settings including Family Practice and Specialty Clinics in Paris and surrounding cities. We have been serving residents of Edgar County since 1968 though community education, emergency services, and outpatient care. As we continue to expand our services \\& locations, our community has grown far beyond Paris. Our rich history and strong community support pave the way for the future of healthcare as we serve you—our family, friends, and neighbors.
 
  **Position Summary:**
 
 
-The RN, LPN \\&amp; CMA have both administrative and clinical skills. Communicates with and assists in direct care of patients and facilities. Ensures timely flow of patients and assists the healthcare provider to provide optimal care to patients of all age groups.
+The RN, LPN \\& CMA have both administrative and clinical skills. Communicates with and assists in direct care of patients and facilities. Ensures timely flow of patients and assists the healthcare provider to provide optimal care to patients of all age groups.
 
  **Essential Functions (Responsibilities/Accountabilities):**
 
@@ -2130,26 +1702,8 @@ https://www.myhorizonhealth.org/documents/content/2025\\-benefits\\-summary.pdf
 
   
 
-Intrigued? Don’t wait, apply today. We are actively reviewing applicants for RN/CMA/RMA. Be part of an organization that is dedicated to the growth and development of its colleagues. Here at Horizon Health, our employees speak for themselves. Join our family \\&amp; begin an incredible career!
-🔗 Apply Direct: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6d761223-04f6-4d39-a498-276f6ca9389f&amp;ccId=19000101_000001&amp;jobId=538364&amp;source=IN&amp;lang=en_US
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d45a6214ecc6e0c6</description>
-      <companyName>Horizon Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Terre Haute, IN, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN at University of Pennsylvania Health System</title>
-      <link>https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=A13D528A-7CA8-4636-A269-B0E338E5D0AA</link>
-      <guid isPermaLink="false">University of Pennsylvania Health System-RN-Doylestown, PA, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Doylestown, PA, US
-🏠 Work: On-site
-
-📝 Description: Job Detail* ###### **Job Title:**
+Intrigued? Don’t wait, apply today. We are actively reviewing applicants for RN/CMA/RMA. Be part of an organization that is dedicated to the growth and development of its colleagues. Here at Horizon Health, our employees speak for themselves. Join our family \\& begin an incredible career!","","https://www.indeed.com/cmp/Horizon-Health-7","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6740b7589afc0e6137e1be55a080b552","http://www.myhorizonhealth.org","721 E. Court Street","501 to 1,000","","The medical professionals at Horizon Health provide the highest quality in healthcare and maintain a tradition of excellence in our facility. Apply to Join Our Team Today!","","","","","","",""
+"in-ebcdd7ec0806c324","indeed","https://www.indeed.com/viewjob?jk=ebcdd7ec0806c324","https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=A13D528A-7CA8-4636-A269-B0E338E5D0AA","RN","University of Pennsylvania Health System","Doylestown, PA, US","2025-08-30","","","","","","",False,"","","","","Job Detail* ###### **Job Title:**
 
 
 RN
@@ -2232,24 +1786,8 @@ C. Other Skills:
 
 * ACLS required
 * Telemetry
-* Ventilator (2 South)
-🔗 Apply Direct: https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=A13D528A-7CA8-4636-A269-B0E338E5D0AA
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ebcdd7ec0806c324</description>
-      <companyName>University of Pennsylvania Health System</companyName>
-      <jobLocation>Doylestown, PA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN at University of Pennsylvania Health System</title>
-      <link>https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=D1606408-0B95-488B-A39E-317767DAB039</link>
-      <guid isPermaLink="false">University of Pennsylvania Health System-RN-Doylestown, PA, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Doylestown, PA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Job Detail* ###### **Job Title:**
+* Ventilator (2 South)","Health Care","https://www.indeed.com/cmp/University-of-Pennsylvania-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2ecf02865ae6da7fd50299feb248e92a","https://www.pennmedicine.org","Philadelphia, PA","10,000+","$5B to $10B (USD)","We're proud of our physicians at Penn Medicine. Our clinical teams value lifelong learning, and Penn offers excellent and competitive professional development for physicians throughout their careers.","","","","","","",""
+"in-40bd83dd8d19ae89","indeed","https://www.indeed.com/viewjob?jk=40bd83dd8d19ae89","https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=D1606408-0B95-488B-A39E-317767DAB039","RN","University of Pennsylvania Health System","Doylestown, PA, US","2025-08-30","fulltime","","","","","",False,"","","","","Job Detail* ###### **Job Title:**
 
 
 RN
@@ -2308,28 +1846,11 @@ V. QUALIFICATIONS:
 * Experience: Cardiovascular or General Operating Room or Accredited Perioperative Program
 
 
-* Other Skills: Certified in BLS \\&amp; ACLS. Interpersonal Skills.
+* Other Skills: Certified in BLS \\& ACLS. Interpersonal Skills.
 
 
-* CNOR encouraged
-🔗 Apply Direct: https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=D1606408-0B95-488B-A39E-317767DAB039
-🔗 Job Board: https://www.indeed.com/viewjob?jk=40bd83dd8d19ae89</description>
-      <companyName>University of Pennsylvania Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Doylestown, PA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN at University of Pennsylvania Health System</title>
-      <link>https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=D0FF6A23-EE24-43C1-BD6F-D7B8B02FB727</link>
-      <guid isPermaLink="false">University of Pennsylvania Health System-RN-Doylestown, PA, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Doylestown, PA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Job Detail* ###### **Job Title:**
+* CNOR encouraged","Health Care","https://www.indeed.com/cmp/University-of-Pennsylvania-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2ecf02865ae6da7fd50299feb248e92a","https://www.pennmedicine.org","Philadelphia, PA","10,000+","$5B to $10B (USD)","We're proud of our physicians at Penn Medicine. Our clinical teams value lifelong learning, and Penn offers excellent and competitive professional development for physicians throughout their careers.","","","","","","",""
+"in-8f002b2bfaf39a97","indeed","https://www.indeed.com/viewjob?jk=8f002b2bfaf39a97","https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=D0FF6A23-EE24-43C1-BD6F-D7B8B02FB727","RN","University of Pennsylvania Health System","Doylestown, PA, US","2025-08-30","fulltime","","","","","",False,"","","","","Job Detail* ###### **Job Title:**
 
 
 RN
@@ -2409,25 +1930,8 @@ C. Other Skills:
 
 * ACLS required
 * Telemetry
-* Ventilator (2 South)
-🔗 Apply Direct: https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=D0FF6A23-EE24-43C1-BD6F-D7B8B02FB727
-🔗 Job Board: https://www.indeed.com/viewjob?jk=8f002b2bfaf39a97</description>
-      <companyName>University of Pennsylvania Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Doylestown, PA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN at University of Pennsylvania Health System</title>
-      <link>https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=B14FBA57-7AA2-401A-819F-33B57828EF66</link>
-      <guid isPermaLink="false">University of Pennsylvania Health System-RN-Doylestown, PA, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Doylestown, PA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Job Detail* ###### **Job Title:**
+* Ventilator (2 South)","Health Care","https://www.indeed.com/cmp/University-of-Pennsylvania-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2ecf02865ae6da7fd50299feb248e92a","https://www.pennmedicine.org","Philadelphia, PA","10,000+","$5B to $10B (USD)","We're proud of our physicians at Penn Medicine. Our clinical teams value lifelong learning, and Penn offers excellent and competitive professional development for physicians throughout their careers.","","","","","","",""
+"in-8ddf367e8664a141","indeed","https://www.indeed.com/viewjob?jk=8ddf367e8664a141","https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=B14FBA57-7AA2-401A-819F-33B57828EF66","RN","University of Pennsylvania Health System","Doylestown, PA, US","2025-08-30","fulltime","","","","","",False,"","","","","Job Detail* ###### **Job Title:**
 
 
 RN
@@ -2507,26 +2011,8 @@ C. Other Skills:
 
 * ACLS required
 * Telemetry
-* Ventilator (2 South)
-🔗 Apply Direct: https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=B14FBA57-7AA2-401A-819F-33B57828EF66
-🔗 Job Board: https://www.indeed.com/viewjob?jk=8ddf367e8664a141</description>
-      <companyName>University of Pennsylvania Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Doylestown, PA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - General Care Unit at Providence</title>
-      <link>https://rr.jobsyn.org/6B22E5A57D95492FA0A13727902A74571554</link>
-      <guid isPermaLink="false">Providence-RN - General Care Unit-Spokane, WA, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Spokane, WA, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 41 - 77 (hourly)
-
-📝 Description: **Description**
+* Ventilator (2 South)","Health Care","https://www.indeed.com/cmp/University-of-Pennsylvania-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2ecf02865ae6da7fd50299feb248e92a","https://www.pennmedicine.org","Philadelphia, PA","10,000+","$5B to $10B (USD)","We're proud of our physicians at Penn Medicine. Our clinical teams value lifelong learning, and Penn offers excellent and competitive professional development for physicians throughout their careers.","","","","","","",""
+"in-20b8888ed614836e","indeed","https://www.indeed.com/viewjob?jk=20b8888ed614836e","https://rr.jobsyn.org/6B22E5A57D95492FA0A13727902A74571554","RN - General Care Unit","Providence","Spokane, WA, US","2025-08-30","parttime","direct_data","hourly",41.0,77.0,"USD",False,"","","","","**Description**
 
 
 **RN \\- General Care Unit, Providence Sacred Heart Medical Center, Spokane WA**
@@ -2535,7 +2021,7 @@ C. Other Skills:
 Providence nurses are not simply valued – they’re invaluable. You will thrive in our culture of patient\\-focused, whole\\-person care built on understanding, commitment, and mutual respect. Your voice matters here, because we know that to inspire and retain the best nurses, we must empower them. Learn why nurses choose to work at Providence by visiting our Nursing Institute page.
 
 
-Join our team at Providence Sacred Heart Medical Center \\&amp; Children's Hospital. As a Providence caregiver, you’ll apply your specialized training to deliver world\\-class health with human connection and make a difference every day through your extraordinary care.
+Join our team at Providence Sacred Heart Medical Center \\& Children's Hospital. As a Providence caregiver, you’ll apply your specialized training to deliver world\\-class health with human connection and make a difference every day through your extraordinary care.
 
 
 **Shift Details:**
@@ -2569,7 +2055,7 @@ The amounts listed are the base pay range; additional compensation may be availa
 Providence offers a comprehensive benefits package including a retirement 401(k) Savings Plan with employer matching, health care benefits (medical, dental, vision), life insurance, disability insurance, time off benefits (paid parental leave, vacations, holidays, health issues), voluntary benefits, well\\-being resources and much more. Learn more at providence.jobs/benefits.
 
 
-Applicants in the Unincorporated County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Unincorporated Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act."
+Applicants in the Unincorporated County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Unincorporated Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.""
 
 
 **About the Team**
@@ -2623,30 +2109,8 @@ For any concerns with this posting relating to the posting requirements in RCW 4
 **Pay Range:** $41\\.74 \\- $77\\.17
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/6B22E5A57D95492FA0A13727902A74571554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=20b8888ed614836e</description>
-      <companyName>Providence</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Spokane, WA, US</jobLocation>
-      <salaryMin>41</salaryMin>
-      <salaryMax>77</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinic RN - Gastroenterology - Issaquah at Providence Swedish</title>
-      <link>https://rr.jobsyn.org/F4B1B36969F948FC954B15C92D27C72A1554</link>
-      <guid isPermaLink="false">Providence Swedish-Clinic RN - Gastroenterology - Issaquah-Issaquah, WA, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Issaquah, WA, US
-💼 Type: Fulltime
-🏠 Work: Remote
-💰 Salary: USD 43 - 66 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-959155fe","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fb09f5772b2f0fa41003ed27a771303","http://www.providence.jobs","Renton, WA","10,000+","$100M to $500M (USD)","Providence is a not-for-profit network of hospitals, care centers, health plans, clinics, home health care and services continuing a more than 100-year tradition of serving the poor and vulnerable.","","","","","","",""
+"in-26361d6e4ded5244","indeed","https://www.indeed.com/viewjob?jk=26361d6e4ded5244","https://rr.jobsyn.org/F4B1B36969F948FC954B15C92D27C72A1554","Clinic RN - Gastroenterology - Issaquah","Providence Swedish","Issaquah, WA, US","2025-08-30","fulltime","direct_data","hourly",43.0,66.0,"USD",True,"","","","","**Description**
 
 
 **Clinic RN at Swedish Gastroenterology \\- Issaquah**
@@ -2667,13 +2131,13 @@ Swedish Medical Group (SMG) provides an extensive range of ambulatory services t
 **Benefits and perks:**
 
 
-* Competitive pay (including holiday pay \\&amp; shift pay differentials)
+* Competitive pay (including holiday pay \\& shift pay differentials)
 * Best\\-in\\-class benefits – full medical, dental and vision coverage from your first day
-* 401(k) plan with employer matching \\&amp; complimentary retirement planner
+* 401(k) plan with employer matching \\& complimentary retirement planner
 * Generous paid time off for vacation, sick days and holidays
-* Tuition reimbursement \\&amp; student loan forgiveness programs
-* Wellness \\&amp; mental health assistance programs
-* Back\\-up child \\&amp; elder care to help with care disruptions for your family
+* Tuition reimbursement \\& student loan forgiveness programs
+* Wellness \\& mental health assistance programs
+* Back\\-up child \\& elder care to help with care disruptions for your family
 
 **Required Qualifications:**
 
@@ -2708,7 +2172,7 @@ The amounts listed are the base pay range; additional compensation may be availa
 Providence offers a comprehensive benefits package including a retirement 401(k) Savings Plan with employer matching, health care benefits (medical, dental, vision), life insurance, disability insurance, time off benefits (paid parental leave, vacations, holidays, health issues), voluntary benefits, well\\-being resources and much more. Learn more at providence.jobs/benefits.
 
 
-Applicants in the Unincorporated County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Unincorporated Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act."
+Applicants in the Unincorporated County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Unincorporated Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.""
 
 
 **About the Team**
@@ -2759,29 +2223,8 @@ For any concerns with this posting relating to the posting requirements in RCW 4
 **Pay Range:** $43\\.12 \\- $66\\.95
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/F4B1B36969F948FC954B15C92D27C72A1554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=26361d6e4ded5244</description>
-      <companyName>Providence Swedish</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Issaquah, WA, US</jobLocation>
-      <salaryMin>43</salaryMin>
-      <salaryMax>66</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>true</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse - Vanderbilt Orthopaedic Clinic - Franklin at Vanderbilt University Medical Center</title>
-      <link>https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Franklin-TN/Licensed-Practical-Nurse---Vanderbilt-Orthopaedic-Clinic---Franklin_R-43154-1</link>
-      <guid isPermaLink="false">Vanderbilt University Medical Center-Licensed Practical Nurse - Vanderbilt Orthopaedic Clinic - Franklin-Franklin, TN, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Franklin, TN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Discover Vanderbilt University Medical Center** : Located in Nashville, Tennessee, and operating at a global crossroads of teaching, discovery, and patient care, VUMC is a community of individuals who come to work each day with the simple aim of changing the world. It is a place where your expertise will be valued, your knowledge expanded, and your abilities challenged. Vanderbilt Health is committed to an environment where everyone has the chance to thrive and where your uniqueness is sought and celebrated. It is a place where employees know they are part of something that is bigger than themselves, take exceptional pride in their work and never settle for what was good enough yesterday. Vanderbilt’s mission is to advance health and wellness through preeminent programs in patient care, education, and research.
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-Swedish-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0ad90541ef685d41ceee18942d911e9b","http://www.swedish.org","Seattle, WA","10,000+","$1B to $5B (USD)","With our wide range of specialties and support opportunities, Providence Swedish caregivers bring their best to work every day to help our greater Puget Sound communities flourish for years to come.","","","","","","",""
+"in-2771c951a8df41ce","indeed","https://www.indeed.com/viewjob?jk=2771c951a8df41ce","https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Franklin-TN/Licensed-Practical-Nurse---Vanderbilt-Orthopaedic-Clinic---Franklin_R-43154-1","Licensed Practical Nurse - Vanderbilt Orthopaedic Clinic - Franklin","Vanderbilt University Medical Center","Franklin, TN, US","2025-08-30","fulltime","","","","","",False,"","","","","**Discover Vanderbilt University Medical Center** : Located in Nashville, Tennessee, and operating at a global crossroads of teaching, discovery, and patient care, VUMC is a community of individuals who come to work each day with the simple aim of changing the world. It is a place where your expertise will be valued, your knowledge expanded, and your abilities challenged. Vanderbilt Health is committed to an environment where everyone has the chance to thrive and where your uniqueness is sought and celebrated. It is a place where employees know they are part of something that is bigger than themselves, take exceptional pride in their work and never settle for what was good enough yesterday. Vanderbilt’s mission is to advance health and wellness through preeminent programs in patient care, education, and research.
 
 
 **Organization:**
@@ -2794,7 +2237,7 @@ Supports the licensed healthcare team members in the provision of patient care t
 
   
 
-SHIFT: M\\-F (7:00 a.m. \\- 4:00 p.m.) will float between the Nashville West \\&amp; Franklin Clinics
+SHIFT: M\\-F (7:00 a.m. \\- 4:00 p.m.) will float between the Nashville West \\& Franklin Clinics
   
 
 Previous ortho, triage, and outpatient experience desired
@@ -2868,25 +2311,8 @@ Relevant Work Experience
 **Education:**
 
 Graduate of an approved discipline specific program
-*Vanderbilt Health is committed* *to fostering an* *environment where everyone has the chance to thrive and is committed to the principles of equal opportunity. EOE/Vets/Disabled.*
-🔗 Apply Direct: https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Franklin-TN/Licensed-Practical-Nurse---Vanderbilt-Orthopaedic-Clinic---Franklin_R-43154-1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=2771c951a8df41ce</description>
-      <companyName>Vanderbilt University Medical Center</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Franklin, TN, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse - PACU - Recovery Room - Murfreesboro Pediatric Surgery Center at Vanderbilt University Medical Center</title>
-      <link>https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Murfreesboro-TN/Registered-Nurse---PACU---Recovery-Room---Murfreesboro-Pediatric-Surgery-Center_R-46491-1</link>
-      <guid isPermaLink="false">Vanderbilt University Medical Center-Registered Nurse - PACU - Recovery Room - Murfreesboro Pediatric Surgery Center-Murfreesboro, TN, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Murfreesboro, TN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Discover Vanderbilt University Medical Center** : Located in Nashville, Tennessee, and operating at a global crossroads of teaching, discovery, and patient care, VUMC is a community of individuals who come to work each day with the simple aim of changing the world. It is a place where your expertise will be valued, your knowledge expanded, and your abilities challenged. Vanderbilt Health is committed to an environment where everyone has the chance to thrive and where your uniqueness is sought and celebrated. It is a place where employees know they are part of something that is bigger than themselves, take exceptional pride in their work and never settle for what was good enough yesterday. Vanderbilt’s mission is to advance health and wellness through preeminent programs in patient care, education, and research.
+*Vanderbilt Health is committed* *to fostering an* *environment where everyone has the chance to thrive and is committed to the principles of equal opportunity. EOE/Vets/Disabled.*","","https://www.indeed.com/cmp/Vanderbilt-University-Medical-Center","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6df5095913dcbf108f67854658d7881c","https://www.vumc.org","Nashville, TN","10,000+","$1B to $5B (USD)","Vanderbilt’s mission is to advance health and wellness through preeminent programs in patient care, education, and research.","","","","","","",""
+"in-3eae0f235e2f1c78","indeed","https://www.indeed.com/viewjob?jk=3eae0f235e2f1c78","https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Murfreesboro-TN/Registered-Nurse---PACU---Recovery-Room---Murfreesboro-Pediatric-Surgery-Center_R-46491-1","Registered Nurse - PACU - Recovery Room - Murfreesboro Pediatric Surgery Center","Vanderbilt University Medical Center","Murfreesboro, TN, US","2025-08-30","fulltime","","","","","",False,"","","","","**Discover Vanderbilt University Medical Center** : Located in Nashville, Tennessee, and operating at a global crossroads of teaching, discovery, and patient care, VUMC is a community of individuals who come to work each day with the simple aim of changing the world. It is a place where your expertise will be valued, your knowledge expanded, and your abilities challenged. Vanderbilt Health is committed to an environment where everyone has the chance to thrive and where your uniqueness is sought and celebrated. It is a place where employees know they are part of something that is bigger than themselves, take exceptional pride in their work and never settle for what was good enough yesterday. Vanderbilt’s mission is to advance health and wellness through preeminent programs in patient care, education, and research.
 
 
 **Organization:**
@@ -2927,7 +2353,7 @@ TECHNICAL CAPABILITIES
 
 * Care Planning (Novice): Demonstrates ability to anticipate resource needs, identify distinct tasks, set priorities, schedule activities, meet deadlines, and organize work within areas of direct responsibility. Competently handles multiple assignments often simultaneously by prioritizing work into manageable and measurable units. Ability to adapt to changes to patient care and area needs with minimal disruption and loss of productivity. Follows up to assure problems and issues are resolved.
 * Nursing Patient Education (Novice): Possesses sufficient fundamental proficiency in providing patient education in practical applications of moderate difficulty.
-* Nursing Patient Assessment \\&amp; Evaluation (Novice): Possesses sufficient fundamental proficiency to successfully demonstrate the ability to assess and evaluate patients in practical applications of moderate difficulty. Conducts primary care patient interviews and physical examinations. Demonstrates sufficient acumen to recognize problems, ask questions and to contact the patient's primary care provider and other members of the healthcare team. Has experience in gathering pertinent clinical data that aid in referral, treatment, or other primary care pathways.
+* Nursing Patient Assessment \\& Evaluation (Novice): Possesses sufficient fundamental proficiency to successfully demonstrate the ability to assess and evaluate patients in practical applications of moderate difficulty. Conducts primary care patient interviews and physical examinations. Demonstrates sufficient acumen to recognize problems, ask questions and to contact the patient's primary care provider and other members of the healthcare team. Has experience in gathering pertinent clinical data that aid in referral, treatment, or other primary care pathways.
 * Evidence\\-Based Practice (Novice): Possesses sufficient fundamental proficiency to successfully search for evidence to answer clinical questions. Generally works under the direction of others while accomplishing assignments.
 **Our Nursing Philosophy:**
 
@@ -2976,26 +2402,8 @@ Relevant Work Experience
 **Education:**
 
 Graduate of an approved discipline specific program
-*Vanderbilt Health is committed* *to fostering an* *environment where everyone has the chance to thrive and is committed to the principles of equal opportunity. EOE/Vets/Disabled.*
-🔗 Apply Direct: https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Murfreesboro-TN/Registered-Nurse---PACU---Recovery-Room---Murfreesboro-Pediatric-Surgery-Center_R-46491-1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=3eae0f235e2f1c78</description>
-      <companyName>Vanderbilt University Medical Center</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Murfreesboro, TN, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (#012539) Lee Correctional Institution, Bishopville (LEE) Level 3 at State of South Carolina</title>
-      <link>https://www.governmentjobs.com/careers/sc/jobs/5062529/registered-nurse-012539-lee-correctional-institution-bishopville-lee-level</link>
-      <guid isPermaLink="false">State of South Carolina-Registered Nurse (#012539) Lee Correctional Institution, Bishopville (LEE) Level 3-SC, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: SC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 84,509 - 98,280 (yearly)
-
-📝 Description: **Job Responsibilities**
+*Vanderbilt Health is committed* *to fostering an* *environment where everyone has the chance to thrive and is committed to the principles of equal opportunity. EOE/Vets/Disabled.*","","https://www.indeed.com/cmp/Vanderbilt-University-Medical-Center","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6df5095913dcbf108f67854658d7881c","https://www.vumc.org","Nashville, TN","10,000+","$1B to $5B (USD)","Vanderbilt’s mission is to advance health and wellness through preeminent programs in patient care, education, and research.","","","","","","",""
+"in-8bbc79b0b49821b9","indeed","https://www.indeed.com/viewjob?jk=8bbc79b0b49821b9","https://www.governmentjobs.com/careers/sc/jobs/5062529/registered-nurse-012539-lee-correctional-institution-bishopville-lee-level","Registered Nurse (#012539) Lee Correctional Institution, Bishopville (LEE) Level 3","State of South Carolina","SC, US","2025-08-30","fulltime","direct_data","yearly",84509.0,98280.0,"USD",False,"","","","Employment@doc.sc.gov","**Job Responsibilities**
 ------------------------
 
 
@@ -3049,30 +2457,10 @@ The South Carolina Department of Corrections is committed to providing equal opp
 
   
 
-Supplemental questions are considered part of your official application. Any misrepresentation will result in your disqualification from employment. Please complete the state application to include all current and previous work history and education.
-🔗 Apply Direct: https://www.governmentjobs.com/careers/sc/jobs/5062529/registered-nurse-012539-lee-correctional-institution-bishopville-lee-level
-🔗 Job Board: https://www.indeed.com/viewjob?jk=8bbc79b0b49821b9</description>
-      <companyName>State of South Carolina</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>SC, US</jobLocation>
-      <salaryMin>84509</salaryMin>
-      <salaryMax>98280</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Part Time Clinical Nurse Consultant – Erie, PA at IQVIA</title>
-      <link>https://jobs.iqvia.com/en/job/erie/part-time-clinical-nurse-consultant-erie-pa/24443/85575701024</link>
-      <guid isPermaLink="false">IQVIA-Part Time Clinical Nurse Consultant – Erie, PA-Erie, PA, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Erie, PA, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 60 - 85 (hourly)
+Supplemental questions are considered part of your official application. Any misrepresentation will result in your disqualification from employment. Please complete the state application to include all current and previous work history and education.","Government","https://www.indeed.com/cmp/State-of-South-Carolina","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/dbff558166fa95c561a7cca0db75abed","https://sc.gov/","1100 Gervais Street
 
-📝 Description: The **Part Time Clinical Consultant (PTCC)** role is an exciting opportunity to join IQVIA. IQVIA/MedTech takes the approach to helping customers drive healthcare forward in this challenging, fast\\-paced environment. We help customers accelerate results, improve patient outcomes, and unleash new opportunities.
+Columbia, SC 29201","10,000+","","","","","","","","",""
+"in-b70593efc8c819e5","indeed","https://www.indeed.com/viewjob?jk=b70593efc8c819e5","https://jobs.iqvia.com/en/job/erie/part-time-clinical-nurse-consultant-erie-pa/24443/85575701024","Part Time Clinical Nurse Consultant – Erie, PA","IQVIA","Erie, PA, US","2025-08-30","parttime","direct_data","hourly",60.0,85.0,"USD",False,"","","","","The **Part Time Clinical Consultant (PTCC)** role is an exciting opportunity to join IQVIA. IQVIA/MedTech takes the approach to helping customers drive healthcare forward in this challenging, fast\\-paced environment. We help customers accelerate results, improve patient outcomes, and unleash new opportunities.
 
 
 This part time position will be responsible for providing case support, patient management, and education to both new and existing accounts within an assigned client Franchise/Region.
@@ -3108,29 +2496,8 @@ IQVIA is a leading global provider of clinical research services, commercial ins
 IQVIA is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other status protected by applicable law. https://jobs.iqvia.com/eoe
 
 
-The potential base pay range for this role is $60\\.00\\-$85\\.00 per hour. The actual base pay offered may vary based on a number of factors including job\\-related qualifications such as knowledge, skills, education, and experience; location; and/or schedule (full or part\\-time). Dependent on the position offered, incentive plans, bonuses, and/or other forms of compensation may be offered, in addition to a range of health and welfare and/or other benefits.
-🔗 Apply Direct: https://jobs.iqvia.com/en/job/erie/part-time-clinical-nurse-consultant-erie-pa/24443/85575701024
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b70593efc8c819e5</description>
-      <companyName>IQVIA</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Erie, PA, US</jobLocation>
-      <salaryMin>60</salaryMin>
-      <salaryMax>85</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Substitute School Nurse (Continuous Recruitment) at Broome Tioga BOCES</title>
-      <link>https://btboces.recruitfront.com/JobPosting?PTID=5&amp;JID=59462</link>
-      <guid isPermaLink="false">Broome Tioga BOCES-Substitute School Nurse (Continuous Recruitment)-Binghamton, NY, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Binghamton, NY, US
-🏠 Work: On-site
-💰 Salary: USD 22 - 36 (hourly)
-
-📝 Description: **Major Responsibilities**:
+The potential base pay range for this role is $60\\.00\\-$85\\.00 per hour. The actual base pay offered may vary based on a number of factors including job\\-related qualifications such as knowledge, skills, education, and experience; location; and/or schedule (full or part\\-time). Dependent on the position offered, incentive plans, bonuses, and/or other forms of compensation may be offered, in addition to a range of health and welfare and/or other benefits.","","https://www.indeed.com/cmp/Iqvia","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/03e043400efdf1e7d2f66b4d0a67997e","http://jobs.iqvia.com","Durham, NC","10,000+","more than $10B (USD)","IQVIA (NYSE:IQV) is a leading global provider of advanced analytics, technology solutions and clinical research services to the life sciences industry dedicated to delivering actionable insights.","","","","","","",""
+"in-1fc0f63ce5e2e688","indeed","https://www.indeed.com/viewjob?jk=1fc0f63ce5e2e688","https://btboces.recruitfront.com/JobPosting?PTID=5&JID=59462","Substitute School Nurse (Continuous Recruitment)","Broome Tioga BOCES","Binghamton, NY, US","2025-08-30","","direct_data","hourly",22.0,36.0,"USD",False,"","","","","**Major Responsibilities**:
 
 
 Works directly with school\\-age population (through 21 years of age) on health issues at one of the various Broome\\-Tioga BOCES sites. Dispense medication, performs assessment/data collection of minor injuries or illnesses, administers tube feedings, delivers first aide, and completes required documentation.
@@ -3146,29 +2513,8 @@ Works directly with school\\-age population (through 21 years of age) on health 
 
 **Civil Service Title:** Substitute School Nurse  
 
-**Job Number:** 25\\-110
-🔗 Apply Direct: https://btboces.recruitfront.com/JobPosting?PTID=5&amp;JID=59462
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1fc0f63ce5e2e688</description>
-      <companyName>Broome Tioga BOCES</companyName>
-      <jobLocation>Binghamton, NY, US</jobLocation>
-      <salaryMin>22</salaryMin>
-      <salaryMax>36</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse - Perioperative Services at Hawaii Pacific Health</title>
-      <link>https://hawaiipacifichealth-veterans.jobs/honolulu-hi/registered-nurse-perioperative-services/D0C68A0A48174187B95098E75D467979/job/</link>
-      <guid isPermaLink="false">Hawaii Pacific Health-Registered Nurse - Perioperative Services-Honolulu, HI, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Honolulu, HI, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 51 - 68 (hourly)
-
-📝 Description: Honolulu, HI
+**Job Number:** 25\\-110","","https://www.indeed.com/cmp/Broome-Tioga-Boces","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/70ab9c30cdf45af1027ba97c851a34b2","","","","","","","","","","","",""
+"in-5c0b449269e25a2e","indeed","https://www.indeed.com/viewjob?jk=5c0b449269e25a2e","https://hawaiipacifichealth-veterans.jobs/honolulu-hi/registered-nurse-perioperative-services/D0C68A0A48174187B95098E75D467979/job/","Registered Nurse - Perioperative Services","Hawaii Pacific Health","Honolulu, HI, US","2025-08-30","fulltime","direct_data","hourly",51.0,68.0,"USD",False,"","","","","Honolulu, HI
 
   
 
@@ -3219,32 +2565,11 @@ As a Registered Nurse, you will have the opportunity to provide professional and
 EOE/AA/Disabled/Vets
 
 
-Hawai‘i Pacific Health offers a comprehensive and competitive total rewards package that includes pay and benefits. Rate of pay for selected candidates will be determined by various factors including knowledge, skills, abilities, relevant experience and training, as well as internal peer equity.
-🔗 Apply Direct: https://hawaiipacifichealth-veterans.jobs/honolulu-hi/registered-nurse-perioperative-services/D0C68A0A48174187B95098E75D467979/job/
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5c0b449269e25a2e</description>
-      <companyName>Hawaii Pacific Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Honolulu, HI, US</jobLocation>
-      <salaryMin>51</salaryMin>
-      <salaryMax>68</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) Mother/Baby- Full Time Nights at Inova Health System</title>
-      <link>https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/672777</link>
-      <guid isPermaLink="false">Inova Health System-Registered Nurse (RN) Mother/Baby- Full Time Nights-Leesburg, VA, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Leesburg, VA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Inova Loudoun Hospital is looking for a dedicated Registered Nurse (RN) to join the Postpartum. This role will be full\\-time night shift 3x12 hour shifts per week, 7:00 p.m. – 7:00 a.m. Sign\\-on bonus and relocation assistance eligible.
+Hawai‘i Pacific Health offers a comprehensive and competitive total rewards package that includes pay and benefits. Rate of pay for selected candidates will be determined by various factors including knowledge, skills, abilities, relevant experience and training, as well as internal peer equity.","Health Care","https://www.indeed.com/cmp/Hawaii-Pacific-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fbee2494e0835e0bc4776082a7d19704","https://www.hawaiipacifichealth.org","Honolulu, HI","5,001 to 10,000","$500M to $1B (USD)","","","","","","","",""
+"in-6c41e9bf2a01f618","indeed","https://www.indeed.com/viewjob?jk=6c41e9bf2a01f618","https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/672777","Registered Nurse (RN) Mother/Baby- Full Time Nights","Inova Health System","Leesburg, VA, US","2025-08-30","fulltime","","","","","",False,"","","","","Inova Loudoun Hospital is looking for a dedicated Registered Nurse (RN) to join the Postpartum. This role will be full\\-time night shift 3x12 hour shifts per week, 7:00 p.m. – 7:00 a.m. Sign\\-on bonus and relocation assistance eligible.
 
 
-\\&lt;Postpartum/Inova Loudoun Hospital, Women’s Service Line\\&gt;
+\\<Postpartum/Inova Loudoun Hospital, Women’s Service Line\\>
 
 
 *Inova is consistently ranked a national healthcare leader in safety, quality and patient experience.* *We are also proud to be consistently recognized as a top employer in both the D.C. metro area and the nation.*
@@ -3288,25 +2613,8 @@ Hawai‘i Pacific Health offers a comprehensive and competitive total rewards pa
 
 **Registered Nurse (RN) Preferred Qualifications:**
 
-* Two years of recent (within one year) inpatient Registered Nurse (RN) experience on a Postpartum unit
-🔗 Apply Direct: https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/672777
-🔗 Job Board: https://www.indeed.com/viewjob?jk=6c41e9bf2a01f618</description>
-      <companyName>Inova Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Leesburg, VA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>CRITICAL CARE RN - STEP DOWN UNIT at North Oaks Health System</title>
-      <link>https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,11427,1%29.JobPostingDisplay?pagesize=1&amp;csk.JobBoard=EXTERNAL&amp;csk.HROrganization=1000</link>
-      <guid isPermaLink="false">North Oaks Health System-CRITICAL CARE RN - STEP DOWN UNIT-Hammond, LA, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Hammond, LA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Status: Full Time
+* Two years of recent (within one year) inpatient Registered Nurse (RN) experience on a Postpartum unit","","https://www.indeed.com/cmp/Inova-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5cff3247b0511d876a62078f24aefb43","http://www.inova.org","Falls Church, VA","10,000+","$1B to $5B (USD)","At Inova, we seek every opportunity to meet the unique needs of each person we are privileged to serve – every time, every touch.","","","","","","",""
+"in-b6a1cb3393971276","indeed","https://www.indeed.com/viewjob?jk=b6a1cb3393971276","https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,11427,1%29.JobPostingDisplay?pagesize=1&csk.JobBoard=EXTERNAL&csk.HROrganization=1000","CRITICAL CARE RN - STEP DOWN UNIT","North Oaks Health System","Hammond, LA, US","2025-08-30","fulltime","","","","","",False,"","","","","Status: Full Time
 
 
 Shift: 3 12\\-hour shifts, 7A \\- 7P with rotating weekends
@@ -3480,24 +2788,9 @@ B. Attend in\\-service programs.
 C. Maintains knowledge of computerized systems within the healthcare system as needed for job performance.
 
 
-7\\. Perform other duties as requested.8\\. Follows North Oaks Health System’s Compliance Program and Federal and State Regulatory guidelines.9\\. Adheres to the Nurse Practice Act and the Rules and Regulations of the LA State Board of Nursing.
-🔗 Apply Direct: https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,11427,1%29.JobPostingDisplay?pagesize=1&amp;csk.JobBoard=EXTERNAL&amp;csk.HROrganization=1000
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b6a1cb3393971276</description>
-      <companyName>North Oaks Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Hammond, LA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>CRITICAL CARE RN - NEONATAL ICU at North Oaks Health System</title>
-      <link>https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,11429,1%29.JobPostingDisplay?pagesize=1&amp;csk.JobBoard=EXTERNAL&amp;csk.HROrganization=1000</link>
-      <guid isPermaLink="false">North Oaks Health System-CRITICAL CARE RN - NEONATAL ICU-Hammond, LA, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Hammond, LA, US
-🏠 Work: On-site
-
-📝 Description: Status: PRN \\- As Needed
+7\\. Perform other duties as requested.8\\. Follows North Oaks Health System’s Compliance Program and Federal and State Regulatory guidelines.9\\. Adheres to the Nurse Practice Act and the Rules and Regulations of the LA State Board of Nursing.","Health Care","https://www.indeed.com/cmp/North-Oaks-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/02b7d780049210826f5ce8d9b389cb72","http://www.northoaks.org","15790 Paul Vega, MD, Drive
+Hammond, LA 70403","1,001 to 5,000","","North Oaks Health System is a Level II Trauma Center, Primary Stroke Center, and one of Louisiana's largest and most progressive community hospital organizations strategically based between New Orlean","","","","","","",""
+"in-9ce09dadcecc1918","indeed","https://www.indeed.com/viewjob?jk=9ce09dadcecc1918","https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,11429,1%29.JobPostingDisplay?pagesize=1&csk.JobBoard=EXTERNAL&csk.HROrganization=1000","CRITICAL CARE RN - NEONATAL ICU","North Oaks Health System","Hammond, LA, US","2025-08-30","","","","","","",False,"","","","","Status: PRN \\- As Needed
 
 
 Shift: 7a\\-7p; some weekends, some holidays
@@ -3521,24 +2814,9 @@ Other information:
 Responsibilities:
   
 
-1\\. Insure the maintenance of quality patient care.A. Utilize nursing process (assess, plan, implement and evaluate) for each patient on an individual basis.B. Assist with QA audits.C. Administer medications as ordered by the physician.D. Document patient response to medication and procedure, using vital sign record, nurses’ notes, and any other form as appropriate.E. Monitor patient receiving I.V. conscious sedation as per policy.2 Administer blood, blood components, hyperalimentation and chemotherapy.A . Adhere to hospital policy in regard to blood and blood components.B. Adhere to hospital policy for administering hyperalimentation and chemotherapy.3 Adhere to policies and procedures.A. Responsible for adherence to hospital policies and procedures for self and personal under his/her supervision.B. Adhere to acceptable dress code.C. Report incidents and injuries.D. Report medication errors.E. Demonstrate professional manner.F. Comply with attendance policy.G. Knowledgeable of all hospital safety codes, and perform duties during drills and actual emergencies.H. Report unsafe conditions and incidents.I. Provide clean environment.J. Account for narcotics.4 Assist in operational functions.A. Assist department manager in maintenance of policies and procedures.B. Schedule assignments of personnel as applicable.C. Assist department director in data collection.D. Monitors equipment function.5 Maintain satisfactory communication.A. Promote satisfactory relationships.B. Share knowledge with others.6 Participate in professional development activities.A. Attend committee meetings as designated.B. Attend in\\-service programs.C. Maintain certification in Basic Life Support and/or Advanced Cardiac Life Support as required.D. Maintains knowledge of computerized systems within the healthcare system as needed for job performance.7 Perform other duties as requested.8 Follows North Oaks Health System’s Compliance Program and Federal and State Regulatory guidelines.9 Adheres to the Nurse Practice Act and the Rules and Regulations of the LA State Board of Nursing.10\\. To provide quality patient care through utilization of technical skills.A. Assist Unit Director in coordinating unit activities.(1\\) Familiarize new staff to ICU procedures and documentation tools.(2\\) Maintain ongoing assessment of all patients.(3\\) Thorough documentation of patient’s condition and changes in conditions.(4\\) In\\-service new employees on equipment.(5\\) Maintain good public relations with patients, families and physicians.(6\\) In absence of Unit Director, report incidents to supervisor.(7\\) Participation in quality assessment encouraged.B. Possess high technical skills(1\\) Must be able to perform with minimal supervision all special procedures allowed in the Intensive Care Unit.(2\\) Must be able to take charge of Code Blue (ACLS expected to be completed within 1 year).(3\\) Anticipate potential difficulties and preferred method of treatment.(4\\) Successful completion of EKG Test for new graduate RN.(5\\) Must function interdependently and must be cognizant of own skill level.(6\\) Possess strong ongoing assessment skills with appropriate documentation.(7\\) Recognizes and initials care in reference to age appropriate developmental needs in conjunction with hospital policy.
-🔗 Apply Direct: https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,11429,1%29.JobPostingDisplay?pagesize=1&amp;csk.JobBoard=EXTERNAL&amp;csk.HROrganization=1000
-🔗 Job Board: https://www.indeed.com/viewjob?jk=9ce09dadcecc1918</description>
-      <companyName>North Oaks Health System</companyName>
-      <jobLocation>Hammond, LA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>CRITICAL CARE RN - STEP DOWN UNIT at North Oaks Health System</title>
-      <link>https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,11415,1%29.JobPostingDisplay?pagesize=1&amp;csk.JobBoard=EXTERNAL&amp;csk.HROrganization=1000</link>
-      <guid isPermaLink="false">North Oaks Health System-CRITICAL CARE RN - STEP DOWN UNIT-Hammond, LA, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Hammond, LA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Status: Full Time
+1\\. Insure the maintenance of quality patient care.A. Utilize nursing process (assess, plan, implement and evaluate) for each patient on an individual basis.B. Assist with QA audits.C. Administer medications as ordered by the physician.D. Document patient response to medication and procedure, using vital sign record, nurses’ notes, and any other form as appropriate.E. Monitor patient receiving I.V. conscious sedation as per policy.2 Administer blood, blood components, hyperalimentation and chemotherapy.A . Adhere to hospital policy in regard to blood and blood components.B. Adhere to hospital policy for administering hyperalimentation and chemotherapy.3 Adhere to policies and procedures.A. Responsible for adherence to hospital policies and procedures for self and personal under his/her supervision.B. Adhere to acceptable dress code.C. Report incidents and injuries.D. Report medication errors.E. Demonstrate professional manner.F. Comply with attendance policy.G. Knowledgeable of all hospital safety codes, and perform duties during drills and actual emergencies.H. Report unsafe conditions and incidents.I. Provide clean environment.J. Account for narcotics.4 Assist in operational functions.A. Assist department manager in maintenance of policies and procedures.B. Schedule assignments of personnel as applicable.C. Assist department director in data collection.D. Monitors equipment function.5 Maintain satisfactory communication.A. Promote satisfactory relationships.B. Share knowledge with others.6 Participate in professional development activities.A. Attend committee meetings as designated.B. Attend in\\-service programs.C. Maintain certification in Basic Life Support and/or Advanced Cardiac Life Support as required.D. Maintains knowledge of computerized systems within the healthcare system as needed for job performance.7 Perform other duties as requested.8 Follows North Oaks Health System’s Compliance Program and Federal and State Regulatory guidelines.9 Adheres to the Nurse Practice Act and the Rules and Regulations of the LA State Board of Nursing.10\\. To provide quality patient care through utilization of technical skills.A. Assist Unit Director in coordinating unit activities.(1\\) Familiarize new staff to ICU procedures and documentation tools.(2\\) Maintain ongoing assessment of all patients.(3\\) Thorough documentation of patient’s condition and changes in conditions.(4\\) In\\-service new employees on equipment.(5\\) Maintain good public relations with patients, families and physicians.(6\\) In absence of Unit Director, report incidents to supervisor.(7\\) Participation in quality assessment encouraged.B. Possess high technical skills(1\\) Must be able to perform with minimal supervision all special procedures allowed in the Intensive Care Unit.(2\\) Must be able to take charge of Code Blue (ACLS expected to be completed within 1 year).(3\\) Anticipate potential difficulties and preferred method of treatment.(4\\) Successful completion of EKG Test for new graduate RN.(5\\) Must function interdependently and must be cognizant of own skill level.(6\\) Possess strong ongoing assessment skills with appropriate documentation.(7\\) Recognizes and initials care in reference to age appropriate developmental needs in conjunction with hospital policy.","Health Care","https://www.indeed.com/cmp/North-Oaks-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/02b7d780049210826f5ce8d9b389cb72","http://www.northoaks.org","15790 Paul Vega, MD, Drive
+Hammond, LA 70403","1,001 to 5,000","","North Oaks Health System is a Level II Trauma Center, Primary Stroke Center, and one of Louisiana's largest and most progressive community hospital organizations strategically based between New Orlean","","","","","","",""
+"in-829acc14e327092e","indeed","https://www.indeed.com/viewjob?jk=829acc14e327092e","https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,11415,1%29.JobPostingDisplay?pagesize=1&csk.JobBoard=EXTERNAL&csk.HROrganization=1000","CRITICAL CARE RN - STEP DOWN UNIT","North Oaks Health System","Hammond, LA, US","2025-08-30","fulltime","","","","","",False,"","","","","Status: Full Time
 
 
 Shift: 3 12\\-hour shifts, 7P \\- 7A with rotating weekends
@@ -3712,25 +2990,9 @@ B. Attend in\\-service programs.
 C. Maintains knowledge of computerized systems within the healthcare system as needed for job performance.
 
 
-7\\. Perform other duties as requested.8\\. Follows North Oaks Health System’s Compliance Program and Federal and State Regulatory guidelines.9\\. Adheres to the Nurse Practice Act and the Rules and Regulations of the LA State Board of Nursing.
-🔗 Apply Direct: https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,11415,1%29.JobPostingDisplay?pagesize=1&amp;csk.JobBoard=EXTERNAL&amp;csk.HROrganization=1000
-🔗 Job Board: https://www.indeed.com/viewjob?jk=829acc14e327092e</description>
-      <companyName>North Oaks Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Hammond, LA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LPN - ORTHO NEUROSURGERY at North Oaks Health System</title>
-      <link>https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,11426,1%29.JobPostingDisplay?pagesize=1&amp;csk.JobBoard=EXTERNAL&amp;csk.HROrganization=1000</link>
-      <guid isPermaLink="false">North Oaks Health System-LPN - ORTHO NEUROSURGERY-Hammond, LA, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Hammond, LA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Status: Full Time
+7\\. Perform other duties as requested.8\\. Follows North Oaks Health System’s Compliance Program and Federal and State Regulatory guidelines.9\\. Adheres to the Nurse Practice Act and the Rules and Regulations of the LA State Board of Nursing.","Health Care","https://www.indeed.com/cmp/North-Oaks-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/02b7d780049210826f5ce8d9b389cb72","http://www.northoaks.org","15790 Paul Vega, MD, Drive
+Hammond, LA 70403","1,001 to 5,000","","North Oaks Health System is a Level II Trauma Center, Primary Stroke Center, and one of Louisiana's largest and most progressive community hospital organizations strategically based between New Orlean","","","","","","",""
+"in-d2df54b6b3795921","indeed","https://www.indeed.com/viewjob?jk=d2df54b6b3795921","https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,11426,1%29.JobPostingDisplay?pagesize=1&csk.JobBoard=EXTERNAL&csk.HROrganization=1000","LPN - ORTHO NEUROSURGERY","North Oaks Health System","Hammond, LA, US","2025-08-30","fulltime","","","","","",False,"","","","","Status: Full Time
 
 
 Shift: 7p\\-7a
@@ -3895,25 +3157,9 @@ C. Share knowledge with others.
 
   
 
-8\\. Is able to demonstrate competency in age specific criteria as applicable to job scope.
-🔗 Apply Direct: https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,11426,1%29.JobPostingDisplay?pagesize=1&amp;csk.JobBoard=EXTERNAL&amp;csk.HROrganization=1000
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d2df54b6b3795921</description>
-      <companyName>North Oaks Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Hammond, LA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>CRITICAL CARE RN - STEP DOWN UNIT at North Oaks Health System</title>
-      <link>https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,11416,1%29.JobPostingDisplay?pagesize=1&amp;csk.JobBoard=EXTERNAL&amp;csk.HROrganization=1000</link>
-      <guid isPermaLink="false">North Oaks Health System-CRITICAL CARE RN - STEP DOWN UNIT-Hammond, LA, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Hammond, LA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Status: Full Time
+8\\. Is able to demonstrate competency in age specific criteria as applicable to job scope.","Health Care","https://www.indeed.com/cmp/North-Oaks-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/02b7d780049210826f5ce8d9b389cb72","http://www.northoaks.org","15790 Paul Vega, MD, Drive
+Hammond, LA 70403","1,001 to 5,000","","North Oaks Health System is a Level II Trauma Center, Primary Stroke Center, and one of Louisiana's largest and most progressive community hospital organizations strategically based between New Orlean","","","","","","",""
+"in-aaef3b47e6bc7f81","indeed","https://www.indeed.com/viewjob?jk=aaef3b47e6bc7f81","https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,11416,1%29.JobPostingDisplay?pagesize=1&csk.JobBoard=EXTERNAL&csk.HROrganization=1000","CRITICAL CARE RN - STEP DOWN UNIT","North Oaks Health System","Hammond, LA, US","2025-08-30","fulltime","","","","","",False,"","","","","Status: Full Time
 
 
 Shift: 3 12\\-hour shifts, 7P \\- 7A with rotating weekends
@@ -4087,24 +3333,9 @@ B. Attend in\\-service programs.
 C. Maintains knowledge of computerized systems within the healthcare system as needed for job performance.
 
 
-7\\. Perform other duties as requested.8\\. Follows North Oaks Health System’s Compliance Program and Federal and State Regulatory guidelines.9\\. Adheres to the Nurse Practice Act and the Rules and Regulations of the LA State Board of Nursing.
-🔗 Apply Direct: https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,11416,1%29.JobPostingDisplay?pagesize=1&amp;csk.JobBoard=EXTERNAL&amp;csk.HROrganization=1000
-🔗 Job Board: https://www.indeed.com/viewjob?jk=aaef3b47e6bc7f81</description>
-      <companyName>North Oaks Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Hammond, LA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Supervisor - Maryview Medical Center at Bon Secours</title>
-      <link>https://careers.bonsecours.com/us/en/job/BSMBSZUSR251060EXTERNALENUS/Registered-Nurse-RN-Supervisor-Maryview-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Bon Secours-Registered Nurse (RN) - Supervisor - Maryview Medical Center-Portsmouth, VA, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Portsmouth, VA, US
-🏠 Work: On-site
-
-📝 Description: With a legacy that spans over 150 years, Bon Secours is a network that is dedicated to providing excellent care through exceptional people. At every level, everyone on our teams have embraced the call to provide compassionate care. Here, you can work with others who share common values, and use your skills to help extend care to all of our communities.***PRN DAYS\\*\\******Position Summary**
+7\\. Perform other duties as requested.8\\. Follows North Oaks Health System’s Compliance Program and Federal and State Regulatory guidelines.9\\. Adheres to the Nurse Practice Act and the Rules and Regulations of the LA State Board of Nursing.","Health Care","https://www.indeed.com/cmp/North-Oaks-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/02b7d780049210826f5ce8d9b389cb72","http://www.northoaks.org","15790 Paul Vega, MD, Drive
+Hammond, LA 70403","1,001 to 5,000","","North Oaks Health System is a Level II Trauma Center, Primary Stroke Center, and one of Louisiana's largest and most progressive community hospital organizations strategically based between New Orlean","","","","","","",""
+"in-4de68823e805d771","indeed","https://www.indeed.com/viewjob?jk=4de68823e805d771","https://careers.bonsecours.com/us/en/job/BSMBSZUSR251060EXTERNALENUS/Registered-Nurse-RN-Supervisor-Maryview-Medical-Center?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse (RN) - Supervisor - Maryview Medical Center","Bon Secours","Portsmouth, VA, US","2025-08-30","","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","With a legacy that spans over 150 years, Bon Secours is a network that is dedicated to providing excellent care through exceptional people. At every level, everyone on our teams have embraced the call to provide compassionate care. Here, you can work with others who share common values, and use your skills to help extend care to all of our communities.***PRN DAYS\\*\\******Position Summary**
 
 
 The Administrative Supervisor demonstrates effective leadership for the hospital on the off shifts, weekends and holidays. He/she functions as the administrative representative during these times. Serves as a role model for clinical and professional practice. Acts as an independent, self\\-directed professional with demonstrated abilities in interpersonal skills, critical thinking and problem resolution. Promotes teamwork with all departments. Demonstrates a strong customer driven approach. Integrates the Mission and Values into decisions. Participates as a team member by performing additional assignments not directly related to the job description when workload requires. Continually seeks opportunities for professional development.
@@ -4128,7 +3359,7 @@ Prescription drug coverage
 
 Flexible spending accounts  
 
-Life insurance w/AD\\&amp;D  
+Life insurance w/AD\\&D  
 
 Employer contributions to retirement savings plan when eligible  
 
@@ -4143,25 +3374,9 @@ And much more
 * Benefits offerings vary according to employment status
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.bonsecours.com/us/en/job/BSMBSZUSR251060EXTERNALENUS/Registered-Nurse-RN-Supervisor-Maryview-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4de68823e805d771</description>
-      <companyName>Bon Secours</companyName>
-      <jobLocation>Portsmouth, VA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse Inpatient Surgical Ortho Trauma 11WT at Texas Children's Hospital</title>
-      <link>https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/419884</link>
-      <guid isPermaLink="false">Texas Children's Hospital-Registered Nurse Inpatient Surgical Ortho Trauma 11WT-Houston, TX, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Houston, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 64,110 - 87,374 (yearly)
-
-📝 Description: We are searching for a Registered Nurse for our Surgical/Ortho/Trauma unit – someone who works well in a fast\\-paced setting. 11WT is a 36 bed surgical/orthopedic/trauma unit. The unit consists of 32 general admission beds and 4 designated trauma beds. 11WT receives a wide array of surgical patients from a variety of surgical services.
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","Health Care","https://www.indeed.com/cmp/Bon-Secours","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/da204300b08391e1dd11b6948c9ddff4","https://careers.bonsecours.com/","1505 Marriottsville Road
+Marriottsville, MD 21104","10,000+","$1B to $5B (USD)","Bon Secours is a compassionate health ministry serving Virginia, South Carolina and beyond. Join us to grow your gifts, serve others and help communities thrive through purpose-driven care.","","","","","","",""
+"in-35963497dadd1a88","indeed","https://www.indeed.com/viewjob?jk=35963497dadd1a88","https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/419884","Registered Nurse Inpatient Surgical Ortho Trauma 11WT","Texas Children's Hospital","Houston, TX, US","2025-08-30","fulltime","direct_data","yearly",64110.0,87374.0,"USD",False,"","","","","We are searching for a Registered Nurse for our Surgical/Ortho/Trauma unit – someone who works well in a fast\\-paced setting. 11WT is a 36 bed surgical/orthopedic/trauma unit. The unit consists of 32 general admission beds and 4 designated trauma beds. 11WT receives a wide array of surgical patients from a variety of surgical services.
 
 
 * General Surgery: appendectomies, hernia repairs, pectus repairs, tumor resections
@@ -4206,30 +3421,9 @@ Think you’ve got what it takes?
 * Demonstrates positive and effective interpersonal skills when dealing with patients/families, visitors, peers, and other health care team members.
 * Administers and documents medications and treatments in a timely manner.
 * Demonstrates willingness and ability to acquire new knowledge and utilize new skills needed to improve individual, team, and organizational performance.
-* Participate in unit performance improvement initiatives.
-🔗 Apply Direct: https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/419884
-🔗 Job Board: https://www.indeed.com/viewjob?jk=35963497dadd1a88</description>
-      <companyName>Texas Children's Hospital</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Houston, TX, US</jobLocation>
-      <salaryMin>64110</salaryMin>
-      <salaryMax>87374</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Weekend Warrior Nurse (RN/LPN) at Palm Springs Post Acute</title>
-      <link>https://jobs.apploi.com/view/1594021?utm_campaign=integration&amp;utm_medium=job-board-feed&amp;utm_source=indeed-apply-feed</link>
-      <guid isPermaLink="false">Palm Springs Post Acute-Weekend Warrior Nurse (RN/LPN)-Chelmsford, MA, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Chelmsford, MA, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 35 - 45 (hourly)
-
-📝 Description: **Join our team at Palm Springs Post Acute****as a Weekend Warrior Nurse!**
+* Participate in unit performance improvement initiatives.","Health Care","https://www.indeed.com/cmp/Texas-Children's-Hospital","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0783f5e66fb1352e96258d070ba4999d","https://texaschildrenspeople.org/","6621 Fannin Street
+Houston, Texas 77030","5,001 to 10,000","$1B to $5B (USD)","Texas Children's Hospital is an internationally recognized full-care pediatric hospital located in the heart of Houston's Medical Center.","","","","","","",""
+"in-38aa7c4648afb53c","indeed","https://www.indeed.com/viewjob?jk=38aa7c4648afb53c","https://jobs.apploi.com/view/1594021?utm_campaign=integration&utm_medium=job-board-feed&utm_source=indeed-apply-feed","Weekend Warrior Nurse (RN/LPN)","Palm Springs Post Acute","Chelmsford, MA, US","2025-08-30","perdiem","direct_data","hourly",35.0,45.0,"USD",False,"","","","","**Join our team at Palm Springs Post Acute****as a Weekend Warrior Nurse!**
 
 
 Proudly supported by Marquis Health Consulting Services
@@ -4281,30 +3475,9 @@ RN Payrate: Up to $45\\.00
 * Employee assistance program (EAP) resources
 
 
-The facility provides equal employment opportunities to all applicants and employees and prohibits discrimination and harassment of any kind. We do not discriminate based on race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, disability, genetic information, veteran status, or any other characteristic protected by federal, state, or local law. All qualified applicants are encouraged to apply.
-🔗 Apply Direct: https://jobs.apploi.com/view/1594021?utm_campaign=integration&amp;utm_medium=job-board-feed&amp;utm_source=indeed-apply-feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=38aa7c4648afb53c</description>
-      <companyName>Palm Springs Post Acute</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Chelmsford, MA, US</jobLocation>
-      <salaryMin>35</salaryMin>
-      <salaryMax>45</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) at Cedar View Rehabilitation and Healthcare Center</title>
-      <link>https://jobs.apploi.com/view/1594022?utm_campaign=integration&amp;utm_medium=job-board-feed&amp;utm_source=indeed-apply-feed</link>
-      <guid isPermaLink="false">Cedar View Rehabilitation and Healthcare Center-Registered Nurse (RN)-Methuen, MA, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Methuen, MA, US
-💼 Type: Parttime, Fulltime
-🏠 Work: On-site
-💰 Salary: USD 37 - 48 (hourly)
-
-📝 Description: **Join our team at Cedarview Rehabilitation and Healthcare Center** **as a RN!**
+The facility provides equal employment opportunities to all applicants and employees and prohibits discrimination and harassment of any kind. We do not discriminate based on race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, disability, genetic information, veteran status, or any other characteristic protected by federal, state, or local law. All qualified applicants are encouraged to apply.","","https://www.indeed.com/cmp/Palm-Springs-Post-Acute-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e85171158ec87ad628790b21a0647aec","https://palmspringsrehabhc.com/","40 Parkhurst Road,
+Chelmsford, MA 01824","201 to 500","","","","","","","","",""
+"in-959676c66b5be507","indeed","https://www.indeed.com/viewjob?jk=959676c66b5be507","https://jobs.apploi.com/view/1594022?utm_campaign=integration&utm_medium=job-board-feed&utm_source=indeed-apply-feed","Registered Nurse (RN)","Cedar View Rehabilitation and Healthcare Center","Methuen, MA, US","2025-08-30","parttime, fulltime","direct_data","hourly",37.0,48.0,"USD",False,"","","","","**Join our team at Cedarview Rehabilitation and Healthcare Center** **as a RN!**
 
 ***Current Openings \\- Full\\-time 7\\-3 and Part\\-time 11\\-7***
 
@@ -4338,37 +3511,15 @@ The facility provides equal employment opportunities to all applicants and emplo
 * Employee assistance program (EAP) resources
 
 
-Cedarview Rehabilitation and Healthcare Center is part of Marquis Health Services, one of the Northeast’s leading providers of Post\\-Acute Rehabilitation \\&amp; Skilled Nursing Care. As the healthcare subsidiary of a three\\-generation, family\\-owned organization, Marquis Health Services has been helping patients live the best possible lives within their facilities through a wide range of exceptional rehabilitative services.
+Cedarview Rehabilitation and Healthcare Center is part of Marquis Health Services, one of the Northeast’s leading providers of Post\\-Acute Rehabilitation \\& Skilled Nursing Care. As the healthcare subsidiary of a three\\-generation, family\\-owned organization, Marquis Health Services has been helping patients live the best possible lives within their facilities through a wide range of exceptional rehabilitative services.
 
  *Proudly supported by Marquis Health Consulting Services. Join a company that admires, cares, appreciates, and values their employees!*
 
  *The facility provides equal employment opportunities to all applicants and employees and prohibits discrimination and harassment of any kind. We do not discriminate based on race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, disability, genetic information, veteran status, or any other characteristic protected by federal, state, or local law. All qualified applicants are encouraged to apply.*
 
 
-\\#INDRN
-🔗 Apply Direct: https://jobs.apploi.com/view/1594022?utm_campaign=integration&amp;utm_medium=job-board-feed&amp;utm_source=indeed-apply-feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=959676c66b5be507</description>
-      <companyName>Cedar View Rehabilitation and Healthcare Center</companyName>
-      <jobType>Parttime, Fulltime</jobType>
-      <jobLocation>Methuen, MA, US</jobLocation>
-      <salaryMin>37</salaryMin>
-      <salaryMax>48</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Supervisor at Elliott Nursing and Rehabilitation</title>
-      <link>https://jobs.apploi.com/view/baa4b5115c3?utm_campaign=integration&amp;utm_medium=job-board-feed&amp;utm_source=indeed-apply-feed</link>
-      <guid isPermaLink="false">Elliott Nursing and Rehabilitation-RN Supervisor-Sandy Hook, KY, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Sandy Hook, KY, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 70,070 - 81,995 (yearly)
-
-📝 Description: **RN Supervisor**
+\\#INDRN","","https://www.indeed.com/cmp/Cedar-View-Rehabilitation-and-Healthcare-Center-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fc4769c928ac73cf4f5e9973d28ad22","https://cedarviewrehab.com/","480 Jackson Street, Methuen, MA 01844","51 to 200","","","","","","","","",""
+"in-7bc86f5104b40946","indeed","https://www.indeed.com/viewjob?jk=7bc86f5104b40946","https://jobs.apploi.com/view/baa4b5115c3?utm_campaign=integration&utm_medium=job-board-feed&utm_source=indeed-apply-feed","RN Supervisor","Elliott Nursing and Rehabilitation","Sandy Hook, KY, US","2025-08-30","fulltime","direct_data","yearly",70070.0,81995.0,"USD",False,"","","","","**RN Supervisor**
 
 
 
@@ -4462,30 +3613,8 @@ Join the Elliott team where compassion meets excellence!
 
 
 
-\\#BlueMed1
-🔗 Apply Direct: https://jobs.apploi.com/view/baa4b5115c3?utm_campaign=integration&amp;utm_medium=job-board-feed&amp;utm_source=indeed-apply-feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7bc86f5104b40946</description>
-      <companyName>Elliott Nursing and Rehabilitation</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Sandy Hook, KY, US</jobLocation>
-      <salaryMin>70070</salaryMin>
-      <salaryMax>81995</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Wellness Director at Traditions at Hunter Station</title>
-      <link>https://jobs.apploi.com/view/1594032?utm_campaign=integration&amp;utm_medium=job-board-feed&amp;utm_source=indeed-apply-feed</link>
-      <guid isPermaLink="false">Traditions at Hunter Station-Wellness Director-Sellersburg, IN, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Sellersburg, IN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 58,637 - 70,489 (yearly)
-
-📝 Description: **Wellness Director Duties and Responsibilities:**
+\\#BlueMed1","","https://www.indeed.com/cmp/Elliott-Nursing-and-Rehabilitation","","","","","","","","","","","","",""
+"in-f563da470903b315","indeed","https://www.indeed.com/viewjob?jk=f563da470903b315","https://jobs.apploi.com/view/1594032?utm_campaign=integration&utm_medium=job-board-feed&utm_source=indeed-apply-feed","Wellness Director","Traditions at Hunter Station","Sellersburg, IN, US","2025-08-30","fulltime","direct_data","yearly",58637.0,70489.0,"USD",False,"","","","","**Wellness Director Duties and Responsibilities:**
 
 
 * The coordination of resident care with a “hands on” management style
@@ -4551,30 +3680,8 @@ Join the Elliott team where compassion meets excellence!
 * Paid time off
 
 
-* Flexible schedule
-🔗 Apply Direct: https://jobs.apploi.com/view/1594032?utm_campaign=integration&amp;utm_medium=job-board-feed&amp;utm_source=indeed-apply-feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f563da470903b315</description>
-      <companyName>Traditions at Hunter Station</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Sellersburg, IN, US</jobLocation>
-      <salaryMin>58637</salaryMin>
-      <salaryMax>70489</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse (LPN) at Palm Springs Post Acute</title>
-      <link>https://jobs.apploi.com/view/1594016?utm_campaign=integration&amp;utm_medium=job-board-feed&amp;utm_source=indeed-apply-feed</link>
-      <guid isPermaLink="false">Palm Springs Post Acute-Licensed Practical Nurse (LPN)-Chelmsford, MA, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Chelmsford, MA, US
-💼 Type: Parttime, Fulltime
-🏠 Work: On-site
-💰 Salary: USD 34 - 46 (hourly)
-
-📝 Description: **Join our team at** **Palm Springs Post Acute** **as a Licensed Practical Nurse (LPN)!**
+* Flexible schedule","","https://www.indeed.com/cmp/Traditions-At-Hunter-Station","","","","","","","","","","","","",""
+"in-83e1943cb62d0a67","indeed","https://www.indeed.com/viewjob?jk=83e1943cb62d0a67","https://jobs.apploi.com/view/1594016?utm_campaign=integration&utm_medium=job-board-feed&utm_source=indeed-apply-feed","Licensed Practical Nurse (LPN)","Palm Springs Post Acute","Chelmsford, MA, US","2025-08-30","parttime, fulltime","direct_data","hourly",34.0,46.0,"USD",False,"","","","","**Join our team at** **Palm Springs Post Acute** **as a Licensed Practical Nurse (LPN)!**
 
 
 Proudly supported by Marquis Health Consulting Services
@@ -4620,30 +3727,9 @@ Join our team at Palm Springs Post Acute and Healthcare Center, a 120\\-bed Sub\
 
   
 
-\\#INDLPN
-🔗 Apply Direct: https://jobs.apploi.com/view/1594016?utm_campaign=integration&amp;utm_medium=job-board-feed&amp;utm_source=indeed-apply-feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=83e1943cb62d0a67</description>
-      <companyName>Palm Springs Post Acute</companyName>
-      <jobType>Parttime, Fulltime</jobType>
-      <jobLocation>Chelmsford, MA, US</jobLocation>
-      <salaryMin>34</salaryMin>
-      <salaryMax>46</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) at Palm Springs Post Acute</title>
-      <link>https://jobs.apploi.com/view/1594018?utm_campaign=integration&amp;utm_medium=job-board-feed&amp;utm_source=indeed-apply-feed</link>
-      <guid isPermaLink="false">Palm Springs Post Acute-Registered Nurse (RN)-Chelmsford, MA, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Chelmsford, MA, US
-💼 Type: Parttime, Fulltime
-🏠 Work: On-site
-💰 Salary: USD 40 - 53 (hourly)
-
-📝 Description: **Join our team at** **Palm Springs Post Acute** **as a Registered Nurse (RN)!**
+\\#INDLPN","","https://www.indeed.com/cmp/Palm-Springs-Post-Acute-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e85171158ec87ad628790b21a0647aec","https://palmspringsrehabhc.com/","40 Parkhurst Road,
+Chelmsford, MA 01824","201 to 500","","","","","","","","",""
+"in-5fab1de25e939cda","indeed","https://www.indeed.com/viewjob?jk=5fab1de25e939cda","https://jobs.apploi.com/view/1594018?utm_campaign=integration&utm_medium=job-board-feed&utm_source=indeed-apply-feed","Registered Nurse (RN)","Palm Springs Post Acute","Chelmsford, MA, US","2025-08-30","parttime, fulltime","direct_data","hourly",40.0,53.0,"USD",False,"","","","","**Join our team at** **Palm Springs Post Acute** **as a Registered Nurse (RN)!**
 
 
 Proudly supported by Marquis Health Consulting Services
@@ -4688,30 +3774,9 @@ Join our team at Palm Springs Post Acute and Healthcare Center, a 120\\-bed Sub\
 *The facility provides equal employment opportunities to all applicants and employees and prohibits discrimination and harassment of any kind. We do not discriminate based on race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, disability, genetic information, veteran status, or any other characteristic protected by federal, state, or local law. All qualified applicants are encouraged to apply.*
 
 
-\\#INDRN
-🔗 Apply Direct: https://jobs.apploi.com/view/1594018?utm_campaign=integration&amp;utm_medium=job-board-feed&amp;utm_source=indeed-apply-feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5fab1de25e939cda</description>
-      <companyName>Palm Springs Post Acute</companyName>
-      <jobType>Parttime, Fulltime</jobType>
-      <jobLocation>Chelmsford, MA, US</jobLocation>
-      <salaryMin>40</salaryMin>
-      <salaryMax>53</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse (LPN) at Cedar View Rehabilitation and Healthcare Center</title>
-      <link>https://jobs.apploi.com/view/1594024?utm_campaign=integration&amp;utm_medium=job-board-feed&amp;utm_source=indeed-apply-feed</link>
-      <guid isPermaLink="false">Cedar View Rehabilitation and Healthcare Center-Licensed Practical Nurse (LPN)-Methuen, MA, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Methuen, MA, US
-💼 Type: Parttime, Fulltime
-🏠 Work: On-site
-💰 Salary: USD 34 - 45 (hourly)
-
-📝 Description: **Join our team at** **Cedarview Rehabilitation and Healthcare Center** as an LPN!
+\\#INDRN","","https://www.indeed.com/cmp/Palm-Springs-Post-Acute-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e85171158ec87ad628790b21a0647aec","https://palmspringsrehabhc.com/","40 Parkhurst Road,
+Chelmsford, MA 01824","201 to 500","","","","","","","","",""
+"in-d607492883fa8a74","indeed","https://www.indeed.com/viewjob?jk=d607492883fa8a74","https://jobs.apploi.com/view/1594024?utm_campaign=integration&utm_medium=job-board-feed&utm_source=indeed-apply-feed","Licensed Practical Nurse (LPN)","Cedar View Rehabilitation and Healthcare Center","Methuen, MA, US","2025-08-30","parttime, fulltime","direct_data","hourly",34.0,45.0,"USD",False,"","","","","**Join our team at** **Cedarview Rehabilitation and Healthcare Center** as an LPN!
 
 ***Current Openings \\- Full Time, Part Time \\- 7\\-3 and 11\\-7***
 
@@ -4729,7 +3794,7 @@ Join our team at Palm Springs Post Acute and Healthcare Center, a 120\\-bed Sub\
 
  **Qualifications of LPN:**
 
-* Primary series of the COVID\\-19 vaccine required\\-MA \\&amp; RI Only
+* Primary series of the COVID\\-19 vaccine required\\-MA \\& RI Only
 * A current, unencumbered active license to practice as an LPN in the state MA!
 * Ability to work with multiple patients at once
 
@@ -4745,7 +3810,7 @@ Join our team at Palm Springs Post Acute and Healthcare Center, a 120\\-bed Sub\
 * Employee assistance program (EAP) resources
 
 
-Cedarview Rehabilitation and Healthcare Center is part of Marquis Health Services, one of the Northeast’s leading providers of Post\\-Acute Rehabilitation \\&amp; Skilled Nursing Care. As the healthcare subsidiary of a three\\-generation, family\\-owned organization, Marquis Health Services has been helping patients live the best possible lives within their facilities through a wide range of exceptional rehabilitative services.
+Cedarview Rehabilitation and Healthcare Center is part of Marquis Health Services, one of the Northeast’s leading providers of Post\\-Acute Rehabilitation \\& Skilled Nursing Care. As the healthcare subsidiary of a three\\-generation, family\\-owned organization, Marquis Health Services has been helping patients live the best possible lives within their facilities through a wide range of exceptional rehabilitative services.
 
  *Proudly supported by Marquis Health Consulting Services. Join a company that admires, cares, appreciates, and values their employees!*
 
@@ -4753,30 +3818,8 @@ Cedarview Rehabilitation and Healthcare Center is part of Marquis Health Service
 
   
 
-\\#INDLPN
-🔗 Apply Direct: https://jobs.apploi.com/view/1594024?utm_campaign=integration&amp;utm_medium=job-board-feed&amp;utm_source=indeed-apply-feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d607492883fa8a74</description>
-      <companyName>Cedar View Rehabilitation and Healthcare Center</companyName>
-      <jobType>Parttime, Fulltime</jobType>
-      <jobLocation>Methuen, MA, US</jobLocation>
-      <salaryMin>34</salaryMin>
-      <salaryMax>45</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN / ACTT RN at RHA Health Services</title>
-      <link>https://rhahealthservices.wd1.myworkdayjobs.com/1/job/Asheville-NC/RN---ACTT-RN_R54119</link>
-      <guid isPermaLink="false">RHA Health Services-RN / ACTT RN-Asheville, NC, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Asheville, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 70,000 - 72,000 (yearly)
-
-📝 Description: **We are hiring for:**
+\\#INDLPN","","https://www.indeed.com/cmp/Cedar-View-Rehabilitation-and-Healthcare-Center-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fc4769c928ac73cf4f5e9973d28ad22","https://cedarviewrehab.com/","480 Jackson Street, Methuen, MA 01844","51 to 200","","","","","","","","",""
+"in-601defa19db68738","indeed","https://www.indeed.com/viewjob?jk=601defa19db68738","https://rhahealthservices.wd1.myworkdayjobs.com/1/job/Asheville-NC/RN---ACTT-RN_R54119","RN / ACTT RN","RHA Health Services","Asheville, NC, US","2025-08-30","fulltime","direct_data","yearly",70000.0,72000.0,"USD",False,"","","","","**We are hiring for:**
 
 
 RN / ACTT RN**Type:**
@@ -4858,29 +3901,8 @@ At RHA Health Services, we help individuals with intellectual and developmental 
 For over 30 years, the people we serve and support have remained at the very center of everything we do. RHA currently provides services in North Carolina, Georgia, Pennsylvania, Tennessee, and New Jersey.
 
 
-If you are ready to make a difference in the lives of people we serve and support apply to join the team today.
-🔗 Apply Direct: https://rhahealthservices.wd1.myworkdayjobs.com/1/job/Asheville-NC/RN---ACTT-RN_R54119
-🔗 Job Board: https://www.indeed.com/viewjob?jk=601defa19db68738</description>
-      <companyName>RHA Health Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Asheville, NC, US</jobLocation>
-      <salaryMin>70000</salaryMin>
-      <salaryMax>72000</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Managing Clinical Director, NP or RN at Chapter Aesthetic Studio</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3527&amp;rx_jobId=R2025-014264&amp;rx_url=https%3A%2F%2Faspendental.wd1.myworkdayjobs.com%2Fen-US%2FMyChaptercom-careers%2Fjob%2FCicero-New-York%2FManaging-Clinical-Director--NP-or-RN_R2025-014264%3Frx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D133066%26rx_id%3D92494ee7-84b5-11f0-acbf-355376955e99%26rx_job%3DR2025-014264%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20250830T040048Z%26rx_vp%3Dcpc%26source%3Dindeed_organic%26utm_source%3Dindeed_organic</link>
-      <guid isPermaLink="false">Chapter Aesthetic Studio-Managing Clinical Director, NP or RN-Cicero, NY, US</guid>
-      <pubDate>Sat, 30 Aug 2025 09:15:07 +0000</pubDate>
-      <description>📍 Location: Cicero, NY, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Are you a Registered Nurse or Nurse Practitioner with a passion for aesthetics and leadership?** Chapter Aesthetic Studio is seeking a dynamic **Managing Clinical Director** to lead our Cicero studio. In this high\\-impact role, you'll blend artistry with advanced aesthetic care, deliver exceptional guest experiences, and guide a talented clinical team to success.
+If you are ready to make a difference in the lives of people we serve and support apply to join the team today.","Health Care","https://www.indeed.com/cmp/Rha-Health-Services","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/57363d5360044d9b6dc5c082773f678a","http://www.rhahealthservices.org","17 Church Street Asheville, NC 28801","5,001 to 10,000","$100M to $500M (USD)","RHA Health Services provides support services for people with intellectual and developmental disabilities, behavioral health needs, and for those who are Deaf and Hard of Hearing.","","","","","","",""
+"in-9f1a54f682a14e4f","indeed","https://www.indeed.com/viewjob?jk=9f1a54f682a14e4f","https://jsv3.recruitics.com/redirect?rx_cid=3527&rx_jobId=R2025-014264&rx_url=https%3A%2F%2Faspendental.wd1.myworkdayjobs.com%2Fen-US%2FMyChaptercom-careers%2Fjob%2FCicero-New-York%2FManaging-Clinical-Director--NP-or-RN_R2025-014264%3Frx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D133066%26rx_id%3D92494ee7-84b5-11f0-acbf-355376955e99%26rx_job%3DR2025-014264%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20250830T040048Z%26rx_vp%3Dcpc%26source%3Dindeed_organic%26utm_source%3Dindeed_organic","Managing Clinical Director, NP or RN","Chapter Aesthetic Studio","Cicero, NY, US","2025-08-30","fulltime","","yearly","","","USD",False,"","","","","**Are you a Registered Nurse or Nurse Practitioner with a passion for aesthetics and leadership?** Chapter Aesthetic Studio is seeking a dynamic **Managing Clinical Director** to lead our Cicero studio. In this high\\-impact role, you'll blend artistry with advanced aesthetic care, deliver exceptional guest experiences, and guide a talented clinical team to success.
 
 **Job Type:** Full\\-Time
 
@@ -4940,16 +3962,4 @@ TAG \\- The Aspen Group was built on the simple idea of bringing better healthca
 TAG\\-The Aspen Group, its affiliates, related companies and supported clinical practices are proud to be Equal Opportunity Employers and welcome everyone to apply. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
 
 
-Starting salary $115K\\+ depending on aesthetic experience, plus eligibility for monthly incentive pay with broad earning potential
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3527&amp;rx_jobId=R2025-014264&amp;rx_url=https%3A%2F%2Faspendental.wd1.myworkdayjobs.com%2Fen-US%2FMyChaptercom-careers%2Fjob%2FCicero-New-York%2FManaging-Clinical-Director--NP-or-RN_R2025-014264%3Frx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D133066%26rx_id%3D92494ee7-84b5-11f0-acbf-355376955e99%26rx_job%3DR2025-014264%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20250830T040048Z%26rx_vp%3Dcpc%26source%3Dindeed_organic%26utm_source%3Dindeed_organic
-🔗 Job Board: https://www.indeed.com/viewjob?jk=9f1a54f682a14e4f</description>
-      <companyName>Chapter Aesthetic Studio</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Cicero, NY, US</jobLocation>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-  </channel>
-</rss>
+Starting salary $115K\\+ depending on aesthetic experience, plus eligibility for monthly incentive pay with broad earning potential","","https://www.indeed.com/cmp/Chapter-Aesthetic-Studio-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/37447c64dd091b0a9927b1d9fc33767d","https://www.mychapter.com/","","51 to 200","","","","","","","","",""
