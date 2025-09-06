@@ -1,21 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Daily Nurse Jobs Feed</title>
-    <description>Daily feed of nursing jobs with direct company application links</description>
-    <link>https://github.com/your-username/your-repo</link>
-    <lastBuildDate>Sat, 06 Sep 2025 09:14:34 +0000</lastBuildDate>
-    <generator>Nurse Job Search Bot</generator>
-    <language>en-us</language>
-    <item>
-      <title>Oncology Clinic Registered Nurse (RN) Supervisor - Beaumont, Tx at Texas Oncology</title>
-      <link>https://careers.usoncology.com/jobs/35177/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Texas Oncology-Oncology Clinic Registered Nurse (RN) Supervisor - Beaumont, Tx-Beaumont, TX, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Beaumont, TX, US
-🏠 Work: On-site
-
-📝 Description: Overview: **Texas Oncology** is looking for an **Oncology Clinic Registered Nurse (RN) Supervisor**to join our team! This position will support the **Beaumont, Texas location**. **Beaumont, Texas** is a vibrant Gulf Coast city where history, nature, and innovation converge. Visitors can explore iconic attractions like the McFaddin\\-Ward House Museum, Gator Country Adventure Park, and the Texas Energy Museum. Conveniently located along Interstate 10 and near Highways 69 and 96, Beaumont offers easy access to Houston and Louisiana. **TxO – Beaumont** provides leading\\-edge cancer care, including chemotherapy, radiation therapy, and personalized treatment plans, all within a compassionate, community\\-focused setting. Whether you're here to discover, heal, or grow, Beaumont welcomes you with Southern hospitality and world\\-class resources. Our patients and team members have access to a new state\\-of\\-the\\-art multi\\-disciplinary facility that provides medical oncology, hematology, radiation, surgical and diagnostic imaging services as well as access to clinical trials in a personalized, compassionate, community\\-based setting. **Texas Oncology** is the largest community oncology provider in the country and has approximately 600\\+ providers in 300\\+ sites across Texas and southeastern Oklahoma. Our founders pioneered community\\-based cancer care because they believed in making the best available cancer care accessible to all communities, allowing people to fight cancer at home with the critical support of family and friends nearby. Our mission is still the same today—at Texas Oncology, we use leading\\-edge technology and research to deliver high\\-quality, high\\-touch, evidence\\-based cancer care to help our patients achieve “More breakthroughs. More victories.” ® in their fight against cancer. Today, **Texas Oncology** treats half of all Texans diagnosed with cancer on an annual basis ***Why work for us?***
+"id","site","job_board_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type","job_url"
+"in-aae8489cddbebdfe","indeed","https://www.indeed.com/viewjob?jk=aae8489cddbebdfe","https://careers.usoncology.com/jobs/35177/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Oncology Clinic Registered Nurse (RN) Supervisor - Beaumont, Tx","Texas Oncology","Beaumont, TX, US","2025-09-06","","","","","","",False,"","","","","Overview: **Texas Oncology** is looking for an **Oncology Clinic Registered Nurse (RN) Supervisor**to join our team! This position will support the **Beaumont, Texas location**. **Beaumont, Texas** is a vibrant Gulf Coast city where history, nature, and innovation converge. Visitors can explore iconic attractions like the McFaddin\\-Ward House Museum, Gator Country Adventure Park, and the Texas Energy Museum. Conveniently located along Interstate 10 and near Highways 69 and 96, Beaumont offers easy access to Houston and Louisiana. **TxO – Beaumont** provides leading\\-edge cancer care, including chemotherapy, radiation therapy, and personalized treatment plans, all within a compassionate, community\\-focused setting. Whether you're here to discover, heal, or grow, Beaumont welcomes you with Southern hospitality and world\\-class resources. Our patients and team members have access to a new state\\-of\\-the\\-art multi\\-disciplinary facility that provides medical oncology, hematology, radiation, surgical and diagnostic imaging services as well as access to clinical trials in a personalized, compassionate, community\\-based setting. **Texas Oncology** is the largest community oncology provider in the country and has approximately 600\\+ providers in 300\\+ sites across Texas and southeastern Oklahoma. Our founders pioneered community\\-based cancer care because they believed in making the best available cancer care accessible to all communities, allowing people to fight cancer at home with the critical support of family and friends nearby. Our mission is still the same today—at Texas Oncology, we use leading\\-edge technology and research to deliver high\\-quality, high\\-touch, evidence\\-based cancer care to help our patients achieve “More breakthroughs. More victories.” ® in their fight against cancer. Today, **Texas Oncology** treats half of all Texans diagnosed with cancer on an annual basis ***Why work for us?***
 Come join our team that is responsible for helping lead Texas Oncology in treating more patient diagnosed with cancer than any other provider in Texas. We offer our employees a competitive benefits package that includes Medical, Dental, Vision, Life Insurance, Short\\-term and Long\\-term disability coverage, a generous PTO program, a 401k plan that comes with a company match, a Wellness program that rewards you practicing a healthy lifestyle, and lots of other great perks such as Tuition Reimbursement, an Employee Assistance program and discounts on some of your favorite retailers.
 
  ***What does the Oncology Clinic Nurse (RN) Supervisor do?***
@@ -47,25 +31,8 @@ Environment (Office, warehouse, etc.)
 The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. There is a possible exposure to communicable diseases, toxic substances, ionizing radiation, medical preparations and other conditions common to an oncology/hematology clinic environment.  
 
 Physical Requirements (Lifting, standing, etc.)
-The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. Requires full range of body motion including handling and lifting patients, manual and finger dexterity, and eye\\-hand coordination. Requires standing and walking for extensive periods of time. Occasionally lifts and carries items weighing up to 40 lbs. Requires corrected vision and hearing to normal range.
-🔗 Apply Direct: https://careers.usoncology.com/jobs/35177/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=aae8489cddbebdfe</description>
-      <companyName>Texas Oncology</companyName>
-      <jobLocation>Beaumont, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Certified Nurse Midwife - OB GYN at PeaceHealth</title>
-      <link>https://careers.peacehealth.org/jobs/16700134-certified-nurse-midwife-ob-gyn?tm_job=PH-INFOR-117675&amp;tm_event=view&amp;tm_company=12800</link>
-      <guid isPermaLink="false">PeaceHealth-Certified Nurse Midwife - OB GYN-Bellingham, WA, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Bellingham, WA, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 65 - 83 (hourly)
-
-📝 Description: **Description**
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. Requires full range of body motion including handling and lifting patients, manual and finger dexterity, and eye\\-hand coordination. Requires standing and walking for extensive periods of time. Occasionally lifts and carries items weighing up to 40 lbs. Requires corrected vision and hearing to normal range.","Health Care","https://www.indeed.com/cmp/Texas-Oncology","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5f2e000971c108c923a571c5e7a03d93","https://www.texasoncology.com/","Dallas, TX","2 to 10","less than $1M (USD)","","","","","","","",""
+"in-7dabbbd5edbb0298","indeed","https://www.indeed.com/viewjob?jk=7dabbbd5edbb0298","https://careers.peacehealth.org/jobs/16700134-certified-nurse-midwife-ob-gyn?tm_job=PH-INFOR-117675&tm_event=view&tm_company=12800","Certified Nurse Midwife - OB GYN","PeaceHealth","Bellingham, WA, US","2025-09-06","parttime","direct_data","hourly",65.0,83.0,"USD",False,"","","","mkaur@peacehealth.org","**Description**
 
 
 Come join our amazing OB GYN team! PeaceHealth St. Joseph Medical Center in Bellingham, WA is seeking a 1\\.0 FTE Nurse Midwife\\-OB GYN!
@@ -94,7 +61,7 @@ This position is represented by a collective bargaining agreement. There may be 
 *PeaceHealth has been serving the communities of northwest Washington since 1890 with PeaceHealth St. Joseph Medical Center, now a 253\\-bed, two\\-campus hospital providing a Level II Trauma Center and a full range of inpatient and outpatient services. PeaceHealth's Whatcom Region also includes the comprehensive heart care services of the Cardiovascular Center at PeaceHealth St. Joseph Medical Center as well as the primary and specialty care provided by PeaceHealth Medical Group.*
 
 
-**PeaceHealth Benefits \\&amp; Culture:**
+**PeaceHealth Benefits \\& Culture:**
 
 
 * Guaranteed hourly rate is based on years of experience: $65\\.86/hr. \\- $83\\.42/hr.
@@ -112,30 +79,9 @@ This position is represented by a collective bargaining agreement. There may be 
 PeaceHealth is committed to providing equal employment opportunities to all qualified job applicants and employees without regard to the following statuses: protected veteran; qualified individual with a disability; race; ethnicity; religion; gender; pregnancy; gender identity; national origin; age; genetic information; sexual orientation; or any other protected status in accordance with local, state, or federal laws. The above information is intended to indicate the general nature and level of work performed by this position. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of caregivers assigned to this job.
 
 
-The above information is intended to indicate the general nature and level of work performed by this position. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of caregivers assigned to this job.
-🔗 Apply Direct: https://careers.peacehealth.org/jobs/16700134-certified-nurse-midwife-ob-gyn?tm_job=PH-INFOR-117675&amp;tm_event=view&amp;tm_company=12800
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7dabbbd5edbb0298</description>
-      <companyName>PeaceHealth</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Bellingham, WA, US</jobLocation>
-      <salaryMin>65</salaryMin>
-      <salaryMax>83</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Certified Nurse Midwife - Per Diem at PeaceHealth</title>
-      <link>https://careers.peacehealth.org/jobs/16700125-certified-nurse-midwife-per-diem?tm_job=PH-INFOR-116967&amp;tm_event=view&amp;tm_company=12800</link>
-      <guid isPermaLink="false">PeaceHealth-Certified Nurse Midwife - Per Diem-Bellingham, WA, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Bellingham, WA, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 72 - 91 (hourly)
-
-📝 Description: **Description**
+The above information is intended to indicate the general nature and level of work performed by this position. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of caregivers assigned to this job.","Health Care","https://www.indeed.com/cmp/Peacehealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7f6bb7fc1fe5c0e64d4b90ed9a1ddab7","http://careers.peacehealth.org","1115  SE 164th Avenue
+Vancouver, WA 98683","10,000+","$1B to $5B (USD)","PeaceHealth offers exceptional and compassionate care to both rural and urban communities across Washington, Oregon & Alaska.","","","","","","",""
+"in-8b8b17fb9bcc5a1c","indeed","https://www.indeed.com/viewjob?jk=8b8b17fb9bcc5a1c","https://careers.peacehealth.org/jobs/16700125-certified-nurse-midwife-per-diem?tm_job=PH-INFOR-116967&tm_event=view&tm_company=12800","Certified Nurse Midwife - Per Diem","PeaceHealth","Bellingham, WA, US","2025-09-06","parttime","direct_data","hourly",72.0,91.0,"USD",False,"","","","mkaur@peacehealth.org","**Description**
 
 
 PeaceHealth St. Joseph Medical Center in Bellingham, WA is seeking a per diem Nurse Midwife\\-OB GYN to provide occasional coverage!
@@ -164,7 +110,7 @@ This position is represented by a collective bargaining agreement. There may be 
 *PeaceHealth has been serving the communities of northwest Washington since 1890 with PeaceHealth St. Joseph Medical Center, now a 253\\-bed, two\\-campus hospital providing a Level II Trauma Center and a full range of inpatient and outpatient services. PeaceHealth's Whatcom Region also includes the comprehensive heart care services of the Cardiovascular Center at PeaceHealth St. Joseph Medical Center as well as the primary and specialty care provided by PeaceHealth Medical Group.*
 
 
-**PeaceHealth Benefits \\&amp; Culture:**
+**PeaceHealth Benefits \\& Culture:**
 
 
 * Per Diem hourly rate is based on years of experience: $72\\.45/hr \\- $91\\.77/hr.
@@ -180,29 +126,9 @@ This position is represented by a collective bargaining agreement. There may be 
 PeaceHealth is committed to providing equal employment opportunities to all qualified job applicants and employees without regard to the following statuses: protected veteran; qualified individual with a disability; race; ethnicity; religion; gender; pregnancy; gender identity; national origin; age; genetic information; sexual orientation; or any other protected status in accordance with local, state, or federal laws. The above information is intended to indicate the general nature and level of work performed by this position. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of caregivers assigned to this job.
 
 
-The above information is intended to indicate the general nature and level of work performed by this position. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of caregivers assigned to this job.
-🔗 Apply Direct: https://careers.peacehealth.org/jobs/16700125-certified-nurse-midwife-per-diem?tm_job=PH-INFOR-116967&amp;tm_event=view&amp;tm_company=12800
-🔗 Job Board: https://www.indeed.com/viewjob?jk=8b8b17fb9bcc5a1c</description>
-      <companyName>PeaceHealth</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Bellingham, WA, US</jobLocation>
-      <salaryMin>72</salaryMin>
-      <salaryMax>91</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LPN/RN - Part time, weekends at Benchmark Senior Living</title>
-      <link>https://jobs.dayforcehcm.com/en-US/benchmark/CANDIDATEPORTAL/jobs/22332</link>
-      <guid isPermaLink="false">Benchmark Senior Living-LPN/RN - Part time, weekends-Quincy, MA, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Quincy, MA, US
-💼 Type: Perdiem
-🏠 Work: On-site
-
-📝 Description: Join, stay, and grow with Benchmark. Connect with your calling.
+The above information is intended to indicate the general nature and level of work performed by this position. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of caregivers assigned to this job.","Health Care","https://www.indeed.com/cmp/Peacehealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7f6bb7fc1fe5c0e64d4b90ed9a1ddab7","http://careers.peacehealth.org","1115  SE 164th Avenue
+Vancouver, WA 98683","10,000+","$1B to $5B (USD)","PeaceHealth offers exceptional and compassionate care to both rural and urban communities across Washington, Oregon & Alaska.","","","","","","",""
+"in-ef6fc34eb2e93cd4","indeed","https://www.indeed.com/viewjob?jk=ef6fc34eb2e93cd4","https://jobs.dayforcehcm.com/en-US/benchmark/CANDIDATEPORTAL/jobs/22332","LPN/RN - Part time, weekends","Benchmark Senior Living","Quincy, MA, US","2025-09-06","perdiem","","hourly","","","USD",False,"","","","","Join, stay, and grow with Benchmark. Connect with your calling.
   
   
 
@@ -248,36 +174,17 @@ Requirements
 
 As a community associate at Benchmark, you will have access to a variety of benefits including, but not limited to, the following:
   
-* 8 holidays \\&amp; 3 floating holidays
+* 8 holidays \\& 3 floating holidays
 * Discounted Meal Program
-* Paid Training \\&amp; Company\\-provided Uniforms
+* Paid Training \\& Company\\-provided Uniforms
 * Associate Referral Bonus Program
-* Physical \\&amp; Mental Health Wellness Programs
+* Physical \\& Mental Health Wellness Programs
 * 401k Retirement Plan with Company Match\\*
-* Medical, Vision \\&amp; Dental Benefits\\*
+* Medical, Vision \\& Dental Benefits\\*
 * Tuition Reimbursement Program\\*
-* Vacation and Health \\&amp; Wellness Paid Time Off\\*
-* Eligibility may vary by employment status
-🔗 Apply Direct: https://jobs.dayforcehcm.com/en-US/benchmark/CANDIDATEPORTAL/jobs/22332
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ef6fc34eb2e93cd4</description>
-      <companyName>Benchmark Senior Living</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Quincy, MA, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LPN/RN - Part time, weekends at Benchmark Senior Living</title>
-      <link>https://jobs.dayforcehcm.com/en-US/benchmark/CANDIDATEPORTAL/jobs/22332</link>
-      <guid isPermaLink="false">Benchmark Senior Living-LPN/RN - Part time, weekends-Quincy, MA, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Quincy, MA, US
-💼 Type: Perdiem
-🏠 Work: On-site
-
-📝 Description: Join, stay, and grow with Benchmark. Connect with your calling.
+* Vacation and Health \\& Wellness Paid Time Off\\*
+* Eligibility may vary by employment status","","https://www.indeed.com/cmp/Benchmark-Senior-Living","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/593d6dead7b3cea048b7c6ff84819ed8","","","Decline to state","Decline to state","Benchmark is committed to its mission of transforming lives through human connection. We hire for passion, train for skill, and are dedicated to bringing our core values to life in all that we do.","","","","","","",""
+"in-068bc67fb08275c8","indeed","https://www.indeed.com/viewjob?jk=068bc67fb08275c8","https://jobs.dayforcehcm.com/en-US/benchmark/CANDIDATEPORTAL/jobs/22332","LPN/RN - Part time, weekends","Benchmark Senior Living","Quincy, MA, US","2025-09-06","perdiem","","hourly","","","USD",False,"","","","","Join, stay, and grow with Benchmark. Connect with your calling.
   
   
 
@@ -323,36 +230,17 @@ Requirements
 
 As a community associate at Benchmark, you will have access to a variety of benefits including, but not limited to, the following:
   
-* 8 holidays \\&amp; 3 floating holidays
+* 8 holidays \\& 3 floating holidays
 * Discounted Meal Program
-* Paid Training \\&amp; Company\\-provided Uniforms
+* Paid Training \\& Company\\-provided Uniforms
 * Associate Referral Bonus Program
-* Physical \\&amp; Mental Health Wellness Programs
+* Physical \\& Mental Health Wellness Programs
 * 401k Retirement Plan with Company Match\\*
-* Medical, Vision \\&amp; Dental Benefits\\*
+* Medical, Vision \\& Dental Benefits\\*
 * Tuition Reimbursement Program\\*
-* Vacation and Health \\&amp; Wellness Paid Time Off\\*
-* Eligibility may vary by employment status
-🔗 Apply Direct: https://jobs.dayforcehcm.com/en-US/benchmark/CANDIDATEPORTAL/jobs/22332
-🔗 Job Board: https://www.indeed.com/viewjob?jk=068bc67fb08275c8</description>
-      <companyName>Benchmark Senior Living</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Quincy, MA, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LPN/RN - Per Diem at Benchmark Senior Living</title>
-      <link>https://jobs.dayforcehcm.com/en-US/benchmark/CANDIDATEPORTAL/jobs/22331</link>
-      <guid isPermaLink="false">Benchmark Senior Living-LPN/RN - Per Diem-Quincy, MA, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Quincy, MA, US
-💼 Type: Perdiem
-🏠 Work: On-site
-
-📝 Description: Join, stay, and grow with Benchmark. Connect with your calling.
+* Vacation and Health \\& Wellness Paid Time Off\\*
+* Eligibility may vary by employment status","","https://www.indeed.com/cmp/Benchmark-Senior-Living","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/593d6dead7b3cea048b7c6ff84819ed8","","","Decline to state","Decline to state","Benchmark is committed to its mission of transforming lives through human connection. We hire for passion, train for skill, and are dedicated to bringing our core values to life in all that we do.","","","","","","",""
+"in-a98126066858b70a","indeed","https://www.indeed.com/viewjob?jk=a98126066858b70a","https://jobs.dayforcehcm.com/en-US/benchmark/CANDIDATEPORTAL/jobs/22331","LPN/RN - Per Diem","Benchmark Senior Living","Quincy, MA, US","2025-09-06","perdiem","","hourly","","","USD",False,"","","","","Join, stay, and grow with Benchmark. Connect with your calling.
   
   
 
@@ -398,36 +286,17 @@ Requirements
 
 As a community associate at Benchmark, you will have access to a variety of benefits including, but not limited to, the following:
   
-* 8 holidays \\&amp; 3 floating holidays
+* 8 holidays \\& 3 floating holidays
 * Discounted Meal Program
-* Paid Training \\&amp; Company\\-provided Uniforms
+* Paid Training \\& Company\\-provided Uniforms
 * Associate Referral Bonus Program
-* Physical \\&amp; Mental Health Wellness Programs
+* Physical \\& Mental Health Wellness Programs
 * 401k Retirement Plan with Company Match\\*
-* Medical, Vision \\&amp; Dental Benefits\\*
+* Medical, Vision \\& Dental Benefits\\*
 * Tuition Reimbursement Program\\*
-* Vacation and Health \\&amp; Wellness Paid Time Off\\*
-* Eligibility may vary by employment status
-🔗 Apply Direct: https://jobs.dayforcehcm.com/en-US/benchmark/CANDIDATEPORTAL/jobs/22331
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a98126066858b70a</description>
-      <companyName>Benchmark Senior Living</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Quincy, MA, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LPN/RN - Per Diem at Benchmark Senior Living</title>
-      <link>https://jobs.dayforcehcm.com/en-US/benchmark/CANDIDATEPORTAL/jobs/22331</link>
-      <guid isPermaLink="false">Benchmark Senior Living-LPN/RN - Per Diem-Quincy, MA, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Quincy, MA, US
-💼 Type: Perdiem
-🏠 Work: On-site
-
-📝 Description: Join, stay, and grow with Benchmark. Connect with your calling.
+* Vacation and Health \\& Wellness Paid Time Off\\*
+* Eligibility may vary by employment status","","https://www.indeed.com/cmp/Benchmark-Senior-Living","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/593d6dead7b3cea048b7c6ff84819ed8","","","Decline to state","Decline to state","Benchmark is committed to its mission of transforming lives through human connection. We hire for passion, train for skill, and are dedicated to bringing our core values to life in all that we do.","","","","","","",""
+"in-d72768865addbd4e","indeed","https://www.indeed.com/viewjob?jk=d72768865addbd4e","https://jobs.dayforcehcm.com/en-US/benchmark/CANDIDATEPORTAL/jobs/22331","LPN/RN - Per Diem","Benchmark Senior Living","Quincy, MA, US","2025-09-06","perdiem","","hourly","","","USD",False,"","","","","Join, stay, and grow with Benchmark. Connect with your calling.
   
   
 
@@ -473,37 +342,17 @@ Requirements
 
 As a community associate at Benchmark, you will have access to a variety of benefits including, but not limited to, the following:
   
-* 8 holidays \\&amp; 3 floating holidays
+* 8 holidays \\& 3 floating holidays
 * Discounted Meal Program
-* Paid Training \\&amp; Company\\-provided Uniforms
+* Paid Training \\& Company\\-provided Uniforms
 * Associate Referral Bonus Program
-* Physical \\&amp; Mental Health Wellness Programs
+* Physical \\& Mental Health Wellness Programs
 * 401k Retirement Plan with Company Match\\*
-* Medical, Vision \\&amp; Dental Benefits\\*
+* Medical, Vision \\& Dental Benefits\\*
 * Tuition Reimbursement Program\\*
-* Vacation and Health \\&amp; Wellness Paid Time Off\\*
-* Eligibility may vary by employment status
-🔗 Apply Direct: https://jobs.dayforcehcm.com/en-US/benchmark/CANDIDATEPORTAL/jobs/22331
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d72768865addbd4e</description>
-      <companyName>Benchmark Senior Living</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Quincy, MA, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at Douglas County, NE</title>
-      <link>https://www.governmentjobs.com/careers/douglas/jobs/5070365/registered-nurse</link>
-      <guid isPermaLink="false">Douglas County, NE-Registered Nurse-Omaha, NE, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Omaha, NE, US
-💼 Type: Parttime, Fulltime
-🏠 Work: On-site
-💰 Salary: USD 40 - 50 (hourly)
-
-📝 Description: **The Position**
+* Vacation and Health \\& Wellness Paid Time Off\\*
+* Eligibility may vary by employment status","","https://www.indeed.com/cmp/Benchmark-Senior-Living","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/593d6dead7b3cea048b7c6ff84819ed8","","","Decline to state","Decline to state","Benchmark is committed to its mission of transforming lives through human connection. We hire for passion, train for skill, and are dedicated to bringing our core values to life in all that we do.","","","","","","",""
+"in-7ff2bce38be4073c","indeed","https://www.indeed.com/viewjob?jk=7ff2bce38be4073c","https://www.governmentjobs.com/careers/douglas/jobs/5070365/registered-nurse","Registered Nurse","Douglas County, NE","Omaha, NE, US","2025-09-06","parttime, fulltime","direct_data","hourly",40.0,50.0,"USD",False,"","","","","**The Position**
 ----------------
 
 
@@ -563,7 +412,7 @@ Incumbent works under the direction of the Chief Nursing Officer or designee, ov
 * Valid driver’s license upon hire and maintained throughout employment required.
 * Completion of pre\\-employment criminal record check, conditional drug screen, and physical assessment required.
 
-**Physical Requirements \\&amp; Working Conditions**
+**Physical Requirements \\& Working Conditions**
 -----------------------------------------------
 
 
@@ -574,29 +423,8 @@ Incumbent works under the direction of the Chief Nursing Officer or designee, ov
   
 
 
-*Douglas County is an EOE \\- Disability/Veterans*
-🔗 Apply Direct: https://www.governmentjobs.com/careers/douglas/jobs/5070365/registered-nurse
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7ff2bce38be4073c</description>
-      <companyName>Douglas County, NE</companyName>
-      <jobType>Parttime, Fulltime</jobType>
-      <jobLocation>Omaha, NE, US</jobLocation>
-      <salaryMin>40</salaryMin>
-      <salaryMax>50</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse / RN Cardiac Cath PACU at Hillcrest HealthCare System</title>
-      <link>https://jobs.ardenthealth.com/jobs/122849/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Hillcrest HealthCare System-Registered Nurse / RN Cardiac Cath PACU-Tulsa, OK, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Tulsa, OK, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+*Douglas County is an EOE \\- Disability/Veterans*","Government","https://www.indeed.com/cmp/Douglas-County,-Ne","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f68eec5f42add63798fc461b93107c23","https://www.douglascounty-ne.gov/","","","","","","","","","","",""
+"in-c6df3ac6a3e5303b","indeed","https://www.indeed.com/viewjob?jk=c6df3ac6a3e5303b","https://jobs.ardenthealth.com/jobs/122849/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse / RN Cardiac Cath PACU","Hillcrest HealthCare System","Tulsa, OK, US","2025-09-06","fulltime","","","","","",False,"","","","","Overview:
 **You may be eligible for a sign\\-on bonus of up to $11,000\\.**  
 
 **You may also be eligible for relocation assistance.**  
@@ -623,26 +451,8 @@ Qualifications:
 Job Requirements:* Completion of a state\\-approved Registered Nurse Program
 * 2 year Associate Degree
 * Valid State of Oklahoma Registered Nurse License
-* Basic Life Support (BLS) Certified
-🔗 Apply Direct: https://jobs.ardenthealth.com/jobs/122849/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c6df3ac6a3e5303b</description>
-      <companyName>Hillcrest HealthCare System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Tulsa, OK, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse at PrimeCare Medical Inc</title>
-      <link>https://recruiting.paylocity.com/recruiting/jobs/Details/3556044/PrimeCare-Medical-Inc/Licensed-Practical-Nurse?source=Indeed_Feed</link>
-      <guid isPermaLink="false">PrimeCare Medical Inc-Licensed Practical Nurse-La Plata, MD, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: La Plata, MD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 29 - 35 (hourly)
-
-📝 Description: Description: PrimeCare Medical, Inc. is looking for dedicated and hard\\-working **Licensed Practical Nurses (LPN)** to work in the medical department at the **Charles County Detention Center** located in **La Plata, MD.** In this role, you will provide comprehensive nursing care and perform duties under the supervision of an RN.**Current Openings:** Full\\-Time Evening / Night Shift (2:45 pm to 10:45 pm or 10:45 pm \\- 7:15 am)
+* Basic Life Support (BLS) Certified","Health Care","https://www.indeed.com/cmp/Hillcrest-Healthcare-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/45fe9469956d6e7241384407988752bd","https://www.hillcrest.com","Tulsa, OK","201 to 500","$25M to $100M (USD)","Hillcrest HealthCare System is at the forefront of improving the health of our community. We are driven by our purpose of caring for people: our patients, their families and one another.","","","","","","",""
+"in-e998ed6e3705b979","indeed","https://www.indeed.com/viewjob?jk=e998ed6e3705b979","https://recruiting.paylocity.com/recruiting/jobs/Details/3556044/PrimeCare-Medical-Inc/Licensed-Practical-Nurse?source=Indeed_Feed","Licensed Practical Nurse","PrimeCare Medical Inc","La Plata, MD, US","2025-09-06","fulltime","direct_data","hourly",29.0,35.0,"USD",False,"","","","","Description: PrimeCare Medical, Inc. is looking for dedicated and hard\\-working **Licensed Practical Nurses (LPN)** to work in the medical department at the **Charles County Detention Center** located in **La Plata, MD.** In this role, you will provide comprehensive nursing care and perform duties under the supervision of an RN.**Current Openings:** Full\\-Time Evening / Night Shift (2:45 pm to 10:45 pm or 10:45 pm \\- 7:15 am)
 
 **Job Responsibilities:** The Licensed Practical Nurse will primarily be responsible for providing comprehensive nursing care while ensuring the proper flow of relevant information is disseminated to appropriate personnel. In addition, the Licensed Practical Nurse will also maintain, update, and work with electronic medical records and ensure that they are secure. Other responsibilities will include:
 
@@ -677,30 +487,9 @@ Other requirements for the Licensed Practical Nurse include:
 * Ability to communicate effectively
 * Ability to function under supervision
 * Demonstrate clinical competency
-* Experience in correctional health care delivery system, a plus
-🔗 Apply Direct: https://recruiting.paylocity.com/recruiting/jobs/Details/3556044/PrimeCare-Medical-Inc/Licensed-Practical-Nurse?source=Indeed_Feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e998ed6e3705b979</description>
-      <companyName>PrimeCare Medical Inc</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>La Plata, MD, US</jobLocation>
-      <salaryMin>29</salaryMin>
-      <salaryMax>35</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Outpatient Wound Care PRN at Texas Health Huguley Hospital</title>
-      <link>https://AdventHealth.contacthr.com/148937514</link>
-      <guid isPermaLink="false">Texas Health Huguley Hospital-RN Outpatient Wound Care PRN-Burleson, TX, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Burleson, TX, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 30 - 49 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+* Experience in correctional health care delivery system, a plus","Health Care","https://www.indeed.com/cmp/Primecare-Medical-Inc-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a391a93da972e3c8c4de431b1fae1b9e","http://www.primecaremedical.com/","3940 Locust Lane
+Harrisburg, PA 17109","1,001 to 5,000","","Correctional nursing provides a challenging and exciting world of opportunities for nurses today.","","","","","","",""
+"in-dbecebde8a6137b2","indeed","https://www.indeed.com/viewjob?jk=dbecebde8a6137b2","https://AdventHealth.contacthr.com/148937514","RN Outpatient Wound Care PRN","Texas Health Huguley Hospital","Burleson, TX, US","2025-09-06","perdiem","direct_data","hourly",30.0,49.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Career Development
@@ -833,30 +622,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25034143
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148937514
-🔗 Job Board: https://www.indeed.com/viewjob?jk=dbecebde8a6137b2</description>
-      <companyName>Texas Health Huguley Hospital</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Burleson, TX, US</jobLocation>
-      <salaryMin>30</salaryMin>
-      <salaryMax>49</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Director Bone &amp; Joint Center at UChicago Medicine AdventHealth La Grange</title>
-      <link>https://AdventHealth.contacthr.com/148937647</link>
-      <guid isPermaLink="false">UChicago Medicine AdventHealth La Grange-RN Director Bone &amp; Joint Center-La Grange, IL, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: La Grange, IL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 59 - 110 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","https://www.indeed.com/cmp/Texas-Health-Huguley-Hospital","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8fefed441b699de31e4459abcd988023","http://www.joinadventhealth.com/texashealthhuguley","Fort Worth, TX","1,001 to 5,000","$25M to $100M (USD)","As a member of AdventHealth, we carry on the tradition that recognizes that total health is achieved through the proper balance of physical, mental, social and spiritual well-being.","","","","","","",""
+"in-23e25d51dd425a40","indeed","https://www.indeed.com/viewjob?jk=23e25d51dd425a40","https://AdventHealth.contacthr.com/148937647","RN Director Bone & Joint Center","UChicago Medicine AdventHealth La Grange","La Grange, IL, US","2025-09-06","fulltime","direct_data","hourly",59.0,110.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Benefits from Day One
@@ -934,30 +701,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25035228
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148937647
-🔗 Job Board: https://www.indeed.com/viewjob?jk=23e25d51dd425a40</description>
-      <companyName>UChicago Medicine AdventHealth La Grange</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>La Grange, IL, US</jobLocation>
-      <salaryMin>59</salaryMin>
-      <salaryMax>110</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Nursing Professional Development Director at nan</title>
-      <link>https://AdventHealth.contacthr.com/148937633</link>
-      <guid isPermaLink="false">nan-Nursing Professional Development Director-Mansfield, TX, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Mansfield, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 51 - 95 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","https://www.indeed.com/cmp/Uchicago-Medicine-Adventhealth-La-Grange","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/aa565c3e569d1ed20dabf6273e6fed32","http://www.joinadventhealth.com","La Grange, IL","Decline to state","Decline to state","AdventHealth La Grange provides state-of-the-art health care and advanced medical services to the community. We strive to create an environment that promotes healing, health and relaxation.","","","","","","",""
+"in-b3878ede1af8446f","indeed","https://www.indeed.com/viewjob?jk=b3878ede1af8446f","https://AdventHealth.contacthr.com/148937633","Nursing Professional Development Director","","Mansfield, TX, US","2025-09-06","fulltime","direct_data","hourly",51.0,95.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Benefits from Day One
@@ -1063,29 +808,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25035188
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148937633
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b3878ede1af8446f</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Mansfield, TX, US</jobLocation>
-      <salaryMin>51</salaryMin>
-      <salaryMax>95</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN PCU Days or Nights - Mansfield at nan</title>
-      <link>https://AdventHealth.contacthr.com/148937479</link>
-      <guid isPermaLink="false">nan-RN PCU Days or Nights - Mansfield-Mansfield, TX, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Mansfield, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 30 - 49 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","","","","","","","","","","","","","",""
+"in-be5d7372e49ca09b","indeed","https://www.indeed.com/viewjob?jk=be5d7372e49ca09b","https://AdventHealth.contacthr.com/148937479","RN PCU Days or Nights - Mansfield","","Mansfield, TX, US","2025-09-06","fulltime","direct_data","hourly",30.0,49.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Benefits from Day One
@@ -1199,29 +923,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25033884
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148937479
-🔗 Job Board: https://www.indeed.com/viewjob?jk=be5d7372e49ca09b</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Mansfield, TX, US</jobLocation>
-      <salaryMin>30</salaryMin>
-      <salaryMax>49</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN M/S Days - Mansfield at nan</title>
-      <link>https://AdventHealth.contacthr.com/148937409</link>
-      <guid isPermaLink="false">nan-RN M/S Days - Mansfield-Mansfield, TX, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Mansfield, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 33 - 52 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","","","","","","","","","","","","","",""
+"in-195b0316c48982de","indeed","https://www.indeed.com/viewjob?jk=195b0316c48982de","https://AdventHealth.contacthr.com/148937409","RN M/S Days - Mansfield","","Mansfield, TX, US","2025-09-06","fulltime","direct_data","hourly",33.0,52.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Benefits from Day One
@@ -1332,29 +1035,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25033349
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148937409
-🔗 Job Board: https://www.indeed.com/viewjob?jk=195b0316c48982de</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Mansfield, TX, US</jobLocation>
-      <salaryMin>33</salaryMin>
-      <salaryMax>52</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN PCU Overflow - MICU - Days and Nights Available at Texas Health Huguley Hospital</title>
-      <link>https://AdventHealth.contacthr.com/148937591</link>
-      <guid isPermaLink="false">Texas Health Huguley Hospital-RN PCU Overflow - MICU - Days and Nights Available-Burleson, TX, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Burleson, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 30 - 49 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","","","","","","","","","","","","","",""
+"in-4b4c53ab881e946b","indeed","https://www.indeed.com/viewjob?jk=4b4c53ab881e946b","https://AdventHealth.contacthr.com/148937591","RN PCU Overflow - MICU - Days and Nights Available","Texas Health Huguley Hospital","Burleson, TX, US","2025-09-06","fulltime","direct_data","hourly",30.0,49.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Benefits from Day One
@@ -1441,30 +1123,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25034840
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148937591
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4b4c53ab881e946b</description>
-      <companyName>Texas Health Huguley Hospital</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Burleson, TX, US</jobLocation>
-      <salaryMin>30</salaryMin>
-      <salaryMax>49</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Emergency Department RN at UChicago Medicine AdventHealth Bolingbrook</title>
-      <link>https://AdventHealth.contacthr.com/148937654</link>
-      <guid isPermaLink="false">UChicago Medicine AdventHealth Bolingbrook-Emergency Department RN-Bolingbrook, IL, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Bolingbrook, IL, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 33 - 56 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","https://www.indeed.com/cmp/Texas-Health-Huguley-Hospital","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8fefed441b699de31e4459abcd988023","http://www.joinadventhealth.com/texashealthhuguley","Fort Worth, TX","1,001 to 5,000","$25M to $100M (USD)","As a member of AdventHealth, we carry on the tradition that recognizes that total health is achieved through the proper balance of physical, mental, social and spiritual well-being.","","","","","","",""
+"in-4c447b74a0be359f","indeed","https://www.indeed.com/viewjob?jk=4c447b74a0be359f","https://AdventHealth.contacthr.com/148937654","Emergency Department RN","UChicago Medicine AdventHealth Bolingbrook","Bolingbrook, IL, US","2025-09-06","perdiem","direct_data","hourly",33.0,56.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Benefits from Day One
@@ -1540,30 +1200,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25035280
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148937654
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4c447b74a0be359f</description>
-      <companyName>UChicago Medicine AdventHealth Bolingbrook</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Bolingbrook, IL, US</jobLocation>
-      <salaryMin>33</salaryMin>
-      <salaryMax>56</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinical Education Manager at nan</title>
-      <link>https://AdventHealth.contacthr.com/148937458</link>
-      <guid isPermaLink="false">nan-Clinical Education Manager-Mansfield, TX, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Mansfield, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 35 - 65 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","https://www.indeed.com/cmp/Uchicago-Medicine-Adventhealth-Bolingbrook-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b1c9b66c6f14301c8f945aef5299dbf8","http://www.joinadventhealth.com","Bolingbrook, IL","Decline to state","Decline to state","AdventHealth Bolingbrook has been providing faith-based care in the Adventist tradition to Chicago’s western and southwestern suburbs since 2008.","","","","","","",""
+"in-6d853bc2a763b07a","indeed","https://www.indeed.com/viewjob?jk=6d853bc2a763b07a","https://AdventHealth.contacthr.com/148937458","Clinical Education Manager","","Mansfield, TX, US","2025-09-06","fulltime","direct_data","hourly",35.0,65.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Benefits from Day One
@@ -1660,29 +1298,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25033832
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148937458
-🔗 Job Board: https://www.indeed.com/viewjob?jk=6d853bc2a763b07a</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Mansfield, TX, US</jobLocation>
-      <salaryMin>35</salaryMin>
-      <salaryMax>65</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN M/S Nights - Mansfield at nan</title>
-      <link>https://AdventHealth.contacthr.com/148937402</link>
-      <guid isPermaLink="false">nan-RN M/S Nights - Mansfield-Mansfield, TX, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Mansfield, TX, US
-💼 Type: Parttime, Fulltime
-🏠 Work: On-site
-💰 Salary: USD 33 - 52 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","","","","","","","","","","","","","",""
+"in-31aa3e8edc5bdb93","indeed","https://www.indeed.com/viewjob?jk=31aa3e8edc5bdb93","https://AdventHealth.contacthr.com/148937402","RN M/S Nights - Mansfield","","Mansfield, TX, US","2025-09-06","parttime, fulltime","direct_data","hourly",33.0,52.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Benefits from Day One
@@ -1793,29 +1410,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25033340
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148937402
-🔗 Job Board: https://www.indeed.com/viewjob?jk=31aa3e8edc5bdb93</description>
-      <jobType>Parttime, Fulltime</jobType>
-      <jobLocation>Mansfield, TX, US</jobLocation>
-      <salaryMin>33</salaryMin>
-      <salaryMax>52</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Assistant Nurse Manager M/S Nights at nan</title>
-      <link>https://AdventHealth.contacthr.com/148937472</link>
-      <guid isPermaLink="false">nan-Assistant Nurse Manager M/S Nights-Mansfield, TX, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Mansfield, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 35 - 65 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","","","","","","","","","","","","","",""
+"in-5e4144f506eacf8d","indeed","https://www.indeed.com/viewjob?jk=5e4144f506eacf8d","https://AdventHealth.contacthr.com/148937472","Assistant Nurse Manager M/S Nights","","Mansfield, TX, US","2025-09-06","fulltime","direct_data","hourly",35.0,65.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Benefits from Day One
@@ -1950,29 +1546,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25033873
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148937472
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5e4144f506eacf8d</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Mansfield, TX, US</jobLocation>
-      <salaryMin>35</salaryMin>
-      <salaryMax>65</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN ICU Days or Nights at nan</title>
-      <link>https://AdventHealth.contacthr.com/148937465</link>
-      <guid isPermaLink="false">nan-RN ICU Days or Nights-Mansfield, TX, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Mansfield, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 30 - 49 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","","","","","","","","","","","","","",""
+"in-1f9bbd4f91301cbe","indeed","https://www.indeed.com/viewjob?jk=1f9bbd4f91301cbe","https://AdventHealth.contacthr.com/148937465","RN ICU Days or Nights","","Mansfield, TX, US","2025-09-06","fulltime","direct_data","hourly",30.0,49.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Benefits from Day One
@@ -2092,35 +1667,14 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25033860
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148937465
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1f9bbd4f91301cbe</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Mansfield, TX, US</jobLocation>
-      <salaryMin>30</salaryMin>
-      <salaryMax>49</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Surgery - Shawnee Mission at AdventHealth Shawnee Mission</title>
-      <link>https://AdventHealth.contacthr.com/148937430</link>
-      <guid isPermaLink="false">AdventHealth Shawnee Mission-RN Surgery - Shawnee Mission-Shawnee, KS, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Shawnee, KS, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 33 - 62 (hourly)
-
-📝 Description: **Registered Nurse Surgical** **AdventHealth** **Shawnee Mission**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","","","","","","","","","","","","","",""
+"in-97400b10b8240760","indeed","https://www.indeed.com/viewjob?jk=97400b10b8240760","https://AdventHealth.contacthr.com/148937430","RN Surgery - Shawnee Mission","AdventHealth Shawnee Mission","Shawnee, KS, US","2025-09-06","fulltime","direct_data","hourly",33.0,62.0,"USD",False,"","","","","**Registered Nurse Surgical** **AdventHealth** **Shawnee Mission**
 
 
 **All the benefits and perks you need for you and your family:**
 
 
-* Vision, Medical \\&amp; Dental Benefits from Day One
+* Vision, Medical \\& Dental Benefits from Day One
 * Student Loan Repayment Program
 * Received Magnet recognition from the American Nurses Credentialing Center in January 2019
 
@@ -2192,30 +1746,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25033594
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148937430
-🔗 Job Board: https://www.indeed.com/viewjob?jk=97400b10b8240760</description>
-      <companyName>AdventHealth Shawnee Mission</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Shawnee, KS, US</jobLocation>
-      <salaryMin>33</salaryMin>
-      <salaryMax>62</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse Mother Baby PRN Nights at AdventHealth Shawnee Mission</title>
-      <link>https://AdventHealth.contacthr.com/148937346</link>
-      <guid isPermaLink="false">AdventHealth Shawnee Mission-Registered Nurse Mother Baby PRN Nights-Shawnee, KS, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Shawnee, KS, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 32 - 60 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","https://www.indeed.com/cmp/Adventhealth-Shawnee-Mission","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fbe64a8630a72751aa2e295c464c72ab","https://www.joinadventhealth.com/shawneemission","Overland Park, KS","1,001 to 5,000","$100M to $500M (USD)","AdventHealth Shawnee Mission has provided faith-based, whole person care to the Kansas City community since 1962.","","","","","","",""
+"in-4faf54fe65d8d4cb","indeed","https://www.indeed.com/viewjob?jk=4faf54fe65d8d4cb","https://AdventHealth.contacthr.com/148937346","Registered Nurse Mother Baby PRN Nights","AdventHealth Shawnee Mission","Shawnee, KS, US","2025-09-06","perdiem","direct_data","hourly",32.0,60.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Received Magnet® recognition from the American Nurses Credentialing Center in January 2019
@@ -2292,30 +1824,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25015177
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148937346
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4faf54fe65d8d4cb</description>
-      <companyName>AdventHealth Shawnee Mission</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Shawnee, KS, US</jobLocation>
-      <salaryMin>32</salaryMin>
-      <salaryMax>60</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse Medical Surgical Unit Full Time Days at AdventHealth Altamonte</title>
-      <link>https://AdventHealth.contacthr.com/148937437</link>
-      <guid isPermaLink="false">AdventHealth Altamonte-Registered Nurse Medical Surgical Unit Full Time Days-Altamonte Springs, FL, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Altamonte Springs, FL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 31 - 52 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","https://www.indeed.com/cmp/Adventhealth-Shawnee-Mission","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fbe64a8630a72751aa2e295c464c72ab","https://www.joinadventhealth.com/shawneemission","Overland Park, KS","1,001 to 5,000","$100M to $500M (USD)","AdventHealth Shawnee Mission has provided faith-based, whole person care to the Kansas City community since 1962.","","","","","","",""
+"in-1e32b579fb25167a","indeed","https://www.indeed.com/viewjob?jk=1e32b579fb25167a","https://AdventHealth.contacthr.com/148937437","Registered Nurse Medical Surgical Unit Full Time Days","AdventHealth Altamonte","Altamonte Springs, FL, US","2025-09-06","fulltime","direct_data","hourly",31.0,52.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Benefits from Day One
@@ -2401,30 +1911,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25033614
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148937437
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1e32b579fb25167a</description>
-      <companyName>AdventHealth Altamonte</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Altamonte Springs, FL, US</jobLocation>
-      <salaryMin>31</salaryMin>
-      <salaryMax>52</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse Night at AdventHealth Manchester</title>
-      <link>https://AdventHealth.contacthr.com/148937626</link>
-      <guid isPermaLink="false">AdventHealth Manchester-Registered Nurse Night-Manchester, KY, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Manchester, KY, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 30 - 49 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","https://www.indeed.com/cmp/Adventhealth-Altamonte-1","","http://www.joinadventhealth.com","Altamonte Springs, FL","1,001 to 5,000","Decline to state","Everything we do is centered on a faith-based tradition of nurturing the whole person, within a spiritual setting that ministers to mind, body, and soul.","","","","","","",""
+"in-d6de41ec2494a4b2","indeed","https://www.indeed.com/viewjob?jk=d6de41ec2494a4b2","https://AdventHealth.contacthr.com/148937626","Registered Nurse Night","AdventHealth Manchester","Manchester, KY, US","2025-09-06","fulltime","direct_data","hourly",30.0,49.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Benefits from Day One
@@ -2485,7 +1973,7 @@ Qualifications
 * Chemotherapy Certification (CHEMO) Preferred
 * Pediatric Advanced Life Support Cert (PALS) Preferred
 * Neonatal Med Certification (NEONATAL MED) Preferred
-* Pediatric ER Assess, Recog \\&amp; Stabilization (PEARS) Preferred
+* Pediatric ER Assess, Recog \\& Stabilization (PEARS) Preferred
 * NIH Stroke Scale Certification (NIHSS) Preferred
 * NonViolent Crisis Intervention Program (CPI) Preferred
 * S.T.A.B.L.E. Certification Preferred
@@ -2513,30 +2001,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25035050
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148937626
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d6de41ec2494a4b2</description>
-      <companyName>AdventHealth Manchester</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Manchester, KY, US</jobLocation>
-      <salaryMin>30</salaryMin>
-      <salaryMax>49</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse Mother Baby Part Time Nights at AdventHealth Shawnee Mission</title>
-      <link>https://AdventHealth.contacthr.com/148937549</link>
-      <guid isPermaLink="false">AdventHealth Shawnee Mission-Registered Nurse Mother Baby Part Time Nights-Shawnee, KS, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Shawnee, KS, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 32 - 60 (hourly)
-
-📝 Description: **All the benefits and perks you need for you and your family:**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","https://www.indeed.com/cmp/Adventhealth-Manchester","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cf1226b271563f4276b9e8a1b759003a","http://www.joinadventhealth.com/manchester","Manchester, KY","201 to 500","$5M to $25M (USD)","AdventHealth Manchester provides outstanding healthcare services to Clay, Jackson, Knox, Laurel, Leslie and Owsley counties.","","","","","","",""
+"in-ad678936b1c655bd","indeed","https://www.indeed.com/viewjob?jk=ad678936b1c655bd","https://AdventHealth.contacthr.com/148937549","Registered Nurse Mother Baby Part Time Nights","AdventHealth Shawnee Mission","Shawnee, KS, US","2025-09-06","parttime","direct_data","hourly",32.0,60.0,"USD",False,"","","","","**All the benefits and perks you need for you and your family:**
 
 
 * Received Magnet recognition from the American Nurses Credentialing Center in January 2019
@@ -2617,36 +2083,14 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25034650
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148937549
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ad678936b1c655bd</description>
-      <companyName>AdventHealth Shawnee Mission</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Shawnee, KS, US</jobLocation>
-      <salaryMin>32</salaryMin>
-      <salaryMax>60</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Emergency Department Midshift Part Time - Lenexa City Center at nan</title>
-      <link>https://AdventHealth.contacthr.com/148937542</link>
-      <guid isPermaLink="false">nan-RN Emergency Department Midshift Part Time - Lenexa City Center-Lenexa, KS, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Lenexa, KS, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 32 - 60 (hourly)
-
-📝 Description: **Registered Nurse** **AdventHealth Lenexa City Center**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","https://www.indeed.com/cmp/Adventhealth-Shawnee-Mission","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fbe64a8630a72751aa2e295c464c72ab","https://www.joinadventhealth.com/shawneemission","Overland Park, KS","1,001 to 5,000","$100M to $500M (USD)","AdventHealth Shawnee Mission has provided faith-based, whole person care to the Kansas City community since 1962.","","","","","","",""
+"in-57b25a65dbe0f963","indeed","https://www.indeed.com/viewjob?jk=57b25a65dbe0f963","https://AdventHealth.contacthr.com/148937542","RN Emergency Department Midshift Part Time - Lenexa City Center","","Lenexa, KS, US","2025-09-06","parttime","direct_data","hourly",32.0,60.0,"USD",False,"","","","","**Registered Nurse** **AdventHealth Lenexa City Center**
 
 
 **All the benefits and perks you need for you and your family:**
 
 
-Vision, Medical \\&amp; Dental Benefits from Day One
+Vision, Medical \\& Dental Benefits from Day One
 
 
 Student Loan Repayment Program
@@ -2722,29 +2166,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25034485
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148937542
-🔗 Job Board: https://www.indeed.com/viewjob?jk=57b25a65dbe0f963</description>
-      <jobType>Parttime</jobType>
-      <jobLocation>Lenexa, KS, US</jobLocation>
-      <salaryMin>32</salaryMin>
-      <salaryMax>60</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Quality Improvement RN at AdventHealth Orlando</title>
-      <link>https://AdventHealth.contacthr.com/148937521</link>
-      <guid isPermaLink="false">AdventHealth Orlando-Quality Improvement RN-Orlando, FL, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Orlando, FL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 32 - 57 (hourly)
-
-📝 Description: **Quality Improvement RN**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","","","","","","","","","","","","","",""
+"in-efa05d14db7d30ac","indeed","https://www.indeed.com/viewjob?jk=efa05d14db7d30ac","https://AdventHealth.contacthr.com/148937521","Quality Improvement RN","AdventHealth Orlando","Orlando, FL, US","2025-09-06","fulltime","direct_data","hourly",32.0,57.0,"USD",False,"","","","","**Quality Improvement RN**
 
 
 **All the benefits and perks you need for you and your family:**
@@ -2811,28 +2234,8 @@ This facility is an equal opportunity employer and complies with federal, state 
 **Req ID:** 25034241
 
 
-We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148937521
-🔗 Job Board: https://www.indeed.com/viewjob?jk=efa05d14db7d30ac</description>
-      <companyName>AdventHealth Orlando</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Orlando, FL, US</jobLocation>
-      <salaryMin>32</salaryMin>
-      <salaryMax>57</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>AdventHealth Certified Nurse Midwife – Delivering Joy in Daytona Beach at AdventHealth Medical Group</title>
-      <link>https://AdventHealth.contacthr.com/148937339</link>
-      <guid isPermaLink="false">AdventHealth Medical Group-AdventHealth Certified Nurse Midwife – Delivering Joy in Daytona Beach-Daytona Beach, FL, US</guid>
-      <pubDate>Sat, 06 Sep 2025 09:14:34 +0000</pubDate>
-      <description>📍 Location: Daytona Beach, FL, US
-🏠 Work: On-site
-
-📝 Description: **Certified Nurse Midwife (CNM) – AdventHealth Medical Group**
+We are an equal opportunity employer and do not tolerate discrimination based on race, color, creed, religion, national origin, sex, marital status, age or disability/handicap with respect to recruitment, selection, placement, promotion, wages, benefits and other terms and conditions of employment.","","https://www.indeed.com/cmp/Adventhealth-Orlando-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fbe64a8630a72751aa2e295c464c72ab","http://www.joinadventhealth.com","Orlando, FL","5,001 to 10,000","Decline to state","AdventHealth Orlando began a new model of health care in 1908, in a converted farmhouse in rural Central Florida.","","","","","","",""
+"in-c667e265dcf7e573","indeed","https://www.indeed.com/viewjob?jk=c667e265dcf7e573","https://AdventHealth.contacthr.com/148937339","AdventHealth Certified Nurse Midwife – Delivering Joy in Daytona Beach","AdventHealth Medical Group","Daytona Beach, FL, US","2025-09-06","","","","","","",False,"","","","Rachel.Hale@adventhealth.com","**Certified Nurse Midwife (CNM) – AdventHealth Medical Group**
 
 
 **Location:** Daytona Beach, Florida
@@ -2895,7 +2298,7 @@ AdventHealth Medical Group is seeking a **Certified Nurse Midwife (CNM)** to joi
 * Minimum of 1–2 years of midwifery experience preferred; new graduates with strong clinical rotations will be considered.
 
 
-* Experience in **labor \\&amp; delivery, prenatal care, and women's health services** .
+* Experience in **labor \\& delivery, prenatal care, and women's health services** .
 
 
 **Licensure, Certification, and Registration**
@@ -2937,7 +2340,7 @@ Interested candidates should submit their CV and cover letter to:
 **Rachel Hale**
 
 
-AdventHealth Medical Group – Physician \\&amp; APP Recruitment
+AdventHealth Medical Group – Physician \\& APP Recruitment
 
 
 Rachel.Hale@adventhealth.com
@@ -2946,13 +2349,4 @@ Rachel.Hale@adventhealth.com
 **Category:** Women's Health
 
 
-**Req ID:** 148932956
-🔗 Apply Direct: https://AdventHealth.contacthr.com/148937339
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c667e265dcf7e573</description>
-      <companyName>AdventHealth Medical Group</companyName>
-      <jobLocation>Daytona Beach, FL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-  </channel>
-</rss>
+**Req ID:** 148932956","","https://www.indeed.com/cmp/Adventhealth-Medical-Group-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7947eccdaf7183f47b69607307c08d4b","https://www.joinadventhealth.com/medicalgroupcfl","Maitland","1,001 to 5,000","$100M to $500M (USD)","At AdventHealth Medical Group, Extending the Healing Ministry of Christ is our mission. It calls us to be His hands and feet in helping people feel whole.","","","","","","",""
