@@ -1,23 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Daily Nurse Jobs Feed</title>
-    <description>Daily feed of nursing jobs with direct company application links</description>
-    <link>https://github.com/your-username/your-repo</link>
-    <lastBuildDate>Sat, 20 Sep 2025 09:15:15 +0000</lastBuildDate>
-    <generator>Nurse Job Search Bot</generator>
-    <language>en-us</language>
-    <item>
-      <title>Registered Nurse (RN) - Enterprise Float Pool at ECU Health</title>
-      <link>https://careers.vidanthealth.com/en/jobs/15837722-registered-nurse-rn-enterprise-float-pool?tm_job=975519-1A&amp;tm_event=view&amp;tm_company=2362</link>
-      <guid isPermaLink="false">ECU Health-Registered Nurse (RN) - Enterprise Float Pool-Greenville, NC, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Greenville, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 66,560 - 124,800 (yearly)
-
-📝 Description: **ECU Health**
+"id","site","job_board_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type","job_url"
+"in-abb982ea3277dad4","indeed","https://www.indeed.com/viewjob?jk=abb982ea3277dad4","https://careers.vidanthealth.com/en/jobs/15837722-registered-nurse-rn-enterprise-float-pool?tm_job=975519-1A&tm_event=view&tm_company=2362","Registered Nurse (RN) - Enterprise Float Pool","ECU Health","Greenville, NC, US","2025-09-20","fulltime","direct_data","yearly",66560.0,124800.0,"USD",False,"","","","gloria.jones@ecuhealth.org","**ECU Health**
 
 
 **About ECU Health Medical Center**
@@ -82,30 +64,8 @@ Gloria Jones, Sr Recruiter
 ECU Health Talent Acquisition
 
 
-Email: gloria.jones@ecuhealth.org
-🔗 Apply Direct: https://careers.vidanthealth.com/en/jobs/15837722-registered-nurse-rn-enterprise-float-pool?tm_job=975519-1A&amp;tm_event=view&amp;tm_company=2362
-🔗 Job Board: https://www.indeed.com/viewjob?jk=abb982ea3277dad4</description>
-      <companyName>ECU Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Greenville, NC, US</jobLocation>
-      <salaryMin>66560</salaryMin>
-      <salaryMax>124800</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Residency, Medical ICU, Nights at Atrium Health</title>
-      <link>https://jobs.talemetry.com/atriumhelath/jobs/apply?job_list_id=6629&amp;returnUrl=https%3A%2F%2Faah.wd5.myworkdayjobs.com%2FExternal%2Fjob%2FAtrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC%2FRN-Residency--Medical-ICU--Nights_R183672-1%2Fapply&amp;tm_job=R183672&amp;tm_event=view&amp;tm_company=13027</link>
-      <guid isPermaLink="false">Atrium Health-RN Residency, Medical ICU, Nights-Winston-Salem, NC, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Winston-Salem, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 34 - 52 (hourly)
-
-📝 Description: **Department:**
+Email: gloria.jones@ecuhealth.org","","https://www.indeed.com/cmp/Ecu-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f87b2967dbbefaa3c6033b3e4a578594","https://careers.ecuhealth.org/","Greenville, NC","1,001 to 5,000","Decline to state","ECU Health’s mission is to improve the health and well-being of eastern North Carolina.","","","","","","",""
+"in-f9900c2391536c8a","indeed","https://www.indeed.com/viewjob?jk=f9900c2391536c8a","https://jobs.talemetry.com/atriumhelath/jobs/apply?job_list_id=6629&returnUrl=https%3A%2F%2Faah.wd5.myworkdayjobs.com%2FExternal%2Fjob%2FAtrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC%2FRN-Residency--Medical-ICU--Nights_R183672-1%2Fapply&tm_job=R183672&tm_event=view&tm_company=13027","RN Residency, Medical ICU, Nights","Atrium Health","Winston-Salem, NC, US","2025-09-20","fulltime","direct_data","hourly",34.0,52.0,"USD",False,"","","","","**Department:**
 
 
 34513 Wake Forest Baptist Medical Center \\- Critical Care: MICU **Status:**
@@ -201,30 +161,8 @@ Advocate Health is the third\\-largest nonprofit, integrated health system in th
 
 
 
-Join our team of dedicated healthcare professionals in the Medical ICU and make a lasting impact on patient lives through your commitment, compassion, and expertise. Take advantage of opportunities for professional development and advancement in our esteemed institution. Apply now to be part of our exceptional team at Atrium Health Wake Forest Baptist!
-🔗 Apply Direct: https://jobs.talemetry.com/atriumhelath/jobs/apply?job_list_id=6629&amp;returnUrl=https%3A%2F%2Faah.wd5.myworkdayjobs.com%2FExternal%2Fjob%2FAtrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC%2FRN-Residency--Medical-ICU--Nights_R183672-1%2Fapply&amp;tm_job=R183672&amp;tm_event=view&amp;tm_company=13027
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f9900c2391536c8a</description>
-      <companyName>Atrium Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Winston-Salem, NC, US</jobLocation>
-      <salaryMin>34</salaryMin>
-      <salaryMax>52</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse Supervisor Ambulatory &amp; Outpatient at Atrium Health</title>
-      <link>https://jobs.talemetry.com/atriumhelath/jobs/apply?job_list_id=6629&amp;returnUrl=https%3A%2F%2Faah.wd5.myworkdayjobs.com%2FExternal%2Fjob%2FShelby-NC---111-W-Grover-St%2FRegistered-Nurse-Supervisor-Ambulatory---Outpatient_R180339%2Fapply&amp;tm_job=R180339-OTHLOC-LC0001432&amp;tm_event=view&amp;tm_company=13027</link>
-      <guid isPermaLink="false">Atrium Health-Registered Nurse Supervisor Ambulatory &amp; Outpatient-Gastonia, NC, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Gastonia, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 40 - 60 (hourly)
-
-📝 Description: **Department:**
+Join our team of dedicated healthcare professionals in the Medical ICU and make a lasting impact on patient lives through your commitment, compassion, and expertise. Take advantage of opportunities for professional development and advancement in our esteemed institution. Apply now to be part of our exceptional team at Atrium Health Wake Forest Baptist!","","https://www.indeed.com/cmp/Atrium-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8fb3a5adb25799fb8534eafd689450f2","http://www.careers.atriumhealth.org","Charlotte, NC","10,000+","$1B to $5B (USD)","Atrium Health is a nationally recognized leader in shaping health outcomes through innovative research, education and compassionate patient care.","","","","","","",""
+"in-28dc02e18bc03caa","indeed","https://www.indeed.com/viewjob?jk=28dc02e18bc03caa","https://jobs.talemetry.com/atriumhelath/jobs/apply?job_list_id=6629&returnUrl=https%3A%2F%2Faah.wd5.myworkdayjobs.com%2FExternal%2Fjob%2FShelby-NC---111-W-Grover-St%2FRegistered-Nurse-Supervisor-Ambulatory---Outpatient_R180339%2Fapply&tm_job=R180339-OTHLOC-LC0001432&tm_event=view&tm_company=13027","Registered Nurse Supervisor Ambulatory & Outpatient","Atrium Health","Gastonia, NC, US","2025-09-20","fulltime","direct_data","hourly",40.0,60.0,"USD",False,"","","","","**Department:**
 
 
 02050 GCMG SHVI: Shelby \\- Cardiology **Status:**
@@ -239,7 +177,7 @@ Yes **Hou****rs Per Week:**
 40 **Schedule Details/Additional Information:**
 
 
-M\\-F, 40hr/week, Shelby \\&amp; Gastonia locations
+M\\-F, 40hr/week, Shelby \\& Gastonia locations
 
 **Pay Range**
 
@@ -302,30 +240,8 @@ Advocate Health is the third\\-largest nonprofit, integrated health system in th
 
 
 
-Responsible for the direct provision of patient care and for assisting the manager with daily operations to include but not limited to coordination of patient care/outcomes, allocation of human and fiscal resources, communications, patient throughput, program development and oversight, patient, physician and employee rounding, selection, development, and retention of staff, clinical supervision and performance appraisal, performance improvement activities, service recovery and compliance with regulatory agency requirements. Maintains clinical and professional competency as appropriate to the population of patients served.
-🔗 Apply Direct: https://jobs.talemetry.com/atriumhelath/jobs/apply?job_list_id=6629&amp;returnUrl=https%3A%2F%2Faah.wd5.myworkdayjobs.com%2FExternal%2Fjob%2FShelby-NC---111-W-Grover-St%2FRegistered-Nurse-Supervisor-Ambulatory---Outpatient_R180339%2Fapply&amp;tm_job=R180339-OTHLOC-LC0001432&amp;tm_event=view&amp;tm_company=13027
-🔗 Job Board: https://www.indeed.com/viewjob?jk=28dc02e18bc03caa</description>
-      <companyName>Atrium Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Gastonia, NC, US</jobLocation>
-      <salaryMin>40</salaryMin>
-      <salaryMax>60</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LPN Ambulatory Float PRN at Atrium Health</title>
-      <link>https://jobs.talemetry.com/atriumhelath/jobs/apply?job_list_id=6629&amp;returnUrl=https%3A%2F%2Faah.wd5.myworkdayjobs.com%2FExternal%2Fjob%2FClemmons-NC---2311-Lewisville-Clemmons-Rd%2FLPN-Ambulatory-Float-PRN_R184274%2Fapply&amp;tm_job=R184274&amp;tm_event=view&amp;tm_company=13027</link>
-      <guid isPermaLink="false">Atrium Health-LPN Ambulatory Float PRN-Clemmons, NC, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Clemmons, NC, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 23 - 35 (hourly)
-
-📝 Description: **Department:**
+Responsible for the direct provision of patient care and for assisting the manager with daily operations to include but not limited to coordination of patient care/outcomes, allocation of human and fiscal resources, communications, patient throughput, program development and oversight, patient, physician and employee rounding, selection, development, and retention of staff, clinical supervision and performance appraisal, performance improvement activities, service recovery and compliance with regulatory agency requirements. Maintains clinical and professional competency as appropriate to the population of patients served.","","https://www.indeed.com/cmp/Atrium-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8fb3a5adb25799fb8534eafd689450f2","http://www.careers.atriumhealth.org","Charlotte, NC","10,000+","$1B to $5B (USD)","Atrium Health is a nationally recognized leader in shaping health outcomes through innovative research, education and compassionate patient care.","","","","","","",""
+"in-7d5b3368820fda18","indeed","https://www.indeed.com/viewjob?jk=7d5b3368820fda18","https://jobs.talemetry.com/atriumhelath/jobs/apply?job_list_id=6629&returnUrl=https%3A%2F%2Faah.wd5.myworkdayjobs.com%2FExternal%2Fjob%2FClemmons-NC---2311-Lewisville-Clemmons-Rd%2FLPN-Ambulatory-Float-PRN_R184274%2Fapply&tm_job=R184274&tm_event=view&tm_company=13027","LPN Ambulatory Float PRN","Atrium Health","Clemmons, NC, US","2025-09-20","parttime","direct_data","hourly",23.0,35.0,"USD",False,"","","","","**Department:**
 
 
 12846 Wake Forest Baptist Medical Center \\- Administration: Regional Facilities: Clemmons Med Plz **Status:**
@@ -415,30 +331,8 @@ Advocate Health is the third\\-largest nonprofit, integrated health system in th
 
 
 
-Functions in the physician office or ambulatory care practice to provide nursing services in an office setting. Works as part of a care team to improve the execution of quality requirements, increase throughput, improve efficiency, and enhance the overall patient experience.
-🔗 Apply Direct: https://jobs.talemetry.com/atriumhelath/jobs/apply?job_list_id=6629&amp;returnUrl=https%3A%2F%2Faah.wd5.myworkdayjobs.com%2FExternal%2Fjob%2FClemmons-NC---2311-Lewisville-Clemmons-Rd%2FLPN-Ambulatory-Float-PRN_R184274%2Fapply&amp;tm_job=R184274&amp;tm_event=view&amp;tm_company=13027
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7d5b3368820fda18</description>
-      <companyName>Atrium Health</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Clemmons, NC, US</jobLocation>
-      <salaryMin>23</salaryMin>
-      <salaryMax>35</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse Supervisor Ambulatory &amp; Outpatient at Atrium Health</title>
-      <link>https://jobs.talemetry.com/atriumhelath/jobs/apply?job_list_id=6629&amp;returnUrl=https%3A%2F%2Faah.wd5.myworkdayjobs.com%2FExternal%2Fjob%2FShelby-NC---111-W-Grover-St%2FRegistered-Nurse-Supervisor-Ambulatory---Outpatient_R180339%2Fapply&amp;tm_job=R180339&amp;tm_event=view&amp;tm_company=13027</link>
-      <guid isPermaLink="false">Atrium Health-Registered Nurse Supervisor Ambulatory &amp; Outpatient-Shelby, NC, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Shelby, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 40 - 60 (hourly)
-
-📝 Description: **Department:**
+Functions in the physician office or ambulatory care practice to provide nursing services in an office setting. Works as part of a care team to improve the execution of quality requirements, increase throughput, improve efficiency, and enhance the overall patient experience.","","https://www.indeed.com/cmp/Atrium-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8fb3a5adb25799fb8534eafd689450f2","http://www.careers.atriumhealth.org","Charlotte, NC","10,000+","$1B to $5B (USD)","Atrium Health is a nationally recognized leader in shaping health outcomes through innovative research, education and compassionate patient care.","","","","","","",""
+"in-ea4fdb55007b83e4","indeed","https://www.indeed.com/viewjob?jk=ea4fdb55007b83e4","https://jobs.talemetry.com/atriumhelath/jobs/apply?job_list_id=6629&returnUrl=https%3A%2F%2Faah.wd5.myworkdayjobs.com%2FExternal%2Fjob%2FShelby-NC---111-W-Grover-St%2FRegistered-Nurse-Supervisor-Ambulatory---Outpatient_R180339%2Fapply&tm_job=R180339&tm_event=view&tm_company=13027","Registered Nurse Supervisor Ambulatory & Outpatient","Atrium Health","Shelby, NC, US","2025-09-20","fulltime","direct_data","hourly",40.0,60.0,"USD",False,"","","","","**Department:**
 
 
 02050 GCMG SHVI: Shelby \\- Cardiology **Status:**
@@ -453,7 +347,7 @@ Yes **Hou****rs Per Week:**
 40 **Schedule Details/Additional Information:**
 
 
-M\\-F, 40hr/week, Shelby \\&amp; Gastonia locations
+M\\-F, 40hr/week, Shelby \\& Gastonia locations
 
 **Pay Range**
 
@@ -516,30 +410,8 @@ Advocate Health is the third\\-largest nonprofit, integrated health system in th
 
 
 
-Responsible for the direct provision of patient care and for assisting the manager with daily operations to include but not limited to coordination of patient care/outcomes, allocation of human and fiscal resources, communications, patient throughput, program development and oversight, patient, physician and employee rounding, selection, development, and retention of staff, clinical supervision and performance appraisal, performance improvement activities, service recovery and compliance with regulatory agency requirements. Maintains clinical and professional competency as appropriate to the population of patients served.
-🔗 Apply Direct: https://jobs.talemetry.com/atriumhelath/jobs/apply?job_list_id=6629&amp;returnUrl=https%3A%2F%2Faah.wd5.myworkdayjobs.com%2FExternal%2Fjob%2FShelby-NC---111-W-Grover-St%2FRegistered-Nurse-Supervisor-Ambulatory---Outpatient_R180339%2Fapply&amp;tm_job=R180339&amp;tm_event=view&amp;tm_company=13027
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ea4fdb55007b83e4</description>
-      <companyName>Atrium Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Shelby, NC, US</jobLocation>
-      <salaryMin>40</salaryMin>
-      <salaryMax>60</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse at PrimeCare Medical Inc</title>
-      <link>https://recruiting.paylocity.com/recruiting/jobs/Details/3590585/PrimeCare-Medical-Inc/Licensed-Practical-Nurse?source=Indeed_Feed</link>
-      <guid isPermaLink="false">PrimeCare Medical Inc-Licensed Practical Nurse-Leonardtown, MD, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Leonardtown, MD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 29 - 35 (hourly)
-
-📝 Description: Description:
+Responsible for the direct provision of patient care and for assisting the manager with daily operations to include but not limited to coordination of patient care/outcomes, allocation of human and fiscal resources, communications, patient throughput, program development and oversight, patient, physician and employee rounding, selection, development, and retention of staff, clinical supervision and performance appraisal, performance improvement activities, service recovery and compliance with regulatory agency requirements. Maintains clinical and professional competency as appropriate to the population of patients served.","","https://www.indeed.com/cmp/Atrium-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8fb3a5adb25799fb8534eafd689450f2","http://www.careers.atriumhealth.org","Charlotte, NC","10,000+","$1B to $5B (USD)","Atrium Health is a nationally recognized leader in shaping health outcomes through innovative research, education and compassionate patient care.","","","","","","",""
+"in-7ccf7bdbe1b723ed","indeed","https://www.indeed.com/viewjob?jk=7ccf7bdbe1b723ed","https://recruiting.paylocity.com/recruiting/jobs/Details/3590585/PrimeCare-Medical-Inc/Licensed-Practical-Nurse?source=Indeed_Feed","Licensed Practical Nurse","PrimeCare Medical Inc","Leonardtown, MD, US","2025-09-20","fulltime","direct_data","hourly",29.0,35.0,"USD",False,"","","","","Description:
 
 PrimeCare Medical, Inc. is looking for dedicated and hard\\-working **Licensed Practical Nurses (LPNs)** to work **full\\-time** in the medical department at the **St. Mary's Detention Center** located in **Leonardtown, MD.** In this role, you will provide comprehensive nursing care and perform duties under the supervision of an RN.
 
@@ -578,34 +450,13 @@ Requirements:
 * Demonstrate clinical competency
 * Experience in correctional health care delivery system, a plus
 
-***Now is the time to join the exciting and challenging world of correctional healthcare!***
-🔗 Apply Direct: https://recruiting.paylocity.com/recruiting/jobs/Details/3590585/PrimeCare-Medical-Inc/Licensed-Practical-Nurse?source=Indeed_Feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7ccf7bdbe1b723ed</description>
-      <companyName>PrimeCare Medical Inc</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Leonardtown, MD, US</jobLocation>
-      <salaryMin>29</salaryMin>
-      <salaryMax>35</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse at PrimeCare Medical Inc</title>
-      <link>https://recruiting.paylocity.com/recruiting/jobs/Details/3590595/PrimeCare-Medical-Inc/Licensed-Practical-Nurse?source=Indeed_Feed</link>
-      <guid isPermaLink="false">PrimeCare Medical Inc-Licensed Practical Nurse-Butler, PA, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Butler, PA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 31 - 36 (hourly)
-
-📝 Description: Description: **$7,500 SIGN\\-ON BONUS FOR FULL\\-TIME \\-** **INCREASED PAY RATES** **\\- TUITION REIMBURSEMENT PROGRAM \\- GENEROUS PTO**  
+***Now is the time to join the exciting and challenging world of correctional healthcare!***","Health Care","https://www.indeed.com/cmp/Primecare-Medical-Inc-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a391a93da972e3c8c4de431b1fae1b9e","http://www.primecaremedical.com/","3940 Locust Lane
+Harrisburg, PA 17109","1,001 to 5,000","","Correctional nursing provides a challenging and exciting world of opportunities for nurses today.","","","","","","",""
+"in-a1ddf2166fbf8a73","indeed","https://www.indeed.com/viewjob?jk=a1ddf2166fbf8a73","https://recruiting.paylocity.com/recruiting/jobs/Details/3590595/PrimeCare-Medical-Inc/Licensed-Practical-Nurse?source=Indeed_Feed","Licensed Practical Nurse","PrimeCare Medical Inc","Butler, PA, US","2025-09-20","fulltime","direct_data","hourly",31.0,36.0,"USD",False,"","","","","Description: **$7,500 SIGN\\-ON BONUS FOR FULL\\-TIME \\-** **INCREASED PAY RATES** **\\- TUITION REIMBURSEMENT PROGRAM \\- GENEROUS PTO**  
 
 PrimeCare Medical, Inc. is looking for dedicated and hard\\-working **Licensed Practical Nurses (LPNs)** to work full\\-time in the medical department at the **Butler County Prison** located in **Butler, PA**. In this role, you will provide comprehensive nursing care and perform duties under the supervision of an RN.
 
-**Available Shifts:** Full\\-Time Split Shift with an Every Other Weekend Rotation (6 am \\-2:30 pm for two weeks \\&amp; 2 pm \\- 10:30 pm the following 2 weeks)
+**Available Shifts:** Full\\-Time Split Shift with an Every Other Weekend Rotation (6 am \\-2:30 pm for two weeks \\& 2 pm \\- 10:30 pm the following 2 weeks)
 
 **Job Responsibilities:** The Licensed Practical Nurse will primarily be responsible for providing comprehensive nursing care while ensuring the proper flow of relevant information is disseminated to appropriate personnel. In addition, the Licensed Practical Nurse will also maintain, update, and work with electronic medical records and ensure that they are secure. Other responsibilities will include:
 
@@ -653,29 +504,9 @@ Correctional healthcare is similar to working in an emergency room or a clinic. 
 
 PrimeCare Medical is dedicated to its employees. PrimeCare Medical will provide the knowledge and training to administer premier healthcare in the correctional environment.
 
-***Now is the time to join the exciting and challenging world of correctional healthcare!***
-🔗 Apply Direct: https://recruiting.paylocity.com/recruiting/jobs/Details/3590595/PrimeCare-Medical-Inc/Licensed-Practical-Nurse?source=Indeed_Feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a1ddf2166fbf8a73</description>
-      <companyName>PrimeCare Medical Inc</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Butler, PA, US</jobLocation>
-      <salaryMin>31</salaryMin>
-      <salaryMax>36</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at PrimeCare Medical Inc</title>
-      <link>https://recruiting.paylocity.com/recruiting/jobs/Details/3590592/PrimeCare-Medical-Inc/Registered-Nurse?source=Indeed_Feed</link>
-      <guid isPermaLink="false">PrimeCare Medical Inc-Registered Nurse-Glen Burnie, MD, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Glen Burnie, MD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Description:
+***Now is the time to join the exciting and challenging world of correctional healthcare!***","Health Care","https://www.indeed.com/cmp/Primecare-Medical-Inc-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a391a93da972e3c8c4de431b1fae1b9e","http://www.primecaremedical.com/","3940 Locust Lane
+Harrisburg, PA 17109","1,001 to 5,000","","Correctional nursing provides a challenging and exciting world of opportunities for nurses today.","","","","","","",""
+"in-45b2901511ef0d52","indeed","https://www.indeed.com/viewjob?jk=45b2901511ef0d52","https://recruiting.paylocity.com/recruiting/jobs/Details/3590592/PrimeCare-Medical-Inc/Registered-Nurse?source=Indeed_Feed","Registered Nurse","PrimeCare Medical Inc","Glen Burnie, MD, US","2025-09-20","fulltime","","hourly","","","USD",False,"","","","","Description:
 
 PrimeCare Medical, Inc. is looking for dedicated and hard\\-working **Registered Nurses (RN)** to work full\\-time in the medical department at the **Ordnance Road Detention Center** located in **Glen Burnie, MD**. In this role, you will provide comprehensive nursing care and perform duties under the supervision of the Nurse Supervisor, ADON, DON, and HSA.
 
@@ -719,32 +550,13 @@ The RN is a fast\\-paced position, and as such we must have someone who has the 
 * Ability to function independently and demonstrate clinical competency.
 * Ability to gain the trust of patients and build a working relationship.
 
-***Now is the time to join the exciting and challenging world of correctional healthcare!***
-🔗 Apply Direct: https://recruiting.paylocity.com/recruiting/jobs/Details/3590592/PrimeCare-Medical-Inc/Registered-Nurse?source=Indeed_Feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=45b2901511ef0d52</description>
-      <companyName>PrimeCare Medical Inc</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Glen Burnie, MD, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at PrimeCare Medical Inc</title>
-      <link>https://recruiting.paylocity.com/recruiting/jobs/Details/3590594/PrimeCare-Medical-Inc/Registered-Nurse?source=Indeed_Feed</link>
-      <guid isPermaLink="false">PrimeCare Medical Inc-Registered Nurse-Butler, PA, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Butler, PA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 36 - 41 (hourly)
-
-📝 Description: Description: **$7,500 SIGN\\-ON BONUS FOR FULL\\-TIME \\-** **INCREASED PAY RATES** **\\- TUITION REIMBURSEMENT PROGRAM \\- GENEROUS PTO**  
+***Now is the time to join the exciting and challenging world of correctional healthcare!***","Health Care","https://www.indeed.com/cmp/Primecare-Medical-Inc-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a391a93da972e3c8c4de431b1fae1b9e","http://www.primecaremedical.com/","3940 Locust Lane
+Harrisburg, PA 17109","1,001 to 5,000","","Correctional nursing provides a challenging and exciting world of opportunities for nurses today.","","","","","","",""
+"in-6e0a6af3ac2e5c75","indeed","https://www.indeed.com/viewjob?jk=6e0a6af3ac2e5c75","https://recruiting.paylocity.com/recruiting/jobs/Details/3590594/PrimeCare-Medical-Inc/Registered-Nurse?source=Indeed_Feed","Registered Nurse","PrimeCare Medical Inc","Butler, PA, US","2025-09-20","fulltime","direct_data","hourly",36.0,41.0,"USD",False,"","","","","Description: **$7,500 SIGN\\-ON BONUS FOR FULL\\-TIME \\-** **INCREASED PAY RATES** **\\- TUITION REIMBURSEMENT PROGRAM \\- GENEROUS PTO**  
 
 PrimeCare Medical, Inc. is looking for dedicated and hard\\-working **Registered Nurses (RN)** to work full\\-time in the medical department at the **Butler County Prison** located in **Bulter, PA**. In this role, you will provide comprehensive nursing care and perform duties under the supervision of the Nurse Supervisor, ADON, DON, and HSA.
 
-**Current Openings:** Full\\-Time Split Shift with an Every Other Weekend Rotation (6 am \\-2:30 pm one week \\&amp; 2 pm \\- 10:30 pm the following week) Full Time Day Shift MAT Nurse Coordinator (6:30 am \\-3 pm and every other weekend from 6:30 am \\- 10:30 am)
+**Current Openings:** Full\\-Time Split Shift with an Every Other Weekend Rotation (6 am \\-2:30 pm one week \\& 2 pm \\- 10:30 pm the following week) Full Time Day Shift MAT Nurse Coordinator (6:30 am \\-3 pm and every other weekend from 6:30 am \\- 10:30 am)
 
 
 In correctional healthcare, nurses are provided the opportunity to apply their hands\\-on assessment and clinical nursing skills on a day\\-to\\-day basis.
@@ -782,34 +594,13 @@ Qualified applicants will have the following requirements:
 * Ability to multi\\-task
 * Strong patient assessment skills
 * Ability to communicate effectively
-* Demonstrate clinical competency
-🔗 Apply Direct: https://recruiting.paylocity.com/recruiting/jobs/Details/3590594/PrimeCare-Medical-Inc/Registered-Nurse?source=Indeed_Feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=6e0a6af3ac2e5c75</description>
-      <companyName>PrimeCare Medical Inc</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Butler, PA, US</jobLocation>
-      <salaryMin>36</salaryMin>
-      <salaryMax>41</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse at PrimeCare Medical Inc</title>
-      <link>https://recruiting.paylocity.com/recruiting/jobs/Details/3590587/PrimeCare-Medical-Inc/Licensed-Practical-Nurse?source=Indeed_Feed</link>
-      <guid isPermaLink="false">PrimeCare Medical Inc-Licensed Practical Nurse-Leonardtown, MD, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Leonardtown, MD, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 29 - 35 (hourly)
-
-📝 Description: Description:
+* Demonstrate clinical competency","Health Care","https://www.indeed.com/cmp/Primecare-Medical-Inc-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a391a93da972e3c8c4de431b1fae1b9e","http://www.primecaremedical.com/","3940 Locust Lane
+Harrisburg, PA 17109","1,001 to 5,000","","Correctional nursing provides a challenging and exciting world of opportunities for nurses today.","","","","","","",""
+"in-4f047ccb19bcb3f9","indeed","https://www.indeed.com/viewjob?jk=4f047ccb19bcb3f9","https://recruiting.paylocity.com/recruiting/jobs/Details/3590587/PrimeCare-Medical-Inc/Licensed-Practical-Nurse?source=Indeed_Feed","Licensed Practical Nurse","PrimeCare Medical Inc","Leonardtown, MD, US","2025-09-20","parttime","direct_data","hourly",29.0,35.0,"USD",False,"","","","","Description:
 
 PrimeCare Medical, Inc. is looking for dedicated and hard\\-working **Licensed Practical Nurses (LPNs)** to work **full\\-time or part\\-time** in the medical department at the **St. Mary's Detention Center** located in **Leonardtown, MD.** In this role, you will provide comprehensive nursing care and perform duties under the supervision of an RN.
 
- **Available Positions:** Part time (Both Days \\&amp; Evenings) with rotating weekends
+ **Available Positions:** Part time (Both Days \\& Evenings) with rotating weekends
 
  **Job Responsibilities:**
 
@@ -844,30 +635,9 @@ Requirements:
 * Demonstrate clinical competency
 * Experience in correctional health care delivery system, a plus
 
-***Now is the time to join the exciting and challenging world of correctional healthcare!***
-🔗 Apply Direct: https://recruiting.paylocity.com/recruiting/jobs/Details/3590587/PrimeCare-Medical-Inc/Licensed-Practical-Nurse?source=Indeed_Feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4f047ccb19bcb3f9</description>
-      <companyName>PrimeCare Medical Inc</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Leonardtown, MD, US</jobLocation>
-      <salaryMin>29</salaryMin>
-      <salaryMax>35</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse at PrimeCare Medical Inc</title>
-      <link>https://recruiting.paylocity.com/recruiting/jobs/Details/3590583/PrimeCare-Medical-Inc/Licensed-Practical-Nurse?source=Indeed_Feed</link>
-      <guid isPermaLink="false">PrimeCare Medical Inc-Licensed Practical Nurse-Hagerstown, MD, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Hagerstown, MD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 31 - 43 (hourly)
-
-📝 Description: Description: **INCREASED PAY RATES \\- $5,000 SIGN\\-ON BONUS \\- TUITION REIMBURSEMENT PROGRAM \\- GENEROUS PTO PACKAGE**  
+***Now is the time to join the exciting and challenging world of correctional healthcare!***","Health Care","https://www.indeed.com/cmp/Primecare-Medical-Inc-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a391a93da972e3c8c4de431b1fae1b9e","http://www.primecaremedical.com/","3940 Locust Lane
+Harrisburg, PA 17109","1,001 to 5,000","","Correctional nursing provides a challenging and exciting world of opportunities for nurses today.","","","","","","",""
+"in-fb134f390c0b2c20","indeed","https://www.indeed.com/viewjob?jk=fb134f390c0b2c20","https://recruiting.paylocity.com/recruiting/jobs/Details/3590583/PrimeCare-Medical-Inc/Licensed-Practical-Nurse?source=Indeed_Feed","Licensed Practical Nurse","PrimeCare Medical Inc","Hagerstown, MD, US","2025-09-20","fulltime","direct_data","hourly",31.0,43.0,"USD",False,"","","","","Description: **INCREASED PAY RATES \\- $5,000 SIGN\\-ON BONUS \\- TUITION REIMBURSEMENT PROGRAM \\- GENEROUS PTO PACKAGE**  
 
 PrimeCare Medical, Inc. is looking for dedicated and hard\\-working **Licensed Practical Nurses (LPN)** to work full\\-time in the medical department at the **Washington County Detention Center** located in **Washington, MD.** In this role, you will provide comprehensive nursing care and perform duties under the supervision of an RN.
 
@@ -909,30 +679,9 @@ Other requirements for the Licensed Practical Nurse include:
 * Ability to communicate effectively
 * Ability to function under supervision
 * Demonstrate clinical competency
-* Experience in correctional health care delivery system, a plus
-🔗 Apply Direct: https://recruiting.paylocity.com/recruiting/jobs/Details/3590583/PrimeCare-Medical-Inc/Licensed-Practical-Nurse?source=Indeed_Feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=fb134f390c0b2c20</description>
-      <companyName>PrimeCare Medical Inc</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Hagerstown, MD, US</jobLocation>
-      <salaryMin>31</salaryMin>
-      <salaryMax>43</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at PrimeCare Medical Inc</title>
-      <link>https://recruiting.paylocity.com/recruiting/jobs/Details/3590586/PrimeCare-Medical-Inc/Registered-Nurse?source=Indeed_Feed</link>
-      <guid isPermaLink="false">PrimeCare Medical Inc-Registered Nurse-Leonardtown, MD, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Leonardtown, MD, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 39 - 45 (hourly)
-
-📝 Description: Description:
+* Experience in correctional health care delivery system, a plus","Health Care","https://www.indeed.com/cmp/Primecare-Medical-Inc-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a391a93da972e3c8c4de431b1fae1b9e","http://www.primecaremedical.com/","3940 Locust Lane
+Harrisburg, PA 17109","1,001 to 5,000","","Correctional nursing provides a challenging and exciting world of opportunities for nurses today.","","","","","","",""
+"in-fef4f3dfc1146c4e","indeed","https://www.indeed.com/viewjob?jk=fef4f3dfc1146c4e","https://recruiting.paylocity.com/recruiting/jobs/Details/3590586/PrimeCare-Medical-Inc/Registered-Nurse?source=Indeed_Feed","Registered Nurse","PrimeCare Medical Inc","Leonardtown, MD, US","2025-09-20","parttime","direct_data","hourly",39.0,45.0,"USD",False,"","","","","Description:
 
 PrimeCare Medical, Inc. is looking for dedicated and hard\\-working **Registered Nurses (RN)** to work full\\-time in the medical department at the **St. Mary's Detention Center** located in **Leonardtown, MD**. In this role, you will provide comprehensive nursing care and perform duties under the supervision of the Nurse Supervisor, ADON, DON, and HSA.
 
@@ -962,30 +711,9 @@ Requirements:
 * Ability to multi\\-task
 * Strong patient assessment skills
 * Ability to communicate effectively
-* Demonstrate clinical competency
-🔗 Apply Direct: https://recruiting.paylocity.com/recruiting/jobs/Details/3590586/PrimeCare-Medical-Inc/Registered-Nurse?source=Indeed_Feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=fef4f3dfc1146c4e</description>
-      <companyName>PrimeCare Medical Inc</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Leonardtown, MD, US</jobLocation>
-      <salaryMin>39</salaryMin>
-      <salaryMax>45</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Assistant Director of Nursing at PrimeCare Medical Inc</title>
-      <link>https://recruiting.paylocity.com/recruiting/jobs/Details/3590593/PrimeCare-Medical-Inc/Assistant-Director-of-Nursing?source=Indeed_Feed</link>
-      <guid isPermaLink="false">PrimeCare Medical Inc-Assistant Director of Nursing-Butler, PA, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Butler, PA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 80,000 - 88,000 (yearly)
-
-📝 Description: Description:
+* Demonstrate clinical competency","Health Care","https://www.indeed.com/cmp/Primecare-Medical-Inc-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a391a93da972e3c8c4de431b1fae1b9e","http://www.primecaremedical.com/","3940 Locust Lane
+Harrisburg, PA 17109","1,001 to 5,000","","Correctional nursing provides a challenging and exciting world of opportunities for nurses today.","","","","","","",""
+"in-ab4ccbf0cf2cf24d","indeed","https://www.indeed.com/viewjob?jk=ab4ccbf0cf2cf24d","https://recruiting.paylocity.com/recruiting/jobs/Details/3590593/PrimeCare-Medical-Inc/Assistant-Director-of-Nursing?source=Indeed_Feed","Assistant Director of Nursing","PrimeCare Medical Inc","Butler, PA, US","2025-09-20","fulltime","direct_data","yearly",80000.0,88000.0,"USD",False,"","","","","Description:
 
 PrimeCare Medical is currently looking for a **Registered Nurse (RN)** to work as the **Assistant Director of Nursing (ADON)** in the medical department at the **Butler County Prison** located in **Butler, PA**.
 
@@ -1044,30 +772,9 @@ The Assistant Director of Nursing (ADON) is a fast paced position, and as such w
 * Ability to function independently.
 * Demonstrate clinical competency.
 
-***Now is the time to join the exciting and challenging world of correctional healthcare!***
-🔗 Apply Direct: https://recruiting.paylocity.com/recruiting/jobs/Details/3590593/PrimeCare-Medical-Inc/Assistant-Director-of-Nursing?source=Indeed_Feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ab4ccbf0cf2cf24d</description>
-      <companyName>PrimeCare Medical Inc</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Butler, PA, US</jobLocation>
-      <salaryMin>80000</salaryMin>
-      <salaryMax>88000</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse at PrimeCare Medical Inc</title>
-      <link>https://recruiting.paylocity.com/recruiting/jobs/Details/3590590/PrimeCare-Medical-Inc/Licensed-Practical-Nurse?source=Indeed_Feed</link>
-      <guid isPermaLink="false">PrimeCare Medical Inc-Licensed Practical Nurse-La Plata, MD, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: La Plata, MD, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 29 - 35 (hourly)
-
-📝 Description: Description: PrimeCare Medical, Inc. is looking for dedicated and hard\\-working **Licensed Practical Nurses (LPN)** to work in the medical department at the **Charles County Detention Center** located in **La Plata, MD.** In this role, you will provide comprehensive nursing care and perform duties under the supervision of an RN.**We are looking for every other weekend day shift or night shift availability.**
+***Now is the time to join the exciting and challenging world of correctional healthcare!***","Health Care","https://www.indeed.com/cmp/Primecare-Medical-Inc-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a391a93da972e3c8c4de431b1fae1b9e","http://www.primecaremedical.com/","3940 Locust Lane
+Harrisburg, PA 17109","1,001 to 5,000","","Correctional nursing provides a challenging and exciting world of opportunities for nurses today.","","","","","","",""
+"in-ecc8c434fa3826f7","indeed","https://www.indeed.com/viewjob?jk=ecc8c434fa3826f7","https://recruiting.paylocity.com/recruiting/jobs/Details/3590590/PrimeCare-Medical-Inc/Licensed-Practical-Nurse?source=Indeed_Feed","Licensed Practical Nurse","PrimeCare Medical Inc","La Plata, MD, US","2025-09-20","parttime","direct_data","hourly",29.0,35.0,"USD",False,"","","","","Description: PrimeCare Medical, Inc. is looking for dedicated and hard\\-working **Licensed Practical Nurses (LPN)** to work in the medical department at the **Charles County Detention Center** located in **La Plata, MD.** In this role, you will provide comprehensive nursing care and perform duties under the supervision of an RN.**We are looking for every other weekend day shift or night shift availability.**
 
 **Job Responsibilities:** The Licensed Practical Nurse will primarily be responsible for providing comprehensive nursing care while ensuring the proper flow of relevant information is disseminated to appropriate personnel. In addition, the Licensed Practical Nurse will also maintain, update, and work with electronic medical records and ensure that they are secure. Other responsibilities will include:
 
@@ -1097,30 +804,9 @@ Other requirements for the Licensed Practical Nurse include:
 * Ability to communicate effectively
 * Ability to function under supervision
 * Demonstrate clinical competency
-* Experience in correctional health care delivery system, a plus
-🔗 Apply Direct: https://recruiting.paylocity.com/recruiting/jobs/Details/3590590/PrimeCare-Medical-Inc/Licensed-Practical-Nurse?source=Indeed_Feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ecc8c434fa3826f7</description>
-      <companyName>PrimeCare Medical Inc</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>La Plata, MD, US</jobLocation>
-      <salaryMin>29</salaryMin>
-      <salaryMax>35</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at PrimeCare Medical Inc</title>
-      <link>https://recruiting.paylocity.com/recruiting/jobs/Details/3590584/PrimeCare-Medical-Inc/Registered-Nurse?source=Indeed_Feed</link>
-      <guid isPermaLink="false">PrimeCare Medical Inc-Registered Nurse-Hagerstown, MD, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Hagerstown, MD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 36 - 48 (hourly)
-
-📝 Description: Description: **INCREASED PAY RATES \\- $5,000 SIGN\\-ON BONUS \\- TUITION REIMBURSEMENT PROGRAM \\- GENEROUS PTO PACKAGE**  
+* Experience in correctional health care delivery system, a plus","Health Care","https://www.indeed.com/cmp/Primecare-Medical-Inc-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a391a93da972e3c8c4de431b1fae1b9e","http://www.primecaremedical.com/","3940 Locust Lane
+Harrisburg, PA 17109","1,001 to 5,000","","Correctional nursing provides a challenging and exciting world of opportunities for nurses today.","","","","","","",""
+"in-6fa88adb64a8360d","indeed","https://www.indeed.com/viewjob?jk=6fa88adb64a8360d","https://recruiting.paylocity.com/recruiting/jobs/Details/3590584/PrimeCare-Medical-Inc/Registered-Nurse?source=Indeed_Feed","Registered Nurse","PrimeCare Medical Inc","Hagerstown, MD, US","2025-09-20","fulltime","direct_data","hourly",36.0,48.0,"USD",False,"","","","","Description: **INCREASED PAY RATES \\- $5,000 SIGN\\-ON BONUS \\- TUITION REIMBURSEMENT PROGRAM \\- GENEROUS PTO PACKAGE**  
 
 PrimeCare Medical, Inc. is looking for dedicated and hard\\-working **Registered Nurses (RN)** to work full\\-time in the medical department at the **Washington County Detention Center** located in **Washington, MD**. In this role, you will provide comprehensive nursing care and perform duties under the supervision of the Nurse Supervisor, ADON, DON, and HSA.  
 
@@ -1158,30 +844,9 @@ The RN is a fast\\-paced position, and as such we must have someone who has the 
 * Ability to function independently and demonstrate clinical competency.
 * Ability to gain the trust of patients and build a working relationship.
 
-***Now is the time to join the exciting and challenging world of correctional healthcare!***
-🔗 Apply Direct: https://recruiting.paylocity.com/recruiting/jobs/Details/3590584/PrimeCare-Medical-Inc/Registered-Nurse?source=Indeed_Feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=6fa88adb64a8360d</description>
-      <companyName>PrimeCare Medical Inc</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Hagerstown, MD, US</jobLocation>
-      <salaryMin>36</salaryMin>
-      <salaryMax>48</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at PrimeCare Medical Inc</title>
-      <link>https://recruiting.paylocity.com/recruiting/jobs/Details/3590588/PrimeCare-Medical-Inc/Registered-Nurse?source=Indeed_Feed</link>
-      <guid isPermaLink="false">PrimeCare Medical Inc-Registered Nurse-La Plata, MD, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: La Plata, MD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 39 - 44 (hourly)
-
-📝 Description: Description:
+***Now is the time to join the exciting and challenging world of correctional healthcare!***","Health Care","https://www.indeed.com/cmp/Primecare-Medical-Inc-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a391a93da972e3c8c4de431b1fae1b9e","http://www.primecaremedical.com/","3940 Locust Lane
+Harrisburg, PA 17109","1,001 to 5,000","","Correctional nursing provides a challenging and exciting world of opportunities for nurses today.","","","","","","",""
+"in-f58e82e35141ed42","indeed","https://www.indeed.com/viewjob?jk=f58e82e35141ed42","https://recruiting.paylocity.com/recruiting/jobs/Details/3590588/PrimeCare-Medical-Inc/Registered-Nurse?source=Indeed_Feed","Registered Nurse","PrimeCare Medical Inc","La Plata, MD, US","2025-09-20","fulltime","direct_data","hourly",39.0,44.0,"USD",False,"","","","","Description:
 
 PrimeCare Medical, Inc. is looking for dedicated and hard\\-working **Registered Nurses (RN)** to work full\\-time in the medical department at the **Charles County Detention Center** located in **La Plata, MD**. In this role, you will provide comprehensive nursing care and perform duties under the supervision of the Nurse Supervisor, ADON, DON, and HSA.
 
@@ -1219,30 +884,9 @@ The RN is a fast\\-paced position, and as such we must have someone who has the 
 * Ability to function independently and demonstrating clinical competency.
 * Ability to gain trust of patients and build a working relationship.
 
-***Now is the time to join the exciting and challenging world of correctional healthcare!***
-🔗 Apply Direct: https://recruiting.paylocity.com/recruiting/jobs/Details/3590588/PrimeCare-Medical-Inc/Registered-Nurse?source=Indeed_Feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f58e82e35141ed42</description>
-      <companyName>PrimeCare Medical Inc</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>La Plata, MD, US</jobLocation>
-      <salaryMin>39</salaryMin>
-      <salaryMax>44</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at PrimeCare Medical Inc</title>
-      <link>https://recruiting.paylocity.com/recruiting/jobs/Details/3590589/PrimeCare-Medical-Inc/Registered-Nurse?source=Indeed_Feed</link>
-      <guid isPermaLink="false">PrimeCare Medical Inc-Registered Nurse-La Plata, MD, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: La Plata, MD, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 39 - 44 (hourly)
-
-📝 Description: Description:
+***Now is the time to join the exciting and challenging world of correctional healthcare!***","Health Care","https://www.indeed.com/cmp/Primecare-Medical-Inc-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a391a93da972e3c8c4de431b1fae1b9e","http://www.primecaremedical.com/","3940 Locust Lane
+Harrisburg, PA 17109","1,001 to 5,000","","Correctional nursing provides a challenging and exciting world of opportunities for nurses today.","","","","","","",""
+"in-a023fca2d4c4f529","indeed","https://www.indeed.com/viewjob?jk=a023fca2d4c4f529","https://recruiting.paylocity.com/recruiting/jobs/Details/3590589/PrimeCare-Medical-Inc/Registered-Nurse?source=Indeed_Feed","Registered Nurse","PrimeCare Medical Inc","La Plata, MD, US","2025-09-20","parttime","direct_data","hourly",39.0,44.0,"USD",False,"","","","","Description:
 
 PrimeCare Medical, Inc. is looking for dedicated and hard\\-working **Registered Nurses (RN)** to work part time in the medical department at the **Charles County Detention Center** located in **La Plata, MD**. In this role, you will provide comprehensive nursing care and perform duties under the supervision of the Nurse Supervisor, ADON, DON, and HSA.
 
@@ -1280,30 +924,9 @@ The RN is a fast\\-paced position, and as such we must have someone who has the 
 * Ability to function independently and demonstrating clinical competency.
 * Ability to gain trust of patients and build a working relationship.
 
-***Now is the time to join the exciting and challenging world of correctional healthcare!***
-🔗 Apply Direct: https://recruiting.paylocity.com/recruiting/jobs/Details/3590589/PrimeCare-Medical-Inc/Registered-Nurse?source=Indeed_Feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a023fca2d4c4f529</description>
-      <companyName>PrimeCare Medical Inc</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>La Plata, MD, US</jobLocation>
-      <salaryMin>39</salaryMin>
-      <salaryMax>44</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Flight Nurse at Life Flight Network</title>
-      <link>https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6fd3b46c-43dd-44a2-9cfc-105047c7227d&amp;ccId=19000101_000001&amp;jobId=567498&amp;source=IN&amp;lang=en_US</link>
-      <guid isPermaLink="false">Life Flight Network-Flight Nurse-Hermiston, OR, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Hermiston, OR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 98,128 - 115,951 (yearly)
-
-📝 Description: Life Flight Network is one of the most prominent not\\-for\\-profit air ambulance organizations. As the industry's trailblazers, we constantly raise the bar for safety, excellence, social justice, and innovation in the skies and on the ground.
+***Now is the time to join the exciting and challenging world of correctional healthcare!***","Health Care","https://www.indeed.com/cmp/Primecare-Medical-Inc-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a391a93da972e3c8c4de431b1fae1b9e","http://www.primecaremedical.com/","3940 Locust Lane
+Harrisburg, PA 17109","1,001 to 5,000","","Correctional nursing provides a challenging and exciting world of opportunities for nurses today.","","","","","","",""
+"in-30b588620f14a7ca","indeed","https://www.indeed.com/viewjob?jk=30b588620f14a7ca","https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6fd3b46c-43dd-44a2-9cfc-105047c7227d&ccId=19000101_000001&jobId=567498&source=IN&lang=en_US","Flight Nurse","Life Flight Network","Hermiston, OR, US","2025-09-20","fulltime","direct_data","yearly",98128.0,115951.0,"USD",False,"","","","","Life Flight Network is one of the most prominent not\\-for\\-profit air ambulance organizations. As the industry's trailblazers, we constantly raise the bar for safety, excellence, social justice, and innovation in the skies and on the ground.
 
 
 Being a member of our esteemed team means embarking on a career defined by distinction, pride, compassion, and unwavering service. We are a group of dedicated professionals who thrive in a high\\-octane, collaborative environment. Our collective brilliance shines as we come together to make a difference in the communities we serve. Here, you'll find the best and the brightest talents, who are second to none in their dedication and expertise.
@@ -1314,7 +937,7 @@ Are you ready to unleash your potential and make a real impact in your community
 
 The Flight Nurse is responsible for working with the Flight Paramedic in the delivery of advanced critical care to patients of the Life Flight Network. The Flight Nurse assumes and is ultimately responsible for all direct patient care in accordance to the guidelines and protocols of Life Flight Network.
 
-**QUALIFICATIONS \\&amp; SKILLS**
+**QUALIFICATIONS \\& SKILLS**
 
 
 Minimum of five (5\\) years of ICU/ED/Trauma experience within the last ten (10\\) years. Previous flight experience preferred. Flight experience can be substituted year for year for the ICU/ED/Trauma requirement. Current licensure and/or certification as listed below:
@@ -1371,8 +994,8 @@ The above accountabilities represent work performed by this position and are not
 * Medical (Company pays for employee 100%)
 * Dental (Company pays for employee 100%)
 * Vision (Company pays for employee 100%)
-* Life/AD\\&amp;D (Company pays for employee 100%)
-* Short \\&amp; long term disability (Company pays for employee 100%)
+* Life/AD\\&D (Company pays for employee 100%)
+* Short \\& long term disability (Company pays for employee 100%)
 * 401k – with 100% vested employer contribution
 * Multilingual Stipend
 * Tenure bonuses
@@ -1393,30 +1016,9 @@ All candidates are subject to drug screening and background investigation.
 
   
 
-Life Flight Network is an equal opportunity employer.
-🔗 Apply Direct: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6fd3b46c-43dd-44a2-9cfc-105047c7227d&amp;ccId=19000101_000001&amp;jobId=567498&amp;source=IN&amp;lang=en_US
-🔗 Job Board: https://www.indeed.com/viewjob?jk=30b588620f14a7ca</description>
-      <companyName>Life Flight Network</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Hermiston, OR, US</jobLocation>
-      <salaryMin>98128</salaryMin>
-      <salaryMax>115951</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse LPN at Conifer Park</title>
-      <link>https://recruiting.paylocity.com/recruiting/jobs/Details/3590599/Conifer-Park-Inc/Licensed-Practical-Nurse-LPN?source=Indeed_Feed</link>
-      <guid isPermaLink="false">Conifer Park-Licensed Practical Nurse LPN-Schenectady, NY, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Schenectady, NY, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 23 - 30 (hourly)
-
-📝 Description: Description: **\\*\\* Sign on Bonus Eligible\\*\\*****Part Time Licensed Practical Nurse, Outpatient Clinic**  
+Life Flight Network is an equal opportunity employer.","Health Care","https://www.indeed.com/cmp/Life-Flight-Network","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/11c3e0d72cc65751ad4d9f091d5ea13d","http://www.lifeflight.org","22285 Yellow Gate Lane.
+Aurora, OR. 97002","501 to 1,000","$1M to $5M (USD)","THERE. WHEN YOU NEED US. ® Life Flight Network sets the industry bar for excellence perpetually evolving in the air and on the ground.","","","","","","",""
+"in-e778686a2a89298a","indeed","https://www.indeed.com/viewjob?jk=e778686a2a89298a","https://recruiting.paylocity.com/recruiting/jobs/Details/3590599/Conifer-Park-Inc/Licensed-Practical-Nurse-LPN?source=Indeed_Feed","Licensed Practical Nurse LPN","Conifer Park","Schenectady, NY, US","2025-09-20","parttime","direct_data","hourly",23.0,30.0,"USD",False,"","","","","Description: **\\*\\* Sign on Bonus Eligible\\*\\*****Part Time Licensed Practical Nurse, Outpatient Clinic**  
 
 Conifer Park is looking for an LPN to join our nursing team at our Outpatient Clinic in Schenectady, NY. In this role, the LPN collaborates with the RN in the implementation of a total health care regime, provides data to assist in the evaluation of patients' responses to plan of care, administers medication safely and accurately while working closely with Medical and Clinical staff.
 
@@ -1433,35 +1035,16 @@ Vocational/Technical School, Current NYS LPN license with a minimum 1 year of ex
 We offer competitive wages, benefits, and a pension plan in a supportive working environment.
 
 
-Background checks, pre\\-employment \\&amp; drug screenings required.
+Background checks, pre\\-employment \\& drug screenings required.
 
 
 We are an equal opportunity employer according to current standards.
 
 
-INDHP
-🔗 Apply Direct: https://recruiting.paylocity.com/recruiting/jobs/Details/3590599/Conifer-Park-Inc/Licensed-Practical-Nurse-LPN?source=Indeed_Feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e778686a2a89298a</description>
-      <companyName>Conifer Park</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Schenectady, NY, US</jobLocation>
-      <salaryMin>23</salaryMin>
-      <salaryMax>30</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse at Morning Pointe Senior Living</title>
-      <link>https://jobs.chattr.ai/morningpointe/e6c7b2a9-33b4-420f-b7e7-2d0f24759294?utm_source=Indeed</link>
-      <guid isPermaLink="false">Morning Pointe Senior Living-Licensed Practical Nurse-Knoxville, TN, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Knoxville, TN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **LICENSED PRACTICAL NURSE (LPN) \\- Assisted Living**
+INDHP","Health Care","https://www.indeed.com/cmp/Conifer-Park","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8752b09cc384700625d936404112cf7b","https://www.coniferpark.com","79 Glenridge Road
+Glenville, NY 12302
+www.coniferpark.com","501 to 1,000","","If you or someone you love are having problems with drinking or drug abuse and are not sure where to turn, or who to talk to, we can help.","","","","","","",""
+"in-07651c3e8ad05f04","indeed","https://www.indeed.com/viewjob?jk=07651c3e8ad05f04","https://jobs.chattr.ai/morningpointe/e6c7b2a9-33b4-420f-b7e7-2d0f24759294?utm_source=Indeed","Licensed Practical Nurse","Morning Pointe Senior Living","Knoxville, TN, US","2025-09-20","fulltime","","","","","",False,"","","","","**LICENSED PRACTICAL NURSE (LPN) \\- Assisted Living**
 
 
 Morning Pointe communities are dedicated to providing services that enhance the wellness, lifestyle and enjoyment of senior living. Assisted Living, Personal Care, and Alzheimer’s services are provided in a caring, secure environment that promotes hospitality and dignity while maintaining an independent quality of life. As a **LICENSED PRACTICAL NURSE (LPN)**, your work is essential to providing for the daily needs and activities of Morning Pointe residents. Our most successful LPNs are people who:
@@ -1478,7 +1061,7 @@ These are some of the benefits you will receive by joining us:
 
 * Meaningful work you will feel good about
 * Staff Meals and Free Uniform Program
-* "On\\-Demand Pay" Available
+* ""On\\-Demand Pay"" Available
 * Managers who work alongside you and respect your work
 * Health/Dental/Vision Insurance
 * 401K with company match
@@ -1519,24 +1102,9 @@ Requirements:
 * Current LPN license in applicable state as well as CPR certification
 
 
-\\#HARD
-🔗 Apply Direct: https://jobs.chattr.ai/morningpointe/e6c7b2a9-33b4-420f-b7e7-2d0f24759294?utm_source=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=07651c3e8ad05f04</description>
-      <companyName>Morning Pointe Senior Living</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Knoxville, TN, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinical Nurse I : Irvine Cancer Outpatient Treatment Center (12 hour Shift) at Hoag Health System</title>
-      <link>https://iaucqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/126551</link>
-      <guid isPermaLink="false">Hoag Health System-Clinical Nurse I : Irvine Cancer Outpatient Treatment Center (12 hour Shift)-Irvine, CA, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Irvine, CA, US
-🏠 Work: On-site
-
-📝 Description: **Primary Duties and Responsibilities**
+\\#HARD","Health Care","https://www.indeed.com/cmp/Morning-Pointe-Senior-Living","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/edd8c4ae2b13f085b4aceea863218e2f","http://www.morningpointe.com","Home Office: 6020 Arbury Way
+Ooltewah, TN 37363","1,001 to 5,000","","Founded in 1997, Morning Pointe Senior Living is a Chattanooga, Tennessee-based senior healthcare services company.","","","","","","",""
+"in-b5bf4b17fc28a303","indeed","https://www.indeed.com/viewjob?jk=b5bf4b17fc28a303","https://iaucqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/126551","Clinical Nurse I : Irvine Cancer Outpatient Treatment Center (12 hour Shift)","Hoag Health System","Irvine, CA, US","2025-09-20","","","","","","",False,"","","","","**Primary Duties and Responsibilities**
 
 The Clinical Nurse I – MedSurg role provides direct patient care in accordance with the Nurse Practice Act to assigned patients on Medical/Surgical units. The nurse collaborates with other disciplines of the health care team to ensure the delivery of safe, timely and appropriate quality patient care. This includes providing physical assessments, nursing interventions, pain management, medication administrations, specimen collection, meeting nutritional needs, and teaching and discharge needs of the patients assigned. Utilizes the nursing process based on evidence\\-based best practices to meet patient care needs.
 
@@ -1573,29 +1141,13 @@ N/A
 
 * All Clinical Nurse I's are required to have current BLS certification prior to clinical rotation.
 * Outpatient Treatment Centers Infusion: Oncology Infusion the Chemotherapy/biotherapy certification required. ONSONCC. This certification is not required for Non\\-Oncology infusion.
-* Oncology: ACLS upon hire. Chemotherapy \\&amp; Immunotherapy Provider Card required to administer chemotherapy.
+* Oncology: ACLS upon hire. Chemotherapy \\& Immunotherapy Provider Card required to administer chemotherapy.
 
 **Certifications Preferred**
 
-* Outpatient Treatment Centers Infusion (Non\\-Oncology) Chemotherapy/biotherapy certification preferred. ONSONCC
-🔗 Apply Direct: https://iaucqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/126551
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b5bf4b17fc28a303</description>
-      <companyName>Hoag Health System</companyName>
-      <jobLocation>Irvine, CA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN at The Arcadia Family of Companies</title>
-      <link>https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=94925246-eab7-404e-ad63-4ba09f37a07d&amp;ccId=19000101_000001&amp;jobId=925476&amp;source=IN&amp;lang=en_US</link>
-      <guid isPermaLink="false">The Arcadia Family of Companies-RN-Honolulu, HI, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Honolulu, HI, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 46 - 51 (hourly)
-
-📝 Description: The Arcadia Family of Companies is a local non\\-profit organization committed to providing senior living excellence in a gracious, compassionate, and dynamic environment which meets the spiritual, physical, and social needs of every resident, client, and member we serve.
+* Outpatient Treatment Centers Infusion (Non\\-Oncology) Chemotherapy/biotherapy certification preferred. ONSONCC","Health Care","https://www.indeed.com/cmp/Hoag-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fd563876d2dfe0830ea61b25ab91fee0","http://www.hoag.org","One Hoag Drive
+Newport Beach, CA 92663","5,001 to 10,000","$1B to $5B (USD)","Hoag is an approximately $1 billion nonprofit, faith-based, regional health care delivery system located in Orange County, CA.","","","","","","",""
+"in-02e8e06292dc9f87","indeed","https://www.indeed.com/viewjob?jk=02e8e06292dc9f87","https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=94925246-eab7-404e-ad63-4ba09f37a07d&ccId=19000101_000001&jobId=925476&source=IN&lang=en_US","RN","The Arcadia Family of Companies","Honolulu, HI, US","2025-09-20","parttime","direct_data","hourly",46.0,51.0,"USD",False,"","","","","The Arcadia Family of Companies is a local non\\-profit organization committed to providing senior living excellence in a gracious, compassionate, and dynamic environment which meets the spiritual, physical, and social needs of every resident, client, and member we serve.
 
  **Why Join Us**
 Employees are the heart of all we do. We foster an environment of compassion, understanding, integrity and open communication. Our culture emphasizes collaboration and teamwork in a supportive environment that puts our residents, clients and members first. Each day we enjoy making a positive difference in their lives. Come join us to be part of our remarkable team where every member is valued! **Enjoy the Benefits**
@@ -1697,29 +1249,8 @@ While performing their essential functions, employees are occasionally exposed t
  Hale Ola Kino by Arcadia
 
 **Arcadia Family of Companies is an Equal Opportunity Employer.**
-Employment decisions are made without regard to race, color, religion, sex, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by federal or state law.
-🔗 Apply Direct: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=94925246-eab7-404e-ad63-4ba09f37a07d&amp;ccId=19000101_000001&amp;jobId=925476&amp;source=IN&amp;lang=en_US
-🔗 Job Board: https://www.indeed.com/viewjob?jk=02e8e06292dc9f87</description>
-      <companyName>The Arcadia Family of Companies</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Honolulu, HI, US</jobLocation>
-      <salaryMin>46</salaryMin>
-      <salaryMax>51</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Triage RN, Primary Care at Mass General Brigham</title>
-      <link>https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/MGBExternal/job/Westford-MA/Triage-RN--Primary-Care_RQ4035852</link>
-      <guid isPermaLink="false">Mass General Brigham-Triage RN, Primary Care-Westford, MA, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Westford, MA, US
-💼 Type: Fulltime
-🏠 Work: Remote
-
-📝 Description: Site: Mass General Brigham Community Physicians, Inc.  
+Employment decisions are made without regard to race, color, religion, sex, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by federal or state law.","","https://www.indeed.com/cmp/The-Arcadia-Family-of-Companies","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/eed0124e8a58cacf7a5d6b763adcd9f5","https://arcadia.org/","Honolulu, HI","501 to 1,000","Decline to state","Join our growing family!","","","","","","",""
+"in-5ad4873b56e08bb5","indeed","https://www.indeed.com/viewjob?jk=5ad4873b56e08bb5","https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/MGBExternal/job/Westford-MA/Triage-RN--Primary-Care_RQ4035852","Triage RN, Primary Care","Mass General Brigham","Westford, MA, US","2025-09-20","fulltime","","","","","",True,"","","","","Site: Mass General Brigham Community Physicians, Inc.  
 
   
 
@@ -1869,25 +1400,8 @@ Mass General Brigham Community Physicians, Inc. is an Equal Opportunity Employer
 **Mass General Brigham Competency Framework**
 ---------------------------------------------
 
-At Mass General Brigham, our competency framework defines what effective leadership “looks like” by specifying which behaviors are most critical for successful performance at each job level. The framework is comprised of ten competencies (half People\\-Focused, half Performance\\-Focused) and are defined by observable and measurable skills and behaviors that contribute to workplace effectiveness and career success. These competencies are used to evaluate performance, make hiring decisions, identify development needs, mobilize employees across our system, and establish a strong talent pipeline.
-🔗 Apply Direct: https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/MGBExternal/job/Westford-MA/Triage-RN--Primary-Care_RQ4035852
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5ad4873b56e08bb5</description>
-      <companyName>Mass General Brigham</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Westford, MA, US</jobLocation>
-      <isRemote>true</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinical Educator, RN - North Shore Region at Mass General Brigham</title>
-      <link>https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/MGBExternal/job/Peabody-MA/Clinical-Educator--RN---North-Shore-Region_RQ4035875</link>
-      <guid isPermaLink="false">Mass General Brigham-Clinical Educator, RN - North Shore Region-Peabody, MA, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Peabody, MA, US
-💼 Type: Fulltime
-🏠 Work: Remote
-
-📝 Description: Site: Mass General Brigham Medical Group, Inc.  
+At Mass General Brigham, our competency framework defines what effective leadership “looks like” by specifying which behaviors are most critical for successful performance at each job level. The framework is comprised of ten competencies (half People\\-Focused, half Performance\\-Focused) and are defined by observable and measurable skills and behaviors that contribute to workplace effectiveness and career success. These competencies are used to evaluate performance, make hiring decisions, identify development needs, mobilize employees across our system, and establish a strong talent pipeline.","","https://www.indeed.com/cmp/Mass-General-Brigham","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/70e99e12403a90cd6f6b0d4374240774","https://www.massgeneralbrigham.org/","","10,000+","Decline to state","Mass General Brigham is committed to serving the community. We are dedicated to enhancing patient care, teaching and research, and taking a leadership role as an integrated health care system.","","","","","","",""
+"in-a7fcb5e421b5541a","indeed","https://www.indeed.com/viewjob?jk=a7fcb5e421b5541a","https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/MGBExternal/job/Peabody-MA/Clinical-Educator--RN---North-Shore-Region_RQ4035875","Clinical Educator, RN - North Shore Region","Mass General Brigham","Peabody, MA, US","2025-09-20","fulltime","","","","","",True,"","","","","Site: Mass General Brigham Medical Group, Inc.  
 
   
 
@@ -1905,7 +1419,7 @@ As a Clinical Educator in Ambulatory Care, you will play a vital role in shaping
 
   
 
-Territory \\&amp; Travel
+Territory \\& Travel
   
 
 This role offers the opportunity to engage with a diverse network of ambulatory practices across the North Shore region. As the Clinical Educator, you’ll serve as a resource and mentor across multiple sites, building strong relationships with nursing staff and leaders while ensuring consistency in education, clinical excellence, and professional development.
@@ -2020,7 +1534,7 @@ Maintain accurate records of educational programs, attendance, evaluations, and 
 * Bachelor’s degree in Nursing (BSN) required
 * Master’s degree in Nursing (MSN) preferred – ideal for those looking to grow into leadership and advanced education roles
 
-**Licensure \\&amp; Credentials**
+**Licensure \\& Credentials**
 
 * Active Registered Nurse (RN) license in MA required
 
@@ -2029,7 +1543,7 @@ Maintain accurate records of educational programs, attendance, evaluations, and 
 * Minimum 3–5 years of clinical nursing experience required
 * Prior experience in nursing education, staff training, or healthcare instruction (2–3 years) preferred—ideal for candidates with a passion for teaching and mentoring
 
-**Knowledge, Skills \\&amp; Abilities**
+**Knowledge, Skills \\& Abilities**
 
 * Skilled in curriculum design, instructional methods, and adult learning principles
 * Strong communication, presentation, and interpersonal skills to engage and inspire diverse learners
@@ -2100,25 +1614,8 @@ Mass General Brigham Medical Group, Inc. is an Equal Opportunity Employer. All q
 **Mass General Brigham Competency Framework**
 ---------------------------------------------
 
-At Mass General Brigham, our competency framework defines what effective leadership “looks like” by specifying which behaviors are most critical for successful performance at each job level. The framework is comprised of ten competencies (half People\\-Focused, half Performance\\-Focused) and are defined by observable and measurable skills and behaviors that contribute to workplace effectiveness and career success. These competencies are used to evaluate performance, make hiring decisions, identify development needs, mobilize employees across our system, and establish a strong talent pipeline.
-🔗 Apply Direct: https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/MGBExternal/job/Peabody-MA/Clinical-Educator--RN---North-Shore-Region_RQ4035875
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a7fcb5e421b5541a</description>
-      <companyName>Mass General Brigham</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Peabody, MA, US</jobLocation>
-      <isRemote>true</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LPN, Home Care at Mass General Brigham</title>
-      <link>https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/MGBExternal/job/Conversion-Only---Massachusetts/LPN--Home-Care_RQ4035883</link>
-      <guid isPermaLink="false">Mass General Brigham-LPN, Home Care-MA, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: MA, US
-💼 Type: Fulltime
-🏠 Work: Remote
-
-📝 Description: Site: Mass General Brigham Home Care, Inc.  
+At Mass General Brigham, our competency framework defines what effective leadership “looks like” by specifying which behaviors are most critical for successful performance at each job level. The framework is comprised of ten competencies (half People\\-Focused, half Performance\\-Focused) and are defined by observable and measurable skills and behaviors that contribute to workplace effectiveness and career success. These competencies are used to evaluate performance, make hiring decisions, identify development needs, mobilize employees across our system, and establish a strong talent pipeline.","","https://www.indeed.com/cmp/Mass-General-Brigham","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/70e99e12403a90cd6f6b0d4374240774","https://www.massgeneralbrigham.org/","","10,000+","Decline to state","Mass General Brigham is committed to serving the community. We are dedicated to enhancing patient care, teaching and research, and taking a leadership role as an integrated health care system.","","","","","","",""
+"in-3f9ecdb32370ec7c","indeed","https://www.indeed.com/viewjob?jk=3f9ecdb32370ec7c","https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/MGBExternal/job/Conversion-Only---Massachusetts/LPN--Home-Care_RQ4035883","LPN, Home Care","Mass General Brigham","MA, US","2025-09-20","fulltime","","","","","",True,"","","","","Site: Mass General Brigham Home Care, Inc.  
 
   
 
@@ -2257,25 +1754,8 @@ Mass General Brigham Home Care, Inc. is an Equal Opportunity Employer. All quali
 **Mass General Brigham Competency Framework**
 ---------------------------------------------
 
-At Mass General Brigham, our competency framework defines what effective leadership “looks like” by specifying which behaviors are most critical for successful performance at each job level. The framework is comprised of ten competencies (half People\\-Focused, half Performance\\-Focused) and are defined by observable and measurable skills and behaviors that contribute to workplace effectiveness and career success. These competencies are used to evaluate performance, make hiring decisions, identify development needs, mobilize employees across our system, and establish a strong talent pipeline.
-🔗 Apply Direct: https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/MGBExternal/job/Conversion-Only---Massachusetts/LPN--Home-Care_RQ4035883
-🔗 Job Board: https://www.indeed.com/viewjob?jk=3f9ecdb32370ec7c</description>
-      <companyName>Mass General Brigham</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>MA, US</jobLocation>
-      <isRemote>true</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinic RN- Registered Nurse: Virology at Trinity Health</title>
-      <link>https://jobs.trinity-health.org/mercyone/job/TRHEUS00613190MERCYONEENUS/Clinic-RN-Registered-Nurse-Virology?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Trinity Health-Clinic RN- Registered Nurse: Virology-Silvis, IL, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Silvis, IL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Employment Type:**  
+At Mass General Brigham, our competency framework defines what effective leadership “looks like” by specifying which behaviors are most critical for successful performance at each job level. The framework is comprised of ten competencies (half People\\-Focused, half Performance\\-Focused) and are defined by observable and measurable skills and behaviors that contribute to workplace effectiveness and career success. These competencies are used to evaluate performance, make hiring decisions, identify development needs, mobilize employees across our system, and establish a strong talent pipeline.","","https://www.indeed.com/cmp/Mass-General-Brigham","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/70e99e12403a90cd6f6b0d4374240774","https://www.massgeneralbrigham.org/","","10,000+","Decline to state","Mass General Brigham is committed to serving the community. We are dedicated to enhancing patient care, teaching and research, and taking a leadership role as an integrated health care system.","","","","","","",""
+"in-c3682326a5ef4a12","indeed","https://www.indeed.com/viewjob?jk=c3682326a5ef4a12","https://jobs.trinity-health.org/mercyone/job/TRHEUS00613190MERCYONEENUS/Clinic-RN-Registered-Nurse-Virology?utm_source=indeed&utm_medium=phenom-feeds","Clinic RN- Registered Nurse: Virology","Trinity Health","Silvis, IL, US","2025-09-20","fulltime","","","","","",False,"","","","","**Employment Type:**  
 
 Full time
   
@@ -2305,7 +1785,7 @@ As a Registered Nurse at MercyOne, you will provide and direct safe, effective, 
 **General Requirements:**  
 
 * Relationships: Co\\-workers/Health System Employees, Outside Agencies/Other Health Care Providers, General Public/Visitors/Volunteers, Physicians/Medical Office Staff, Students/Interns/Residents/Outside Instructors, Patients, Families, and Significant Others, Vendors/Clients, Third Party Payors/Insurance Companies, Auditors/Review Agencies
-* The job requires some accountability for scheduling, assigning or coordinating work. Employees check the quality of work and provide guidance, instruction, training and direction to others. Although the job does not require formal or official supervisory responsibility, the incumbent serves as group leader or acts in an informal "assistant supervisory" or "lead" role. In addition, the employee may be expected to provide information or suggestions on human resources matters.
+* The job requires some accountability for scheduling, assigning or coordinating work. Employees check the quality of work and provide guidance, instruction, training and direction to others. Although the job does not require formal or official supervisory responsibility, the incumbent serves as group leader or acts in an informal ""assistant supervisory"" or ""lead"" role. In addition, the employee may be expected to provide information or suggestions on human resources matters.
 * Materials Responsibility: Limited: Work requires limited responsibility for material resources. Examples of resources could include supplies, equipment, inventories, small budgets, and other similar material assets. The employee has a limited amount of control over these resources. The cost of errors is also limited in terms of damage, waste or financial loss. Problems associated with material resources are not complex. The volume of resources may vary, but the level of difficulty in dealing with these resources is uncomplicated.
 
 
@@ -2330,25 +1810,9 @@ Our Commitment
   
   
 
-Rooted in our Mission and Core Values, we honor the dignity of every person and recognize the unique perspectives, experiences, and talents each colleague brings. By finding common ground and embracing our differences, we grow stronger together and deliver more compassionate, person\\-centered care. We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other status protected by federal, state, or local law.
-🔗 Apply Direct: https://jobs.trinity-health.org/mercyone/job/TRHEUS00613190MERCYONEENUS/Clinic-RN-Registered-Nurse-Virology?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c3682326a5ef4a12</description>
-      <companyName>Trinity Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Silvis, IL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse 2 Pediatric OR - Nights at Vanderbilt University Medical Center</title>
-      <link>https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-2-Pediatric-OR---Nights_R-47265-1</link>
-      <guid isPermaLink="false">Vanderbilt University Medical Center-Registered Nurse 2 Pediatric OR - Nights-Nashville, TN, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Nashville, TN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Discover Vanderbilt University Medical Center** : Located in Nashville, Tennessee, and operating at a global crossroads of teaching, discovery, and patient care, VUMC is a community of individuals who come to work each day with the simple aim of changing the world. It is a place where your expertise will be valued, your knowledge expanded, and your abilities challenged. Vanderbilt Health is committed to an environment where everyone has the chance to thrive and where your uniqueness is sought and celebrated. It is a place where employees know they are part of something that is bigger than themselves, take exceptional pride in their work and never settle for what was good enough yesterday. Vanderbilt’s mission is to advance health and wellness through preeminent programs in patient care, education, and research.
+Rooted in our Mission and Core Values, we honor the dignity of every person and recognize the unique perspectives, experiences, and talents each colleague brings. By finding common ground and embracing our differences, we grow stronger together and deliver more compassionate, person\\-centered care. We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other status protected by federal, state, or local law.","Health Care","https://www.indeed.com/cmp/Trinity-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/13e6144af93a8598d3397fb32518ed3d","https://jobs.trinity-health.org/","20555 Victor Parkway
+Livonia, MI 48152","10,000+","more than $10B (USD)","Trinity Health is one of the largest multi-institutional Catholic health care delivery systems in the nation, serving diverse communities that include more than 30 million people across 25 states.","","","","","","",""
+"in-294fc1a4c7e96830","indeed","https://www.indeed.com/viewjob?jk=294fc1a4c7e96830","https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-2-Pediatric-OR---Nights_R-47265-1","Registered Nurse 2 Pediatric OR - Nights","Vanderbilt University Medical Center","Nashville, TN, US","2025-09-20","fulltime","","","","","",False,"","","","","**Discover Vanderbilt University Medical Center** : Located in Nashville, Tennessee, and operating at a global crossroads of teaching, discovery, and patient care, VUMC is a community of individuals who come to work each day with the simple aim of changing the world. It is a place where your expertise will be valued, your knowledge expanded, and your abilities challenged. Vanderbilt Health is committed to an environment where everyone has the chance to thrive and where your uniqueness is sought and celebrated. It is a place where employees know they are part of something that is bigger than themselves, take exceptional pride in their work and never settle for what was good enough yesterday. Vanderbilt’s mission is to advance health and wellness through preeminent programs in patient care, education, and research.
 
 
 **Organization:**
@@ -2391,7 +1855,7 @@ TECHNICAL CAPABILITIES
 * Evidence\\-Based Practice (Novice): Possesses sufficient fundamental proficiency to successfully search for evidence to answer clinical questions. Generally works under the direction of others while accomplishing assignments.
 * Care Planning (Novice): Demonstrates ability to anticipate resource needs, identify distinct tasks, set priorities, schedule activities, meet deadlines, and organize work within areas of direct responsibility. Competently handles multiple assignments often simultaneously by prioritizing work into manageable and measurable units. Ability to adapt to changes to patient care and area needs with minimal disruption and loss of productivity. Follows up to assure problems and issues are resolved.
 * Nursing Patient Education (Novice): Possesses sufficient fundamental proficiency in providing patient education in practical applications of moderate difficulty.
-* Nursing Patient Assessment \\&amp; Evaluation (Novice): Possesses sufficient fundamental proficiency to successfully demonstrate the ability to assess and evaluate patients in practical applications of moderate difficulty. Conducts primary care patient interviews and physical examinations. Demonstrates sufficient acumen to recognize problems, ask questions and to contact the patient's primary care provider and other members of the healthcare team. Has experience in gathering pertinent clinical data that aid in referral, treatment, or other primary care pathways.
+* Nursing Patient Assessment \\& Evaluation (Novice): Possesses sufficient fundamental proficiency to successfully demonstrate the ability to assess and evaluate patients in practical applications of moderate difficulty. Conducts primary care patient interviews and physical examinations. Demonstrates sufficient acumen to recognize problems, ask questions and to contact the patient's primary care provider and other members of the healthcare team. Has experience in gathering pertinent clinical data that aid in referral, treatment, or other primary care pathways.
 
 **Our Nursing Philosophy:**
 
@@ -2440,25 +1904,8 @@ Relevant Work Experience
 **Education:**
 
 Graduate of an approved discipline specific program
-*Vanderbilt Health is committed* *to fostering an* *environment where everyone has the chance to thrive and is committed to the principles of equal opportunity. EOE/Vets/Disabled.*
-🔗 Apply Direct: https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-2-Pediatric-OR---Nights_R-47265-1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=294fc1a4c7e96830</description>
-      <companyName>Vanderbilt University Medical Center</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Nashville, TN, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse RN Adult Behavioral Health at Trinity Health</title>
-      <link>https://jobs.trinity-health.org/newengland/job/TRHEUS00618878NEWENGLANDENUS/Registered-Nurse-RN-Adult-Behavioral-Health?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Trinity Health-Registered Nurse RN Adult Behavioral Health-Hartford, CT, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Hartford, CT, US
-💼 Type: Parttime
-🏠 Work: On-site
-
-📝 Description: **Employment Type:**  
+*Vanderbilt Health is committed* *to fostering an* *environment where everyone has the chance to thrive and is committed to the principles of equal opportunity. EOE/Vets/Disabled.*","","https://www.indeed.com/cmp/Vanderbilt-University-Medical-Center","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6df5095913dcbf108f67854658d7881c","https://www.vumc.org","Nashville, TN","10,000+","$1B to $5B (USD)","Vanderbilt’s mission is to advance health and wellness through preeminent programs in patient care, education, and research.","","","","","","",""
+"in-ccc248a29c35c7bd","indeed","https://www.indeed.com/viewjob?jk=ccc248a29c35c7bd","https://jobs.trinity-health.org/newengland/job/TRHEUS00618878NEWENGLANDENUS/Registered-Nurse-RN-Adult-Behavioral-Health?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse RN Adult Behavioral Health","Trinity Health","Hartford, CT, US","2025-09-20","parttime","","","","","",False,"","","","","**Employment Type:**  
 
 Part time
   
@@ -2520,25 +1967,9 @@ Our Commitment
   
   
 
-Rooted in our Mission and Core Values, we honor the dignity of every person and recognize the unique perspectives, experiences, and talents each colleague brings. By finding common ground and embracing our differences, we grow stronger together and deliver more compassionate, person\\-centered care. We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other status protected by federal, state, or local law.
-🔗 Apply Direct: https://jobs.trinity-health.org/newengland/job/TRHEUS00618878NEWENGLANDENUS/Registered-Nurse-RN-Adult-Behavioral-Health?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ccc248a29c35c7bd</description>
-      <companyName>Trinity Health</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Hartford, CT, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse-12 hr wknd at Trinity Health</title>
-      <link>https://jobs.trinity-health.org/sjhs/job/TRHEUS00618793SJHSENUS/Registered-Nurse-12-hr-wknd?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Trinity Health-Registered Nurse-12 hr wknd-Mishawaka, IN, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Mishawaka, IN, US
-💼 Type: Parttime
-🏠 Work: On-site
-
-📝 Description: **Employment Type:**  
+Rooted in our Mission and Core Values, we honor the dignity of every person and recognize the unique perspectives, experiences, and talents each colleague brings. By finding common ground and embracing our differences, we grow stronger together and deliver more compassionate, person\\-centered care. We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other status protected by federal, state, or local law.","Health Care","https://www.indeed.com/cmp/Trinity-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/13e6144af93a8598d3397fb32518ed3d","https://jobs.trinity-health.org/","20555 Victor Parkway
+Livonia, MI 48152","10,000+","more than $10B (USD)","Trinity Health is one of the largest multi-institutional Catholic health care delivery systems in the nation, serving diverse communities that include more than 30 million people across 25 states.","","","","","","",""
+"in-a9b25fe86c5113a2","indeed","https://www.indeed.com/viewjob?jk=a9b25fe86c5113a2","https://jobs.trinity-health.org/sjhs/job/TRHEUS00618793SJHSENUS/Registered-Nurse-12-hr-wknd?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse-12 hr wknd","Trinity Health","Mishawaka, IN, US","2025-09-20","parttime","","","","","",False,"","","","","**Employment Type:**  
 
 Part time
   
@@ -2578,24 +2009,9 @@ Our Commitment
   
   
 
-Rooted in our Mission and Core Values, we honor the dignity of every person and recognize the unique perspectives, experiences, and talents each colleague brings. By finding common ground and embracing our differences, we grow stronger together and deliver more compassionate, person\\-centered care. We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other status protected by federal, state, or local law.
-🔗 Apply Direct: https://jobs.trinity-health.org/sjhs/job/TRHEUS00618793SJHSENUS/Registered-Nurse-12-hr-wknd?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a9b25fe86c5113a2</description>
-      <companyName>Trinity Health</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Mishawaka, IN, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse I-III at State of Delaware</title>
-      <link>https://www.jobapscloud.com/DE/sup/bulpreview.asp?b=&amp;R1=091025&amp;R2=UDGA01&amp;R3=200900</link>
-      <guid isPermaLink="false">State of Delaware-Licensed Practical Nurse I-III-Milford, DE, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Milford, DE, US
-🏠 Work: On-site
-
-📝 Description: **Introduction**
+Rooted in our Mission and Core Values, we honor the dignity of every person and recognize the unique perspectives, experiences, and talents each colleague brings. By finding common ground and embracing our differences, we grow stronger together and deliver more compassionate, person\\-centered care. We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other status protected by federal, state, or local law.","Health Care","https://www.indeed.com/cmp/Trinity-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/13e6144af93a8598d3397fb32518ed3d","https://jobs.trinity-health.org/","20555 Victor Parkway
+Livonia, MI 48152","10,000+","more than $10B (USD)","Trinity Health is one of the largest multi-institutional Catholic health care delivery systems in the nation, serving diverse communities that include more than 30 million people across 25 states.","","","","","","",""
+"in-e96ac1e7da3aa31f","indeed","https://www.indeed.com/viewjob?jk=e96ac1e7da3aa31f","https://www.jobapscloud.com/DE/sup/bulpreview.asp?b=&R1=091025&R2=UDGA01&R3=200900","Licensed Practical Nurse I-III","State of Delaware","Milford, DE, US","2025-09-20","","","","","","",False,"","","","","**Introduction**
 ----------------
 
 
@@ -2721,25 +2137,8 @@ Accommodations are available for applicants with disabilities in all phases of t
 
 
 
-The State of Delaware is an Equal Opportunity employer and values a diverse workforce. We strongly encourage and seek out a workforce representative of Delaware including race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression.
-🔗 Apply Direct: https://www.jobapscloud.com/DE/sup/bulpreview.asp?b=&amp;R1=091025&amp;R2=UDGA01&amp;R3=200900
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e96ac1e7da3aa31f</description>
-      <companyName>State of Delaware</companyName>
-      <jobLocation>Milford, DE, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Educational Specialist / Surgical Nurse – San Juan, PR at IQVIA</title>
-      <link>https://jobs.iqvia.com/en/job/san-juan/educational-specialist-surgical-nurse-san-juan-pr/24443/86342633296</link>
-      <guid isPermaLink="false">IQVIA-Educational Specialist / Surgical Nurse – San Juan, PR-San Juan, PR, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: San Juan, PR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 45,000 - 47,500 (yearly)
-
-📝 Description: As the only global provider of commercial solutions, IQVIA understands what it takes to deliver nationally and internationally. Our teams help biopharma get medicines to the people who need them. We help customers gain insight and access to their markets and ultimately demonstrate their product's value to payers, physicians and patients. A significant part of our business is acting as the biopharma's field force to physicians or providing nurses to educate patients or prescribers. With the right experience, you can help deliver medical breakthroughs in the real world.
+The State of Delaware is an Equal Opportunity employer and values a diverse workforce. We strongly encourage and seek out a workforce representative of Delaware including race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression.","Government","https://www.indeed.com/cmp/State-of-Delaware","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/52c8d6900134641b4d3f76e9033429df","https://delaware.gov","Dover","1,001 to 5,000","","","","","","","","",""
+"in-981df60a2ac15ad9","indeed","https://www.indeed.com/viewjob?jk=981df60a2ac15ad9","https://jobs.iqvia.com/en/job/san-juan/educational-specialist-surgical-nurse-san-juan-pr/24443/86342633296","Educational Specialist / Surgical Nurse – San Juan, PR","IQVIA","San Juan, PR, US","2025-09-20","fulltime","direct_data","yearly",45000.0,47500.0,"USD",False,"","","","","As the only global provider of commercial solutions, IQVIA understands what it takes to deliver nationally and internationally. Our teams help biopharma get medicines to the people who need them. We help customers gain insight and access to their markets and ultimately demonstrate their product's value to payers, physicians and patients. A significant part of our business is acting as the biopharma's field force to physicians or providing nurses to educate patients or prescribers. With the right experience, you can help deliver medical breakthroughs in the real world.
 
 
 We are excited to announce that we are looking for a Educational Specialist to join our team of over 10,000 global field representatives in several regions making over 20 million product details annually for our pharmaceutical and biotech clients.
@@ -2785,10 +2184,10 @@ A Surgical Nurse position is available for candidates with a minimum of 2 years 
 
 **Competency**
 
-* The Educational Specialist promotes the Johnson \\&amp; Johnson culture through positive, ongoing customer relationships.
+* The Educational Specialist promotes the Johnson \\& Johnson culture through positive, ongoing customer relationships.
 * This position also requires the ability to develop strong relationships with customers and within the internal team
 * Must have the ability to work autonomously, as needed.
-* Must have the ability to work collaboratively with other Johnson \\&amp; Johnson team members to ensure open communication of ideas and techniques.
+* Must have the ability to work collaboratively with other Johnson \\& Johnson team members to ensure open communication of ideas and techniques.
 * Must be highly organized and self\\-directed.
 * Employee performance will be compared with other clinical specialist’s feedback provided accordingly.
 * Candidates must have a valid driver's license.
@@ -2806,30 +2205,8 @@ IQVIA is a leading global provider of clinical research services, commercial ins
 IQVIA is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or any other status protected by applicable law. https://jobs.iqvia.com/eoe
 
 
-The potential base pay range for this role is $45,000 \\- $47,500 annually. The actual base pay offered may vary based on a number of factors including job\\-related qualifications such as knowledge, skills, education, and experience; location; and/or schedule (full or part\\-time). Dependent on the position offered, incentive plans, bonuses, and/or other forms of compensation may be offered, in addition to a range of health and welfare and/or other benefits.
-🔗 Apply Direct: https://jobs.iqvia.com/en/job/san-juan/educational-specialist-surgical-nurse-san-juan-pr/24443/86342633296
-🔗 Job Board: https://www.indeed.com/viewjob?jk=981df60a2ac15ad9</description>
-      <companyName>IQVIA</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>San Juan, PR, US</jobLocation>
-      <salaryMin>45000</salaryMin>
-      <salaryMax>47500</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Weekend LPN - up to 30% Incentive Pay! at Homewood Living Ministries</title>
-      <link>https://careers.homewood.com/job/Skilled-Nursing/Weekend-LPN-up-to-30%25-Incentive-Pay%21/Williamsport-MD/homewoodrms/6_iIhyFZIUKUsIb0SEAB4g/?utm_source=Indeed</link>
-      <guid isPermaLink="false">Homewood Living Ministries-Weekend LPN - up to 30% Incentive Pay!-Williamsport, MD, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Williamsport, MD, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 29 - 32 (hourly)
-
-📝 Description: **Homewood Living Williamsport**  
+The potential base pay range for this role is $45,000 \\- $47,500 annually. The actual base pay offered may vary based on a number of factors including job\\-related qualifications such as knowledge, skills, education, and experience; location; and/or schedule (full or part\\-time). Dependent on the position offered, incentive plans, bonuses, and/or other forms of compensation may be offered, in addition to a range of health and welfare and/or other benefits.","","https://www.indeed.com/cmp/Iqvia","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/03e043400efdf1e7d2f66b4d0a67997e","http://jobs.iqvia.com","Durham, NC","10,000+","more than $10B (USD)","IQVIA (NYSE:IQV) is a leading global provider of advanced analytics, technology solutions and clinical research services to the life sciences industry dedicated to delivering actionable insights.","","","","","","",""
+"in-e981511fe7196c1b","indeed","https://www.indeed.com/viewjob?jk=e981511fe7196c1b","https://careers.homewood.com/job/Skilled-Nursing/Weekend-LPN-up-to-30%25-Incentive-Pay%21/Williamsport-MD/homewoodrms/6_iIhyFZIUKUsIb0SEAB4g/?utm_source=Indeed","Weekend LPN - up to 30% Incentive Pay!","Homewood Living Ministries","Williamsport, MD, US","2025-09-20","parttime","direct_data","hourly",29.0,32.0,"USD",False,"","","","","**Homewood Living Williamsport**  
 
 **Shift:**  
 
@@ -2867,7 +2244,7 @@ We have grown from humble beginnings in 1932, from serving 12 residents in one s
 
 **What's in it for you?**  
 
-As a valued member of our team, you'll enjoy these exceptional benefits \\&amp; perks:
+As a valued member of our team, you'll enjoy these exceptional benefits \\& perks:
   
 
 * Paid time off, with an opportunity to cash out each year
@@ -2925,29 +2302,8 @@ As a leader in our team, you'll play a pivotal role in ensuring top\\-notch care
 * Ability to push a med cart in dispensing medications.
 * Ability to react quickly and decisively in emergencies and in unexpected behavior of residents.
 * Ability to understand and follow oral and written instructions.
-* Ability to communicate with residents at a level they can understand.
-🔗 Apply Direct: https://careers.homewood.com/job/Skilled-Nursing/Weekend-LPN-up-to-30%25-Incentive-Pay%21/Williamsport-MD/homewoodrms/6_iIhyFZIUKUsIb0SEAB4g/?utm_source=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e981511fe7196c1b</description>
-      <companyName>Homewood Living Ministries</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Williamsport, MD, US</jobLocation>
-      <salaryMin>29</salaryMin>
-      <salaryMax>32</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Tewksbury Urgent Care RN - Per Diem at Lowell General Hospital</title>
-      <link>https://click.appcast.io/t/0XpvKAeq5aLsglA9483cEtpcEe-ZPAYxKggyElGjwmM=</link>
-      <guid isPermaLink="false">Lowell General Hospital-Tewksbury Urgent Care RN - Per Diem-Tewksbury, MA, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Tewksbury, MA, US
-💼 Type: Perdiem
-🏠 Work: On-site
-
-📝 Description: **Hours:** Per Diem
+* Ability to communicate with residents at a level they can understand.","","https://www.indeed.com/cmp/Homewood-Living-Ministries","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7efda077b5f8b53a1cf384368504df70","https://www.homewood.com","Williamsport, MD","1,001 to 5,000","$100M to $500M (USD)","Homewood: your talent matters here.","","","","","","",""
+"in-74f9ac5553961b52","indeed","https://www.indeed.com/viewjob?jk=74f9ac5553961b52","https://click.appcast.io/t/0XpvKAeq5aLsglA9483cEtpcEe-ZPAYxKggyElGjwmM=","Tewksbury Urgent Care RN - Per Diem","Lowell General Hospital","Tewksbury, MA, US","2025-09-20","perdiem","","","","","",False,"","","","","**Hours:** Per Diem
 
 **Location:** 1574 Main St. Tewksbury, MA. Float to Dracut, Billerica, and Westford Urgent Care as needed.
 
@@ -3092,7 +2448,7 @@ This role possesses and applies the skills and knowledge necessary for the deliv
 
 7\\. Requires visual and aural acuity necessary to monitor patient care.
 
- **Skills \\&amp; Abilities:**
+ **Skills \\& Abilities:**
 
 
 1\\. Ability to effectively communicate with patients, families, physicians, and healthcare team.
@@ -3113,25 +2469,9 @@ This role possesses and applies the skills and knowledge necessary for the deliv
 6\\. Ability to handle emergency and crisis situations.
 
 
-7\\. May be subjected to irregular hours.
-🔗 Apply Direct: https://click.appcast.io/t/0XpvKAeq5aLsglA9483cEtpcEe-ZPAYxKggyElGjwmM=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=74f9ac5553961b52</description>
-      <companyName>Lowell General Hospital</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Tewksbury, MA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Dialysis Registered Nurse at U.S. Renal Care</title>
-      <link>https://click.appcast.io/t/-YFuZ5fSW3eUsNkEkdhFmLVkn1tYK1dNibljs85fiPY=</link>
-      <guid isPermaLink="false">U.S. Renal Care-Dialysis Registered Nurse-Lafayette, IN, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Lafayette, IN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: ***How you'll change lives***
+7\\. May be subjected to irregular hours.","Health Care","https://www.indeed.com/cmp/Lowell-General-Hospital","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/831ae7a793546f5e03a71fcfbcd2b61b","http://www.lowellgeneral.org/","295 Varnum Avenue
+Lowell, Massachusetts 01854","1,001 to 5,000","$100M to $500M (USD)","Lowell General Hospital is an independent, not-for-profit, community hospital serving the Greater Lowell area and surrounding communities.","","","","","","",""
+"in-7bed3804f8a3bf05","indeed","https://www.indeed.com/viewjob?jk=7bed3804f8a3bf05","https://click.appcast.io/t/-YFuZ5fSW3eUsNkEkdhFmLVkn1tYK1dNibljs85fiPY=","Dialysis Registered Nurse","U.S. Renal Care","Lafayette, IN, US","2025-09-20","fulltime","","","","","",False,"","","","","***How you'll change lives***
 -----------------------------
 
 
@@ -3149,7 +2489,7 @@ As a Registered Nurse (RN) at US Renal Care, you'll be an integral part of a cro
 **Teamwork.** You'll be a critical member of an interdisciplinary team to provide all required patient assessment and care planning activities. You'll also make sure center staffing requirements are met at all times under the direction of the Administrator and according to state regulations for staffing ratios.
 
 
-**Safety \\&amp; Quality.** Working under the supervision of a Charge Nurse, you'll adhere to all company policies and procedures and state and federal laws and regulations. You'll participate in all required staff meetings and continuing education offerings.
+**Safety \\& Quality.** Working under the supervision of a Charge Nurse, you'll adhere to all company policies and procedures and state and federal laws and regulations. You'll participate in all required staff meetings and continuing education offerings.
 
 ***What we're looking for***
 ----------------------------
@@ -3175,25 +2515,8 @@ As a Registered Nurse (RN) at US Renal Care, you'll be an integral part of a cro
 *We're here to change the lives of people with kidney disease and shape the future of kidney care. We still have much work ahead. If you desire to make a positive impact in the life of others and pursue a fulfilling career in healthcare, we invite you to join our team at U.S. Renal Care!*
 
 ***Are you with US? Apply today!***
------------------------------------
-🔗 Apply Direct: https://click.appcast.io/t/-YFuZ5fSW3eUsNkEkdhFmLVkn1tYK1dNibljs85fiPY=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7bed3804f8a3bf05</description>
-      <companyName>U.S. Renal Care</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Lafayette, IN, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Dialysis Registered Nurse at U.S. Renal Care</title>
-      <link>https://click.appcast.io/t/HsC5Eo04B3uA-ZrHL2bmjscnSXhiJNndsXVY7ul8jxo=</link>
-      <guid isPermaLink="false">U.S. Renal Care-Dialysis Registered Nurse-Alexis, OH, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Alexis, OH, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: ***How you'll change lives***
+-----------------------------------","","https://www.indeed.com/cmp/U.S.-Renal-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/83e131ba4dd29abfb8e5c1ff6e1a5b2c","https://www.usrenalcare.com","Plano, TX","5,001 to 10,000","$1B to $5B (USD)","U.S. Renal Care was founded in 2000 and serves more than 25,000 patients in 335 dialysis facilities in 32 states and the Territory of Guam.","","","","","","",""
+"in-9bac1a66eb42d56a","indeed","https://www.indeed.com/viewjob?jk=9bac1a66eb42d56a","https://click.appcast.io/t/HsC5Eo04B3uA-ZrHL2bmjscnSXhiJNndsXVY7ul8jxo=","Dialysis Registered Nurse","U.S. Renal Care","Alexis, OH, US","2025-09-20","fulltime","","","","","",False,"","","","","***How you'll change lives***
 -----------------------------
 
 
@@ -3211,7 +2534,7 @@ As a Registered Nurse (RN) at US Renal Care, you'll be an integral part of a cro
 **Teamwork.** You'll be a critical member of an interdisciplinary team to provide all required patient assessment and care planning activities. You'll also make sure center staffing requirements are met at all times under the direction of the Administrator and according to state regulations for staffing ratios.
 
 
-**Safety \\&amp; Quality.** Working under the supervision of a Charge Nurse, you'll adhere to all company policies and procedures and state and federal laws and regulations. You'll participate in all required staff meetings and continuing education offerings.
+**Safety \\& Quality.** Working under the supervision of a Charge Nurse, you'll adhere to all company policies and procedures and state and federal laws and regulations. You'll participate in all required staff meetings and continuing education offerings.
 
 ***What we're looking for***
 ----------------------------
@@ -3237,33 +2560,15 @@ As a Registered Nurse (RN) at US Renal Care, you'll be an integral part of a cro
 *We're here to change the lives of people with kidney disease and shape the future of kidney care. We still have much work ahead. If you desire to make a positive impact in the life of others and pursue a fulfilling career in healthcare, we invite you to join our team at U.S. Renal Care!*
 
 ***Are you with US? Apply today!***
------------------------------------
-🔗 Apply Direct: https://click.appcast.io/t/HsC5Eo04B3uA-ZrHL2bmjscnSXhiJNndsXVY7ul8jxo=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=9bac1a66eb42d56a</description>
-      <companyName>U.S. Renal Care</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Alexis, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Travel RN-IR-Interventional Radiology in Santa Rosa, California at Voyage Health</title>
-      <link>https://app.workwolf.com/pipelineLink/DSMHR4JK?utm_source=indeed</link>
-      <guid isPermaLink="false">Voyage Health-Travel RN-IR-Interventional Radiology in Santa Rosa, California-Santa Rosa, CA, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Santa Rosa, CA, US
-💼 Type: Fulltime, Contract
-🏠 Work: On-site
-💰 Salary: USD 2,594 - 2,730 (weekly)
-
-📝 Description: Looking to level up your career and boost your income? At Voyage Healthcare, we help connect nurses, therapists, and allied health pros with high\\-paying travel jobs at top\\-rated facilities across the U.S. With thousands of openings nationwide, you can earn up to $3,500\\+ per week (depending on your specialty, location, housing, and benefits)—all while making a real impact on the communities that need you most. Let your next adventure start with us!
+-----------------------------------","","https://www.indeed.com/cmp/U.S.-Renal-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/83e131ba4dd29abfb8e5c1ff6e1a5b2c","https://www.usrenalcare.com","Plano, TX","5,001 to 10,000","$1B to $5B (USD)","U.S. Renal Care was founded in 2000 and serves more than 25,000 patients in 335 dialysis facilities in 32 states and the Territory of Guam.","","","","","","",""
+"in-b5803659d8bebbe8","indeed","https://www.indeed.com/viewjob?jk=b5803659d8bebbe8","https://app.workwolf.com/pipelineLink/DSMHR4JK?utm_source=indeed","Travel RN-IR-Interventional Radiology in Santa Rosa, California","Voyage Health","Santa Rosa, CA, US","2025-09-20","fulltime, contract","direct_data","weekly",2594.0,2730.0,"USD",False,"","","","","Looking to level up your career and boost your income? At Voyage Healthcare, we help connect nurses, therapists, and allied health pros with high\\-paying travel jobs at top\\-rated facilities across the U.S. With thousands of openings nationwide, you can earn up to $3,500\\+ per week (depending on your specialty, location, housing, and benefits)—all while making a real impact on the communities that need you most. Let your next adventure start with us!
 
 **Position:** RN\\-IR\\-Interventional Radiology (Travel/Contract)
 
 
 We're hiring experienced RN\\-IR\\-Interventional Radiology for a 13\\-week contract in Santa Rosa, California — earn up to ($2594 \\- $2730 per week) while providing essential care at a leading facility. Most candidates will need to have at least 2 years of recent experience in the specialty.
 
-**Apply \\&amp; Call us today at 800\\-798\\-6035** for details on this opportunity.
+**Apply \\& Call us today at 800\\-798\\-6035** for details on this opportunity.
 
 **Position Details**
 
@@ -3282,37 +2587,15 @@ We're hiring experienced RN\\-IR\\-Interventional Radiology for a 13\\-week cont
 **Contract Length:** 13\\-week
 
 
-\\#Workwolf
-🔗 Apply Direct: https://app.workwolf.com/pipelineLink/DSMHR4JK?utm_source=indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b5803659d8bebbe8</description>
-      <companyName>Voyage Health</companyName>
-      <jobType>Fulltime, Contract</jobType>
-      <jobLocation>Santa Rosa, CA, US</jobLocation>
-      <salaryMin>2594</salaryMin>
-      <salaryMax>2730</salaryMax>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Travel RN-Case Manager in Santa Rosa, California at Voyage Health</title>
-      <link>https://app.workwolf.com/pipelineLink/ZKMUD7OC?utm_source=indeed</link>
-      <guid isPermaLink="false">Voyage Health-Travel RN-Case Manager in Santa Rosa, California-Santa Rosa, CA, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Santa Rosa, CA, US
-💼 Type: Fulltime, Contract
-🏠 Work: On-site
-💰 Salary: USD 2,377 - 2,503 (weekly)
-
-📝 Description: Looking to level up your career and boost your income? At Voyage Healthcare, we help connect nurses, therapists, and allied health pros with high\\-paying travel jobs at top\\-rated facilities across the U.S. With thousands of openings nationwide, you can earn up to $3,500\\+ per week (depending on your specialty, location, housing, and benefits)—all while making a real impact on the communities that need you most. Let your next adventure start with us!
+\\#Workwolf","","https://www.indeed.com/cmp/Voyage-Health","","","","","","","","","","","","",""
+"in-23281030045ca6f5","indeed","https://www.indeed.com/viewjob?jk=23281030045ca6f5","https://app.workwolf.com/pipelineLink/ZKMUD7OC?utm_source=indeed","Travel RN-Case Manager in Santa Rosa, California","Voyage Health","Santa Rosa, CA, US","2025-09-20","fulltime, contract","direct_data","weekly",2377.0,2503.0,"USD",False,"","","","","Looking to level up your career and boost your income? At Voyage Healthcare, we help connect nurses, therapists, and allied health pros with high\\-paying travel jobs at top\\-rated facilities across the U.S. With thousands of openings nationwide, you can earn up to $3,500\\+ per week (depending on your specialty, location, housing, and benefits)—all while making a real impact on the communities that need you most. Let your next adventure start with us!
 
 **Position:** RN\\-Case Manager (Travel/Contract)
 
 
 We're hiring experienced RN\\-Case Manager for a 13\\-week contract in Santa Rosa, California — earn up to ($2378 \\- $2503 per week) while providing essential care at a leading facility. Most candidates will need to have at least 2 years of recent experience in the specialty.
 
-**Apply \\&amp; Call us today at 800\\-798\\-6035** for details on this opportunity.
+**Apply \\& Call us today at 800\\-798\\-6035** for details on this opportunity.
 
 **Position Details**
 
@@ -3331,37 +2614,15 @@ We're hiring experienced RN\\-Case Manager for a 13\\-week contract in Santa Ros
 **Contract Length:** 13\\-week
 
 
-\\#Workwolf
-🔗 Apply Direct: https://app.workwolf.com/pipelineLink/ZKMUD7OC?utm_source=indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=23281030045ca6f5</description>
-      <companyName>Voyage Health</companyName>
-      <jobType>Fulltime, Contract</jobType>
-      <jobLocation>Santa Rosa, CA, US</jobLocation>
-      <salaryMin>2377</salaryMin>
-      <salaryMax>2503</salaryMax>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Travel RN-Neurology in Oklahoma City, Oklahoma at Voyage Health</title>
-      <link>https://app.workwolf.com/pipelineLink/G3UESQY6?utm_source=indeed</link>
-      <guid isPermaLink="false">Voyage Health-Travel RN-Neurology in Oklahoma City, Oklahoma-Oklahoma City, OK, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Oklahoma City, OK, US
-💼 Type: Fulltime, Contract
-🏠 Work: On-site
-💰 Salary: USD 2,283 - 2,403 (weekly)
-
-📝 Description: Looking to level up your career and boost your income? At Voyage Healthcare, we help connect nurses, therapists, and allied health pros with high\\-paying travel jobs at top\\-rated facilities across the U.S. With thousands of openings nationwide, you can earn up to $3,500\\+ per week (depending on your specialty, location, housing, and benefits)—all while making a real impact on the communities that need you most. Let your next adventure start with us!
+\\#Workwolf","","https://www.indeed.com/cmp/Voyage-Health","","","","","","","","","","","","",""
+"in-d48d4d7cd0b3309f","indeed","https://www.indeed.com/viewjob?jk=d48d4d7cd0b3309f","https://app.workwolf.com/pipelineLink/G3UESQY6?utm_source=indeed","Travel RN-Neurology in Oklahoma City, Oklahoma","Voyage Health","Oklahoma City, OK, US","2025-09-20","fulltime, contract","direct_data","weekly",2283.0,2403.0,"USD",False,"","","","","Looking to level up your career and boost your income? At Voyage Healthcare, we help connect nurses, therapists, and allied health pros with high\\-paying travel jobs at top\\-rated facilities across the U.S. With thousands of openings nationwide, you can earn up to $3,500\\+ per week (depending on your specialty, location, housing, and benefits)—all while making a real impact on the communities that need you most. Let your next adventure start with us!
 
 **Position:** RN\\-Neurology (Travel/Contract)
 
 
 We're hiring experienced RN\\-Neurology for a 13\\-week contract in Oklahoma City, Oklahoma — earn up to ($2283 \\- $2403 per week) while providing essential care at a leading facility. Most candidates will need to have at least 2 years of recent experience in the specialty.
 
-**Apply \\&amp; Call us today at 800\\-798\\-6035** for details on this opportunity.
+**Apply \\& Call us today at 800\\-798\\-6035** for details on this opportunity.
 
 **Position Details**
 
@@ -3380,30 +2641,8 @@ We're hiring experienced RN\\-Neurology for a 13\\-week contract in Oklahoma Cit
 **Contract Length:** 13\\-week
 
 
-\\#Workwolf
-🔗 Apply Direct: https://app.workwolf.com/pipelineLink/G3UESQY6?utm_source=indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d48d4d7cd0b3309f</description>
-      <companyName>Voyage Health</companyName>
-      <jobType>Fulltime, Contract</jobType>
-      <jobLocation>Oklahoma City, OK, US</jobLocation>
-      <salaryMin>2283</salaryMin>
-      <salaryMax>2403</salaryMax>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Travel L&amp;D at Talented Medical Solutions</title>
-      <link>https://app.workwolf.com/pipelineLink/RW6R7DXW?utm_source=indeed</link>
-      <guid isPermaLink="false">Talented Medical Solutions-Travel L&amp;D-Carlsbad, NM, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Carlsbad, NM, US
-💼 Type: Temporary
-🏠 Work: On-site
-💰 Salary: USD 2,420 - 2,430 (weekly)
-
-📝 Description: **Travel L\\&amp;D RN (Labor, Delivery, Recovery, Postpartum) – Carlsbad, NM**
+\\#Workwolf","","https://www.indeed.com/cmp/Voyage-Health","","","","","","","","","","","","",""
+"in-75f9b5ffe36db13e","indeed","https://www.indeed.com/viewjob?jk=75f9b5ffe36db13e","https://app.workwolf.com/pipelineLink/RW6R7DXW?utm_source=indeed","Travel L&D","Talented Medical Solutions","Carlsbad, NM, US","2025-09-20","temporary","direct_data","weekly",2420.0,2430.0,"USD",False,"","","","","**Travel L\\&D RN (Labor, Delivery, Recovery, Postpartum) – Carlsbad, NM**
 
 * **Location:** Carlsbad, NM
 * **Start Date:** ASAP
@@ -3411,11 +2650,11 @@ We're hiring experienced RN\\-Neurology for a 13\\-week contract in Oklahoma Cit
 * **Shift:** Nights, 6:30 pm – 7:00 am
 
 
-We’re seeking an experienced **Labor \\&amp; Delivery RN** to provide compassionate care to mothers and newborns through all phases of labor, delivery, recovery, and postpartum. This is a great opportunity for a skilled nurse who thrives in a fast\\-paced environment and is ready to hit the ground running.
+We’re seeking an experienced **Labor \\& Delivery RN** to provide compassionate care to mothers and newborns through all phases of labor, delivery, recovery, and postpartum. This is a great opportunity for a skilled nurse who thrives in a fast\\-paced environment and is ready to hit the ground running.
 
 ### **Requirements**
 
-* **Experience:** Minimum 2\\+ years of recent L\\&amp;D experience required
+* **Experience:** Minimum 2\\+ years of recent L\\&D experience required
 * **Certifications:** ACLS, BLS, and NRP required
 * **Licensure:** Active NM RN license or compact license
 
@@ -3429,40 +2668,18 @@ We’re seeking an experienced **Labor \\&amp; Delivery RN** to provide compassi
 * Document all care in accordance with facility and regulatory standards
 
 
-This is an excellent opportunity for an experienced **L\\&amp;D RN** to make an impact in a supportive and fast\\-paced environment while advancing their travel nursing career.
+This is an excellent opportunity for an experienced **L\\&D RN** to make an impact in a supportive and fast\\-paced environment while advancing their travel nursing career.
 
 
-\\#Workwolf
-🔗 Apply Direct: https://app.workwolf.com/pipelineLink/RW6R7DXW?utm_source=indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=75f9b5ffe36db13e</description>
-      <companyName>Talented Medical Solutions</companyName>
-      <jobType>Temporary</jobType>
-      <jobLocation>Carlsbad, NM, US</jobLocation>
-      <salaryMin>2420</salaryMin>
-      <salaryMax>2430</salaryMax>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Travel RN-Rehab in Herrin, Illinois at Voyage Health</title>
-      <link>https://app.workwolf.com/pipelineLink/L9VR2L4O?utm_source=indeed</link>
-      <guid isPermaLink="false">Voyage Health-Travel RN-Rehab in Herrin, Illinois-Herrin, IL, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Herrin, IL, US
-💼 Type: Fulltime, Contract
-🏠 Work: On-site
-💰 Salary: USD 2,127 - 2,239 (weekly)
-
-📝 Description: Looking to level up your career and boost your income? At Voyage Healthcare, we help connect nurses, therapists, and allied health pros with high\\-paying travel jobs at top\\-rated facilities across the U.S. With thousands of openings nationwide, you can earn up to $3,500\\+ per week (depending on your specialty, location, housing, and benefits)—all while making a real impact on the communities that need you most. Let your next adventure start with us!
+\\#Workwolf","","https://www.indeed.com/cmp/Talented-Medical-Solutions","","","","","","","","","","","","",""
+"in-1a13530b2c39693a","indeed","https://www.indeed.com/viewjob?jk=1a13530b2c39693a","https://app.workwolf.com/pipelineLink/L9VR2L4O?utm_source=indeed","Travel RN-Rehab in Herrin, Illinois","Voyage Health","Herrin, IL, US","2025-09-20","fulltime, contract","direct_data","weekly",2127.0,2239.0,"USD",False,"","","","","Looking to level up your career and boost your income? At Voyage Healthcare, we help connect nurses, therapists, and allied health pros with high\\-paying travel jobs at top\\-rated facilities across the U.S. With thousands of openings nationwide, you can earn up to $3,500\\+ per week (depending on your specialty, location, housing, and benefits)—all while making a real impact on the communities that need you most. Let your next adventure start with us!
 
 **Position:** RN\\-Rehab (Travel/Contract)
 
 
 We're hiring experienced RN\\-Rehab for a 13\\-week contract in Herrin, Illinois — earn up to ($2127 \\- $2239 per week) while providing essential care at a leading facility. Most candidates will need to have at least 2 years of recent experience in the specialty.
 
-**Apply \\&amp; Call us today at 800\\-798\\-6035** for details on this opportunity.
+**Apply \\& Call us today at 800\\-798\\-6035** for details on this opportunity.
 
 **Position Details**
 
@@ -3481,29 +2698,8 @@ We're hiring experienced RN\\-Rehab for a 13\\-week contract in Herrin, Illinois
 **Contract Length:** 13\\-week
 
 
-\\#Workwolf
-🔗 Apply Direct: https://app.workwolf.com/pipelineLink/L9VR2L4O?utm_source=indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1a13530b2c39693a</description>
-      <companyName>Voyage Health</companyName>
-      <jobType>Fulltime, Contract</jobType>
-      <jobLocation>Herrin, IL, US</jobLocation>
-      <salaryMin>2127</salaryMin>
-      <salaryMax>2239</salaryMax>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Travel Nurse RN – PCU – Progressive Care Unit at nan</title>
-      <link>https://medjourneytransport.hirerecruits.com/jobs/travel-nurse-rn-pcu-progressive-care-unit-ba72f2e1cb6726/</link>
-      <guid isPermaLink="false">nan-Travel Nurse RN – PCU – Progressive Care Unit-Tulsa, OK, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Tulsa, OK, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Work Type:** Full Time
+\\#Workwolf","","https://www.indeed.com/cmp/Voyage-Health","","","","","","","","","","","","",""
+"in-deff9fc63826446e","indeed","https://www.indeed.com/viewjob?jk=deff9fc63826446e","https://medjourneytransport.hirerecruits.com/jobs/travel-nurse-rn-pcu-progressive-care-unit-ba72f2e1cb6726/","Travel Nurse RN – PCU – Progressive Care Unit","","Tulsa, OK, US","2025-09-20","fulltime","","weekly","","","USD",False,"","","","","**Work Type:** Full Time
 **Work City:** Tulsa
 **Work State:** Oklahoma
 We are seeking a dedicated Travel Nurse RN for the Progressive Care Unit (PCU) in Tulsa, Oklahoma, offering $2,001 per week.  
@@ -3539,26 +2735,8 @@ We are seeking a dedicated Travel Nurse RN for the Progressive Care Unit (PCU) i
 * Travel and housing stipends
 * Health insurance options
 * Flexible assignment durations
-* Supportive staffing team and travel resources
-🔗 Apply Direct: https://medjourneytransport.hirerecruits.com/jobs/travel-nurse-rn-pcu-progressive-care-unit-ba72f2e1cb6726/
-🔗 Job Board: https://www.indeed.com/viewjob?jk=deff9fc63826446e</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Tulsa, OK, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Travel Nurse Supervisor RN – Emergency Department at nan</title>
-      <link>https://medjourneytransport.hirerecruits.com/jobs/travel-nurse-supervisor-rn-emergency-department-c250b44672b626/</link>
-      <guid isPermaLink="false">nan-Travel Nurse Supervisor RN – Emergency Department-Washington, DC, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Washington, DC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Work Type:** Full Time
+* Supportive staffing team and travel resources","","","","","","","","","","","","","","",""
+"in-2ee194e34a4e897d","indeed","https://www.indeed.com/viewjob?jk=2ee194e34a4e897d","https://medjourneytransport.hirerecruits.com/jobs/travel-nurse-supervisor-rn-emergency-department-c250b44672b626/","Travel Nurse Supervisor RN – Emergency Department","","Washington, DC, US","2025-09-20","fulltime","","weekly","","","USD",False,"","","","","**Work Type:** Full Time
 **Work City:** Washington
 **Work State:** District of Columbia
 We are seeking a dedicated Travel Nurse Supervisor RN for the Clinic Emergency Department in Washington, DC, offering $3,891 per week.  
@@ -3582,26 +2760,8 @@ Skills required include strong leadership, excellent communication, critical thi
 
 
 
-Benefits include competitive pay, health insurance, travel stipends, flexible scheduling, and professional development opportunities. Join our team and make an impactful difference in patient care in Washington, DC!
-🔗 Apply Direct: https://medjourneytransport.hirerecruits.com/jobs/travel-nurse-supervisor-rn-emergency-department-c250b44672b626/
-🔗 Job Board: https://www.indeed.com/viewjob?jk=2ee194e34a4e897d</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Washington, DC, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Case Manager / PRN (RN / RT / SW / LPN) at nan</title>
-      <link>https://medjourneytransport.hirerecruits.com/jobs/case-manager-prn-rn-rt-sw-lpn-d40d6016947026/</link>
-      <guid isPermaLink="false">nan-Case Manager / PRN (RN / RT / SW / LPN)-Miami, FL, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Miami, FL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Work Type:** Full Time
+Benefits include competitive pay, health insurance, travel stipends, flexible scheduling, and professional development opportunities. Join our team and make an impactful difference in patient care in Washington, DC!","","","","","","","","","","","","","","",""
+"in-1ceb939e0f109f2f","indeed","https://www.indeed.com/viewjob?jk=1ceb939e0f109f2f","https://medjourneytransport.hirerecruits.com/jobs/case-manager-prn-rn-rt-sw-lpn-d40d6016947026/","Case Manager / PRN (RN / RT / SW / LPN)","","Miami, FL, US","2025-09-20","fulltime","","","","","",False,"","","","","**Work Type:** Full Time
 **Work City:** Miami
 **Work State:** Florida
 We are seeking a dedicated **Case Manager / PRN** (RN / RT / SW / LPN) to join our team in Miami, FL.  
@@ -3635,24 +2795,8 @@ Knowledge of healthcare regulations and documentation practices
 * Flexible PRN schedule
 * Competitive pay rates
 * Supportive work environment
-* Opportunities for professional growth and development
-🔗 Apply Direct: https://medjourneytransport.hirerecruits.com/jobs/case-manager-prn-rn-rt-sw-lpn-d40d6016947026/
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1ceb939e0f109f2f</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Miami, FL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Travel Endoscopy Registered Nurse at nan</title>
-      <link>https://medjourneytransport.hirerecruits.com/jobs/travel-endoscopy-registered-nurse-f47dfd07c8cf26/</link>
-      <guid isPermaLink="false">nan-Travel Endoscopy Registered Nurse-Salem, OR, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Salem, OR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Work Type:** Full Time
+* Opportunities for professional growth and development","","","","","","","","","","","","","","",""
+"in-317cca79b31bda32","indeed","https://www.indeed.com/viewjob?jk=317cca79b31bda32","https://medjourneytransport.hirerecruits.com/jobs/travel-endoscopy-registered-nurse-f47dfd07c8cf26/","Travel Endoscopy Registered Nurse","","Salem, OR, US","2025-09-20","fulltime","","weekly","","","USD",False,"","","","","**Work Type:** Full Time
 **Work City:** Salem
 **Work State:** Oregon
 We are seeking a dedicated Travel Endoscopy Registered Nurse to join our team in Salem, Oregon. This position offers a competitive rate of $2,097 per week and a dynamic healthcare environment.
@@ -3685,26 +2829,8 @@ We are seeking a dedicated Travel Endoscopy Registered Nurse to join our team in
 * Travel and housing stipends
 * Comprehensive health insurance options
 * Paid time off and holiday pay
-* Supportive staffing and professional growth opportunities
-🔗 Apply Direct: https://medjourneytransport.hirerecruits.com/jobs/travel-endoscopy-registered-nurse-f47dfd07c8cf26/
-🔗 Job Board: https://www.indeed.com/viewjob?jk=317cca79b31bda32</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Salem, OR, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Professional Development and Employee Health Nurse (FT) at Reunion Rehabilitation Hospitals</title>
-      <link>https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a7885a8995981cf01996502c79e6501&amp;source=Indeed+Free</link>
-      <guid isPermaLink="false">Reunion Rehabilitation Hospitals-Professional Development and Employee Health Nurse (FT)-Peoria, AZ, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Peoria, AZ, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Position Summary:**  
+* Supportive staffing and professional growth opportunities","","","","","","","","","","","","","","",""
+"in-d01281b63c93e9fd","indeed","https://www.indeed.com/viewjob?jk=d01281b63c93e9fd","https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a7885a8995981cf01996502c79e6501&source=Indeed+Free","Professional Development and Employee Health Nurse (FT)","Reunion Rehabilitation Hospitals","Peoria, AZ, US","2025-09-20","fulltime","","","","","",False,"","","","","**Position Summary:**  
 
   
 
@@ -3738,24 +2864,8 @@ Under the guidance of the Chief Nursing Officer, the Professional Development Co
 * A comprehensive health and wellness package including medical, dental, and prescription drug coverage
 
 We offer a benefits package that will best suit your family’s needs. You can choose from a variety of medical coverage plans that best fit your lifestyle. You also have the option to enroll in additional perks such as 401k, life insurance, and disability plans.
-**Reunion Rehabilitation Hospital Peoria is an EEO employer \\- M/F/Vets/Disabled**
-🔗 Apply Direct: https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a7885a8995981cf01996502c79e6501&amp;source=Indeed+Free
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d01281b63c93e9fd</description>
-      <companyName>Reunion Rehabilitation Hospitals</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Peoria, AZ, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Nurse Educator at Reunion Rehabilitation Hospitals</title>
-      <link>https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a7885a8995981cf01996500d61964f7&amp;source=Indeed+Free</link>
-      <guid isPermaLink="false">Reunion Rehabilitation Hospitals-Nurse Educator-Peoria, AZ, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Peoria, AZ, US
-🏠 Work: On-site
-
-📝 Description: **Position Summary:**  
+**Reunion Rehabilitation Hospital Peoria is an EEO employer \\- M/F/Vets/Disabled**","","https://www.indeed.com/cmp/Reunion-Rehabilitation-Hospitals","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e7b944a511fa8f19b2d3628a04de5e0c","https://reunionrehabhospital.com","","11 to 50","","We offer inpatient rehabilitation to accelerate patients' functional recovery and restore their confidence.","","","","","","",""
+"in-38085d17adbc939e","indeed","https://www.indeed.com/viewjob?jk=38085d17adbc939e","https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a7885a8995981cf01996500d61964f7&source=Indeed+Free","Nurse Educator","Reunion Rehabilitation Hospitals","Peoria, AZ, US","2025-09-20","","","","","","",False,"","","","","**Position Summary:**  
 
   
 
@@ -3789,24 +2899,8 @@ Under the guidance of the Chief Nursing Officer, the Professional Development Co
 * A comprehensive health and wellness package including medical, dental, and prescription drug coverage
 
 We offer a benefits package that will best suit your family’s needs. You can choose from a variety of medical coverage plans that best fit your lifestyle. You also have the option to enroll in additional perks such as 401k, life insurance, and disability plans.
-**Reunion Rehabilitation Hospital Peoria is an EEO employer \\- M/F/Vets/Disabled**
-🔗 Apply Direct: https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a7885a8995981cf01996500d61964f7&amp;source=Indeed+Free
-🔗 Job Board: https://www.indeed.com/viewjob?jk=38085d17adbc939e</description>
-      <companyName>Reunion Rehabilitation Hospitals</companyName>
-      <jobLocation>Peoria, AZ, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Supervisor at FREMONT HEALTHCARE CENTER</title>
-      <link>https://jobs.apploi.com/view/9da294afd1e06?utm_campaign=integration&amp;utm_medium=job-board-feed&amp;utm_source=indeed-apply-feed</link>
-      <guid isPermaLink="false">FREMONT HEALTHCARE CENTER-RN Supervisor-Fremont, CA, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Fremont, CA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: ##### **SUMMARY**
+**Reunion Rehabilitation Hospital Peoria is an EEO employer \\- M/F/Vets/Disabled**","","https://www.indeed.com/cmp/Reunion-Rehabilitation-Hospitals","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e7b944a511fa8f19b2d3628a04de5e0c","https://reunionrehabhospital.com","","11 to 50","","We offer inpatient rehabilitation to accelerate patients' functional recovery and restore their confidence.","","","","","","",""
+"in-46635c3f9448e142","indeed","https://www.indeed.com/viewjob?jk=46635c3f9448e142","https://jobs.apploi.com/view/9da294afd1e06?utm_campaign=integration&utm_medium=job-board-feed&utm_source=indeed-apply-feed","RN Supervisor","FREMONT HEALTHCARE CENTER","Fremont, CA, US","2025-09-20","fulltime","","","","","",False,"","","","","##### **SUMMARY**
 
 
 
@@ -3869,25 +2963,8 @@ Current CPR certification.
 
 
 
-Supervises LPNs, LVNs, student nurses, nurse assistants
-🔗 Apply Direct: https://jobs.apploi.com/view/9da294afd1e06?utm_campaign=integration&amp;utm_medium=job-board-feed&amp;utm_source=indeed-apply-feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=46635c3f9448e142</description>
-      <companyName>FREMONT HEALTHCARE CENTER</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Fremont, CA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LPN - Neurology at Wayne Memorial Hospital</title>
-      <link>https://cta.cadienttalent.com/index.jsp?SEQ=jobDetails&amp;APPLICATIONNAME=WayneMemorialHealthSystemKTMDReqExt&amp;POSTING_ID=106195429428&amp;LOCATION_ID=106195429426&amp;source=ContactSources.IJB&amp;specificSource=ContactSources.IJB.SpecificSources.Indeed</link>
-      <guid isPermaLink="false">Wayne Memorial Hospital-LPN - Neurology-Honesdale, PA, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Honesdale, PA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Job Description**
+Supervises LPNs, LVNs, student nurses, nurse assistants","","https://www.indeed.com/cmp/Fremont-Healthcare-Center","","","","","","","","","","","","",""
+"in-4d4ee225b4daba00","indeed","https://www.indeed.com/viewjob?jk=4d4ee225b4daba00","https://cta.cadienttalent.com/index.jsp?SEQ=jobDetails&APPLICATIONNAME=WayneMemorialHealthSystemKTMDReqExt&POSTING_ID=106195429428&LOCATION_ID=106195429426&source=ContactSources.IJB&specificSource=ContactSources.IJB.SpecificSources.Indeed","LPN - Neurology","Wayne Memorial Hospital","Honesdale, PA, US","2025-09-20","fulltime","","","","","",False,"","","","","**Job Description**
 
 
 Provides clinical and patient care support services to ensure the efficient operation of the Physician Specialty Clinic.
@@ -3905,29 +2982,13 @@ Graduate from an accredited school for Licensed Practical Nurses; Current PA lic
 **Frequently:** (Exists 25\\-75% of the time) Standing; sitting with back support; walking; reaching (overhead, forward, later, low); stooping (bend at waist); crouching (bend at knees); lifting and carrying 5 \\- 10 lbs.; pushing and pulling 0\\-100 lbs. (help is available 15\\-100 lbs.).
 
 
-**Occasionally:** (Exists 5\\- 25% of the time) Sitting without back support; twisting; lifting and carrying 10\\-75 lbs. (help is available 25\\-75 lbs.); pushing and pulling \\&gt; 100 lbs.
+**Occasionally:** (Exists 5\\- 25% of the time) Sitting without back support; twisting; lifting and carrying 10\\-75 lbs. (help is available 25\\-75 lbs.); pushing and pulling \\> 100 lbs.
 
-**Rarely:** (Exists under 5% of the time) Climbing; balance; lifting and carrying 75 \\- \\&gt;100 lbs. ((help is available); exposure to vibration, chemical hazards, infect. hazards, moving machinery, slippery surfaces, fumes.
+**Rarely:** (Exists under 5% of the time) Climbing; balance; lifting and carrying 75 \\- \\>100 lbs. ((help is available); exposure to vibration, chemical hazards, infect. hazards, moving machinery, slippery surfaces, fumes.
 
-**Sensory Requirements Visual:** close paperwork, visual monotony; Hearing: conversation, monitoring equipment, telephone, background noise; Sensory Discrimination.
-🔗 Apply Direct: https://cta.cadienttalent.com/index.jsp?SEQ=jobDetails&amp;APPLICATIONNAME=WayneMemorialHealthSystemKTMDReqExt&amp;POSTING_ID=106195429428&amp;LOCATION_ID=106195429426&amp;source=ContactSources.IJB&amp;specificSource=ContactSources.IJB.SpecificSources.Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4d4ee225b4daba00</description>
-      <companyName>Wayne Memorial Hospital</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Honesdale, PA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) at Great River Health</title>
-      <link>https://greatriverhealth.wd5.myworkdayjobs.com/en-US/External/job/West-Burlington-Iowa/Registered-Nurse--RN----36-hours-per-week---Obstetrics-Unit_R-07367</link>
-      <guid isPermaLink="false">Great River Health-Registered Nurse (RN)-West Burlington, IA, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: West Burlington, IA, US
-💼 Type: Parttime
-🏠 Work: On-site
-
-📝 Description: Minimum Hiring Wage:
+**Sensory Requirements Visual:** close paperwork, visual monotony; Hearing: conversation, monitoring equipment, telephone, background noise; Sensory Discrimination.","Health Care","https://www.indeed.com/cmp/Wayne-Memorial-Hospital-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7466d4229d192699a3c1e82106941c5c","http://www.wmh.org","601 Park Street
+Honesdale, PA 18431","501 to 1,000","","WHY WORK AT WAYNE MEMORIAL HOSPITAL? • Financially Stable Organization • Attractive Benefit Package • Generous Paid Time Off Program","","","","","","",""
+"in-9dd9ef17e4001021","indeed","https://www.indeed.com/viewjob?jk=9dd9ef17e4001021","https://greatriverhealth.wd5.myworkdayjobs.com/en-US/External/job/West-Burlington-Iowa/Registered-Nurse--RN----36-hours-per-week---Obstetrics-Unit_R-07367","Registered Nurse (RN)","Great River Health","West Burlington, IA, US","2025-09-20","parttime","","hourly","","","USD",False,"","","","","Minimum Hiring Wage:
 From $32\\.71 per hour
 Job Details:
 $10,000 Sign on Bonus for qualified candidates  
@@ -3941,7 +3002,7 @@ Qualifications:
 Required* Associate's degree in nursing (ADN) required.
 * Prefer bachelor's degree in nursing or another related field.
 * Hospital based nursing Health care experience within the last five years preferred.
-* Labor \\&amp; Delivery, \\&amp; Newborn care experience required.
+* Labor \\& Delivery, \\& Newborn care experience required.
 * Maintains valid licensure/certification/registration.
 * Registered Nurse Iowa Board of Nursing (IBON) (United States of America) Required
 * Basic Fetal Monitoring within 1 year from hire.
@@ -3959,7 +3020,7 @@ We are excited to offer an aggressive compensation and benefits package for qual
 * Health, Dental and Vision plans
 * Health Savings and Flexible Spending Accounts
 * Employee discounts including car rental, cell\\-phone plans
-* Employer\\-paid, Long\\-Term Disability, Life, and AD\\&amp;D
+* Employer\\-paid, Long\\-Term Disability, Life, and AD\\&D
 * Paid time off (PTO)
 * Education Assistance Program
 * Employee Assistance Program
@@ -3967,30 +3028,11 @@ We are excited to offer an aggressive compensation and benefits package for qual
 * Discounted cafeteria meals
 * Paid Parental Leave
 * Employee Service Recognition program
-* Voluntary plans including: Life, AD\\&amp;D, Short\\-Term Disability, Critical Illness, Accident, Insurance, and Hospital Indemnity
+* Voluntary plans including: Life, AD\\&D, Short\\-Term Disability, Critical Illness, Accident, Insurance, and Hospital Indemnity
 
- *Great River Health and its affiliates are Equal Opportunity employers. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity and expression, age, national origin, mental or physical disability, genetic information, veteran status, or any other status protected by federal, state, or local law.*
-🔗 Apply Direct: https://greatriverhealth.wd5.myworkdayjobs.com/en-US/External/job/West-Burlington-Iowa/Registered-Nurse--RN----36-hours-per-week---Obstetrics-Unit_R-07367
-🔗 Job Board: https://www.indeed.com/viewjob?jk=9dd9ef17e4001021</description>
-      <companyName>Great River Health</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>West Burlington, IA, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Staff Nurse - IMCU at Legacy Health</title>
-      <link>https://click.appcast.io/t/cEVd_2u1q-2xx24sAXVVs2SXW5wzRyvyrUs_T_6QB20=</link>
-      <guid isPermaLink="false">Legacy Health-RN Staff Nurse - IMCU-Portland, OR, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Portland, OR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 50 - 75 (hourly)
-
-📝 Description: Overview:
+ *Great River Health and its affiliates are Equal Opportunity employers. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity and expression, age, national origin, mental or physical disability, genetic information, veteran status, or any other status protected by federal, state, or local law.*","Health Care","https://www.indeed.com/cmp/Great-River-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d8525edb298df3f27097c0deb5ff7ac2","http://www.greatriverhealthsystem.org","1221 South Gear Avenue
+West Burlington, IA 52655","1,001 to 5,000","less than $1M (USD)","Right place. Right care. Right here.","","","","","","",""
+"in-4095ae450c90ce82","indeed","https://www.indeed.com/viewjob?jk=4095ae450c90ce82","https://click.appcast.io/t/cEVd_2u1q-2xx24sAXVVs2SXW5wzRyvyrUs_T_6QB20=","RN Staff Nurse - IMCU","Legacy Health","Portland, OR, US","2025-09-20","fulltime","direct_data","hourly",50.0,75.0,"USD",False,"","","","","Overview:
 The Legacy nursing philosophy focuses on patients and their families. Our nurses embody this philosophy in everything they do, as advocates, communicators, problem\\-solvers and caregivers. Their expertise is sought after and respected by our health care team. In short, they are the face of wellness at Legacy. Does this sound like an environment in which you could thrive? If so, we invite you to consider this opportunity.  
 
 Legacy Good Samaritan Medical Center in Northwest Portland is known for its specialty programs and clinical excellence. Legacy Good Samaritan features nationally renowned doctors in cancer care, kidney transplantations, neurology, ophthalmology, weight\\-loss surgery, robotic surgery, rehabilitation and more, plus Oregon’s only 24\\-hour urgent care that’s located alongside an emergency room, with access to emergency care if needed.  
@@ -4032,28 +3074,8 @@ If you are passionate about our mission and believe you can contribute to our te
 
 Legacy Health is an equal opportunity employer and prohibits unlawful discrimination and harassment of any type and affords equal employment opportunities to employees and applicants without regard to race, color, religion or creed, citizenship status, sex, sexual orientation, gender identity, pregnancy, age, national origin, disability status, genetic information, veteran status, or any other characteristic protected by law.  
 
-To learn more about our employee benefits click here: www.legacyhealth.org/For\\-Health\\-Professionals/careers/benefiting\\-you
-🔗 Apply Direct: https://click.appcast.io/t/cEVd_2u1q-2xx24sAXVVs2SXW5wzRyvyrUs_T_6QB20=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4095ae450c90ce82</description>
-      <companyName>Legacy Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Portland, OR, US</jobLocation>
-      <salaryMin>50</salaryMin>
-      <salaryMax>75</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Travel Nurse – RN – Progressive Care Unit at Bipp Recruitment</title>
-      <link>https://bipprecruitment.com/boise-transport-services/jobs/f231778a5b45-a02/</link>
-      <guid isPermaLink="false">Bipp Recruitment-Travel Nurse – RN – Progressive Care Unit-Nashville, TN, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Nashville, TN, US
-🏠 Work: On-site
-
-📝 Description: We are seeking a dedicated Travel Nurse – RN for the Progressive Care Unit (PCU) in Nashville, Tennessee. This position offers $1,673\\.16 per week.
+To learn more about our employee benefits click here: www.legacyhealth.org/For\\-Health\\-Professionals/careers/benefiting\\-you","","https://www.indeed.com/cmp/Legacy-Health-8","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e65f63f66b5777852d9c1fa76f79e99b","https://www.legacyhealth.org","Portland, OR","10,000+","$1B to $5B (USD)","We are Legacy Health. We honor individuality, human dignity, equity and respect. We are one, made of many. Our legacy is what we create together. We are one, Legacy Health. ","","","","","","",""
+"in-7ef29a4e977cc109","indeed","https://www.indeed.com/viewjob?jk=7ef29a4e977cc109","https://bipprecruitment.com/boise-transport-services/jobs/f231778a5b45-a02/","Travel Nurse – RN – Progressive Care Unit","Bipp Recruitment","Nashville, TN, US","2025-09-20","","","weekly","","","USD",False,"","","","","We are seeking a dedicated Travel Nurse – RN for the Progressive Care Unit (PCU) in Nashville, Tennessee. This position offers $1,673\\.16 per week.
 
   
 
@@ -4121,26 +3143,10 @@ To learn more about our employee benefits click here: www.legacyhealth.org/For\\
 
   
 
-Join us to advance your nursing career while exploring the vibrant city of Nashville!
-🔗 Apply Direct: https://bipprecruitment.com/boise-transport-services/jobs/f231778a5b45-a02/
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7ef29a4e977cc109</description>
-      <companyName>Bipp Recruitment</companyName>
-      <jobLocation>Nashville, TN, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (Part-Time) : State Farm Work Center at Virginia Department of Corrections</title>
-      <link>https://www.jobs.virginia.gov/jobs/registered-nurse-part-time-state-farm-work-center-goochland-virginia-united-states-c8bdbb17-88a5-42ca-b975-dfa30318b38b</link>
-      <guid isPermaLink="false">Virginia Department of Corrections-Registered Nurse (Part-Time) : State Farm Work Center-Goochland, VA, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Goochland, VA, US
-💼 Type: Parttime
-🏠 Work: On-site
-
-📝 Description: **Title:** Registered Nurse (Part\\-Time) : State Farm Work Center
+Join us to advance your nursing career while exploring the vibrant city of Nashville!","Human Resources And Staffing","https://www.indeed.com/cmp/Bipp-Recruitment","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/9cfe0beb4973d71d2c3c48f423efc9c8","http://www.bipprecruitment.com","2 Rye Crescent
+Brough
+HU15 1GA","2 to 10","less than $1M (USD)","Welcome to BiPP Recruitment We Specialise in: Senior Management Appointments. Assisting to build UK Field Teams. Automotive and Accident","","","","","","",""
+"in-5fe8f96be342c037","indeed","https://www.indeed.com/viewjob?jk=5fe8f96be342c037","https://www.jobs.virginia.gov/jobs/registered-nurse-part-time-state-farm-work-center-goochland-virginia-united-states-c8bdbb17-88a5-42ca-b975-dfa30318b38b","Registered Nurse (Part-Time) : State Farm Work Center","Virginia Department of Corrections","Goochland, VA, US","2025-09-20","parttime","","hourly","","","USD",False,"","","","","**Title:** Registered Nurse (Part\\-Time) : State Farm Work Center
 
 
 **State Role Title:** Registered Nurses
@@ -4280,7 +3286,7 @@ Email: Applications submitted via email will not be accepted
 
 
 
-In support of the Commonwealth’s commitment to inclusion, we are encouraging individuals with disabilities to apply through the Commonwealth Alternative Hiring Process. To be considered for this opportunity, applicants will need to provide their AHP Letter (formerly COD) provided by the Department for Aging \\&amp; Rehabilitative Services (DARS), or the Department for the Blind \\&amp; Vision Impaired (DBVI). Service\\-Connected Veterans are encouraged to answer Veteran status questions and submit their disability documentation, if applicable, to DARS/DBVI to get their AHP Letter. Requesting an AHP Letter can be found at AHP Letter or by calling DARS at 800\\-552\\-5019\\.
+In support of the Commonwealth’s commitment to inclusion, we are encouraging individuals with disabilities to apply through the Commonwealth Alternative Hiring Process. To be considered for this opportunity, applicants will need to provide their AHP Letter (formerly COD) provided by the Department for Aging \\& Rehabilitative Services (DARS), or the Department for the Blind \\& Vision Impaired (DBVI). Service\\-Connected Veterans are encouraged to answer Veteran status questions and submit their disability documentation, if applicable, to DARS/DBVI to get their AHP Letter. Requesting an AHP Letter can be found at AHP Letter or by calling DARS at 800\\-552\\-5019\\.
 
 
 
@@ -4288,27 +3294,8 @@ Note**:** Applicants who received a Certificate of Disability from DARS or DBVI 
 
   
 
-Each agency within the Commonwealth of Virginia is dedicated to recruiting, supporting, and maintaining a competent and diverse work force. **Equal Opportunity Employer**
-🔗 Apply Direct: https://www.jobs.virginia.gov/jobs/registered-nurse-part-time-state-farm-work-center-goochland-virginia-united-states-c8bdbb17-88a5-42ca-b975-dfa30318b38b
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5fe8f96be342c037</description>
-      <companyName>Virginia Department of Corrections</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Goochland, VA, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Wellness Coordinator RN/LPN/RMA - RWV Greenbrier at nan</title>
-      <link>https://rosewoodvillage.hrmdirect.com/employment/view.php?req=3471137&amp;jbsrc=1014&amp;location=85f37119-844d-c02e-cd62-65a3023d9682</link>
-      <guid isPermaLink="false">nan-Wellness Coordinator RN/LPN/RMA - RWV Greenbrier-Charlottesville, VA, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Charlottesville, VA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Title: Wellness Coordinator (RN/LPN/RMA)**
+Each agency within the Commonwealth of Virginia is dedicated to recruiting, supporting, and maintaining a competent and diverse work force. **Equal Opportunity Employer**","","https://www.indeed.com/cmp/Virginia-Department-of-Corrections","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/083f7618a3fa8644750f01ac32149a86","https://vadoc.virginia.gov/career-opportunities/","","Decline to state","Decline to state","The Virginia Department of Corrections (VADOC) is the largest state agency with more than 11,000 employees across the Commonwealth. ","","","","","","",""
+"in-78f203fbde75fa78","indeed","https://www.indeed.com/viewjob?jk=78f203fbde75fa78","https://rosewoodvillage.hrmdirect.com/employment/view.php?req=3471137&jbsrc=1014&location=85f37119-844d-c02e-cd62-65a3023d9682","Wellness Coordinator RN/LPN/RMA - RWV Greenbrier","","Charlottesville, VA, US","2025-09-20","fulltime","","","","","",False,"","","","","**Title: Wellness Coordinator (RN/LPN/RMA)**
 
 
 **Location: Charlottesville, Virginia**
@@ -4354,25 +3341,8 @@ We Are All Family™
 **RoseWood Village Assisted Living at Greenbrier**
 
 
-RoseWood Village Assisted Living at Greenbrier Drive offers a warm and charming atmosphere. Multiple levels of assisted living care are offered including an Innovations Program specializing in residents with Alzheimer’s, dementia, or other memory\\-related concerns. RoseWood Village has been voted as the “Best Assisted Living” community six years running, “Best Memory Care” community three years running, as well as one of the “Great Places to Work” in Charlottesville. With two beautifully designed locations in Charlottesville, Virginia, RoseWood Village continues to be the premier trusted care provider of assisted living and memory care that serves residents and their families in a culture fostering dignity, respect and individuality.
-🔗 Apply Direct: https://rosewoodvillage.hrmdirect.com/employment/view.php?req=3471137&amp;jbsrc=1014&amp;location=85f37119-844d-c02e-cd62-65a3023d9682
-🔗 Job Board: https://www.indeed.com/viewjob?jk=78f203fbde75fa78</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Charlottesville, VA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Temp Registered Nurse at Community Health Centers of the Central Coast</title>
-      <link>https://communityhealthcenters.hrmdirect.com/employment/view.php?req=3418208&amp;jbsrc=1014&amp;location=4822f9e3-76fb-025e-0c73-a0472a6174fc</link>
-      <guid isPermaLink="false">Community Health Centers of the Central Coast-Temp Registered Nurse-Paso Robles, CA, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Paso Robles, CA, US
-💼 Type: Temporary
-🏠 Work: On-site
-💰 Salary: USD 45 - 49 (hourly)
-
-📝 Description: **Job Title:** Registered Nurse
+RoseWood Village Assisted Living at Greenbrier Drive offers a warm and charming atmosphere. Multiple levels of assisted living care are offered including an Innovations Program specializing in residents with Alzheimer’s, dementia, or other memory\\-related concerns. RoseWood Village has been voted as the “Best Assisted Living” community six years running, “Best Memory Care” community three years running, as well as one of the “Great Places to Work” in Charlottesville. With two beautifully designed locations in Charlottesville, Virginia, RoseWood Village continues to be the premier trusted care provider of assisted living and memory care that serves residents and their families in a culture fostering dignity, respect and individuality.","","","","","","","","","","","","","","",""
+"in-51ba5f858b228cf9","indeed","https://www.indeed.com/viewjob?jk=51ba5f858b228cf9","https://communityhealthcenters.hrmdirect.com/employment/view.php?req=3418208&jbsrc=1014&location=4822f9e3-76fb-025e-0c73-a0472a6174fc","Temp Registered Nurse","Community Health Centers of the Central Coast","Paso Robles, CA, US","2025-09-20","temporary","direct_data","hourly",45.0,49.0,"USD",False,"","","","","**Job Title:** Registered Nurse
 
 
 **Department:** Medical
@@ -4571,29 +3541,9 @@ While performing the duties of this job, the employee is frequently exposed to m
   
 
 
-**Must be willing to have a flexible work schedule that may include evenings/weekends, and travel as needed.**
-🔗 Apply Direct: https://communityhealthcenters.hrmdirect.com/employment/view.php?req=3418208&amp;jbsrc=1014&amp;location=4822f9e3-76fb-025e-0c73-a0472a6174fc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=51ba5f858b228cf9</description>
-      <companyName>Community Health Centers of the Central Coast</companyName>
-      <jobType>Temporary</jobType>
-      <jobLocation>Paso Robles, CA, US</jobLocation>
-      <salaryMin>45</salaryMin>
-      <salaryMax>49</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (Marshall) at LEGACY HOSPICE INC</title>
-      <link>https://legacyhospice.hrmdirect.com/employment/view.php?req=3386854&amp;jbsrc=1014&amp;location=7afa7cb6-f15e-44b7-6bb3-bca5fed5c3f5</link>
-      <guid isPermaLink="false">LEGACY HOSPICE INC-Registered Nurse (Marshall)-Gilbert, AR, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Gilbert, AR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Hospice RN Case Manager:**
+**Must be willing to have a flexible work schedule that may include evenings/weekends, and travel as needed.**","Health Care","https://www.indeed.com/cmp/Community-Health-Centers-of-the-Central-Coast","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d72e4feb68d179387137f7a832d7211c","http://www.communityhealthcenters.org/en/about.html","150 Tejas Pl. 
+Nipmo, CA 93444","501 to 1,000","$25M to $100M (USD)","","","","","","","",""
+"in-e64bbc8aca0655ac","indeed","https://www.indeed.com/viewjob?jk=e64bbc8aca0655ac","https://legacyhospice.hrmdirect.com/employment/view.php?req=3386854&jbsrc=1014&location=7afa7cb6-f15e-44b7-6bb3-bca5fed5c3f5","Registered Nurse (Marshall)","LEGACY HOSPICE INC","Gilbert, AR, US","2025-09-20","fulltime","","","","","",False,"","","","","**Hospice RN Case Manager:**
 
 **Make an Impact in Your Community with Legacy Hospice**
 
@@ -4653,25 +3603,8 @@ Our mission is centered on providing exceptional care, compassion, and support t
 * Opportunities for professional growth and career advancement within the organization.
 
 
-Apply Now to join the Legacy Hospice family and embark on a rewarding journey to help patients and families experience the highest quality of care and support in their final stages of life. Become a vital part of our mission\\-driven team today!
-🔗 Apply Direct: https://legacyhospice.hrmdirect.com/employment/view.php?req=3386854&amp;jbsrc=1014&amp;location=7afa7cb6-f15e-44b7-6bb3-bca5fed5c3f5
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e64bbc8aca0655ac</description>
-      <companyName>LEGACY HOSPICE INC</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Gilbert, AR, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (Marshall) at LEGACY HOSPICE INC</title>
-      <link>https://legacyhospice.hrmdirect.com/employment/view.php?req=3386854&amp;jbsrc=1014&amp;location=40bf9ab4-e451-e757-0042-6b38a1e4fae7</link>
-      <guid isPermaLink="false">LEGACY HOSPICE INC-Registered Nurse (Marshall)-Saint Joe, AR, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Saint Joe, AR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Hospice RN Case Manager:**
+Apply Now to join the Legacy Hospice family and embark on a rewarding journey to help patients and families experience the highest quality of care and support in their final stages of life. Become a vital part of our mission\\-driven team today!","","https://www.indeed.com/cmp/Legacy-Hospice-Inc-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b4b5685ebebe7169f2fb39039535bb42","https://legacyhospice.net/","","","","From nursing to business office staff, clinical staff to account executives, chaplains to social workers, make a difference where it matters most, to our patients and their families.","","","","","","",""
+"in-1dda0060eadb147a","indeed","https://www.indeed.com/viewjob?jk=1dda0060eadb147a","https://legacyhospice.hrmdirect.com/employment/view.php?req=3386854&jbsrc=1014&location=40bf9ab4-e451-e757-0042-6b38a1e4fae7","Registered Nurse (Marshall)","LEGACY HOSPICE INC","Saint Joe, AR, US","2025-09-20","fulltime","","","","","",False,"","","","","**Hospice RN Case Manager:**
 
 **Make an Impact in Your Community with Legacy Hospice**
 
@@ -4731,25 +3664,8 @@ Our mission is centered on providing exceptional care, compassion, and support t
 * Opportunities for professional growth and career advancement within the organization.
 
 
-Apply Now to join the Legacy Hospice family and embark on a rewarding journey to help patients and families experience the highest quality of care and support in their final stages of life. Become a vital part of our mission\\-driven team today!
-🔗 Apply Direct: https://legacyhospice.hrmdirect.com/employment/view.php?req=3386854&amp;jbsrc=1014&amp;location=40bf9ab4-e451-e757-0042-6b38a1e4fae7
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1dda0060eadb147a</description>
-      <companyName>LEGACY HOSPICE INC</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Saint Joe, AR, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (Marshall) at LEGACY HOSPICE INC</title>
-      <link>https://legacyhospice.hrmdirect.com/employment/view.php?req=3386854&amp;jbsrc=1014&amp;location=3c843a5d-82bd-76d6-418d-92d62ac7ad62</link>
-      <guid isPermaLink="false">LEGACY HOSPICE INC-Registered Nurse (Marshall)-Marshall, AR, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Marshall, AR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Hospice RN Case Manager:**
+Apply Now to join the Legacy Hospice family and embark on a rewarding journey to help patients and families experience the highest quality of care and support in their final stages of life. Become a vital part of our mission\\-driven team today!","","https://www.indeed.com/cmp/Legacy-Hospice-Inc-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b4b5685ebebe7169f2fb39039535bb42","https://legacyhospice.net/","","","","From nursing to business office staff, clinical staff to account executives, chaplains to social workers, make a difference where it matters most, to our patients and their families.","","","","","","",""
+"in-c4a3bdde9b2c2381","indeed","https://www.indeed.com/viewjob?jk=c4a3bdde9b2c2381","https://legacyhospice.hrmdirect.com/employment/view.php?req=3386854&jbsrc=1014&location=3c843a5d-82bd-76d6-418d-92d62ac7ad62","Registered Nurse (Marshall)","LEGACY HOSPICE INC","Marshall, AR, US","2025-09-20","fulltime","","","","","",False,"","","","","**Hospice RN Case Manager:**
 
 **Make an Impact in Your Community with Legacy Hospice**
 
@@ -4809,25 +3725,8 @@ Our mission is centered on providing exceptional care, compassion, and support t
 * Opportunities for professional growth and career advancement within the organization.
 
 
-Apply Now to join the Legacy Hospice family and embark on a rewarding journey to help patients and families experience the highest quality of care and support in their final stages of life. Become a vital part of our mission\\-driven team today!
-🔗 Apply Direct: https://legacyhospice.hrmdirect.com/employment/view.php?req=3386854&amp;jbsrc=1014&amp;location=3c843a5d-82bd-76d6-418d-92d62ac7ad62
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c4a3bdde9b2c2381</description>
-      <companyName>LEGACY HOSPICE INC</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Marshall, AR, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (Marshall) at LEGACY HOSPICE INC</title>
-      <link>https://legacyhospice.hrmdirect.com/employment/view.php?req=3386854&amp;jbsrc=1014&amp;location=9c237052-8052-09e3-946e-6f6097df0a2a</link>
-      <guid isPermaLink="false">LEGACY HOSPICE INC-Registered Nurse (Marshall)-Leslie, AR, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Leslie, AR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Hospice RN Case Manager:**
+Apply Now to join the Legacy Hospice family and embark on a rewarding journey to help patients and families experience the highest quality of care and support in their final stages of life. Become a vital part of our mission\\-driven team today!","","https://www.indeed.com/cmp/Legacy-Hospice-Inc-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b4b5685ebebe7169f2fb39039535bb42","https://legacyhospice.net/","","","","From nursing to business office staff, clinical staff to account executives, chaplains to social workers, make a difference where it matters most, to our patients and their families.","","","","","","",""
+"in-0714fdea640a6585","indeed","https://www.indeed.com/viewjob?jk=0714fdea640a6585","https://legacyhospice.hrmdirect.com/employment/view.php?req=3386854&jbsrc=1014&location=9c237052-8052-09e3-946e-6f6097df0a2a","Registered Nurse (Marshall)","LEGACY HOSPICE INC","Leslie, AR, US","2025-09-20","fulltime","","","","","",False,"","","","","**Hospice RN Case Manager:**
 
 **Make an Impact in Your Community with Legacy Hospice**
 
@@ -4887,25 +3786,8 @@ Our mission is centered on providing exceptional care, compassion, and support t
 * Opportunities for professional growth and career advancement within the organization.
 
 
-Apply Now to join the Legacy Hospice family and embark on a rewarding journey to help patients and families experience the highest quality of care and support in their final stages of life. Become a vital part of our mission\\-driven team today!
-🔗 Apply Direct: https://legacyhospice.hrmdirect.com/employment/view.php?req=3386854&amp;jbsrc=1014&amp;location=9c237052-8052-09e3-946e-6f6097df0a2a
-🔗 Job Board: https://www.indeed.com/viewjob?jk=0714fdea640a6585</description>
-      <companyName>LEGACY HOSPICE INC</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Leslie, AR, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Nurse Certified Mid-Wife (Temporary) at La Clínica</title>
-      <link>https://laclinica.hrmdirect.com/employment/view.php?req=3303202&amp;jbsrc=1014&amp;location=b38734d4-12f6-bc6d-80c5-fb566555d26c</link>
-      <guid isPermaLink="false">La Clínica-Nurse Certified Mid-Wife (Temporary)-Vallejo, CA, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Vallejo, CA, US
-💼 Type: Temporary
-🏠 Work: On-site
-
-📝 Description: **Who we are:**La Clínica de La Raza is a community\\-based health center committed to providing culturally appropriate, high\\-quality, and accessible health care to the diverse communities of the San Francisco Bay Area. We have spent over 40 years advocating for and creating a health home for the many that have been denied access to care. As health care activists, we are dedicated to making sure individuals who do not have health coverage get the same level of quality healthcare as those who have it. From our genesis as a community health center in 1971, we understood that we cannot heal our communities without also addressing the economic and social factors that affect health. Many times, this requires that we go outside and provide services in other settings to build the bridge that links individuals to our health center for preventive and primary care. Over 90,000 individuals come to La Clínica because it is a welcoming place that addresses the whole person, coordinating and connecting them to a broad network of services to improve and maintain their health and well\\-being. While we are still known for our activism and spirit of social justice, we are also proud to have grown into a sophisticated provider of primary health care services with 35 sites across Alameda, Contra Costa and Solano counties.
+Apply Now to join the Legacy Hospice family and embark on a rewarding journey to help patients and families experience the highest quality of care and support in their final stages of life. Become a vital part of our mission\\-driven team today!","","https://www.indeed.com/cmp/Legacy-Hospice-Inc-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b4b5685ebebe7169f2fb39039535bb42","https://legacyhospice.net/","","","","From nursing to business office staff, clinical staff to account executives, chaplains to social workers, make a difference where it matters most, to our patients and their families.","","","","","","",""
+"in-e7643b0e54df44da","indeed","https://www.indeed.com/viewjob?jk=e7643b0e54df44da","https://laclinica.hrmdirect.com/employment/view.php?req=3303202&jbsrc=1014&location=b38734d4-12f6-bc6d-80c5-fb566555d26c","Nurse Certified Mid-Wife (Temporary)","La Clínica","Vallejo, CA, US","2025-09-20","temporary","","hourly","","","USD",False,"","","","","**Who we are:**La Clínica de La Raza is a community\\-based health center committed to providing culturally appropriate, high\\-quality, and accessible health care to the diverse communities of the San Francisco Bay Area. We have spent over 40 years advocating for and creating a health home for the many that have been denied access to care. As health care activists, we are dedicated to making sure individuals who do not have health coverage get the same level of quality healthcare as those who have it. From our genesis as a community health center in 1971, we understood that we cannot heal our communities without also addressing the economic and social factors that affect health. Many times, this requires that we go outside and provide services in other settings to build the bridge that links individuals to our health center for preventive and primary care. Over 90,000 individuals come to La Clínica because it is a welcoming place that addresses the whole person, coordinating and connecting them to a broad network of services to improve and maintain their health and well\\-being. While we are still known for our activism and spirit of social justice, we are also proud to have grown into a sophisticated provider of primary health care services with 35 sites across Alameda, Contra Costa and Solano counties.
 
 
 **Be part of an excellent care team:** At La Clínica, you will be able to provide primary care with a focus on OBGYN services in an outpatient setting. You will deliver care to an ethnically and linguistically diverse patient population, with the aim of achieving optimal health outcomes for every patient. As a NP/PA/CNM, you will be surrounded by a collaborative care team that is invested in your success and shares ownership of tasks to help improve your efficiency as a provider. We offer robust perks including but not limited to: medical and dental insurance for you and your family, vacation, holiday and educational leave (plus educational stipend), license reimbursement, FTCA malpractice coverage. In addition, we are a National Health Service Corps (NHSC) approved site for tax free loan repayment.
@@ -4957,27 +3839,8 @@ Apply Now to join the Legacy Hospice family and embark on a rewarding journey to
 * Flexibility in meeting patient needs (e.g., seeing unscheduled drop\\-in patients as appropriate).
 * Excellent communication and interpersonal skills with both professional staff and patients
 
-Temp Salary: $63\\.69 per hour.
-🔗 Apply Direct: https://laclinica.hrmdirect.com/employment/view.php?req=3303202&amp;jbsrc=1014&amp;location=b38734d4-12f6-bc6d-80c5-fb566555d26c
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e7643b0e54df44da</description>
-      <companyName>La Clínica</companyName>
-      <jobType>Temporary</jobType>
-      <jobLocation>Vallejo, CA, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Nurse Educator - Per Diem #11 at St. John's Episcopal Hospital</title>
-      <link>https://stjohn.hrmdirect.com/employment/view.php?req=3200468&amp;jbsrc=1014&amp;location=43c0e567-ce42-e0cd-fab0-eb2dbe5ad5df</link>
-      <guid isPermaLink="false">St. John's Episcopal Hospital-Nurse Educator - Per Diem #11-Far Rockaway, NY, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Far Rockaway, NY, US
-💼 Type: Perdiem
-🏠 Work: On-site
-
-📝 Description: **Who We Are:**
+Temp Salary: $63\\.69 per hour.","Health Care","https://www.indeed.com/cmp/La-Cl%C3%ADnica-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0eb3747ebf2010b8ff17ff7640faa50d","http://www.laclinica.org/","1450 Fruitvale Ave, 1st Floor, Suite B, Oakland, CA 94601","1,001 to 5,000","$100M to $500M (USD)","La Clínica is a premier community health center, rooted in the concepts of wellness, prevention and patient-centered care.","","","","","","",""
+"in-8e2a2bd800981365","indeed","https://www.indeed.com/viewjob?jk=8e2a2bd800981365","https://stjohn.hrmdirect.com/employment/view.php?req=3200468&jbsrc=1014&location=43c0e567-ce42-e0cd-fab0-eb2dbe5ad5df","Nurse Educator - Per Diem #11","St. John's Episcopal Hospital","Far Rockaway, NY, US","2025-09-20","perdiem","","hourly","","","USD",False,"","","","","**Who We Are:**
 
 
 St. John’s Episcopal Hospital is the only hospital providing emergency and ambulatory care to the densely populated, culturally and economically diverse, and medically underserved populations of the Rockaways and Five Towns in southern Queens County and southwestern Nassau County, New York. Celebrating over 110 years of community care, the 257\\-bed facility provides people of all faiths with comprehensive preventive, diagnostic treatment and rehabilitative services, regardless of ability to pay.
@@ -5015,28 +3878,8 @@ St. John’s Episcopal Hospital is the only hospital providing emergency and amb
 * Certification in specialty area preferred.
 * NYS RN license required.
 * American Heart Association certification in Basic Life Support (BCLS) required.
-* Master's degree in Nursing required.
-🔗 Apply Direct: https://stjohn.hrmdirect.com/employment/view.php?req=3200468&amp;jbsrc=1014&amp;location=43c0e567-ce42-e0cd-fab0-eb2dbe5ad5df
-🔗 Job Board: https://www.indeed.com/viewjob?jk=8e2a2bd800981365</description>
-      <companyName>St. John's Episcopal Hospital</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Far Rockaway, NY, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LPN at Vitality Living of Kimball</title>
-      <link>https://gethired.com/job/lpn-1194?rcid=inply</link>
-      <guid isPermaLink="false">Vitality Living of Kimball-LPN-Kimball, MN, US</guid>
-      <pubDate>Sat, 20 Sep 2025 09:15:15 +0000</pubDate>
-      <description>📍 Location: Kimball, MN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 30 - 34 (hourly)
-
-📝 Description: Now Hiring LPN for Vitality Living of Kimball!
+* Master's degree in Nursing required.","Health Care","https://www.indeed.com/cmp/St.-John's-Episcopal-Hospital","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fb20c48f4acf92007d7f1d9e920a9dee","","","","","","","","","","","",""
+"in-58f8629926e0ab9b","indeed","https://www.indeed.com/viewjob?jk=58f8629926e0ab9b","https://gethired.com/job/lpn-1194?rcid=inply","LPN","Vitality Living of Kimball","Kimball, MN, US","2025-09-20","fulltime","direct_data","hourly",30.0,34.0,"USD",False,"","","","","Now Hiring LPN for Vitality Living of Kimball!
 
   
 
@@ -5101,18 +3944,4 @@ What We’re Looking For:
 * Passion for working with seniors and enhancing their quality of life
 * Strong communication and interpersonal skills
 * Ability to work independently and as part of a team
-* Experience in an assisted living or long\\-term care setting preferred, but not require
-🔗 Apply Direct: https://gethired.com/job/lpn-1194?rcid=inply
-🔗 Job Board: https://www.indeed.com/viewjob?jk=58f8629926e0ab9b</description>
-      <companyName>Vitality Living of Kimball</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Kimball, MN, US</jobLocation>
-      <salaryMin>30</salaryMin>
-      <salaryMax>34</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-  </channel>
-</rss>
+* Experience in an assisted living or long\\-term care setting preferred, but not require","","https://www.indeed.com/cmp/Vitality-Living-of-Kimball","","","","","","","","","","","","",""
