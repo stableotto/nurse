@@ -1,22 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Daily Nurse Jobs Feed</title>
-    <description>Daily feed of nursing jobs with direct company application links</description>
-    <link>https://github.com/your-username/your-repo</link>
-    <lastBuildDate>Fri, 31 Oct 2025 09:18:30 +0000</lastBuildDate>
-    <generator>Nurse Job Search Bot</generator>
-    <language>en-us</language>
-    <item>
-      <title>Registered Nurse, Behavioral Health (Days) at Collin Springs</title>
-      <link>https://ibnjjb.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/306608</link>
-      <guid isPermaLink="false">Collin Springs-Registered Nurse, Behavioral Health (Days)-McKinney, TX, US</guid>
-      <pubDate>Fri, 31 Oct 2025 09:18:30 +0000</pubDate>
-      <description>📍 Location: McKinney, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **COLLIN SPRINGS BEHAVIORAL HEALTH HOSPITAL, MCKINNEY, TEXAS**
+"id","site","job_board_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type","job_url"
+"in-a1e88893f86b994d","indeed","https://www.indeed.com/viewjob?jk=a1e88893f86b994d","https://ibnjjb.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/306608","Registered Nurse, Behavioral Health (Days)","Collin Springs","McKinney, TX, US","2025-10-31","fulltime","","","","","",False,"","","","","**COLLIN SPRINGS BEHAVIORAL HEALTH HOSPITAL, MCKINNEY, TEXAS**
 
 **Registered Nurse (RN), Behavioral Health**  
 
@@ -49,8 +32,8 @@ You’ll make an impact by utilizing your specialized plan\\-of\\-care intervent
 We believe that investing in our employees is the first step to providing excellent patient care. In addition to your base compensation, this position also offers:
 
 * Comprehensive Benefits: Multiple levels of medical, dental and vision coverage — with medical plans starting at just $10 per pay period — tailored benefit options for part\\-time and PRN employees, and more.
-* Financial Protection \\&amp; PTO: Life, accident, critical illness, hospital indemnity insurance, short\\- and long\\-term disability, paid family leave and paid time off.
-* Financial \\&amp; Career Growth: Higher education and certification tuition assistance, loan assistance and 401(k) retirement package and company match.
+* Financial Protection \\& PTO: Life, accident, critical illness, hospital indemnity insurance, short\\- and long\\-term disability, paid family leave and paid time off.
+* Financial \\& Career Growth: Higher education and certification tuition assistance, loan assistance and 401(k) retirement package and company match.
 * Employee Well\\-being: Mental, physical, and financial wellness programs (free gym memberships, virtual care appointments, mental health services and discount programs).
 * Professional Development: Ongoing learning and career advancement opportunities.
 * $Shift differentials
@@ -83,26 +66,9 @@ Collin Springs is an Equal Opportunity Employer. Collin Springs committed to Equ
   
 
 
-We employ and provide care to people from all walks of life. We are committed to promoting healing, providing hope, preserving dignity and producing value with an inclusive workforce in which diversity is leveraged, respected, and reflective of the patients, family members, customers and team members we serve.Lifepoint Health is a leader in community\\-based care and driven by a mission of Making Communities Healthier. Our diversified healthcare delivery network spans 29 states and includes 63 community hospital campuses, 32 rehabilitation and behavioral health hospitals, and more than 170 additional sites of care across the healthcare continuum, such as acute rehabilitation units, outpatient centers and post\\-acute care facilities. We believe that success is achieved through talented people. We want to create places where employees want to work, with opportunities to pursue meaningful and satisfying careers that truly make a difference in communities across the country.
-🔗 Apply Direct: https://ibnjjb.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/306608
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a1e88893f86b994d</description>
-      <companyName>Collin Springs</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>McKinney, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - NICU at Providence</title>
-      <link>https://rr.jobsyn.org/EB668ABB3F5A4B93867832F89A790F2C1554</link>
-      <guid isPermaLink="false">Providence-RN - NICU-Portland, OR, US</guid>
-      <pubDate>Fri, 31 Oct 2025 09:18:30 +0000</pubDate>
-      <description>📍 Location: Portland, OR, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 55 - 77 (hourly)
-
-📝 Description: **Description**
+We employ and provide care to people from all walks of life. We are committed to promoting healing, providing hope, preserving dignity and producing value with an inclusive workforce in which diversity is leveraged, respected, and reflective of the patients, family members, customers and team members we serve.Lifepoint Health is a leader in community\\-based care and driven by a mission of Making Communities Healthier. Our diversified healthcare delivery network spans 29 states and includes 63 community hospital campuses, 32 rehabilitation and behavioral health hospitals, and more than 170 additional sites of care across the healthcare continuum, such as acute rehabilitation units, outpatient centers and post\\-acute care facilities. We believe that success is achieved through talented people. We want to create places where employees want to work, with opportunities to pursue meaningful and satisfying careers that truly make a difference in communities across the country.","","https://www.indeed.com/cmp/Collin-Springs-1","","https://collinsprings.com/","2225 Parker Road
+Carrollton, TX 75010","","","","","","","","","",""
+"in-6c5bd1d0e8d13162","indeed","https://www.indeed.com/viewjob?jk=6c5bd1d0e8d13162","https://rr.jobsyn.org/EB668ABB3F5A4B93867832F89A790F2C1554","RN - NICU","Providence","Portland, OR, US","2025-10-31","parttime","direct_data","hourly",55.0,77.0,"USD",False,"","","","","**Description**
 
 
 **RN \\- NICU at Providence St. Vincent Medical Center is 0\\.75 FTE part time position working during weekdays and weekends on a night shift.**
@@ -157,7 +123,7 @@ The amounts listed are the base pay range; additional compensation may be availa
 Providence offers a comprehensive benefits package including a retirement 401(k) Savings Plan with employer matching, health care benefits (medical, dental, vision), life insurance, disability insurance, time off benefits (paid parental leave, vacations, holidays, health issues), voluntary benefits, well\\-being resources and much more. Learn more at providence.jobs/benefits.
 
 
-Applicants in the Unincorporated County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Unincorporated Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act."
+Applicants in the Unincorporated County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Unincorporated Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.""
 
 
 **About the Team**
@@ -208,30 +174,8 @@ Providence is proud to be an Equal Opportunity Employer. We are committed to the
 **Pay Range:** $55\\.10 \\- $77\\.43
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/EB668ABB3F5A4B93867832F89A790F2C1554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=6c5bd1d0e8d13162</description>
-      <companyName>Providence</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Portland, OR, US</jobLocation>
-      <salaryMin>55</salaryMin>
-      <salaryMax>77</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Care Manager - PACE at Providence</title>
-      <link>https://rr.jobsyn.org/7847528395284488AA823C90C8C13BB91554</link>
-      <guid isPermaLink="false">Providence-RN Care Manager - PACE-Seattle, WA, US</guid>
-      <pubDate>Fri, 31 Oct 2025 09:18:30 +0000</pubDate>
-      <description>📍 Location: Seattle, WA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 51 - 79 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-959155fe","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fb09f5772b2f0fa41003ed27a771303","http://www.providence.jobs","Renton, WA","10,000+","$100M to $500M (USD)","Providence is a not-for-profit network of hospitals, care centers, health plans, clinics, home health care and services continuing a more than 100-year tradition of serving the poor and vulnerable.","","","","","","",""
+"in-2a2d077615c1fd55","indeed","https://www.indeed.com/viewjob?jk=2a2d077615c1fd55","https://rr.jobsyn.org/7847528395284488AA823C90C8C13BB91554","RN Care Manager - PACE","Providence","Seattle, WA, US","2025-10-31","fulltime","direct_data","hourly",51.0,79.0,"USD",False,"","","","","**Description**
 
 
 $10,000 hiring bonus for eligible external candidates that meet required qualifications and conditions for payment.
@@ -249,14 +193,14 @@ Providence PACE is a Program of All\\-Inclusive Care for the Elderly that strive
 **Benefits and perks:**
 
 
-* Competitive pay (including holiday pay \\&amp; shift pay differentials)
+* Competitive pay (including holiday pay \\& shift pay differentials)
 * Best\\-in\\-class benefits – full medical, dental and vision coverage from your first day
-* 401(k) plan with employer matching \\&amp; complementary retirement planner
+* 401(k) plan with employer matching \\& complementary retirement planner
 * Generous paid time off for vacation, sick days and holidays
 * Mileage reimbursement for roles traveling to patient homes
-* Tuition reimbursement \\&amp; student loan forgiveness programs
-* Wellness \\&amp; mental health assistance programs
-* Back\\-up child \\&amp; elder care to help with care disruptions for your family
+* Tuition reimbursement \\& student loan forgiveness programs
+* Wellness \\& mental health assistance programs
+* Back\\-up child \\& elder care to help with care disruptions for your family
 * Voluntary benefits, like pet, auto and home insurance, and more!
 
 **Required Qualifications:**
@@ -292,7 +236,7 @@ The amounts listed are the base pay range; additional compensation may be availa
 Providence offers a comprehensive benefits package including a retirement 401(k) Savings Plan with employer matching, health care benefits (medical, dental, vision), life insurance, disability insurance, time off benefits (paid parental leave, vacations, holidays, health issues), voluntary benefits, well\\-being resources and much more. Learn more at providence.jobs/benefits.
 
 
-Applicants in the Unincorporated County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Unincorporated Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act."
+Applicants in the Unincorporated County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Unincorporated Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.""
 
 
 **Requsition ID:** 396524
@@ -331,42 +275,11 @@ Applicants in the Unincorporated County of Los Angeles: Qualified applications w
 **Pay Range:** $51\\.43 \\- $79\\.84
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/7847528395284488AA823C90C8C13BB91554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=2a2d077615c1fd55</description>
-      <companyName>Providence</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Seattle, WA, US</jobLocation>
-      <salaryMin>51</salaryMin>
-      <salaryMax>79</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>House Supervisor, LRNC (Abbeville), Full Time, 3rd Shift, Weekends at Self Regional Healthcare</title>
-      <link>https://recruiting.ultipro.com/GRE1050GNHP/JobBoard/2b67ecb4-00fb-4863-931a-7bf0ebcb493a/OpportunityDetail?opportunityId=06c47c36-f6c1-4ef7-a91c-779e401fb55e&amp;postingId=401b2fb4-ce5b-4df7-ae1c-ed3a69234c51</link>
-      <guid isPermaLink="false">Self Regional Healthcare-House Supervisor, LRNC (Abbeville), Full Time, 3rd Shift, Weekends-Greenwood, SC, US</guid>
-      <pubDate>Fri, 31 Oct 2025 09:18:30 +0000</pubDate>
-      <description>📍 Location: Greenwood, SC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Utilizing the Nursing Process (Assessment, Planning, Nursing Diagnosis, Implementation and Evaluation) supervises patient care in accordance with the medical plan of care, critical pathways, established SRH and Nursing Policies and Standard Work. Assists SRH/Nursing Administration with delegated management duties by functioning as the on\\-site administrative representative during off hours. Under the direction of the Director of Patient Care Services/Chief Nursing Officer, functions as the patient flow coordinator. Coordinates and delegates the care with/to other professionals and ancillary personnel. Communicates findings as indicated to appropriate person(s). Serves as a resource person for SRH/nursing personnel to resolve work\\-related issues. Performs any other job\\-related duties as requested by Director.
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-959155fe","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fb09f5772b2f0fa41003ed27a771303","http://www.providence.jobs","Renton, WA","10,000+","$100M to $500M (USD)","Providence is a not-for-profit network of hospitals, care centers, health plans, clinics, home health care and services continuing a more than 100-year tradition of serving the poor and vulnerable.","","","","","","",""
+"in-28a93ac6599a6dff","indeed","https://www.indeed.com/viewjob?jk=28a93ac6599a6dff","https://recruiting.ultipro.com/GRE1050GNHP/JobBoard/2b67ecb4-00fb-4863-931a-7bf0ebcb493a/OpportunityDetail?opportunityId=06c47c36-f6c1-4ef7-a91c-779e401fb55e&postingId=401b2fb4-ce5b-4df7-ae1c-ed3a69234c51","House Supervisor, LRNC (Abbeville), Full Time, 3rd Shift, Weekends","Self Regional Healthcare","Greenwood, SC, US","2025-10-31","fulltime","","","","","",False,"","","","","Utilizing the Nursing Process (Assessment, Planning, Nursing Diagnosis, Implementation and Evaluation) supervises patient care in accordance with the medical plan of care, critical pathways, established SRH and Nursing Policies and Standard Work. Assists SRH/Nursing Administration with delegated management duties by functioning as the on\\-site administrative representative during off hours. Under the direction of the Director of Patient Care Services/Chief Nursing Officer, functions as the patient flow coordinator. Coordinates and delegates the care with/to other professionals and ancillary personnel. Communicates findings as indicated to appropriate person(s). Serves as a resource person for SRH/nursing personnel to resolve work\\-related issues. Performs any other job\\-related duties as requested by Director.
   
   
 
 Equal Opportunity Employer
   
-This employer is required to notify all applicants of their rights pursuant to federal employment laws. For further information, please review the Know Your Rights notice from the Department of Labor.
-🔗 Apply Direct: https://recruiting.ultipro.com/GRE1050GNHP/JobBoard/2b67ecb4-00fb-4863-931a-7bf0ebcb493a/OpportunityDetail?opportunityId=06c47c36-f6c1-4ef7-a91c-779e401fb55e&amp;postingId=401b2fb4-ce5b-4df7-ae1c-ed3a69234c51
-🔗 Job Board: https://www.indeed.com/viewjob?jk=28a93ac6599a6dff</description>
-      <companyName>Self Regional Healthcare</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Greenwood, SC, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-  </channel>
-</rss>
+This employer is required to notify all applicants of their rights pursuant to federal employment laws. For further information, please review the Know Your Rights notice from the Department of Labor.","Health Care","https://www.indeed.com/cmp/Self-Regional-Healthcare","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/95697ea5c6850b9f97f621e47878f93a","http://www.selfregional.org","Greenwood, SC","1,001 to 5,000","$100M to $500M (USD)","Our hearts, hands and minds are leading our communities to better health.","","","","","","",""
