@@ -1,25 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Daily Nurse Jobs Feed</title>
-    <description>Daily feed of nursing jobs with direct company application links</description>
-    <link>https://github.com/your-username/your-repo</link>
-    <lastBuildDate>Fri, 14 Nov 2025 09:18:42 +0000</lastBuildDate>
-    <generator>Nurse Job Search Bot</generator>
-    <language>en-us</language>
-    <item>
-      <title>Cardiac Intervention, Registered Nurse, Part-Time Days at Orlando Health</title>
-      <link>https://careers.orlandohealth.com/jobs/269125/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Orlando Health-Cardiac Intervention, Registered Nurse, Part-Time Days-Clermont, FL, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Clermont, FL, US
-💼 Type: Parttime
-🏠 Work: On-site
+"id","site","job_board_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type","job_url"
+"in-ef7d1e853a32f62b","indeed","https://www.indeed.com/viewjob?jk=ef7d1e853a32f62b","https://careers.orlandohealth.com/jobs/269125/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Cardiac Intervention, Registered Nurse, Part-Time Days","Orlando Health","Clermont, FL, US","2025-11-14","parttime","","","","","",False,"","","","","Position Summary:
+**Facility: South Lake Hospital****Location: Clermont, FL****Status: Part\\-Time****Department: Cardiac Intervention****Schedule: Days****Title: Registered Nurse****\\#LI\\-JM1** ***“Orlando Health Is Your Best Place to Work” is not just something we say, it’s our promise to you.""***  
 
-📝 Description: Position Summary:
-**Facility: South Lake Hospital****Location: Clermont, FL****Status: Part\\-Time****Department: Cardiac Intervention****Schedule: Days****Title: Registered Nurse****\\#LI\\-JM1** ***“Orlando Health Is Your Best Place to Work” is not just something we say, it’s our promise to you."***  
-
-Orlando Health *South Lake Hospital* is a comprehensive medical and surgical acute care facility serving the residents of Lake County as a trusted member of the community for over 75 years. Conveniently located in Clermont, the hospital’s dedicated team of physicians, nurses, clinicians and medical professionals is committed to delivering expert and compassionate care. Our efforts have earned us recognition as a national leader. **Click Here to Learn About:** **South Lake Hospital** **ORLANDO HEALTH \\- BENEFITS \\&amp; PERKS:****Competitive Pay*** Evening, nights, and weekend shift differentials offered for qualifying positions.
+Orlando Health *South Lake Hospital* is a comprehensive medical and surgical acute care facility serving the residents of Lake County as a trusted member of the community for over 75 years. Conveniently located in Clermont, the hospital’s dedicated team of physicians, nurses, clinicians and medical professionals is committed to delivering expert and compassionate care. Our efforts have earned us recognition as a national leader. **Click Here to Learn About:** **South Lake Hospital** **ORLANDO HEALTH \\- BENEFITS \\& PERKS:****Competitive Pay*** Evening, nights, and weekend shift differentials offered for qualifying positions.
 
 **All Inclusive Benefits (start day one)*** Student loan repayment, tuition reimbursement, FREE college education programs, retirement savings, paid paternity leave, fertility benefits, back up elder and childcare, pet insurance, PTO/Holidays, and more for full time and part time employees.
 
@@ -72,28 +55,11 @@ Qualifications:
 * Maintains current BLS/Healthcare Provider certification.
 * ACLS, NRP, PALS, TNCC are required for certain areas. NRP required for Neonatal Intensive care Unit (NICU).
 
-**Experience*** 1 year of Registered Nurse experience required; 2\\-3 years of Cardiac PCU experience strongly preferred.
-🔗 Apply Direct: https://careers.orlandohealth.com/jobs/269125/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ef7d1e853a32f62b</description>
-      <companyName>Orlando Health</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Clermont, FL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Cardiac Intervention, Registered Nurse, Variable Full-Time Days at Orlando Health</title>
-      <link>https://careers.orlandohealth.com/jobs/269120/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Orlando Health-Cardiac Intervention, Registered Nurse, Variable Full-Time Days-Clermont, FL, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Clermont, FL, US
-💼 Type: Fulltime
-🏠 Work: On-site
+**Experience*** 1 year of Registered Nurse experience required; 2\\-3 years of Cardiac PCU experience strongly preferred.","","https://www.indeed.com/cmp/Orlando-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e70d3495f96cdb6f197468ebc83804d2","","","Decline to state","Decline to state","At Orlando Health, we are ordinary people with extraordinary individuality, working together to heal, to help and to hope.","","","","","","",""
+"in-119effe04561e148","indeed","https://www.indeed.com/viewjob?jk=119effe04561e148","https://careers.orlandohealth.com/jobs/269120/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Cardiac Intervention, Registered Nurse, Variable Full-Time Days","Orlando Health","Clermont, FL, US","2025-11-14","fulltime","","","","","",False,"","","","","Position Summary:
+**Facility: South Lake Hospital****Location: Clermont, FL****Status: Full\\-Time****Department: Cardiac Intervention****Schedule: Days****Title: Registered Nurse****\\#LI\\-JM1** ***“Orlando Health Is Your Best Place to Work” is not just something we say, it’s our promise to you.""***  
 
-📝 Description: Position Summary:
-**Facility: South Lake Hospital****Location: Clermont, FL****Status: Full\\-Time****Department: Cardiac Intervention****Schedule: Days****Title: Registered Nurse****\\#LI\\-JM1** ***“Orlando Health Is Your Best Place to Work” is not just something we say, it’s our promise to you."***  
-
-Orlando Health *South Lake Hospital* is a comprehensive medical and surgical acute care facility serving the residents of Lake County as a trusted member of the community for over 75 years. Conveniently located in Clermont, the hospital’s dedicated team of physicians, nurses, clinicians and medical professionals is committed to delivering expert and compassionate care. Our efforts have earned us recognition as a national leader. **Click Here to Learn About:** **South Lake Hospital** **ORLANDO HEALTH \\- BENEFITS \\&amp; PERKS:****Competitive Pay*** Evening, nights, and weekend shift differentials offered for qualifying positions.
+Orlando Health *South Lake Hospital* is a comprehensive medical and surgical acute care facility serving the residents of Lake County as a trusted member of the community for over 75 years. Conveniently located in Clermont, the hospital’s dedicated team of physicians, nurses, clinicians and medical professionals is committed to delivering expert and compassionate care. Our efforts have earned us recognition as a national leader. **Click Here to Learn About:** **South Lake Hospital** **ORLANDO HEALTH \\- BENEFITS \\& PERKS:****Competitive Pay*** Evening, nights, and weekend shift differentials offered for qualifying positions.
 
 **All Inclusive Benefits (start day one)*** Student loan repayment, tuition reimbursement, FREE college education programs, retirement savings, paid paternity leave, fertility benefits, back up elder and childcare, pet insurance, PTO/Holidays, and more for full time and part time employees.
 
@@ -146,28 +112,11 @@ Qualifications:
 * Maintains current BLS/Healthcare Provider certification.
 * ACLS, NRP, PALS, TNCC are required for certain areas. NRP required for Neonatal Intensive care Unit (NICU).
 
-**Experience*** 1 year of Registered Nurse experience required; 2\\-3 years of Cardiac PCU experience strongly preferred.
-🔗 Apply Direct: https://careers.orlandohealth.com/jobs/269120/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=119effe04561e148</description>
-      <companyName>Orlando Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Clermont, FL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Cardiac Intervention, Registered Nurse, Variable Full-Time Days at Orlando Health</title>
-      <link>https://careers.orlandohealth.com/jobs/269120/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Orlando Health-Cardiac Intervention, Registered Nurse, Variable Full-Time Days-Clermont, FL, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Clermont, FL, US
-💼 Type: Fulltime
-🏠 Work: On-site
+**Experience*** 1 year of Registered Nurse experience required; 2\\-3 years of Cardiac PCU experience strongly preferred.","","https://www.indeed.com/cmp/Orlando-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e70d3495f96cdb6f197468ebc83804d2","","","Decline to state","Decline to state","At Orlando Health, we are ordinary people with extraordinary individuality, working together to heal, to help and to hope.","","","","","","",""
+"in-563ec52c9d72e337","indeed","https://www.indeed.com/viewjob?jk=563ec52c9d72e337","https://careers.orlandohealth.com/jobs/269120/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Cardiac Intervention, Registered Nurse, Variable Full-Time Days","Orlando Health","Clermont, FL, US","2025-11-14","fulltime","","","","","",False,"","","","","Position Summary:
+**Facility: South Lake Hospital****Location: Clermont, FL****Status: Full\\-Time****Department: Cardiac Intervention****Schedule: Days****Title: Registered Nurse****\\#LI\\-JM1** ***“Orlando Health Is Your Best Place to Work” is not just something we say, it’s our promise to you.""***  
 
-📝 Description: Position Summary:
-**Facility: South Lake Hospital****Location: Clermont, FL****Status: Full\\-Time****Department: Cardiac Intervention****Schedule: Days****Title: Registered Nurse****\\#LI\\-JM1** ***“Orlando Health Is Your Best Place to Work” is not just something we say, it’s our promise to you."***  
-
-Orlando Health *South Lake Hospital* is a comprehensive medical and surgical acute care facility serving the residents of Lake County as a trusted member of the community for over 75 years. Conveniently located in Clermont, the hospital’s dedicated team of physicians, nurses, clinicians and medical professionals is committed to delivering expert and compassionate care. Our efforts have earned us recognition as a national leader. **Click Here to Learn About:** **South Lake Hospital** **ORLANDO HEALTH \\- BENEFITS \\&amp; PERKS:****Competitive Pay*** Evening, nights, and weekend shift differentials offered for qualifying positions.
+Orlando Health *South Lake Hospital* is a comprehensive medical and surgical acute care facility serving the residents of Lake County as a trusted member of the community for over 75 years. Conveniently located in Clermont, the hospital’s dedicated team of physicians, nurses, clinicians and medical professionals is committed to delivering expert and compassionate care. Our efforts have earned us recognition as a national leader. **Click Here to Learn About:** **South Lake Hospital** **ORLANDO HEALTH \\- BENEFITS \\& PERKS:****Competitive Pay*** Evening, nights, and weekend shift differentials offered for qualifying positions.
 
 **All Inclusive Benefits (start day one)*** Student loan repayment, tuition reimbursement, FREE college education programs, retirement savings, paid paternity leave, fertility benefits, back up elder and childcare, pet insurance, PTO/Holidays, and more for full time and part time employees.
 
@@ -220,28 +169,11 @@ Responsibilities:
 * Attends staff development in\\-services, department meetings, and/or nursing committee meetings.
 * Partners with the nursing leadership team to identify professional development needs.
 * Assumes responsibility for one’s own professional development and continuing education.
-* Performs all other duties as assigned.
-🔗 Apply Direct: https://careers.orlandohealth.com/jobs/269120/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=563ec52c9d72e337</description>
-      <companyName>Orlando Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Clermont, FL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Cardiac Intervention, Registered Nurse, Part-Time Days at Orlando Health</title>
-      <link>https://careers.orlandohealth.com/jobs/269125/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Orlando Health-Cardiac Intervention, Registered Nurse, Part-Time Days-Clermont, FL, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Clermont, FL, US
-💼 Type: Parttime
-🏠 Work: On-site
+* Performs all other duties as assigned.","","https://www.indeed.com/cmp/Orlando-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e70d3495f96cdb6f197468ebc83804d2","","","Decline to state","Decline to state","At Orlando Health, we are ordinary people with extraordinary individuality, working together to heal, to help and to hope.","","","","","","",""
+"in-5e1cc7e1c88f561d","indeed","https://www.indeed.com/viewjob?jk=5e1cc7e1c88f561d","https://careers.orlandohealth.com/jobs/269125/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Cardiac Intervention, Registered Nurse, Part-Time Days","Orlando Health","Clermont, FL, US","2025-11-14","parttime","","","","","",False,"","","","","Position Summary:
+**Facility: South Lake Hospital****Location: Clermont, FL****Status: Part\\-Time****Department: Cardiac Intervention****Schedule: Days****Title: Registered Nurse****\\#LI\\-JM1** ***“Orlando Health Is Your Best Place to Work” is not just something we say, it’s our promise to you.""***  
 
-📝 Description: Position Summary:
-**Facility: South Lake Hospital****Location: Clermont, FL****Status: Part\\-Time****Department: Cardiac Intervention****Schedule: Days****Title: Registered Nurse****\\#LI\\-JM1** ***“Orlando Health Is Your Best Place to Work” is not just something we say, it’s our promise to you."***  
-
-Orlando Health *South Lake Hospital* is a comprehensive medical and surgical acute care facility serving the residents of Lake County as a trusted member of the community for over 75 years. Conveniently located in Clermont, the hospital’s dedicated team of physicians, nurses, clinicians and medical professionals is committed to delivering expert and compassionate care. Our efforts have earned us recognition as a national leader. **Click Here to Learn About:** **South Lake Hospital** **ORLANDO HEALTH \\- BENEFITS \\&amp; PERKS:****Competitive Pay*** Evening, nights, and weekend shift differentials offered for qualifying positions.
+Orlando Health *South Lake Hospital* is a comprehensive medical and surgical acute care facility serving the residents of Lake County as a trusted member of the community for over 75 years. Conveniently located in Clermont, the hospital’s dedicated team of physicians, nurses, clinicians and medical professionals is committed to delivering expert and compassionate care. Our efforts have earned us recognition as a national leader. **Click Here to Learn About:** **South Lake Hospital** **ORLANDO HEALTH \\- BENEFITS \\& PERKS:****Competitive Pay*** Evening, nights, and weekend shift differentials offered for qualifying positions.
 
 **All Inclusive Benefits (start day one)*** Student loan repayment, tuition reimbursement, FREE college education programs, retirement savings, paid paternity leave, fertility benefits, back up elder and childcare, pet insurance, PTO/Holidays, and more for full time and part time employees.
 
@@ -294,25 +226,8 @@ Responsibilities:
 * Attends staff development in\\-services, department meetings, and/or nursing committee meetings.
 * Partners with the nursing leadership team to identify professional development needs.
 * Assumes responsibility for one’s own professional development and continuing education.
-* Performs all other duties as assigned.
-🔗 Apply Direct: https://careers.orlandohealth.com/jobs/269125/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5e1cc7e1c88f561d</description>
-      <companyName>Orlando Health</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Clermont, FL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse - Same Day Surgery at McLaren Health Care</title>
-      <link>https://careers.mclaren.org/jobs/registered-nurse-same-day-surgery-32009</link>
-      <guid isPermaLink="false">McLaren Health Care-Registered Nurse - Same Day Surgery-Lansing, MI, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Lansing, MI, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: About Us
+* Performs all other duties as assigned.","","https://www.indeed.com/cmp/Orlando-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e70d3495f96cdb6f197468ebc83804d2","","","Decline to state","Decline to state","At Orlando Health, we are ordinary people with extraordinary individuality, working together to heal, to help and to hope.","","","","","","",""
+"in-fbe7550c86a65b10","indeed","https://www.indeed.com/viewjob?jk=fbe7550c86a65b10","https://careers.mclaren.org/jobs/registered-nurse-same-day-surgery-32009","Registered Nurse - Same Day Surgery","McLaren Health Care","Lansing, MI, US","2025-11-14","fulltime","","","","","",False,"","","","","About Us
 
 
 
@@ -378,25 +293,8 @@ Additional Information
 * Hours Per Pay Period: 72
 * On Call: No
 * Weekends: No
-McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.
-🔗 Apply Direct: https://careers.mclaren.org/jobs/registered-nurse-same-day-surgery-32009
-🔗 Job Board: https://www.indeed.com/viewjob?jk=fbe7550c86a65b10</description>
-      <companyName>McLaren Health Care</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Lansing, MI, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Neurology - Med Surg - Springfield Regional Medical Center at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR258231EXTERNALENUS/Registered-Nurse-RN-Neurology-Med-Surg-Springfield-Regional-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Registered Nurse (RN) - Neurology - Med Surg - Springfield Regional Medical Center-Springfield, OH, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Springfield, OH, US
-💼 Type: Parttime, Fulltime
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Up to a $10,000 Sign\\-on Bonus**
+McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.","Health Care","https://www.indeed.com/cmp/Mclaren-Health-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/28532a7a1265e65cbdee4a32ef445cff","https://www.mclaren.org","One McLaren Parkway Grand Blanc, MI 48439","10,000+","$100M to $500M (USD)","McLaren - Doing What's Best.","","","","","","",""
+"in-f8ca77a7568f734d","indeed","https://www.indeed.com/viewjob?jk=f8ca77a7568f734d","https://careers.mercy.com/us/en/job/BSMMHPUSR258231EXTERNALENUS/Registered-Nurse-RN-Neurology-Med-Surg-Springfield-Regional-Medical-Center?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse (RN) - Neurology - Med Surg - Springfield Regional Medical Center","Mercy Health","Springfield, OH, US","2025-11-14","parttime, fulltime","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Up to a $10,000 Sign\\-on Bonus**
 ==================================
 
 *\\*\\* Both full time and part time shifts available\\*\\**
@@ -462,31 +360,14 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR258231EXTERNALENUS/Registered-Nurse-RN-Neurology-Med-Surg-Springfield-Regional-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f8ca77a7568f734d</description>
-      <companyName>Mercy Health</companyName>
-      <jobType>Parttime, Fulltime</jobType>
-      <jobLocation>Springfield, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Student Nurse - Anderson Hospital at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR258232EXTERNALENUS/Student-Nurse-Anderson-Hospital?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Student Nurse - Anderson Hospital-Cincinnati, OH, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Cincinnati, OH, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Full \\- Time Nights**
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-aff67dd950b17ddb","indeed","https://www.indeed.com/viewjob?jk=aff67dd950b17ddb","https://careers.mercy.com/us/en/job/BSMMHPUSR258232EXTERNALENUS/Student-Nurse-Anderson-Hospital?utm_source=indeed&utm_medium=phenom-feeds","Student Nurse - Anderson Hospital","Mercy Health","Cincinnati, OH, US","2025-11-14","fulltime","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Full \\- Time Nights**
 
 **7:00 PM \\- 7:30 AM**
 
 **3 Shifts During Weekday Requirement**
 
-**Every 3rd Weekend Rotation Requirement \\&amp; A/B Holiday Requirement**
+**Every 3rd Weekend Rotation Requirement \\& A/B Holiday Requirement**
 
 **No Weekend Option or PRN Available**
 
@@ -664,25 +545,8 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR258232EXTERNALENUS/Student-Nurse-Anderson-Hospital?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=aff67dd950b17ddb</description>
-      <companyName>Mercy Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Cincinnati, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Emergency Department - The Jewish Hospital at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR258229EXTERNALENUS/Registered-Nurse-RN-Emergency-Department-The-Jewish-Hospital?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Registered Nurse (RN) - Emergency Department - The Jewish Hospital-Cincinnati, OH, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Cincinnati, OH, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Registered Nurse (RN) – Emergency Room (ER) –The Jewish Hospital**
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-e5bfe069339b1e60","indeed","https://www.indeed.com/viewjob?jk=e5bfe069339b1e60","https://careers.mercy.com/us/en/job/BSMMHPUSR258229EXTERNALENUS/Registered-Nurse-RN-Emergency-Department-The-Jewish-Hospital?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse (RN) - Emergency Department - The Jewish Hospital","Mercy Health","Cincinnati, OH, US","2025-11-14","fulltime","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Registered Nurse (RN) – Emergency Room (ER) –The Jewish Hospital**
 
 **Med Surg, Tele, ICU or ED experience required**
 
@@ -743,25 +607,8 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR258229EXTERNALENUS/Registered-Nurse-RN-Emergency-Department-The-Jewish-Hospital?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e5bfe069339b1e60</description>
-      <companyName>Mercy Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Cincinnati, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Progressive Care Step Down - St Elizabeth Youngstown Hospital at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR258236EXTERNALENUS/Registered-Nurse-RN-Progressive-Care-Step-Down-St-Elizabeth-Youngstown-Hospital?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Registered Nurse (RN) - Progressive Care Step Down - St Elizabeth Youngstown Hospital-Youngstown, OH, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Youngstown, OH, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.* **Flexible Self Scheduling to live the life you deserve**
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-e765be5d5738c9d3","indeed","https://www.indeed.com/viewjob?jk=e765be5d5738c9d3","https://careers.mercy.com/us/en/job/BSMMHPUSR258236EXTERNALENUS/Registered-Nurse-RN-Progressive-Care-Step-Down-St-Elizabeth-Youngstown-Hospital?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse (RN) - Progressive Care Step Down - St Elizabeth Youngstown Hospital","Mercy Health","Youngstown, OH, US","2025-11-14","fulltime","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.* **Flexible Self Scheduling to live the life you deserve**
 * **$1,000 Sign on Bonus for Day Shift with a 2 Year Commitment**
 * **Referral Bonus programs**
 * **Paid Time Off**
@@ -968,25 +815,8 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR258236EXTERNALENUS/Registered-Nurse-RN-Progressive-Care-Step-Down-St-Elizabeth-Youngstown-Hospital?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e765be5d5738c9d3</description>
-      <companyName>Mercy Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Youngstown, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Intensive Care Unit (ICU) - St. Rita's Medical Center at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR258227EXTERNALENUS/Registered-Nurse-RN-Intensive-Care-Unit-ICU-St-Rita-s-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Registered Nurse (RN) - Intensive Care Unit (ICU) - St. Rita's Medical Center-Lima, OH, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Lima, OH, US
-💼 Type: Parttime
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Registered Nurse (RN) – ICU (Critical Care) – St. Rita's Medical Center**
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-a88bda6f81d70883","indeed","https://www.indeed.com/viewjob?jk=a88bda6f81d70883","https://careers.mercy.com/us/en/job/BSMMHPUSR258227EXTERNALENUS/Registered-Nurse-RN-Intensive-Care-Unit-ICU-St-Rita-s-Medical-Center?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse (RN) - Intensive Care Unit (ICU) - St. Rita's Medical Center","Mercy Health","Lima, OH, US","2025-11-14","parttime","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Registered Nurse (RN) – ICU (Critical Care) – St. Rita's Medical Center**
 ===========================================================================
 
 **Part\\-Time Nights**
@@ -1043,24 +873,8 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR258227EXTERNALENUS/Registered-Nurse-RN-Intensive-Care-Unit-ICU-St-Rita-s-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a88bda6f81d70883</description>
-      <companyName>Mercy Health</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Lima, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse (LPN) - Neurology - Medical Surgical at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR258235EXTERNALENUS/Licensed-Practical-Nurse-LPN-Neurology-Medical-Surgical?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Licensed Practical Nurse (LPN) - Neurology - Medical Surgical-Springfield, OH, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Springfield, OH, US
-🏠 Work: Remote
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Summary of Primary Function/General Purpose of Position**  
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-ebe49c9c63690c4f","indeed","https://www.indeed.com/viewjob?jk=ebe49c9c63690c4f","https://careers.mercy.com/us/en/job/BSMMHPUSR258235EXTERNALENUS/Licensed-Practical-Nurse-LPN-Neurology-Medical-Surgical?utm_source=indeed&utm_medium=phenom-feeds","Licensed Practical Nurse (LPN) - Neurology - Medical Surgical","Mercy Health","Springfield, OH, US","2025-11-14","","","","","","",True,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Summary of Primary Function/General Purpose of Position**  
 
 In collaboration with the interdisciplinary team and under the supervision of the professional Registered Nurse, the Licensed Practical Nurse (LPN) provides skilled nursing care and administers medications to patients.  
 
@@ -1304,24 +1118,8 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR258235EXTERNALENUS/Licensed-Practical-Nurse-LPN-Neurology-Medical-Surgical?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ebe49c9c63690c4f</description>
-      <companyName>Mercy Health</companyName>
-      <jobLocation>Springfield, OH, US</jobLocation>
-      <isRemote>true</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Intermediate Care - St. Elizabeth Youngstown - 6WE- Weekend Only PT days at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR258238EXTERNALENUS/Registered-Nurse-RN-Intermediate-Care-St-Elizabeth-Youngstown-6WE-Weekend-Only-PT-days?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Registered Nurse (RN) - Intermediate Care - St. Elizabeth Youngstown - 6WE- Weekend Only PT days-Youngstown, OH, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Youngstown, OH, US
-💼 Type: Parttime, Fulltime
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Weekend only program work 24 hours and get paid for 32!!**
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-aafe02e02e4db550","indeed","https://www.indeed.com/viewjob?jk=aafe02e02e4db550","https://careers.mercy.com/us/en/job/BSMMHPUSR258238EXTERNALENUS/Registered-Nurse-RN-Intermediate-Care-St-Elizabeth-Youngstown-6WE-Weekend-Only-PT-days?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse (RN) - Intermediate Care - St. Elizabeth Youngstown - 6WE- Weekend Only PT days","Mercy Health","Youngstown, OH, US","2025-11-14","parttime, fulltime","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Weekend only program work 24 hours and get paid for 32!!**
 
 **Full time benefits!**
 
@@ -1464,24 +1262,8 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR258238EXTERNALENUS/Registered-Nurse-RN-Intermediate-Care-St-Elizabeth-Youngstown-6WE-Weekend-Only-PT-days?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=aafe02e02e4db550</description>
-      <companyName>Mercy Health</companyName>
-      <jobType>Parttime, Fulltime</jobType>
-      <jobLocation>Youngstown, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Med Surg - Ortho - Neuro - Anderson Hospital at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR258239EXTERNALENUS/Registered-Nurse-RN-Med-Surg-Ortho-Neuro-Anderson-Hospital?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Registered Nurse (RN) - Med Surg - Ortho - Neuro - Anderson Hospital-Cincinnati, OH, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Cincinnati, OH, US
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.***\\*\\*\\*RNs could receive a sign\\-on bonus up to $15,000 with 1 year prior experience in specialty. New Grad RNs could receive a sign\\-on bonus of up to $10,000\\*\\*\\****  
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-abcff7ac535d404a","indeed","https://www.indeed.com/viewjob?jk=abcff7ac535d404a","https://careers.mercy.com/us/en/job/BSMMHPUSR258239EXTERNALENUS/Registered-Nurse-RN-Med-Surg-Ortho-Neuro-Anderson-Hospital?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse (RN) - Med Surg - Ortho - Neuro - Anderson Hospital","Mercy Health","Cincinnati, OH, US","2025-11-14","","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.***\\*\\*\\*RNs could receive a sign\\-on bonus up to $15,000 with 1 year prior experience in specialty. New Grad RNs could receive a sign\\-on bonus of up to $10,000\\*\\*\\****  
 
   
 
@@ -1546,24 +1328,8 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR258239EXTERNALENUS/Registered-Nurse-RN-Med-Surg-Ortho-Neuro-Anderson-Hospital?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=abcff7ac535d404a</description>
-      <companyName>Mercy Health</companyName>
-      <jobLocation>Cincinnati, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse - Emergency Department-Grand Ledge at McLaren Health Care</title>
-      <link>https://careers.mclaren.org/jobs/registered-nurse-emergency-department-grand-ledge-32008</link>
-      <guid isPermaLink="false">McLaren Health Care-Registered Nurse - Emergency Department-Grand Ledge-Grand Ledge, MI, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Grand Ledge, MI, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: About Us
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-1f473d7f61484877","indeed","https://www.indeed.com/viewjob?jk=1f473d7f61484877","https://careers.mclaren.org/jobs/registered-nurse-emergency-department-grand-ledge-32008","Registered Nurse - Emergency Department-Grand Ledge","McLaren Health Care","Grand Ledge, MI, US","2025-11-14","fulltime","","","","","",False,"","","","","About Us
 
 
 
@@ -1620,25 +1386,8 @@ Additional Information
 * Hours Per Pay Period: 72
 * On Call: Yes
 * Weekends: Yes
-McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.
-🔗 Apply Direct: https://careers.mclaren.org/jobs/registered-nurse-emergency-department-grand-ledge-32008
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1f473d7f61484877</description>
-      <companyName>McLaren Health Care</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Grand Ledge, MI, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse - Medical Surgical at McLaren Health Care</title>
-      <link>https://careers.mclaren.org/jobs/registered-nurse-medical-surgical-32015</link>
-      <guid isPermaLink="false">McLaren Health Care-Registered Nurse - Medical Surgical-Bad Axe, MI, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Bad Axe, MI, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: About Us
+McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.","Health Care","https://www.indeed.com/cmp/Mclaren-Health-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/28532a7a1265e65cbdee4a32ef445cff","https://www.mclaren.org","One McLaren Parkway Grand Blanc, MI 48439","10,000+","$100M to $500M (USD)","McLaren - Doing What's Best.","","","","","","",""
+"in-2680489b4351b22a","indeed","https://www.indeed.com/viewjob?jk=2680489b4351b22a","https://careers.mclaren.org/jobs/registered-nurse-medical-surgical-32015","Registered Nurse - Medical Surgical","McLaren Health Care","Bad Axe, MI, US","2025-11-14","fulltime","","","","","",False,"","","","","About Us
 
 
 
@@ -1707,25 +1456,8 @@ Additional Information
 * Hours Per Pay Period: 72
 * On Call: Yes
 * Weekends: Yes
-McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.
-🔗 Apply Direct: https://careers.mclaren.org/jobs/registered-nurse-medical-surgical-32015
-🔗 Job Board: https://www.indeed.com/viewjob?jk=2680489b4351b22a</description>
-      <companyName>McLaren Health Care</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Bad Axe, MI, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN / Director Of Clinical Operations - Hospice at Oasis Healthcare</title>
-      <link>https://careers-brightspring.icims.com/jobs/178106/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Oasis Healthcare-RN / Director Of Clinical Operations - Hospice-Birmingham, AL, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Birmingham, AL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Our Company:
+McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.","Health Care","https://www.indeed.com/cmp/Mclaren-Health-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/28532a7a1265e65cbdee4a32ef445cff","https://www.mclaren.org","One McLaren Parkway Grand Blanc, MI 48439","10,000+","$100M to $500M (USD)","McLaren - Doing What's Best.","","","","","","",""
+"in-918a8b84db9fd1c7","indeed","https://www.indeed.com/viewjob?jk=918a8b84db9fd1c7","https://careers-brightspring.icims.com/jobs/178106/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN / Director Of Clinical Operations - Hospice","Oasis Healthcare","Birmingham, AL, US","2025-11-14","fulltime","","","","","",False,"","","","","Our Company:
 
 Oasis Healthcare
 Overview:
@@ -1734,7 +1466,7 @@ Overview:
 Are you a clinical hospice leader looking for a new opportunity? **Oasis Healthcare** is seeking a passionate, dedicated Director of Clinical Operations to join our team in **Birmingham, AL**. This role is ideal for a compassionate, strategic leader who is passionate about delivering high\\-quality end\\-of\\-life care while driving clinical excellence and operational success. If you’re ready to work in a supportive, fulfilling environment where your skills and empathy truly shine, apply today! ***How YOU will benefit**** **Broaden Skill Set:** Gain expertise in organization development, regulatory compliance, team management, and performance improvement.
 * **Impactful Work**: Ensure patients receive compassionate, quality end\\-of\\-life care.
 * **Cross\\-Department Collaboration:** Build strong cross\\-functional leadership experience.
-* **Mentorship \\&amp; Team Development:** Opportunities to coach and develop clinical supervisors and nursing staff, leaving a legacy of strong leadership.
+* **Mentorship \\& Team Development:** Opportunities to coach and develop clinical supervisors and nursing staff, leaving a legacy of strong leadership.
 
  ***As a*** ***Director of Clinical Operations,*** ***You will:***  
 
@@ -1760,8 +1492,8 @@ Are you a clinical hospice leader looking for a new opportunity? **Oasis Healthc
  ***Benefits and Perks for You!***  
 
 * Medical, Dental, Vision insurance
-* Health Savings \\&amp; Flexible Spending Accounts (up to $5,000 for childcare)
-* Tuition discounts \\&amp; reimbursement
+* Health Savings \\& Flexible Spending Accounts (up to $5,000 for childcare)
+* Tuition discounts \\& reimbursement
 * 401(k) with company match
 * Generous PTO
 * Mileage reimbursement
@@ -1780,32 +1512,16 @@ Qualifications:
 * Knowledge of business management, governmental regulations and CHAP standards.
 
 
-About our Line of Business: At Oasis Healthcare, our primary ambition is to bring first\\-class care to the warmest and most serene environment possible: home. We provide the full spectrum of hospice services, thoughtfully tailored to the individual needs of patients and families. Oasis Healthcare, an affiliate of BrightSpring Health Services, is grounded in a foundational commitment to providing exceptional patient care and championing our agency leadership and teams. We are proud to have expert clinicians and caregivers on our team. We are confident you will find purpose, meaning and a chance to make a positive impact from day one. For more information, please visit www.oasishc.com. Follow us on Facebook and LinkedIn.
-🔗 Apply Direct: https://careers-brightspring.icims.com/jobs/178106/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=918a8b84db9fd1c7</description>
-      <companyName>Oasis Healthcare</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Birmingham, AL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Clinical Supervisor at Hospice of North Alabama</title>
-      <link>https://careers-brightspring.icims.com/jobs/178009/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Hospice of North Alabama-RN Clinical Supervisor-Decatur, AL, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Decatur, AL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Our Company:
+About our Line of Business: At Oasis Healthcare, our primary ambition is to bring first\\-class care to the warmest and most serene environment possible: home. We provide the full spectrum of hospice services, thoughtfully tailored to the individual needs of patients and families. Oasis Healthcare, an affiliate of BrightSpring Health Services, is grounded in a foundational commitment to providing exceptional patient care and championing our agency leadership and teams. We are proud to have expert clinicians and caregivers on our team. We are confident you will find purpose, meaning and a chance to make a positive impact from day one. For more information, please visit www.oasishc.com. Follow us on Facebook and LinkedIn.","","https://www.indeed.com/cmp/Oasis-Healthcare-3","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2e73e09c486e7fbd97f77664fb1dc9f6","http://www.oasishc.com/","805 N. Whittington Pkwy
+Louisville, KY 40222","11 to 50","$5M to $25M (USD)","At Oasis Healthcare, our primary ambition is to bring first-class care to the warmest and most serene environment possible: home.","","","","","","",""
+"in-153285df5eb5530c","indeed","https://www.indeed.com/viewjob?jk=153285df5eb5530c","https://careers-brightspring.icims.com/jobs/178009/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN Clinical Supervisor","Hospice of North Alabama","Decatur, AL, US","2025-11-14","fulltime","","","","","",False,"","","","","Our Company:
 
 Hospice of North Alabama
 Overview:
 **RN Clinical Supervisor****Location: Decatur, AL****Status: Full\\-Time****Monday – Friday 8:00 am to 5:00 pm** **Lead with Compassion as a Hospice RN Clinical Supervisor**  
 
-Our **Hospice RN Clinical Supervisors** are the cornerstone of our care teams, ensuring patients receive the best possible support while coaching and guiding our clinical staff. Join a team of highly skilled professionals committed to delivering meaningful care every day. Make a positive impact from day one—apply now! **What We Offer:*** Medical \\&amp; Dental Insurance
-* Short‑ \\&amp; Long‑Term Disability
+Our **Hospice RN Clinical Supervisors** are the cornerstone of our care teams, ensuring patients receive the best possible support while coaching and guiding our clinical staff. Join a team of highly skilled professionals committed to delivering meaningful care every day. Make a positive impact from day one—apply now! **What We Offer:*** Medical \\& Dental Insurance
+* Short‑ \\& Long‑Term Disability
 * Life Insurance
 * Paid Time Off (PTO)
 * 401(k) Retirement Program
@@ -1836,25 +1552,9 @@ Qualifications:
 * Commitment to clinical and documentation excellence
 
 
-About our Line of Business: At Hospice of North Alabama, our primary ambition is to bring first\\-class care to the warmest and most serene environment possible: home. We provide the full spectrum of hospice services, thoughtfully tailored to the individual needs of patients and families. Hospice of North Alabama, an affiliate of BrightSpring Health Services, is grounded in a foundational commitment to providing exceptional patient care and championing our agency leadership and teams. We are proud to have expert clinicians and caregivers on our team. We are confident you will find purpose, meaning and a chance to make a positive impact from day one. For more information, please visit www.hospiceofnorthalabama.com. Follow us on Facebook and LinkedIn.
-🔗 Apply Direct: https://careers-brightspring.icims.com/jobs/178009/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=153285df5eb5530c</description>
-      <companyName>Hospice of North Alabama</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Decatur, AL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Intake Registered Nurse - Weekend Doubles at Mesilla Valley Hospital</title>
-      <link>https://uhs.jibeapply.com/careers/jobs/331351/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Mesilla Valley Hospital-Intake Registered Nurse - Weekend Doubles-Las Cruces, NM, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Las Cruces, NM, US
-💼 Type: Perdiem
-🏠 Work: On-site
-
-📝 Description: Responsibilities:
+About our Line of Business: At Hospice of North Alabama, our primary ambition is to bring first\\-class care to the warmest and most serene environment possible: home. We provide the full spectrum of hospice services, thoughtfully tailored to the individual needs of patients and families. Hospice of North Alabama, an affiliate of BrightSpring Health Services, is grounded in a foundational commitment to providing exceptional patient care and championing our agency leadership and teams. We are proud to have expert clinicians and caregivers on our team. We are confident you will find purpose, meaning and a chance to make a positive impact from day one. For more information, please visit www.hospiceofnorthalabama.com. Follow us on Facebook and LinkedIn.","","https://www.indeed.com/cmp/Hospice-of-North-Alabama","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/979b3547ffe3f72d0211e54d8dcf2149","http://hospiceofnorthalabama.com/","805 N. Whittington Pkwy
+Louisville, KY 40222","51 to 200","$5M to $25M (USD)","At Hospice of North Alabama, our primary ambition is to bring first-class care to the warmest and most serene environment possible: home.","","","","","","",""
+"in-039605ac25250df1","indeed","https://www.indeed.com/viewjob?jk=039605ac25250df1","https://uhs.jibeapply.com/careers/jobs/331351/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Intake Registered Nurse - Weekend Doubles","Mesilla Valley Hospital","Las Cruces, NM, US","2025-11-14","perdiem","","","","","",False,"","","","","Responsibilities:
 
 Mesilla Valley Hospital has been in operation since 1987, serving those in need of treatment for a variety of psychiatric and substance abuse issues. Mesilla Valley Hospital is a 120\\-bed facility, providing access to quality behavioral healthcare and substance abuse treatment to residents of New Mexico, West Texas and Arizona. MVH is the leader in providing quality mental health and addiction treatment services. Our commitment to care includes developing integrated delivery systems through partnerships with medical surgical hospitals, community mental health centers, educational institutions, managed care organizations, local health professionals and agencies.
 
@@ -1864,7 +1564,7 @@ https://mesillavalleyhospital.com/
 **POSITION SUMMARY:**
   
 
-The Intake Registered Nurse (RN) is responsible for screening potential admissions and determining an appropriate level of care to recommend to the physicians. This position interfaces closely with the medical staff, fellow department heads and administration, treatment team, external case managers, managed care organizations, and also functions as a liaison with other hospital departments. The A\\&amp;R RN will also strive to meet performance measures of Walk\\-in triage time, Walk\\-in Disposition time; and e\\-fax time. It also includes answering all incoming calls and determining medical stability of walk in and direct admission patients.
+The Intake Registered Nurse (RN) is responsible for screening potential admissions and determining an appropriate level of care to recommend to the physicians. This position interfaces closely with the medical staff, fellow department heads and administration, treatment team, external case managers, managed care organizations, and also functions as a liaison with other hospital departments. The A\\&R RN will also strive to meet performance measures of Walk\\-in triage time, Walk\\-in Disposition time; and e\\-fax time. It also includes answering all incoming calls and determining medical stability of walk in and direct admission patients.
 
   
 
@@ -1875,7 +1575,7 @@ Qualifications:
 Master's Degree in Social Work or a clinically related mental health field, and possess a New Mexico Licensure as per the scope of services for each disciple, to complete behavioral health pre\\-admission assessments. RN with a valid New Mexico licensure. A minimum of one year of clinical experience preferred.
 
 
-UHS is a registered trademark of UHS of Delaware, Inc., the management company for Universal Health Services, Inc. and a wholly owned subsidiary of Universal Health Services, Inc. Universal Health Services, Inc. is a holding company and operates through its subsidiaries including its management company, UHS of Delaware, Inc. All healthcare and management operations are conducted by subsidiaries of Universal Health Services, Inc. To the extent any reference to "UHS or UHS facilities" on this website including any statements, articles or other publications contained herein relates to our healthcare or management operations it is referring to Universal Health Services' subsidiaries including UHS of Delaware. Further, the terms "we," "us," "our" or "the company" in such context similarly refer to the operations of Universal Health Services' subsidiaries including UHS of Delaware. Any employment referenced in this website is not with Universal Health Services, Inc. but solely with one of its subsidiaries including but not limited to UHS of Delaware, Inc.
+UHS is a registered trademark of UHS of Delaware, Inc., the management company for Universal Health Services, Inc. and a wholly owned subsidiary of Universal Health Services, Inc. Universal Health Services, Inc. is a holding company and operates through its subsidiaries including its management company, UHS of Delaware, Inc. All healthcare and management operations are conducted by subsidiaries of Universal Health Services, Inc. To the extent any reference to ""UHS or UHS facilities"" on this website including any statements, articles or other publications contained herein relates to our healthcare or management operations it is referring to Universal Health Services' subsidiaries including UHS of Delaware. Further, the terms ""we,"" ""us,"" ""our"" or ""the company"" in such context similarly refer to the operations of Universal Health Services' subsidiaries including UHS of Delaware. Any employment referenced in this website is not with Universal Health Services, Inc. but solely with one of its subsidiaries including but not limited to UHS of Delaware, Inc.
 
   
 
@@ -1892,25 +1592,9 @@ We believe that diversity and inclusion among our teammates is critical to our s
  **Notice**
 
 
-At UHS and all our subsidiaries, our Human Resources departments and recruiters are here to help prospective candidates by matching skillset and experience with the best possible career path at UHS and our subsidiaries. We take pride in creating a highly efficient and best in class candidate experience. During the recruitment process, no recruiter or employee will request financial or personal information (Social Security Number, credit card or bank information, etc.) from you via email. The recruiters will not email you from a public webmail client like Hotmail, Gmail, Yahoo Mail, etc. If you are suspicious of a job posting or job\\-related email mentioning UHS or its subsidiaries, let us know by contacting us at: https://uhs.alertline.com or 1\\-800\\-852\\-3449\\.
-🔗 Apply Direct: https://uhs.jibeapply.com/careers/jobs/331351/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=039605ac25250df1</description>
-      <companyName>Mesilla Valley Hospital</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Las Cruces, NM, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse (LPN) at WellNow Urgent Care</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3527&amp;rx_jobId=R2025-018230&amp;rx_url=https%3A%2F%2Fcareers.wellnow.com%2Fus%2Fen%2Fjob%2FR2025-018230%3Frx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D407105%26rx_id%3D7b6bbd9b-c0d9-11f0-b0b3-1fef97cddb9a%26rx_job%3DR2025-018230%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T080233Z%26rx_vp%3Dcpc%26source%3Dindeed_organic%26utm_source%3Dindeed_organic</link>
-      <guid isPermaLink="false">WellNow Urgent Care-Licensed Practical Nurse (LPN)-Rochester, NY, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Rochester, NY, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: WellNow Urgent Care takes pride in creating an environment filled with meaningful work and opportunities by investing in our colleagues. We offer competitive salaries and a comprehensive benefits package which includes numerous continuing education options. WellNow has over 170\\+ locations across New York, Illinois, Indiana, Michigan, Pennsylvania and we are continuing to grow! That means our colleagues can transfer facilities in any of the markets we serve. We are committed to offering our patients the best care by adding talented healthcare professionals.
+At UHS and all our subsidiaries, our Human Resources departments and recruiters are here to help prospective candidates by matching skillset and experience with the best possible career path at UHS and our subsidiaries. We take pride in creating a highly efficient and best in class candidate experience. During the recruitment process, no recruiter or employee will request financial or personal information (Social Security Number, credit card or bank information, etc.) from you via email. The recruiters will not email you from a public webmail client like Hotmail, Gmail, Yahoo Mail, etc. If you are suspicious of a job posting or job\\-related email mentioning UHS or its subsidiaries, let us know by contacting us at: https://uhs.alertline.com or 1\\-800\\-852\\-3449\\.","Health Care","https://www.indeed.com/cmp/Mesilla-Valley-Hospital","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d39e45dc462a306169620a6a05086967","https://mesillavalleyhospital.com/","3751 Del Rey Blvd
+Las Cruces, NM 88012","201 to 500","$5M to $25M (USD)","","","","","","","",""
+"in-eeb1f0d41eeeef59","indeed","https://www.indeed.com/viewjob?jk=eeb1f0d41eeeef59","https://jsv3.recruitics.com/redirect?rx_cid=3527&rx_jobId=R2025-018230&rx_url=https%3A%2F%2Fcareers.wellnow.com%2Fus%2Fen%2Fjob%2FR2025-018230%3Frx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D407105%26rx_id%3D7b6bbd9b-c0d9-11f0-b0b3-1fef97cddb9a%26rx_job%3DR2025-018230%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T080233Z%26rx_vp%3Dcpc%26source%3Dindeed_organic%26utm_source%3Dindeed_organic","Licensed Practical Nurse (LPN)","WellNow Urgent Care","Rochester, NY, US","2025-11-14","fulltime","","hourly","","","USD",False,"","","","","WellNow Urgent Care takes pride in creating an environment filled with meaningful work and opportunities by investing in our colleagues. We offer competitive salaries and a comprehensive benefits package which includes numerous continuing education options. WellNow has over 170\\+ locations across New York, Illinois, Indiana, Michigan, Pennsylvania and we are continuing to grow! That means our colleagues can transfer facilities in any of the markets we serve. We are committed to offering our patients the best care by adding talented healthcare professionals.
 
 **Salary:**
 
@@ -1956,27 +1640,8 @@ At UHS and all our subsidiaries, our Human Resources departments and recruiters 
 * Active LPN License
 
 
-WellNow is an EOE.
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3527&amp;rx_jobId=R2025-018230&amp;rx_url=https%3A%2F%2Fcareers.wellnow.com%2Fus%2Fen%2Fjob%2FR2025-018230%3Frx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D407105%26rx_id%3D7b6bbd9b-c0d9-11f0-b0b3-1fef97cddb9a%26rx_job%3DR2025-018230%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T080233Z%26rx_vp%3Dcpc%26source%3Dindeed_organic%26utm_source%3Dindeed_organic
-🔗 Job Board: https://www.indeed.com/viewjob?jk=eeb1f0d41eeeef59</description>
-      <companyName>WellNow Urgent Care</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Rochester, NY, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse (LPN) at WellNow Urgent Care</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3527&amp;rx_jobId=R2025-018228&amp;rx_url=https%3A%2F%2Fcareers.wellnow.com%2Fus%2Fen%2Fjob%2FR2025-018228%3Frx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D407105%26rx_id%3D7b724d79-c0d9-11f0-b0b3-87f70c271096%26rx_job%3DR2025-018228%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T080233Z%26rx_vp%3Dcpc%26source%3Dindeed_organic%26utm_source%3Dindeed_organic</link>
-      <guid isPermaLink="false">WellNow Urgent Care-Licensed Practical Nurse (LPN)-Rochester, NY, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Rochester, NY, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: WellNow Urgent Care takes pride in creating an environment filled with meaningful work and opportunities by investing in our colleagues. We offer competitive salaries and a comprehensive benefits package which includes numerous continuing education options. WellNow has over 170\\+ locations across New York, Illinois, Indiana, Michigan, Pennsylvania and we are continuing to grow! That means our colleagues can transfer facilities in any of the markets we serve. We are committed to offering our patients the best care by adding talented healthcare professionals.
+WellNow is an EOE.","","https://www.indeed.com/cmp/Wellnow-Urgent-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7dfc9d0f58c8c4784dd390bd8ab4eaa1","http://www.wellnow.com","Chicago, IL","1,001 to 5,000","Decline to state","WellNow Urgent Care centers are conveniently located in your community to provide quick, convenient care with exceptional service.","","","","","","",""
+"in-ee32970fa8ca0bf8","indeed","https://www.indeed.com/viewjob?jk=ee32970fa8ca0bf8","https://jsv3.recruitics.com/redirect?rx_cid=3527&rx_jobId=R2025-018228&rx_url=https%3A%2F%2Fcareers.wellnow.com%2Fus%2Fen%2Fjob%2FR2025-018228%3Frx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D407105%26rx_id%3D7b724d79-c0d9-11f0-b0b3-87f70c271096%26rx_job%3DR2025-018228%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T080233Z%26rx_vp%3Dcpc%26source%3Dindeed_organic%26utm_source%3Dindeed_organic","Licensed Practical Nurse (LPN)","WellNow Urgent Care","Rochester, NY, US","2025-11-14","fulltime","","hourly","","","USD",False,"","","","","WellNow Urgent Care takes pride in creating an environment filled with meaningful work and opportunities by investing in our colleagues. We offer competitive salaries and a comprehensive benefits package which includes numerous continuing education options. WellNow has over 170\\+ locations across New York, Illinois, Indiana, Michigan, Pennsylvania and we are continuing to grow! That means our colleagues can transfer facilities in any of the markets we serve. We are committed to offering our patients the best care by adding talented healthcare professionals.
 
 **Salary:**
 
@@ -2022,28 +1687,8 @@ WellNow is an EOE.
 * Active LPN License
 
 
-WellNow is an EOE.
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3527&amp;rx_jobId=R2025-018228&amp;rx_url=https%3A%2F%2Fcareers.wellnow.com%2Fus%2Fen%2Fjob%2FR2025-018228%3Frx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D407105%26rx_id%3D7b724d79-c0d9-11f0-b0b3-87f70c271096%26rx_job%3DR2025-018228%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T080233Z%26rx_vp%3Dcpc%26source%3Dindeed_organic%26utm_source%3Dindeed_organic
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ee32970fa8ca0bf8</description>
-      <companyName>WellNow Urgent Care</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Rochester, NY, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Infection Preventionist/Registered Nurse Principal at nan</title>
-      <link>https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=90131&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">nan-Infection Preventionist/Registered Nurse Principal-MN, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: MN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 44 - 62 (hourly)
-
-📝 Description: **Job Details**
+WellNow is an EOE.","","https://www.indeed.com/cmp/Wellnow-Urgent-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7dfc9d0f58c8c4784dd390bd8ab4eaa1","http://www.wellnow.com","Chicago, IL","1,001 to 5,000","Decline to state","WellNow Urgent Care centers are conveniently located in your community to provide quick, convenient care with exceptional service.","","","","","","",""
+"in-2948478df88dc798","indeed","https://www.indeed.com/viewjob?jk=2948478df88dc798","https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=90131&PostingSeq=1","Infection Preventionist/Registered Nurse Principal","","MN, US","2025-11-14","fulltime","direct_data","hourly",44.0,62.0,"USD",False,"","","","careers@state.mn.us, susan.mwangi@state.mn.us, susan.mwangi@state.mn.us, Accommodations.DCT@state.mn.us, susan.mwangi@state.mn.us, careers@state.mn.us","**Job Details**
 ---------------
 
 **Working Title: Infection Preventionist/Registered Nurse Principal**  
@@ -2072,7 +1717,7 @@ WellNow is an EOE.
 * **FLSA Status**: Exempt \\- Professional
 * Designated in Connect 700 Program for Applicants with Disabilities: Yes
 
-### Direct Care \\&amp; Treatment (DCT) is unable to provide sponsorship for work visas. Applicants must be eligible to work in the United States at the start of employment. DCT does not participate in E\\-Verify.
+### Direct Care \\& Treatment (DCT) is unable to provide sponsorship for work visas. Applicants must be eligible to work in the United States at the start of employment. DCT does not participate in E\\-Verify.
 
 ### **The work you'll do is more than just a job.**
 
@@ -2135,7 +1780,7 @@ REFERENCE/BACKGROUND CHECKS \\- The Department of Human Services will conduct re
 EDUCATION VERIFICATION \\- Applicants will be required to provide a copy of their high school diploma at time of interview OR copies of their college transcript or college degree/diploma at time of interview. Copies of the college degree/diploma are acceptable ONLY if it clearly identifies the field in which it was earned.
 
 
-Direct Care \\&amp; Treatment (DCT) healthcare facilities require employees to provide documentation that they are free from tuberculosis (TB) through a blood test prior to employment. DCT does not accept TB skin testing.
+Direct Care \\& Treatment (DCT) healthcare facilities require employees to provide documentation that they are free from tuberculosis (TB) through a blood test prior to employment. DCT does not accept TB skin testing.
 
 
 **Application Details**
@@ -2217,29 +1862,8 @@ All qualified applicants will receive consideration for employment without regar
 **APPLICANTS WITH DISABILITIES**
 
 
-Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the Careers Help Desk at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.
-🔗 Apply Direct: https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=90131&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=2948478df88dc798</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>MN, US</jobLocation>
-      <salaryMin>44</salaryMin>
-      <salaryMax>62</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse at nan</title>
-      <link>https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=90285&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">nan-Licensed Practical Nurse-Willmar, MN, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Willmar, MN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 27 - 35 (hourly)
-
-📝 Description: **Job Details**
+Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the Careers Help Desk at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.","","","","","","","","","","","","","","",""
+"in-dff921146294e9d2","indeed","https://www.indeed.com/viewjob?jk=dff921146294e9d2","https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=90285&PostingSeq=1","Licensed Practical Nurse","","Willmar, MN, US","2025-11-14","fulltime","direct_data","hourly",27.0,35.0,"USD",False,"","","","careers@state.mn.us, kayla.evenson@state.mn.us, kayla.evenson@state.mn.us, Accommodations.DCT@state.mn.us, kayla.evenson@state.mn.us, careers@state.mn.us","**Job Details**
 ---------------
 
 **Working Title: Licensed Practical Nurse**  
@@ -2270,7 +1894,7 @@ Minnesota state agencies make reasonable accommodations to their employees and a
 * Designated in Connect 700 Program for Applicants with Disabilities: Yes
 
 
-Direct Care \\&amp; Treatment (DCT) is unable to provide sponsorship for work visas. Applicants must be eligible to work in the United States at the start of employment. DCT does not participate in E\\-Verify.
+Direct Care \\& Treatment (DCT) is unable to provide sponsorship for work visas. Applicants must be eligible to work in the United States at the start of employment. DCT does not participate in E\\-Verify.
 
 ### **The work you'll do is more than just a job.**
 
@@ -2321,10 +1945,10 @@ To facilitate proper crediting, please ensure that your resume clearly describes
 
   
 
-REFERENCE/BACKGROUND CHECKS – Direct Care \\&amp; Treatment will conduct reference checks to verify job\\-related credentials and criminal background check prior to appointment.
+REFERENCE/BACKGROUND CHECKS – Direct Care \\& Treatment will conduct reference checks to verify job\\-related credentials and criminal background check prior to appointment.
 
 
-Direct Care \\&amp; Treatment (DCT) healthcare facilities require employees to provide documentation that they are free from tuberculosis (TB) through a blood test prior to employment. DCT does not accept TB skin testing.
+Direct Care \\& Treatment (DCT) healthcare facilities require employees to provide documentation that they are free from tuberculosis (TB) through a blood test prior to employment. DCT does not accept TB skin testing.
 
 
 **Application Details**
@@ -2404,29 +2028,8 @@ All qualified applicants will receive consideration for employment without regar
 **APPLICANTS WITH DISABILITIES**
 
 
-Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the Careers Help Desk at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.
-🔗 Apply Direct: https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=90285&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=dff921146294e9d2</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Willmar, MN, US</jobLocation>
-      <salaryMin>27</salaryMin>
-      <salaryMax>35</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) at nan</title>
-      <link>https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=90258&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">nan-Registered Nurse (RN)-Bemidji, MN, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Bemidji, MN, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 39 - 58 (hourly)
-
-📝 Description: **Job Details**
+Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the Careers Help Desk at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.","","","","","","","","","","","","","","",""
+"in-da937e960320ea15","indeed","https://www.indeed.com/viewjob?jk=da937e960320ea15","https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=90258&PostingSeq=1","Registered Nurse (RN)","","Bemidji, MN, US","2025-11-14","parttime","direct_data","hourly",39.0,58.0,"USD",False,"","","","careers@state.mn.us, stephanie.a.kaiser@state.mn.us, kaitlin.weckwerth@state.mn.us, Accommodations.DCT@state.mn.us, kaitlin.weckwerth@state.mn.us, careers@state.mn.us","**Job Details**
 ---------------
 
 **Job Class: Registered Nurse (RN)**  
@@ -2442,7 +2045,7 @@ Minnesota state agencies make reasonable accommodations to their employees and a
 * **Date Posted**: 11/14/2025
 * **Closing Date**: 11/20/2025
 * **Hiring Agency/Seniority Unit**: Direct Care and Treatment / DCT Bemidji Region MNA
-* **Division/Unit**: Mental Health \\&amp; Substance Abuse Treatment Services / CBHH Bemidji Nursing 2
+* **Division/Unit**: Mental Health \\& Substance Abuse Treatment Services / CBHH Bemidji Nursing 2
 * **Work Shift/Work Hours**: Rotating Shift / 6:45am\\-5:15pm; 11:45am\\-10:15pm
 * **Days of Work**: Varies and every other weekend; may include holidays
 * **Travel Required**: No
@@ -2454,7 +2057,7 @@ Minnesota state agencies make reasonable accommodations to their employees and a
 * Designated in Connect 700 Program for Applicants with Disabilities: Yes
 
 
-Direct Care \\&amp; Treatment (DCT) is unable to provide sponsorship for work visas. Applicants must be eligible to work in the United States at the start of employment. DCT does not participate in E\\-Verify.
+Direct Care \\& Treatment (DCT) is unable to provide sponsorship for work visas. Applicants must be eligible to work in the United States at the start of employment. DCT does not participate in E\\-Verify.
 
 ### **The work you'll do is more than just a job.**
 
@@ -2494,10 +2097,10 @@ To facilitate proper crediting, please ensure that your resume clearly describes
 
   
 
-REFERENCE/BACKGROUND CHECKS – Direct Care \\&amp; Treatment will conduct reference checks to verify job\\-related credentials and criminal background check prior to appointment.
+REFERENCE/BACKGROUND CHECKS – Direct Care \\& Treatment will conduct reference checks to verify job\\-related credentials and criminal background check prior to appointment.
 
 
-Direct Care \\&amp; Treatment (DCT) healthcare facilities require employees to provide documentation that they are free from tuberculosis (TB) through a blood test prior to employment. DCT does not accept TB skin testing.
+Direct Care \\& Treatment (DCT) healthcare facilities require employees to provide documentation that they are free from tuberculosis (TB) through a blood test prior to employment. DCT does not accept TB skin testing.
 
 
 **Application Details**
@@ -2578,29 +2181,8 @@ All qualified applicants will receive consideration for employment without regar
 **APPLICANTS WITH DISABILITIES**
 
 
-Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the Careers Help Desk at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.
-🔗 Apply Direct: https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=90258&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=da937e960320ea15</description>
-      <jobType>Parttime</jobType>
-      <jobLocation>Bemidji, MN, US</jobLocation>
-      <salaryMin>39</salaryMin>
-      <salaryMax>58</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Registered Nurse / Part-time, Evening at nan</title>
-      <link>https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=90255&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">nan-RN - Registered Nurse / Part-time, Evening-Minneapolis, MN, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Minneapolis, MN, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 39 - 58 (hourly)
-
-📝 Description: **Job Details**
+Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the Careers Help Desk at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.","","","","","","","","","","","","","","",""
+"in-5f9acde7be843aba","indeed","https://www.indeed.com/viewjob?jk=5f9acde7be843aba","https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=90255&PostingSeq=1","RN - Registered Nurse / Part-time, Evening","","Minneapolis, MN, US","2025-11-14","parttime","direct_data","hourly",39.0,58.0,"USD",False,"","","","careers@state.mn.us, Xiong.Lee@state.mn.us, Xiong.Lee@state.mn.us, Xiong.Lee@state.mn.us, careers@state.mn.us","**Job Details**
 ---------------
 
 **Working Title: Registered Nurse**  
@@ -2762,29 +2344,8 @@ All qualified applicants will receive consideration for employment without regar
 **APPLICANTS WITH DISABILITIES**
 
 
-Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the job information line at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.
-🔗 Apply Direct: https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=90255&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5f9acde7be843aba</description>
-      <jobType>Parttime</jobType>
-      <jobLocation>Minneapolis, MN, US</jobLocation>
-      <salaryMin>39</salaryMin>
-      <salaryMax>58</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Registered Nurse / Intermittent-PRN at nan</title>
-      <link>https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=89843&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">nan-RN - Registered Nurse / Intermittent-PRN-Preston, MN, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Preston, MN, US
-💼 Type: Temporary, Parttime, Fulltime
-🏠 Work: On-site
-💰 Salary: USD 39 - 58 (hourly)
-
-📝 Description: **Job Details**
+Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the job information line at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.","","","","","","","","","","","","","","",""
+"in-0136278b0f00c2c7","indeed","https://www.indeed.com/viewjob?jk=0136278b0f00c2c7","https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=89843&PostingSeq=1","RN - Registered Nurse / Intermittent-PRN","","Preston, MN, US","2025-11-14","temporary, parttime, fulltime","direct_data","hourly",39.0,58.0,"USD",False,"","","","careers@state.mn.us, alexis.schwartz@state.mn.us, alexis.schwartz@state.mn.us, alexis.schwartz@state.mn.us, careers@state.mn.us","**Job Details**
 ---------------
 
 **Working Title: RN**  
@@ -2929,29 +2490,8 @@ All qualified applicants will receive consideration for employment without regar
 **APPLICANTS WITH DISABILITIES**
 
 
-Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the Careers Help Desk at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.
-🔗 Apply Direct: https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=89843&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=0136278b0f00c2c7</description>
-      <jobType>Temporary, Parttime, Fulltime</jobType>
-      <jobLocation>Preston, MN, US</jobLocation>
-      <salaryMin>39</salaryMin>
-      <salaryMax>58</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Emergency Departmnet at CommonSpirit Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3292&amp;rx_jobId=446580&amp;rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F88389467536%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dv1_wa_nurse%26rx_ch%3Djobp4p%26rx_group%3D465697%26rx_id%3D319fa7ff-c101-11f0-874a-d12f21a782a2%26rx_job%3D446580%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T060222Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid</link>
-      <guid isPermaLink="false">CommonSpirit Health-RN Emergency Departmnet-Silverdale, WA, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Silverdale, WA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 42 - 71 (hourly)
-
-📝 Description: **Job Summary and Responsibilities**  
+Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the Careers Help Desk at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.","","","","","","","","","","","","","","",""
+"in-f11a08f93ef9574a","indeed","https://www.indeed.com/viewjob?jk=f11a08f93ef9574a","https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=446580&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F88389467536%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dv1_wa_nurse%26rx_ch%3Djobp4p%26rx_group%3D465697%26rx_id%3D319fa7ff-c101-11f0-874a-d12f21a782a2%26rx_job%3D446580%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T060222Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid","RN Emergency Departmnet","CommonSpirit Health","Silverdale, WA, US","2025-11-14","fulltime","direct_data","hourly",42.0,71.0,"USD",False,"","","","","**Job Summary and Responsibilities**  
 
 Our newly opened Emergency Department is the second largest in the state of Washington, and offers 52 state of the art private treatment rooms. The open floor model allows for greater visibility, patient safety, and supports our team nursing approach. Doctors, Nurses, ED Techs, and Social Workers collaborate to provide our patients with the best in emergency care. Critical patients can be transferred and received by helicopter with a helipad located on the hospital rooftop. We are certified by the Joint Commission as a Cardiac and Stroke Center and are designated as a Level III Trauma Center with 2 private bays for providing critical care. The front end process includes 6 Fast track and 5 triage rooms with assigned doctors and nurses to support rapid assessment and treatment. Our staff pride themselves in providing excellent emergency care to the community in which we live and serve.  
 
@@ -2992,36 +2532,14 @@ Our dedicated providers offer a full spectrum of health care services, from rout
 
 We are proud of our pioneering medical advances and numerous awards and accreditations that reflect our dedication to excellence. When you join Virginia Mason Franciscan Health, you become part of a team that delivers top\\-quality, professional healthcare in modern, well\\-equipped facilities, and contributes to a legacy of service built on collaboration and shared purpose. **Pay Range**  
 
-$42\\.43 \\- $71\\.67 /hour
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3292&amp;rx_jobId=446580&amp;rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F88389467536%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dv1_wa_nurse%26rx_ch%3Djobp4p%26rx_group%3D465697%26rx_id%3D319fa7ff-c101-11f0-874a-d12f21a782a2%26rx_job%3D446580%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T060222Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f11a08f93ef9574a</description>
-      <companyName>CommonSpirit Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Silverdale, WA, US</jobLocation>
-      <salaryMin>42</salaryMin>
-      <salaryMax>71</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Vascular and Thoracic Surgery Telemetry RN at CommonSpirit Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3292&amp;rx_jobId=446449&amp;rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F88381344816%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dv1_tx_nurse%26rx_ch%3Djobp4p%26rx_group%3D465694%26rx_id%3D31b551f9-c101-11f0-874a-bfc8baa8f790%26rx_job%3D446449%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T060222Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid</link>
-      <guid isPermaLink="false">CommonSpirit Health-Vascular and Thoracic Surgery Telemetry RN-Houston, TX, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Houston, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 33 - 52 (hourly)
-
-📝 Description: **Job Summary and Responsibilities**  
+$42\\.43 \\- $71\\.67 /hour","","https://www.indeed.com/cmp/Commonspirit-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0190019f0dce83416c36b0855f0aa5f3","","","Decline to state","more than $10B (USD)","Two legacies of caring. One ministry of change.","","","","","","",""
+"in-934c3f8dc5992e8a","indeed","https://www.indeed.com/viewjob?jk=934c3f8dc5992e8a","https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=446449&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F88381344816%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dv1_tx_nurse%26rx_ch%3Djobp4p%26rx_group%3D465694%26rx_id%3D31b551f9-c101-11f0-874a-bfc8baa8f790%26rx_job%3D446449%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T060222Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid","Vascular and Thoracic Surgery Telemetry RN","CommonSpirit Health","Houston, TX, US","2025-11-14","fulltime","direct_data","hourly",33.0,52.0,"USD",False,"","","","","**Job Summary and Responsibilities**  
 
 As a **Registered Nurse** on our **Cardiovascular and Thoracic Surgical Acute Care Unit**, you will be responsible for delivering excellence in patient care by assessing, formulating nursing diagnoses, establishing goals, planning and implementing intervention, and evaluating patient care outcomes. With the staff nurse's professional practice, you are responsible for participating in and maintaining quality, cost\\-effectiveness, and guest relations. **10 Tower \\- Cardiovascular and Thoracic Surgical Acute Care*** 29\\-bed cardiovascular and thoracic surgical acute care unit.
 * The primary patient population consists of postoperative patients who have undergone the following procedures: Bentall; repair of aneurysms in the ascending and descending thoracic aorta, carotid endardectomies, femoral popliteal bypass, extrapleural pneumonectomy, esophagectomy, pneumonectomy, and amputations.
 * Secondary patient populations include pre\\-surgical, postoperative cardiovascular aorto\\-coronary bypass, thoracotomies and medical cardiology or dysrhythmia patients.
 * The floor has a central telemetry monitoring system with the capability to monitor 29 patients, VATS, TAVR TGVAR.
-* **Baylor St. Luke’s Medical Center** has been recognized as a Best Hospital for 2022\\-23 by U.S. News \\&amp; World Report.
+* **Baylor St. Luke’s Medical Center** has been recognized as a Best Hospital for 2022\\-23 by U.S. News \\& World Report.
 
 
 Our world needs compassion like never before. Our communities need caring, and our families need protection. With our combined resources, we are committed to building healthy communities, advocating for those who are poor and vulnerable, and innovating how and where healing can happen, both inside our hospitals and out in the community. This role will allow you to give back to our community and broaden your healthcare skills.  
@@ -3050,30 +2568,8 @@ Our world needs compassion like never before. Our communities need caring, and o
 
  **Pay Range**  
 
-$33\\.00 \\- $52\\.80 /hour
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3292&amp;rx_jobId=446449&amp;rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F88381344816%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dv1_tx_nurse%26rx_ch%3Djobp4p%26rx_group%3D465694%26rx_id%3D31b551f9-c101-11f0-874a-bfc8baa8f790%26rx_job%3D446449%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T060222Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid
-🔗 Job Board: https://www.indeed.com/viewjob?jk=934c3f8dc5992e8a</description>
-      <companyName>CommonSpirit Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Houston, TX, US</jobLocation>
-      <salaryMin>33</salaryMin>
-      <salaryMax>52</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Home Health at CommonSpirit Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3292&amp;rx_jobId=446437&amp;rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F88389538800%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dcommonspirit-health-at-home---rns--lpns%26rx_ch%3Djobp4p%26rx_group%3D389505%26rx_id%3D288889b1-c101-11f0-874a-abf6ec7ff69a%26rx_job%3D446437%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T060222Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid</link>
-      <guid isPermaLink="false">CommonSpirit Health-RN Home Health-Evansville, IN, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Evansville, IN, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 32 - 47 (hourly)
-
-📝 Description: **Job Summary and Responsibilities** **This is a PRN position**  
+$33\\.00 \\- $52\\.80 /hour","","https://www.indeed.com/cmp/Commonspirit-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0190019f0dce83416c36b0855f0aa5f3","","","Decline to state","more than $10B (USD)","Two legacies of caring. One ministry of change.","","","","","","",""
+"in-c8c32ee3f7e5108c","indeed","https://www.indeed.com/viewjob?jk=c8c32ee3f7e5108c","https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=446437&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F88389538800%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dcommonspirit-health-at-home---rns--lpns%26rx_ch%3Djobp4p%26rx_group%3D389505%26rx_id%3D288889b1-c101-11f0-874a-abf6ec7ff69a%26rx_job%3D446437%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T060222Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid","RN Home Health","CommonSpirit Health","Evansville, IN, US","2025-11-14","perdiem","direct_data","hourly",32.0,47.0,"USD",False,"","","","","**Job Summary and Responsibilities** **This is a PRN position**  
 
 As a Registered Nurse with Deaconess Home Health, you’ll be at the heart of patient care delivering expert clinical services, coordinating with multidisciplinary teams, and building meaningful relationships with those you serve. Experience the ideal work\\-life balance with our home health nursing position—no after\\-hours on\\-call requirements! **Responsibilities:*** Deliver compassionate, high\\-quality nursing care tailored to each patient’s needs.
 * Develop and adjust individualized care plans to ensure optimal patient outcomes.
@@ -3098,30 +2594,8 @@ At CommonSpirit Health at Home, we are proud to be an Equal Opportunity Employer
 
 Deaconess Home Health is part of an expansive health care network that is committed to providing better patient care, with better outcomes, where it is best received, at home. As a faith\\-based organization, we are committed to finding new ways to improve the health of our patients and their families and the health of the communities we serve. Rooted in humankindness, our ministry is at the heart of everything we do and can be seen in every patient we touch. **Pay Range**  
 
-$32\\.98 \\- $47\\.82 /hour
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3292&amp;rx_jobId=446437&amp;rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F88389538800%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dcommonspirit-health-at-home---rns--lpns%26rx_ch%3Djobp4p%26rx_group%3D389505%26rx_id%3D288889b1-c101-11f0-874a-abf6ec7ff69a%26rx_job%3D446437%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T060222Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c8c32ee3f7e5108c</description>
-      <companyName>CommonSpirit Health</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Evansville, IN, US</jobLocation>
-      <salaryMin>32</salaryMin>
-      <salaryMax>47</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Home Care at CommonSpirit Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3292&amp;rx_jobId=446609&amp;rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F88389538944%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dcommonspirit-health-at-home---rns--lpns%26rx_ch%3Djobp4p%26rx_group%3D389505%26rx_id%3D31b4b5b3-c101-11f0-874a-d35605428156%26rx_job%3D446609%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T060222Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid</link>
-      <guid isPermaLink="false">CommonSpirit Health-RN Home Care-Cincinnati, OH, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Cincinnati, OH, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 32 - 47 (hourly)
-
-📝 Description: **Job Summary and Responsibilities**  
+$32\\.98 \\- $47\\.82 /hour","","https://www.indeed.com/cmp/Commonspirit-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0190019f0dce83416c36b0855f0aa5f3","","","Decline to state","more than $10B (USD)","Two legacies of caring. One ministry of change.","","","","","","",""
+"in-82fb30fdbba77939","indeed","https://www.indeed.com/viewjob?jk=82fb30fdbba77939","https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=446609&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F88389538944%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dcommonspirit-health-at-home---rns--lpns%26rx_ch%3Djobp4p%26rx_group%3D389505%26rx_id%3D31b4b5b3-c101-11f0-874a-d35605428156%26rx_job%3D446609%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T060222Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid","RN Home Care","CommonSpirit Health","Cincinnati, OH, US","2025-11-14","fulltime","direct_data","hourly",32.0,47.0,"USD",False,"","","","","**Job Summary and Responsibilities**  
 
 As a Registered Nurse with American\\-Mercy Home Care, you’ll be at the heart of patient care delivering expert clinical services, coordinating with multidisciplinary teams, and building meaningful relationships with those you serve. Experience the ideal work\\-life balance with our home health nursing position—no after\\-hours on\\-call requirements! **Responsibilities:*** Deliver compassionate, high\\-quality nursing care tailored to each patient’s needs.
 * Develop and adjust individualized care plans to ensure optimal patient outcomes.
@@ -3154,30 +2628,8 @@ At CommonSpirit Health at Home, we are proud to be an Equal Opportunity Employer
 
 American\\-Mercy Home Care is part of an expansive health care network that is committed to providing better patient care, with better outcomes, where it is best received: at home. As a faith\\-based organization, we are committed to finding new ways to improve the health of our patients and their families and the health of the communities we serve. Rooted in humankindness, our ministry is at the heart of everything we do and can be seen in every patient we touch. **Pay Range**  
 
-$32\\.98 \\- $47\\.82 /hour
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3292&amp;rx_jobId=446609&amp;rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F88389538944%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dcommonspirit-health-at-home---rns--lpns%26rx_ch%3Djobp4p%26rx_group%3D389505%26rx_id%3D31b4b5b3-c101-11f0-874a-d35605428156%26rx_job%3D446609%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T060222Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid
-🔗 Job Board: https://www.indeed.com/viewjob?jk=82fb30fdbba77939</description>
-      <companyName>CommonSpirit Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Cincinnati, OH, US</jobLocation>
-      <salaryMin>32</salaryMin>
-      <salaryMax>47</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Home Care at CommonSpirit Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3292&amp;rx_jobId=446608&amp;rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F88389538912%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dcommonspirit-health-at-home---rns--lpns%26rx_ch%3Djobp4p%26rx_group%3D389505%26rx_id%3D2fab2a31-c101-11f0-874a-e75ca27aea5e%26rx_job%3D446608%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T060222Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid</link>
-      <guid isPermaLink="false">CommonSpirit Health-RN Home Care-Cincinnati, OH, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Cincinnati, OH, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 32 - 47 (hourly)
-
-📝 Description: **Job Summary and Responsibilities**  
+$32\\.98 \\- $47\\.82 /hour","","https://www.indeed.com/cmp/Commonspirit-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0190019f0dce83416c36b0855f0aa5f3","","","Decline to state","more than $10B (USD)","Two legacies of caring. One ministry of change.","","","","","","",""
+"in-4a4dd7cec07e250e","indeed","https://www.indeed.com/viewjob?jk=4a4dd7cec07e250e","https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=446608&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F88389538912%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dcommonspirit-health-at-home---rns--lpns%26rx_ch%3Djobp4p%26rx_group%3D389505%26rx_id%3D2fab2a31-c101-11f0-874a-e75ca27aea5e%26rx_job%3D446608%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T060222Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid","RN Home Care","CommonSpirit Health","Cincinnati, OH, US","2025-11-14","fulltime","direct_data","hourly",32.0,47.0,"USD",False,"","","","","**Job Summary and Responsibilities**  
 
 As a Registered Nurse with American\\-Mercy Home Care, you’ll be at the heart of patient care delivering expert clinical services, coordinating with multidisciplinary teams, and building meaningful relationships with those you serve. Experience the ideal work\\-life balance with our home health nursing position—no after\\-hours on\\-call requirements! **Responsibilities:*** Deliver compassionate, high\\-quality nursing care tailored to each patient’s needs.
 * Develop and adjust individualized care plans to ensure optimal patient outcomes.
@@ -3210,29 +2662,8 @@ At CommonSpirit Health at Home, we are proud to be an Equal Opportunity Employer
 
 American\\-Mercy Home Care is part of an expansive health care network that is committed to providing better patient care, with better outcomes, where it is best received: at home. As a faith\\-based organization, we are committed to finding new ways to improve the health of our patients and their families and the health of the communities we serve. Rooted in humankindness, our ministry is at the heart of everything we do and can be seen in every patient we touch. **Pay Range**  
 
-$32\\.98 \\- $47\\.82 /hour
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3292&amp;rx_jobId=446608&amp;rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F88389538912%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dcommonspirit-health-at-home---rns--lpns%26rx_ch%3Djobp4p%26rx_group%3D389505%26rx_id%3D2fab2a31-c101-11f0-874a-e75ca27aea5e%26rx_job%3D446608%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20251114T060222Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4a4dd7cec07e250e</description>
-      <companyName>CommonSpirit Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Cincinnati, OH, US</jobLocation>
-      <salaryMin>32</salaryMin>
-      <salaryMax>47</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>REGISTERED NURSE at State of Arkansas</title>
-      <link>https://arcareers.arkansas.gov/job/Little-Rock-REGISTERED-NURSE-AR-72205/1342869000/</link>
-      <guid isPermaLink="false">State of Arkansas-REGISTERED NURSE-Little Rock, AR, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Little Rock, AR, US
-🏠 Work: Remote
-💰 Salary: USD 75,245 - 111,363 (yearly)
-
-📝 Description: **Date:** Nov 13, 2025
+$32\\.98 \\- $47\\.82 /hour","","https://www.indeed.com/cmp/Commonspirit-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0190019f0dce83416c36b0855f0aa5f3","","","Decline to state","more than $10B (USD)","Two legacies of caring. One ministry of change.","","","","","","",""
+"in-31dc488a2c59342b","indeed","https://www.indeed.com/viewjob?jk=31dc488a2c59342b","https://arcareers.arkansas.gov/job/Little-Rock-REGISTERED-NURSE-AR-72205/1342869000/","REGISTERED NURSE","State of Arkansas","Little Rock, AR, US","2025-11-14","","direct_data","yearly",75245.0,111363.0,"USD",True,"","","","","**Date:** Nov 13, 2025
 **Req ID:** 53931
 **Location:**Little Rock, AR, US, 72205
 **Category:** AR DEPARTMENT OF HEALTH
@@ -3285,28 +2716,8 @@ Minimum Qualifications
 
 Current Registered Nurse (RN) licensure in Arkansas.***Satisfaction of the minimum qualifications, including years of experience and service, does not entitle employees to automatic progression within the job series. Promotion to the next classification level is at the discretion of the department and the Office of Personnel Management, taking into consideration the employee’s demonstrated skills, competencies, performance, workload responsibilities, and organizational needs.***
 Licensure/Certifications
-N/A OTHER JOB RELATED EDUCATION AND/OR EXPERIENCE MAY BE SUBSTITUTED FOR ALL OR PART OF THESE BASIC REQUIREMENTS, EXCEPT FOR CERTIFICATION OR LICENSURE REQUIREMENTS, UPON APPROVAL OF THE QUALIFICATIONS REVIEW COMMITTEE.***The State of Arkansas is committed to providing equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, pregnancy, age, disability, citizenship, national origin, genetic information, military or veteran status, or any other status or characteristic protected by law.***
-🔗 Apply Direct: https://arcareers.arkansas.gov/job/Little-Rock-REGISTERED-NURSE-AR-72205/1342869000/
-🔗 Job Board: https://www.indeed.com/viewjob?jk=31dc488a2c59342b</description>
-      <companyName>State of Arkansas</companyName>
-      <jobLocation>Little Rock, AR, US</jobLocation>
-      <salaryMin>75245</salaryMin>
-      <salaryMax>111363</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>true</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) Infection Preventionist at Hammond-Whiting Care Center</title>
-      <link>https://lifecarecareers.hcshiring.com/jobs/AeMmj7fjgk-JZPBnCccvfQ?ref=Indeed&amp;title=Registered%20Nurse%20%28RN%29%20Infection%20Preventionist</link>
-      <guid isPermaLink="false">Hammond-Whiting Care Center-Registered Nurse (RN) Infection Preventionist-Whiting, IN, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Whiting, IN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: The RN Infection Preventionist evaluates the quality of resident care and outcomes as they relate to Healthcare Acquired Infections (HAI) and Community Acquired Infections (CAI) in accordance with all applicable laws, regulations, and Life Care standards. Collects, prepares, and analyzes HAI data. Presents infection data and makes recommendations for actions. Monitors associate compliance with infection control standards through use of barriers and infection prevention measures. Prepares and presents education for the staff, residents, and families. Serves as a resource to all departments and personnel.
+N/A OTHER JOB RELATED EDUCATION AND/OR EXPERIENCE MAY BE SUBSTITUTED FOR ALL OR PART OF THESE BASIC REQUIREMENTS, EXCEPT FOR CERTIFICATION OR LICENSURE REQUIREMENTS, UPON APPROVAL OF THE QUALIFICATIONS REVIEW COMMITTEE.***The State of Arkansas is committed to providing equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, pregnancy, age, disability, citizenship, national origin, genetic information, military or veteran status, or any other status or characteristic protected by law.***","Government","https://www.indeed.com/cmp/State-of-Arkansas","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/923b783d6325eacaf3dc8c184e378009","http://www.arkansas.gov","Little Rock","10,000+","","","","","","","","",""
+"in-7131c2ba7c9c1bd3","indeed","https://www.indeed.com/viewjob?jk=7131c2ba7c9c1bd3","https://lifecarecareers.hcshiring.com/jobs/AeMmj7fjgk-JZPBnCccvfQ?ref=Indeed&title=Registered%20Nurse%20%28RN%29%20Infection%20Preventionist","Registered Nurse (RN) Infection Preventionist","Hammond-Whiting Care Center","Whiting, IN, US","2025-11-14","fulltime","","","","","",False,"","","","","The RN Infection Preventionist evaluates the quality of resident care and outcomes as they relate to Healthcare Acquired Infections (HAI) and Community Acquired Infections (CAI) in accordance with all applicable laws, regulations, and Life Care standards. Collects, prepares, and analyzes HAI data. Presents infection data and makes recommendations for actions. Monitors associate compliance with infection control standards through use of barriers and infection prevention measures. Prepares and presents education for the staff, residents, and families. Serves as a resource to all departments and personnel.
   
   
 
@@ -3338,25 +2749,8 @@ N/A OTHER JOB RELATED EDUCATION AND/OR EXPERIENCE MAY BE SUBSTITUTED FOR ALL OR 
 * Displays integrity and professionalism by adhering to Life Care's Code of Conduct and completes mandatory Code of Conduct and other appropriate compliance training
 
 
-An Equal Opportunity Employer
-🔗 Apply Direct: https://lifecarecareers.hcshiring.com/jobs/AeMmj7fjgk-JZPBnCccvfQ?ref=Indeed&amp;title=Registered%20Nurse%20%28RN%29%20Infection%20Preventionist
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7131c2ba7c9c1bd3</description>
-      <companyName>Hammond-Whiting Care Center</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Whiting, IN, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Charge RN - Emergency Room Charge Registered Nurse at Trinity Health</title>
-      <link>https://jobs.trinity-health.org/mercyone/job/TRHEUS00626019MERCYONEENUS/Charge-RN-Emergency-Room-Charge-Registered-Nurse?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Trinity Health-Charge RN - Emergency Room Charge Registered Nurse-Bettendorf, IA, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Bettendorf, IA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Employment Type:**  
+An Equal Opportunity Employer","","https://www.indeed.com/cmp/Hammond--whiting-Care-Center","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/36d2d62cbcd2e93e9a4e264cfdc1f3e1","https://lcca.com/locations/in/hammond-whiting/","Whiting, IN","Decline to state","Decline to state","","","","","","","",""
+"in-0f9042466c0f6396","indeed","https://www.indeed.com/viewjob?jk=0f9042466c0f6396","https://jobs.trinity-health.org/mercyone/job/TRHEUS00626019MERCYONEENUS/Charge-RN-Emergency-Room-Charge-Registered-Nurse?utm_source=indeed&utm_medium=phenom-feeds","Charge RN - Emergency Room Charge Registered Nurse","Trinity Health","Bettendorf, IA, US","2025-11-14","fulltime","","","","","",False,"","","","","**Employment Type:**  
 
 Full time
   
@@ -3439,24 +2833,9 @@ Our Commitment
   
   
 
-Rooted in our Mission and Core Values, we honor the dignity of every person and recognize the unique perspectives, experiences, and talents each colleague brings. By finding common ground and embracing our differences, we grow stronger together and deliver more compassionate, person\\-centered care. We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other status protected by federal, state, or local law.
-🔗 Apply Direct: https://jobs.trinity-health.org/mercyone/job/TRHEUS00626019MERCYONEENUS/Charge-RN-Emergency-Room-Charge-Registered-Nurse?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=0f9042466c0f6396</description>
-      <companyName>Trinity Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Bettendorf, IA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Director of Nursing Services (DON) at Nexion Health, Inc.</title>
-      <link>https://nexionhealth.hcshiring.com/jobs/CY-NiFHdkUufw-X6TLGeXQ?ref=Indeed&amp;title=Director%20of%20Nursing%20Services%20%28DON%29</link>
-      <guid isPermaLink="false">Nexion Health, Inc.-Director of Nursing Services (DON)-Duncanville, TX, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Duncanville, TX, US
-🏠 Work: On-site
-
-📝 Description: :
+Rooted in our Mission and Core Values, we honor the dignity of every person and recognize the unique perspectives, experiences, and talents each colleague brings. By finding common ground and embracing our differences, we grow stronger together and deliver more compassionate, person\\-centered care. We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other status protected by federal, state, or local law.","Health Care","https://www.indeed.com/cmp/Trinity-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/13e6144af93a8598d3397fb32518ed3d","https://jobs.trinity-health.org/","20555 Victor Parkway
+Livonia, MI 48152","10,000+","more than $10B (USD)","Trinity Health is one of the largest multi-institutional Catholic health care delivery systems in the nation, serving diverse communities that include more than 30 million people across 25 states.","","","","","","",""
+"in-a0bf0eee80c0d976","indeed","https://www.indeed.com/viewjob?jk=a0bf0eee80c0d976","https://nexionhealth.hcshiring.com/jobs/CY-NiFHdkUufw-X6TLGeXQ?ref=Indeed&title=Director%20of%20Nursing%20Services%20%28DON%29","Director of Nursing Services (DON)","Nexion Health, Inc.","Duncanville, TX, US","2025-11-14","","","","","","",False,"","","","",":
   
   
 
@@ -3464,7 +2843,7 @@ INDNUR
   
   
 
-Nexion is a "Great Place to Work" because we provide
+Nexion is a ""Great Place to Work"" because we provide
   
   
 
@@ -3512,24 +2891,9 @@ Standard Work Hours – M\\-F 8p\\-5p (may vary as determined by facility needs)
 * Carries out supervisory responsibilities in accordance with the organizational policies and applicable laws:
 
 
-EOE M/F/D/V
-🔗 Apply Direct: https://nexionhealth.hcshiring.com/jobs/CY-NiFHdkUufw-X6TLGeXQ?ref=Indeed&amp;title=Director%20of%20Nursing%20Services%20%28DON%29
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a0bf0eee80c0d976</description>
-      <companyName>Nexion Health, Inc.</companyName>
-      <jobLocation>Duncanville, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>ASU RN - Registered Nurse at Trinity Health</title>
-      <link>https://jobs.trinity-health.org/mercyone/job/TRHEUS00628392MERCYONEENUS/ASU-RN-Registered-Nurse?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Trinity Health-ASU RN - Registered Nurse-Waterloo, IA, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Waterloo, IA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Employment Type:**  
+EOE M/F/D/V","Health Care","https://www.indeed.com/cmp/Nexion-Health,-Inc.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b41fd16236f0ae98d7290ef83b4e1537","https://www.nexion-health.com/","Corporate Office
+6937 Warfield Ave., Sykesville, Maryland 21784, US","1,001 to 5,000","$100M to $500M (USD)","Nexion Health promotes a passion for life-changing health care by hiring and retaining the industry’s top talent.","","","","","","",""
+"in-6e9192ec27991bb0","indeed","https://www.indeed.com/viewjob?jk=6e9192ec27991bb0","https://jobs.trinity-health.org/mercyone/job/TRHEUS00628392MERCYONEENUS/ASU-RN-Registered-Nurse?utm_source=indeed&utm_medium=phenom-feeds","ASU RN - Registered Nurse","Trinity Health","Waterloo, IA, US","2025-11-14","fulltime","","","","","",False,"","","","","**Employment Type:**  
 
 Full time
   
@@ -3598,26 +2962,9 @@ Our Commitment
   
   
 
-Rooted in our Mission and Core Values, we honor the dignity of every person and recognize the unique perspectives, experiences, and talents each colleague brings. By finding common ground and embracing our differences, we grow stronger together and deliver more compassionate, person\\-centered care. We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other status protected by federal, state, or local law.
-🔗 Apply Direct: https://jobs.trinity-health.org/mercyone/job/TRHEUS00628392MERCYONEENUS/ASU-RN-Registered-Nurse?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=6e9192ec27991bb0</description>
-      <companyName>Trinity Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Waterloo, IA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Medical Oncology at Providence</title>
-      <link>https://rr.jobsyn.org/C627C4AC0EE54FF080687718D3C1DBEB1554</link>
-      <guid isPermaLink="false">Providence-RN - Medical Oncology-Spokane, WA, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Spokane, WA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 41 - 75 (hourly)
-
-📝 Description: **Description**
+Rooted in our Mission and Core Values, we honor the dignity of every person and recognize the unique perspectives, experiences, and talents each colleague brings. By finding common ground and embracing our differences, we grow stronger together and deliver more compassionate, person\\-centered care. We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other status protected by federal, state, or local law.","Health Care","https://www.indeed.com/cmp/Trinity-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/13e6144af93a8598d3397fb32518ed3d","https://jobs.trinity-health.org/","20555 Victor Parkway
+Livonia, MI 48152","10,000+","more than $10B (USD)","Trinity Health is one of the largest multi-institutional Catholic health care delivery systems in the nation, serving diverse communities that include more than 30 million people across 25 states.","","","","","","",""
+"in-3a20cf51b4d35d80","indeed","https://www.indeed.com/viewjob?jk=3a20cf51b4d35d80","https://rr.jobsyn.org/C627C4AC0EE54FF080687718D3C1DBEB1554","RN - Medical Oncology","Providence","Spokane, WA, US","2025-11-14","fulltime","direct_data","hourly",41.0,75.0,"USD",False,"","","","","**Description**
 
 
 **RN \\- Medical Oncology, Providence Holy Family Hospital, Spokane, WA**
@@ -3658,7 +3005,7 @@ The amounts listed are the base pay range; additional compensation may be availa
 Providence offers a comprehensive benefits package including a retirement 401(k) Savings Plan with employer matching, health care benefits (medical, dental, vision), life insurance, disability insurance, time off benefits (paid parental leave, vacations, holidays, health issues), voluntary benefits, well\\-being resources and much more. Learn more at providence.jobs/benefits.
 
 
-Applicants in the Unincorporated County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Unincorporated Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act."
+Applicants in the Unincorporated County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Unincorporated Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.""
 
 
 **About the Team**
@@ -3712,30 +3059,8 @@ For any concerns with this posting relating to the posting requirements in RCW 4
 **Pay Range:** $41\\.06 \\- $75\\.96
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/C627C4AC0EE54FF080687718D3C1DBEB1554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=3a20cf51b4d35d80</description>
-      <companyName>Providence</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Spokane, WA, US</jobLocation>
-      <salaryMin>41</salaryMin>
-      <salaryMax>75</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Cardiac Medical at Providence</title>
-      <link>https://rr.jobsyn.org/F5795D7502514964BC3A86D6B0919C001554</link>
-      <guid isPermaLink="false">Providence-RN - Cardiac Medical-Spokane, WA, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Spokane, WA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 41 - 77 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-959155fe","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fb09f5772b2f0fa41003ed27a771303","http://www.providence.jobs","Renton, WA","10,000+","$100M to $500M (USD)","Providence is a not-for-profit network of hospitals, care centers, health plans, clinics, home health care and services continuing a more than 100-year tradition of serving the poor and vulnerable.","","","","","","",""
+"in-08615026fa6567b2","indeed","https://www.indeed.com/viewjob?jk=08615026fa6567b2","https://rr.jobsyn.org/F5795D7502514964BC3A86D6B0919C001554","RN - Cardiac Medical","Providence","Spokane, WA, US","2025-11-14","fulltime","direct_data","hourly",41.0,77.0,"USD",False,"","","","","**Description**
 
 
 **RN \\- Cardiac Medical, Providence Sacred Heart Medical Center Hospital, Spokane, WA**
@@ -3747,7 +3072,7 @@ Providence is offering up to $15,000 hiring bonus for eligible external hires wh
 Providence nurses are not simply valued – they’re invaluable. You will thrive in our culture of patient\\-focused, whole\\-person care built on understanding, commitment, and mutual respect. Your voice matters here, because we know that to inspire and retain the best nurses, we must empower them. Learn why nurses choose to work at Providence by visiting our Nursing Institute page.
 
 
-Join our team at Providence Sacred Heart Medical Center \\&amp; Children's Hospital. As a Providence caregiver, you’ll apply your specialized training to deliver world\\-class health with human connection and make a difference every day through your extraordinary care.
+Join our team at Providence Sacred Heart Medical Center \\& Children's Hospital. As a Providence caregiver, you’ll apply your specialized training to deliver world\\-class health with human connection and make a difference every day through your extraordinary care.
 
 
 **Required Qualifications:**
@@ -3777,7 +3102,7 @@ The amounts listed are the base pay range; additional compensation may be availa
 Providence offers a comprehensive benefits package including a retirement 401(k) Savings Plan with employer matching, health care benefits (medical, dental, vision), life insurance, disability insurance, time off benefits (paid parental leave, vacations, holidays, health issues), voluntary benefits, well\\-being resources and much more. Learn more at providence.jobs/benefits.
 
 
-Applicants in the Unincorporated County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Unincorporated Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act."
+Applicants in the Unincorporated County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Unincorporated Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.""
 
 
 **About the Team**
@@ -3831,30 +3156,8 @@ For any concerns with this posting relating to the posting requirements in RCW 4
 **Pay Range:** $41\\.74 \\- $77\\.17
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/F5795D7502514964BC3A86D6B0919C001554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=08615026fa6567b2</description>
-      <companyName>Providence</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Spokane, WA, US</jobLocation>
-      <salaryMin>41</salaryMin>
-      <salaryMax>77</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Medical Surgical at Providence</title>
-      <link>https://rr.jobsyn.org/BD266AA6A9B34A8C836A309A5BE02ECA1554</link>
-      <guid isPermaLink="false">Providence-RN - Medical Surgical-Oregon City, OR, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Oregon City, OR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 54 - 75 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-959155fe","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fb09f5772b2f0fa41003ed27a771303","http://www.providence.jobs","Renton, WA","10,000+","$100M to $500M (USD)","Providence is a not-for-profit network of hospitals, care centers, health plans, clinics, home health care and services continuing a more than 100-year tradition of serving the poor and vulnerable.","","","","","","",""
+"in-7325538d41c63103","indeed","https://www.indeed.com/viewjob?jk=7325538d41c63103","https://rr.jobsyn.org/BD266AA6A9B34A8C836A309A5BE02ECA1554","RN - Medical Surgical","Providence","Oregon City, OR, US","2025-11-14","fulltime","direct_data","hourly",54.0,75.0,"USD",False,"","","","","**Description**
 
 
 **RN – Medical Surgical Unit at Providence Willamette Falls Medical Center. This posting is for a 0\\.9 FTE position with variable 12\\-hour shifts starting at 7:00 AM or 7:30 PM, including some weekends.**
@@ -3914,7 +3217,7 @@ The amounts listed are the base pay range; additional compensation may be availa
 Providence offers a comprehensive benefits package including a retirement 401(k) Savings Plan with employer matching, health care benefits (medical, dental, vision), life insurance, disability insurance, time off benefits (paid parental leave, vacations, holidays, health issues), voluntary benefits, well\\-being resources and much more. Learn more at providence.jobs/benefits.
 
 
-Applicants in the Unincorporated County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Unincorporated Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act."
+Applicants in the Unincorporated County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Unincorporated Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.""
 
 
 **About the Team**
@@ -3965,36 +3268,14 @@ Providence is proud to be an Equal Opportunity Employer. We are committed to the
 **Pay Range:** $54\\.01 \\- $75\\.73
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/BD266AA6A9B34A8C836A309A5BE02ECA1554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7325538d41c63103</description>
-      <companyName>Providence</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Oregon City, OR, US</jobLocation>
-      <salaryMin>54</salaryMin>
-      <salaryMax>75</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Medical Surgical - Full Time Nights at Providence</title>
-      <link>https://rr.jobsyn.org/C16B2D57C87544679AF38BE7C63F91491554</link>
-      <guid isPermaLink="false">Providence-RN - Medical Surgical - Full Time Nights-Burbank, CA, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Burbank, CA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 56 - 84 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-959155fe","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fb09f5772b2f0fa41003ed27a771303","http://www.providence.jobs","Renton, WA","10,000+","$100M to $500M (USD)","Providence is a not-for-profit network of hospitals, care centers, health plans, clinics, home health care and services continuing a more than 100-year tradition of serving the poor and vulnerable.","","","","","","",""
+"in-3b7e481b20750029","indeed","https://www.indeed.com/viewjob?jk=3b7e481b20750029","https://rr.jobsyn.org/C16B2D57C87544679AF38BE7C63F91491554","RN - Medical Surgical - Full Time Nights","Providence","Burbank, CA, US","2025-11-14","fulltime","direct_data","hourly",56.0,84.0,"USD",False,"","","","","**Description**
 
 
 RN – Medical Surgical at Providence St. Joseph Medical Center in Burbank, CA. This position is Full\\-Time and will work 12\\-hour Night shifts.
 
 
-Providence St. Joseph Medical Center is proud to be Magnet® recognized, the nation’s highest recognition for nursing excellence. The American Nurses Credentialing Center’s Magnet Recognition Program® recognized the hospital’s nursing team for exemplary patient care, nursing practice collaboration, patient outcomes and nursing research. In addition, Providence St. Joseph is recognized as one of the best regional hospitals in 11 types of care by U.S. News \\&amp; World Report.
+Providence St. Joseph Medical Center is proud to be Magnet® recognized, the nation’s highest recognition for nursing excellence. The American Nurses Credentialing Center’s Magnet Recognition Program® recognized the hospital’s nursing team for exemplary patient care, nursing practice collaboration, patient outcomes and nursing research. In addition, Providence St. Joseph is recognized as one of the best regional hospitals in 11 types of care by U.S. News \\& World Report.
 
 
 Providence nurses are not simply valued – they’re invaluable. You will thrive in our culture of patient\\-focused, whole\\-person care built on understanding, commitment, and mutual respect. Your voice matters here, because we know that to inspire and retain the best nurses, we must empower them. Learn why nurses choose to work at Providence by visiting our Nursing Institute page.
@@ -4034,7 +3315,7 @@ The amounts listed are the base pay range; additional compensation may be availa
 Providence offers a comprehensive benefits package including a retirement 401(k) Savings Plan with employer matching, health care benefits (medical, dental, vision), life insurance, disability insurance, time off benefits (paid parental leave, vacations, holidays, health issues), voluntary benefits, well\\-being resources and much more. Learn more at providence.jobs/benefits.
 
 
-Applicants in the Unincorporated County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Unincorporated Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act."
+Applicants in the Unincorporated County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Unincorporated Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.""
 
 
 **About the Team**
@@ -4085,30 +3366,8 @@ Providence is proud to be an Equal Opportunity Employer. We are committed to the
 **Pay Range:** $56\\.12 \\- $84\\.75
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/C16B2D57C87544679AF38BE7C63F91491554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=3b7e481b20750029</description>
-      <companyName>Providence</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Burbank, CA, US</jobLocation>
-      <salaryMin>56</salaryMin>
-      <salaryMax>84</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Medical Surgical at Providence</title>
-      <link>https://rr.jobsyn.org/9F20CF34CCDA46D5966649F8C9B52AD91554</link>
-      <guid isPermaLink="false">Providence-RN - Medical Surgical-Portland, OR, US</guid>
-      <pubDate>Fri, 14 Nov 2025 09:18:42 +0000</pubDate>
-      <description>📍 Location: Portland, OR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 55 - 77 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-959155fe","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fb09f5772b2f0fa41003ed27a771303","http://www.providence.jobs","Renton, WA","10,000+","$100M to $500M (USD)","Providence is a not-for-profit network of hospitals, care centers, health plans, clinics, home health care and services continuing a more than 100-year tradition of serving the poor and vulnerable.","","","","","","",""
+"in-689d1830a04b57e5","indeed","https://www.indeed.com/viewjob?jk=689d1830a04b57e5","https://rr.jobsyn.org/9F20CF34CCDA46D5966649F8C9B52AD91554","RN - Medical Surgical","Providence","Portland, OR, US","2025-11-14","fulltime","direct_data","hourly",55.0,77.0,"USD",False,"","","","","**Description**
 
 
 **RN – Medical Surgical Unit at Providence St. Vincent Medical Center.** **This posting represents a .9 FTE, night shift opening (7pm\\-7:30am, 3, 12 hour shifts per week) with rotating weekends.**
@@ -4168,7 +3427,7 @@ The amounts listed are the base pay range; additional compensation may be availa
 Providence offers a comprehensive benefits package including a retirement 401(k) Savings Plan with employer matching, health care benefits (medical, dental, vision), life insurance, disability insurance, time off benefits (paid parental leave, vacations, holidays, health issues), voluntary benefits, well\\-being resources and much more. Learn more at providence.jobs/benefits.
 
 
-Applicants in the Unincorporated County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Unincorporated Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act."
+Applicants in the Unincorporated County of Los Angeles: Qualified applications with arrest or conviction records will be considered for employment in accordance with the Unincorporated Los Angeles County Fair Chance Ordinance for Employers and the California Fair Chance Act.""
 
 
 **Requsition ID:** 398733
@@ -4207,18 +3466,4 @@ Applicants in the Unincorporated County of Los Angeles: Qualified applications w
 **Pay Range:** $55\\.10 \\- $77\\.43
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/9F20CF34CCDA46D5966649F8C9B52AD91554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=689d1830a04b57e5</description>
-      <companyName>Providence</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Portland, OR, US</jobLocation>
-      <salaryMin>55</salaryMin>
-      <salaryMax>77</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-  </channel>
-</rss>
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-959155fe","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fb09f5772b2f0fa41003ed27a771303","http://www.providence.jobs","Renton, WA","10,000+","$100M to $500M (USD)","Providence is a not-for-profit network of hospitals, care centers, health plans, clinics, home health care and services continuing a more than 100-year tradition of serving the poor and vulnerable.","","","","","","",""
