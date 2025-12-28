@@ -1,22 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Daily Nurse Jobs Feed</title>
-    <description>Daily feed of nursing jobs with direct company application links</description>
-    <link>https://github.com/your-username/your-repo</link>
-    <lastBuildDate>Sun, 28 Dec 2025 09:18:07 +0000</lastBuildDate>
-    <generator>Nurse Job Search Bot</generator>
-    <language>en-us</language>
-    <item>
-      <title>Registered Nurse (RN) - Intensive Care Unit - Berkeley Hospital at Roper St. Francis Healthcare</title>
-      <link>https://wd5.myworkdaysite.com/en-US/recruiting/easyservice/RoperStFrancisHealthcare/job/Summerville-SC/Registered-Nurse--RN----Intensive-Care-Unit---Berkeley-Hospital_R260655-1</link>
-      <guid isPermaLink="false">Roper St. Francis Healthcare-Registered Nurse (RN) - Intensive Care Unit - Berkeley Hospital-Summerville, SC, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Summerville, SC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Thank you for considering a career at Roper St. Francis Healthcare!**
+"id","site","job_board_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type","job_url"
+"in-fad736124e53901d","indeed","https://www.indeed.com/viewjob?jk=fad736124e53901d","https://wd5.myworkdaysite.com/en-US/recruiting/easyservice/RoperStFrancisHealthcare/job/Summerville-SC/Registered-Nurse--RN----Intensive-Care-Unit---Berkeley-Hospital_R260655-1","Registered Nurse (RN) - Intensive Care Unit - Berkeley Hospital","Roper St. Francis Healthcare","Summerville, SC, US","2025-12-28","fulltime","","","","","",False,"","","","recruitment@RSFH.com","**Thank you for considering a career at Roper St. Francis Healthcare!**
 
 **Scheduled Weekly Hours:**
 
@@ -118,25 +101,18 @@ As a Roper St. Francis Healthcare teammate, you’re part of a Misson that matte
 **Department:**
 
 SS Human Resources \\- Talent Acquisition
-*It is our policy to abide by all Federal and State laws, as well as, the requirements of 41 CFR 60\\-1\\.4(a), 60\\-300\\.5(a) and 60\\-741\\.5(a). Accordingly, all applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at* *recruitment@RSFH.com* *.*
-🔗 Apply Direct: https://wd5.myworkdaysite.com/en-US/recruiting/easyservice/RoperStFrancisHealthcare/job/Summerville-SC/Registered-Nurse--RN----Intensive-Care-Unit---Berkeley-Hospital_R260655-1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=fad736124e53901d</description>
-      <companyName>Roper St. Francis Healthcare</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Summerville, SC, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>MDS Coordinator (Registered Nurse/RN) at Life Care Center of Medina</title>
-      <link>https://lifecarecareers.hcshiring.com/jobs/S2pQluZQ70-FsUjIlpLzbw?ref=Indeed&amp;title=MDS%20Coordinator%20%28Registered%20Nurse%2FRN%29</link>
-      <guid isPermaLink="false">Life Care Center of Medina-MDS Coordinator (Registered Nurse/RN)-Medina, OH, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Medina, OH, US
-💼 Type: Fulltime
-🏠 Work: On-site
+*It is our policy to abide by all Federal and State laws, as well as, the requirements of 41 CFR 60\\-1\\.4(a), 60\\-300\\.5(a) and 60\\-741\\.5(a). Accordingly, all applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at* *recruitment@RSFH.com* *.*","Health Care","https://www.indeed.com/cmp/Roper-St.-Francis-Healthcare","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/11d3f4f1430496d5e664738cb9d62271","http://www.rsfh.com/","Roper Hospital
+316 Calhoun Street
+Charleston, SC 29401 
 
-📝 Description: **Live the Mission:**  
+Bon Secours St. Francis Hospital
+2095 Henry Tecklenburg Dr.
+Charleston, SC 29414 
+
+Mount Pleasant Hospital
+3500 Highway 17 North 
+Mount Pleasant, SC 29466","1,001 to 5,000","","We are Charleston’s only private, not-for-profit hospital system with a specific focus on community outreach.","","","","","","",""
+"in-dcbba9981c64da7a","indeed","https://www.indeed.com/viewjob?jk=dcbba9981c64da7a","https://lifecarecareers.hcshiring.com/jobs/S2pQluZQ70-FsUjIlpLzbw?ref=Indeed&title=MDS%20Coordinator%20%28Registered%20Nurse%2FRN%29","MDS Coordinator (Registered Nurse/RN)","Life Care Center of Medina","Medina, OH, US","2025-12-28","fulltime","","","","","",False,"","","","","**Live the Mission:**  
 
 **Position Summary:**  
 
@@ -185,25 +161,8 @@ The RN MDS Coordinator coordinates and assists with completion and submission of
 * Read, write, speak, and understand the English language
 
 
-An Equal Opportunity Employer
-🔗 Apply Direct: https://lifecarecareers.hcshiring.com/jobs/S2pQluZQ70-FsUjIlpLzbw?ref=Indeed&amp;title=MDS%20Coordinator%20%28Registered%20Nurse%2FRN%29
-🔗 Job Board: https://www.indeed.com/viewjob?jk=dcbba9981c64da7a</description>
-      <companyName>Life Care Center of Medina</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Medina, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>MDS Nurse (Licensed Practical Nurse/LPN) at Life Care Center of Medina</title>
-      <link>https://lifecarecareers.hcshiring.com/jobs/NCwekGSB7U-fwzv-DZXgnA?ref=Indeed&amp;title=MDS%20Nurse%20%28Licensed%20Practical%20Nurse%2FLPN%29</link>
-      <guid isPermaLink="false">Life Care Center of Medina-MDS Nurse (Licensed Practical Nurse/LPN)-Medina, OH, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Medina, OH, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Live the Mission:**  
+An Equal Opportunity Employer","","https://www.indeed.com/cmp/Life-Care-Center-of-Medina","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3cb68f6aec9c82ddfac0be776229754a","https://lcca.com/locations/oh/medina/","","Decline to state","Decline to state","Residents experience first-class service in everything that Life Care Center of Medina has to offer.","","","","","","",""
+"in-fa0250ff2965e92a","indeed","https://www.indeed.com/viewjob?jk=fa0250ff2965e92a","https://lifecarecareers.hcshiring.com/jobs/NCwekGSB7U-fwzv-DZXgnA?ref=Indeed&title=MDS%20Nurse%20%28Licensed%20Practical%20Nurse%2FLPN%29","MDS Nurse (Licensed Practical Nurse/LPN)","Life Care Center of Medina","Medina, OH, US","2025-12-28","fulltime","","","","","",False,"","","","","**Live the Mission:**  
 
 Full time position!
   
@@ -256,25 +215,8 @@ The LPN MDS Nurse is responsible to complete and submit accurate and timely MDS 
 * Read, write, speak, and understand the English language
 
 
-An Equal Opportunity Employer
-🔗 Apply Direct: https://lifecarecareers.hcshiring.com/jobs/NCwekGSB7U-fwzv-DZXgnA?ref=Indeed&amp;title=MDS%20Nurse%20%28Licensed%20Practical%20Nurse%2FLPN%29
-🔗 Job Board: https://www.indeed.com/viewjob?jk=fa0250ff2965e92a</description>
-      <companyName>Life Care Center of Medina</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Medina, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Staff Development Coordinator (Registered Nurse/RN) at Life Care Center of The Willows</title>
-      <link>https://lifecarecareers.hcshiring.com/jobs/h79DKGHqKUGb12S8-sxyMw?ref=Indeed&amp;title=Staff%20Development%20Coordinator%20%28Registered%20Nurse%2FRN%29</link>
-      <guid isPermaLink="false">Life Care Center of The Willows-Staff Development Coordinator (Registered Nurse/RN)-Valparaiso, IN, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Valparaiso, IN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Position Summary:**  
+An Equal Opportunity Employer","","https://www.indeed.com/cmp/Life-Care-Center-of-Medina","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3cb68f6aec9c82ddfac0be776229754a","https://lcca.com/locations/oh/medina/","","Decline to state","Decline to state","Residents experience first-class service in everything that Life Care Center of Medina has to offer.","","","","","","",""
+"in-4d0a6f9b43329358","indeed","https://www.indeed.com/viewjob?jk=4d0a6f9b43329358","https://lifecarecareers.hcshiring.com/jobs/h79DKGHqKUGb12S8-sxyMw?ref=Indeed&title=Staff%20Development%20Coordinator%20%28Registered%20Nurse%2FRN%29","Staff Development Coordinator (Registered Nurse/RN)","Life Care Center of The Willows","Valparaiso, IN, US","2025-12-28","fulltime","","","","","",False,"","","","","**Position Summary:**  
 
 The RN Staff Development Coordinator plans, organizes, develops, and directs all in service education in accordance with all applicable laws, regulations, and Life Care standards.
   
@@ -316,26 +258,8 @@ The RN Staff Development Coordinator plans, organizes, develops, and directs all
 * Read, write, speak, and understand the English language
 
 
-An Equal Opportunity Employer
-🔗 Apply Direct: https://lifecarecareers.hcshiring.com/jobs/h79DKGHqKUGb12S8-sxyMw?ref=Indeed&amp;title=Staff%20Development%20Coordinator%20%28Registered%20Nurse%2FRN%29
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4d0a6f9b43329358</description>
-      <companyName>Life Care Center of The Willows</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Valparaiso, IN, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) Supervisor - Weekend at Life Care Center Of Attleboro</title>
-      <link>https://lifecarecareers.hcshiring.com/jobs/vDzRSbUfY0-SZOtrypB6tw?ref=Indeed&amp;title=Registered%20Nurse%20%28RN%29%20Supervisor%20%20-%20Weekend</link>
-      <guid isPermaLink="false">Life Care Center Of Attleboro-Registered Nurse (RN) Supervisor - Weekend-Attleboro, MA, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Attleboro, MA, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 36 - 49 (hourly)
-
-📝 Description: **Live the Mission:**  
+An Equal Opportunity Employer","","https://www.indeed.com/cmp/Life-Care-Center-of-the-Willows","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/36d2d62cbcd2e93e9a4e264cfdc1f3e1","https://lcca.com/locations/in/the-willows/","Valparaiso, IN","Decline to state","Decline to state","Our nursing home offers a variety of specialized treatments, including Closed Pulse Irrigation wound care, VitalStim® therapy and orthopedic rehabilitation.","","","","","","",""
+"in-71e7ba2c2bf80bab","indeed","https://www.indeed.com/viewjob?jk=71e7ba2c2bf80bab","https://lifecarecareers.hcshiring.com/jobs/vDzRSbUfY0-SZOtrypB6tw?ref=Indeed&title=Registered%20Nurse%20%28RN%29%20Supervisor%20%20-%20Weekend","Registered Nurse (RN) Supervisor - Weekend","Life Care Center Of Attleboro","Attleboro, MA, US","2025-12-28","parttime","direct_data","hourly",36.0,49.0,"USD",False,"","","","","**Live the Mission:**  
 
 **Position Summary:**  
 
@@ -379,29 +303,8 @@ The RN Supervisor is responsible for the coordination of the patient’s care an
 * Read, write, speak, and understand the English language
 
 
-An Equal Opportunity Employer
-🔗 Apply Direct: https://lifecarecareers.hcshiring.com/jobs/vDzRSbUfY0-SZOtrypB6tw?ref=Indeed&amp;title=Registered%20Nurse%20%28RN%29%20Supervisor%20%20-%20Weekend
-🔗 Job Board: https://www.indeed.com/viewjob?jk=71e7ba2c2bf80bab</description>
-      <companyName>Life Care Center Of Attleboro</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Attleboro, MA, US</jobLocation>
-      <salaryMin>36</salaryMin>
-      <salaryMax>49</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Care Manager (Registered Nurse/RN) at Garden Terrace Alzheimer's Center of Excellence (Houston)</title>
-      <link>https://lifecarecareers.hcshiring.com/jobs/_2GntZonMUObmHONzxUG8g?ref=Indeed&amp;title=Care%20Manager%20%28Registered%20Nurse%2FRN%29</link>
-      <guid isPermaLink="false">Garden Terrace Alzheimer's Center of Excellence (Houston)-Care Manager (Registered Nurse/RN)-Houston, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Houston, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Position Summary:**  
+An Equal Opportunity Employer","","https://www.indeed.com/cmp/Life-Care-Center-of-Attleboro","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3cb68f6aec9c82ddfac0be776229754a","https://lcca.com/locations/ma/attleboro/","","Decline to state","Decline to state","We believe that as a privately owned company, Life Care Centers of America stands apart from others","","","","","","",""
+"in-ab675302c5459dab","indeed","https://www.indeed.com/viewjob?jk=ab675302c5459dab","https://lifecarecareers.hcshiring.com/jobs/_2GntZonMUObmHONzxUG8g?ref=Indeed&title=Care%20Manager%20%28Registered%20Nurse%2FRN%29","Care Manager (Registered Nurse/RN)","Garden Terrace Alzheimer's Center of Excellence (Houston)","Houston, TX, US","2025-12-28","fulltime","","","","","",False,"","","","","**Position Summary:**  
 
 The RN Care Manager is responsible for the coordination of the patient’s care and services. Promotes quality care using a collaborative process that coordinates, monitors, and evaluates services according to the needs of patients. Works together with the patient and family, care team, payers, and external entities to promote a safe transition from the facility to the next provider or care setting care team, payers, and external entities to promote a safe transition from the facility to the next provider or care setting in accordance with all applicable laws, regulations, and Life Care standards.
   
@@ -447,26 +350,8 @@ The RN Care Manager is responsible for the coordination of the patient’s care 
 * Read, write, speak, and understand the English language
 
 
-An Equal Opportunity Employer
-🔗 Apply Direct: https://lifecarecareers.hcshiring.com/jobs/_2GntZonMUObmHONzxUG8g?ref=Indeed&amp;title=Care%20Manager%20%28Registered%20Nurse%2FRN%29
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ab675302c5459dab</description>
-      <companyName>Garden Terrace Alzheimer's Center of Excellence (Houston)</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Houston, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Unit Manager (Licensed Practical Nurse/LPN) - Weekend at Life Care Center Of Attleboro</title>
-      <link>https://lifecarecareers.hcshiring.com/jobs/3uV_9qJ23k-35uZKEslunw?ref=Indeed&amp;title=Unit%20Manager%20%28Licensed%20Practical%20Nurse%2FLPN%29%20%20-%20Weekend</link>
-      <guid isPermaLink="false">Life Care Center Of Attleboro-Unit Manager (Licensed Practical Nurse/LPN) - Weekend-Attleboro, MA, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Attleboro, MA, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 34 - 47 (hourly)
-
-📝 Description: **Live the Mission:**  
+An Equal Opportunity Employer","","https://www.indeed.com/cmp/Garden-Terrace-Alzheimer's-Center-of-Excellence-(houston)","","","","","","","","","","","","",""
+"in-99241ffaea73e35c","indeed","https://www.indeed.com/viewjob?jk=99241ffaea73e35c","https://lifecarecareers.hcshiring.com/jobs/3uV_9qJ23k-35uZKEslunw?ref=Indeed&title=Unit%20Manager%20%28Licensed%20Practical%20Nurse%2FLPN%29%20%20-%20Weekend","Unit Manager (Licensed Practical Nurse/LPN) - Weekend","Life Care Center Of Attleboro","Attleboro, MA, US","2025-12-28","parttime","direct_data","hourly",34.0,47.0,"USD",False,"","","","","**Live the Mission:**  
 
 **Position Summary:**  
 
@@ -512,29 +397,8 @@ The LPN Unit Manager is responsible for supervising, implementing, coordinating,
 * Read, write, speak, and understand the English language
 
 
-An Equal Opportunity Employer
-🔗 Apply Direct: https://lifecarecareers.hcshiring.com/jobs/3uV_9qJ23k-35uZKEslunw?ref=Indeed&amp;title=Unit%20Manager%20%28Licensed%20Practical%20Nurse%2FLPN%29%20%20-%20Weekend
-🔗 Job Board: https://www.indeed.com/viewjob?jk=99241ffaea73e35c</description>
-      <companyName>Life Care Center Of Attleboro</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Attleboro, MA, US</jobLocation>
-      <salaryMin>34</salaryMin>
-      <salaryMax>47</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Care Manager Assistant - LPN at Garden Terrace Alzheimer's Center of Excellence (Houston)</title>
-      <link>https://lifecarecareers.hcshiring.com/jobs/gUnZQTMcA0WhiMO_fZTVDA?ref=Indeed&amp;title=Care%20Manager%20Assistant%20-%20LPN</link>
-      <guid isPermaLink="false">Garden Terrace Alzheimer's Center of Excellence (Houston)-Care Manager Assistant - LPN-Houston, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Houston, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Position Summary:**  
+An Equal Opportunity Employer","","https://www.indeed.com/cmp/Life-Care-Center-of-Attleboro","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3cb68f6aec9c82ddfac0be776229754a","https://lcca.com/locations/ma/attleboro/","","Decline to state","Decline to state","We believe that as a privately owned company, Life Care Centers of America stands apart from others","","","","","","",""
+"in-cd6cbf5d33d6ee59","indeed","https://www.indeed.com/viewjob?jk=cd6cbf5d33d6ee59","https://lifecarecareers.hcshiring.com/jobs/gUnZQTMcA0WhiMO_fZTVDA?ref=Indeed&title=Care%20Manager%20Assistant%20-%20LPN","Care Manager Assistant - LPN","Garden Terrace Alzheimer's Center of Excellence (Houston)","Houston, TX, US","2025-12-28","fulltime","","","","","",False,"","","","","**Position Summary:**  
 
 The Care Manager Assistant \\- LPN assists with the coordination of the patient's care and services. Promotes quality care using a collaborative process that coordinates, monitors, and evaluates services according to the needs of and interpersonal contact with patients. in accordance with all applicable laws, regulations, and Life Care standards.
   
@@ -579,25 +443,8 @@ The Care Manager Assistant \\- LPN assists with the coordination of the patient'
 * Read, write, speak, and understand the English language
 
 
-An Equal Opportunity Employer
-🔗 Apply Direct: https://lifecarecareers.hcshiring.com/jobs/gUnZQTMcA0WhiMO_fZTVDA?ref=Indeed&amp;title=Care%20Manager%20Assistant%20-%20LPN
-🔗 Job Board: https://www.indeed.com/viewjob?jk=cd6cbf5d33d6ee59</description>
-      <companyName>Garden Terrace Alzheimer's Center of Excellence (Houston)</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Houston, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Substitute School Nurse (Continuous Recruitment) at Broome Tioga BOCES</title>
-      <link>https://btboces.recruitfront.com/JobPosting?PTID=5&amp;JID=59462</link>
-      <guid isPermaLink="false">Broome Tioga BOCES-Substitute School Nurse (Continuous Recruitment)-Binghamton, NY, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Binghamton, NY, US
-🏠 Work: On-site
-💰 Salary: USD 22 - 36 (hourly)
-
-📝 Description: **Major Responsibilities**:
+An Equal Opportunity Employer","","https://www.indeed.com/cmp/Garden-Terrace-Alzheimer's-Center-of-Excellence-(houston)","","","","","","","","","","","","",""
+"in-caea6706bdd1a910","indeed","https://www.indeed.com/viewjob?jk=caea6706bdd1a910","https://btboces.recruitfront.com/JobPosting?PTID=5&JID=59462","Substitute School Nurse (Continuous Recruitment)","Broome Tioga BOCES","Binghamton, NY, US","2025-12-28","","direct_data","hourly",22.0,36.0,"USD",False,"","","","","**Major Responsibilities**:
 
 
 Works directly with school\\-age population (through 21 years of age) on health issues at one of the various Broome\\-Tioga BOCES sites. Dispense medication, performs assessment/data collection of minor injuries or illnesses, administers tube feedings, delivers first aide, and completes required documentation.
@@ -613,36 +460,15 @@ Works directly with school\\-age population (through 21 years of age) on health 
 
 **Civil Service Title:** Substitute School Nurse  
 
-**Job Number:** 25\\-110
-🔗 Apply Direct: https://btboces.recruitfront.com/JobPosting?PTID=5&amp;JID=59462
-🔗 Job Board: https://www.indeed.com/viewjob?jk=caea6706bdd1a910</description>
-      <companyName>Broome Tioga BOCES</companyName>
-      <jobLocation>Binghamton, NY, US</jobLocation>
-      <salaryMin>22</salaryMin>
-      <salaryMax>36</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Travel RN-ICU-Intensive Care Unit in Martinsburg, West Virginia at Voyage Health</title>
-      <link>https://app.workwolf.com/pipelineLink/W3XY0PTP?utm_source=indeed</link>
-      <guid isPermaLink="false">Voyage Health-Travel RN-ICU-Intensive Care Unit in Martinsburg, West Virginia-Martinsburg, WV, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Martinsburg, WV, US
-💼 Type: Fulltime, Contract
-🏠 Work: On-site
-💰 Salary: USD 2,224 - 2,341 (weekly)
-
-📝 Description: Looking to level up your career and boost your income? At Voyage Healthcare, we help connect nurses, therapists, and allied health pros with high\\-paying travel jobs at top\\-rated facilities across the U.S. With thousands of openings nationwide, you can earn up to $3,500\\+ per week (depending on your specialty, location, housing, and benefits)—all while making a real impact on the communities that need you most. Let your next adventure start with us!
+**Job Number:** 25\\-110","","https://www.indeed.com/cmp/Broome-Tioga-Boces","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/70ab9c30cdf45af1027ba97c851a34b2","","","","","","","","","","","",""
+"in-a14097fcf72f36fb","indeed","https://www.indeed.com/viewjob?jk=a14097fcf72f36fb","https://app.workwolf.com/pipelineLink/W3XY0PTP?utm_source=indeed","Travel RN-ICU-Intensive Care Unit in Martinsburg, West Virginia","Voyage Health","Martinsburg, WV, US","2025-12-28","fulltime, contract","direct_data","weekly",2224.0,2341.0,"USD",False,"","","","","Looking to level up your career and boost your income? At Voyage Healthcare, we help connect nurses, therapists, and allied health pros with high\\-paying travel jobs at top\\-rated facilities across the U.S. With thousands of openings nationwide, you can earn up to $3,500\\+ per week (depending on your specialty, location, housing, and benefits)—all while making a real impact on the communities that need you most. Let your next adventure start with us!
 
 **Position:** RN\\-ICU\\-Intensive Care Unit (Travel/Contract)
 
 
 We're hiring experienced RN\\-ICU\\-Intensive Care Unit for a 13\\-week contract in Martinsburg, West Virginia — earn up to ($2224 \\- $2341 per week) while providing essential care at a leading facility. Most candidates will need to have at least 2 years of recent experience in the specialty.
 
-**Apply \\&amp; Call us today at 800\\-798\\-6035** for details on this opportunity.
+**Apply \\& Call us today at 800\\-798\\-6035** for details on this opportunity.
 
 **Position Details**
 
@@ -661,28 +487,8 @@ We're hiring experienced RN\\-ICU\\-Intensive Care Unit for a 13\\-week contract
 **Contract Length:** 13\\-week
 
 
-\\#Workwolf
-🔗 Apply Direct: https://app.workwolf.com/pipelineLink/W3XY0PTP?utm_source=indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a14097fcf72f36fb</description>
-      <companyName>Voyage Health</companyName>
-      <jobType>Fulltime, Contract</jobType>
-      <jobLocation>Martinsburg, WV, US</jobLocation>
-      <salaryMin>2224</salaryMin>
-      <salaryMax>2341</salaryMax>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Patient Safety Officer (RN) at nan</title>
-      <link>https://jobs.ourcareerpages.com/job/965797?source=Indeed</link>
-      <guid isPermaLink="false">nan-Patient Safety Officer (RN)-Downey, CA, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Downey, CA, US
-🏠 Work: On-site
-
-📝 Description: **Job Title: Patient Safety Officer (RN)**  
+\\#Workwolf","","https://www.indeed.com/cmp/Voyage-Health","","","","","","","","","","","","",""
+"in-dda99aba31a52acf","indeed","https://www.indeed.com/viewjob?jk=dda99aba31a52acf","https://jobs.ourcareerpages.com/job/965797?source=Indeed","Patient Safety Officer (RN)","","Downey, CA, US","2025-12-28","","","","","","",False,"","","","","**Job Title: Patient Safety Officer (RN)**  
 
 
 **Location: Downey, CA 90242\\-Onsite**  
@@ -737,23 +543,8 @@ Seeking an experienced Patient Safety Officer (RN) to lead patient safety initia
 * Equity: None.
 * Reports To: Director of Risk (may serve as interim).
 * Team Culture: Collaborative and clinically driven environment with outstanding nursing leadership and advancement opportunities.
-* Work Hours: Flexible.
-🔗 Apply Direct: https://jobs.ourcareerpages.com/job/965797?source=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=dda99aba31a52acf</description>
-      <jobLocation>Downey, CA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Supervisory Nurse (Open Until Filled) at Pueblo of Zuni</title>
-      <link>https://jobs.ourcareerpages.com/job/938741?source=Indeed</link>
-      <guid isPermaLink="false">Pueblo of Zuni-Supervisory Nurse (Open Until Filled)-Zuni, NM, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Zuni, NM, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **SUPERVISORY NURSE**
+* Work Hours: Flexible.","","","","","","","","","","","","","","",""
+"in-46300a6fd8a7b3eb","indeed","https://www.indeed.com/viewjob?jk=46300a6fd8a7b3eb","https://jobs.ourcareerpages.com/job/938741?source=Indeed","Supervisory Nurse (Open Until Filled)","Pueblo of Zuni","Zuni, NM, US","2025-12-28","fulltime","","","","","",False,"","","","","**SUPERVISORY NURSE**
 
 
 **FT/REGULAR**
@@ -811,25 +602,8 @@ Seeking an experienced Patient Safety Officer (RN) to lead patient safety initia
 **PHYSICAL DEMANDS**: Position involves extensive driving in local community, standing, bending, and walking within schools, clinics, and homes. Lifting, moving or carrying items of no more than 30 pounds is necessary to assist disabled patients in ambulation, to set up equipment in specialty clinics and set up audio visual aids for group sessions in outlying communities. Exposures to outside weather in all seasons are necessary because of required visits to homes, schools, and communities. Travel is often on narrow, wet dry, icy, poorly maintained roads. Exposure to infectious and communicable disease is frequent.
 
 
-**SPECIAL WORKING CONDITIONS:** Position is subject to Pre\\-Employment drug testing. The position is Safety Sensitive and will be subject to random drug screening for duration of employment. Must undergo and successfully pass a thorough character background check and FBI Fingerprint check.
-🔗 Apply Direct: https://jobs.ourcareerpages.com/job/938741?source=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=46300a6fd8a7b3eb</description>
-      <companyName>Pueblo of Zuni</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Zuni, NM, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) PACU Weekends at Inova Health System</title>
-      <link>https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/676168</link>
-      <guid isPermaLink="false">Inova Health System-Registered Nurse (RN) PACU Weekends-Alexandria, VA, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Alexandria, VA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Inova Alexandria hospital is looking for an experienced Perianesthesia (PACU) Nurse for a full time Day Shift Weekender position. Inova’s Perianesthesia RNs work pre and post op; Phase 1 and 2\\. Must be able to work full time: three consecutive 12\\-hour shifts (Fri\\-Sat\\-Sun or Sat\\-Sun\\-Mon), totaling 72 hours per pay period. There is a premium weekend differential for this schedule.  
+**SPECIAL WORKING CONDITIONS:** Position is subject to Pre\\-Employment drug testing. The position is Safety Sensitive and will be subject to random drug screening for duration of employment. Must undergo and successfully pass a thorough character background check and FBI Fingerprint check.","","https://www.indeed.com/cmp/Pueblo-of-Zuni","","","","","","","","","","","","",""
+"in-fe6eaf3b31950c40","indeed","https://www.indeed.com/viewjob?jk=fe6eaf3b31950c40","https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/676168","Registered Nurse (RN) PACU Weekends","Inova Health System","Alexandria, VA, US","2025-12-28","fulltime","","","","","",False,"","","","","Inova Alexandria hospital is looking for an experienced Perianesthesia (PACU) Nurse for a full time Day Shift Weekender position. Inova’s Perianesthesia RNs work pre and post op; Phase 1 and 2\\. Must be able to work full time: three consecutive 12\\-hour shifts (Fri\\-Sat\\-Sun or Sat\\-Sun\\-Mon), totaling 72 hours per pay period. There is a premium weekend differential for this schedule.  
 
 
 
@@ -861,25 +635,8 @@ RN Weekend Preferred Requirements:
 * 1\\+ years of PACU experience to include PreOp, Phase 1 and 2 recovery
 * 2\\+ yrs of critical care nursing (ICU/ED)
 
-For internal use only: \\#LI\\-KA1 IND1 .
-🔗 Apply Direct: https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/676168
-🔗 Job Board: https://www.indeed.com/viewjob?jk=fe6eaf3b31950c40</description>
-      <companyName>Inova Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Alexandria, VA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) at nan</title>
-      <link>https://provider-home-health-care.careerplug.com/j/02ualxr</link>
-      <guid isPermaLink="false">nan-Registered Nurse (RN)-Township of Liberty, OH, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Township of Liberty, OH, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Benefits:**
+For internal use only: \\#LI\\-KA1 IND1 .","","https://www.indeed.com/cmp/Inova-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5cff3247b0511d876a62078f24aefb43","http://www.inova.org","Falls Church, VA","10,000+","$1B to $5B (USD)","At Inova, we seek every opportunity to meet the unique needs of each person we are privileged to serve – every time, every touch.","","","","","","",""
+"in-ef7fd2d86cdf4486","indeed","https://www.indeed.com/viewjob?jk=ef7fd2d86cdf4486","https://provider-home-health-care.careerplug.com/j/02ualxr","Registered Nurse (RN)","","Township of Liberty, OH, US","2025-12-28","fulltime","","","","","",False,"","","","","**Benefits:**
 * Competitive salary
 * Flexible schedule
 * Opportunity for advancement
@@ -903,28 +660,12 @@ We are seeking a **Registered Nurse** to join our team. In this role, you will p
 * Previous experience as a Registered Nurse is preferred
 * Excellent interpersonal and client care skills
 * Valid driver’s license
-* First aid/CPR certification required
-🔗 Apply Direct: https://provider-home-health-care.careerplug.com/j/02ualxr
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ef7fd2d86cdf4486</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Township of Liberty, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) at Blooming Staffing Agency</title>
-      <link>https://blooming-staffing-agency.careerplug.com/j/02ualxa</link>
-      <guid isPermaLink="false">Blooming Staffing Agency-Registered Nurse (RN)-Worcester, MA, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Worcester, MA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Benefits:**
+* First aid/CPR certification required","","","","","","","","","","","","","","",""
+"in-f20b4d43694f67d1","indeed","https://www.indeed.com/viewjob?jk=f20b4d43694f67d1","https://blooming-staffing-agency.careerplug.com/j/02ualxa","Registered Nurse (RN)","Blooming Staffing Agency","Worcester, MA, US","2025-12-28","fulltime","","","","","",False,"","","","","**Benefits:**
 * 401(k)
 * Flexible schedule
 * Paid time off
-* Training \\&amp; development
+* Training \\& development
 **Benefits/Perks**
 * Flexible Scheduling
 * Competitive Compensation
@@ -945,32 +686,14 @@ We are seeking a **Registered Nurse** to join our team. In this role, you will p
 * Previous experience as a Registered Nurse is preferred
 * Excellent interpersonal and client care skills
 * Valid driver’s license
-* First aid/CPR certification required
-🔗 Apply Direct: https://blooming-staffing-agency.careerplug.com/j/02ualxa
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f20b4d43694f67d1</description>
-      <companyName>Blooming Staffing Agency</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Worcester, MA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Home Health Registered Nurse at nan</title>
-      <link>https://r2k2-llc-dba-home-health-by-the-bay.careerplug.com/j/02ual3i</link>
-      <guid isPermaLink="false">nan-Home Health Registered Nurse-Concord, CA, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Concord, CA, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 55 - 75 (hourly)
-
-📝 Description: **Benefits:**
+* First aid/CPR certification required","","https://www.indeed.com/cmp/Blooming-Staffing-Agency","","","","","","","","","","","","",""
+"in-ade68e33e8ecabba","indeed","https://www.indeed.com/viewjob?jk=ade68e33e8ecabba","https://r2k2-llc-dba-home-health-by-the-bay.careerplug.com/j/02ual3i","Home Health Registered Nurse","","Concord, CA, US","2025-12-28","parttime","direct_data","hourly",55.0,75.0,"USD",False,"","","","","**Benefits:**
 * 401(k)
 * Competitive salary
 * Flexible schedule
 * Paid time off
 * Parental leave
-* Training \\&amp; development
+* Training \\& development
 * Wellness resources
 Established in 2019, Home Health by the Bay aims to revolutionize the delivery of healthcare services to patients in their homes. Our mission is to enhance our patients' quality of life through a dedicated team of trained nurses, therapists, and assistants. As an emerging provider of licensed home medical care, we are committed to contributing to the well\\-being of our community and promoting healthy living.  
 
@@ -1024,28 +747,8 @@ The compensation reflected in this posting, is an estimate of annual compensatio
 
   
 
- Offer Based on Years of Experience.
-🔗 Apply Direct: https://r2k2-llc-dba-home-health-by-the-bay.careerplug.com/j/02ual3i
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ade68e33e8ecabba</description>
-      <jobType>Parttime</jobType>
-      <jobLocation>Concord, CA, US</jobLocation>
-      <salaryMin>55</salaryMin>
-      <salaryMax>75</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>OPERATING ROOM RN - OPERATING ROOMS at North Oaks Health System</title>
-      <link>https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,12178,1%29.JobPostingDisplay?pagesize=1&amp;csk.JobBoard=EXTERNAL&amp;csk.HROrganization=1000</link>
-      <guid isPermaLink="false">North Oaks Health System-OPERATING ROOM RN - OPERATING ROOMS-Hammond, LA, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Hammond, LA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Status: Full Time
+ Offer Based on Years of Experience.","","","","","","","","","","","","","","",""
+"in-7314f662098b6cfe","indeed","https://www.indeed.com/viewjob?jk=7314f662098b6cfe","https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,12178,1%29.JobPostingDisplay?pagesize=1&csk.JobBoard=EXTERNAL&csk.HROrganization=1000","OPERATING ROOM RN - OPERATING ROOMS","North Oaks Health System","Hammond, LA, US","2025-12-28","fulltime","","hourly","","","USD",False,"","","","","Status: Full Time
 
 
 Shift: 6:30am\\-7:00pm, 3 weekday shifts per week, with rotating call.
@@ -1441,27 +1144,9 @@ A. Laser Safety Specialist duties:
 17\\. Maintains confidentiality of patients and departments.
 
 
-18\\. Demonstrates basic knowledge in PACS. Identifies patient file as requested by MD for use during procedure.
-🔗 Apply Direct: https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,12178,1%29.JobPostingDisplay?pagesize=1&amp;csk.JobBoard=EXTERNAL&amp;csk.HROrganization=1000
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7314f662098b6cfe</description>
-      <companyName>North Oaks Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Hammond, LA, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>WEEKEND REGISTERED NURSE (RN) - MEDICINE UNIT FLOOR 2 at North Oaks Health System</title>
-      <link>https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,12146,1%29.JobPostingDisplay?pagesize=1&amp;csk.JobBoard=EXTERNAL&amp;csk.HROrganization=1000</link>
-      <guid isPermaLink="false">North Oaks Health System-WEEKEND REGISTERED NURSE (RN) - MEDICINE UNIT FLOOR 2-Hammond, LA, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Hammond, LA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Status: Full Time
+18\\. Demonstrates basic knowledge in PACS. Identifies patient file as requested by MD for use during procedure.","Health Care","https://www.indeed.com/cmp/North-Oaks-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/02b7d780049210826f5ce8d9b389cb72","http://www.northoaks.org","15790 Paul Vega, MD, Drive
+Hammond, LA 70403","1,001 to 5,000","","North Oaks Health System is a Level II Trauma Center, Primary Stroke Center, and one of Louisiana's largest and most progressive community hospital organizations strategically based between New Orlean","","","","","","",""
+"in-b32dbc55d014fd42","indeed","https://www.indeed.com/viewjob?jk=b32dbc55d014fd42","https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,12146,1%29.JobPostingDisplay?pagesize=1&csk.JobBoard=EXTERNAL&csk.HROrganization=1000","WEEKEND REGISTERED NURSE (RN) - MEDICINE UNIT FLOOR 2","North Oaks Health System","Hammond, LA, US","2025-12-28","fulltime","","","","","",False,"","","","","Status: Full Time
 
 
 Shift: 6:45 pm to 7:15 am, weekends only, every Fri/Sat/Sun, 8/9 weekends
@@ -1669,24 +1354,9 @@ Stand:FrequentlyWalk:Frequently
 * 2\\.Responsibility for Company Funds or Property
 * 3\\.Responsibility for Confidential Information:
 * 4\\.Responsibility for Performance of Work without immediate supervisor:
-* 5\\.Responsibility for the Supervision of Others:
-🔗 Apply Direct: https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,12146,1%29.JobPostingDisplay?pagesize=1&amp;csk.JobBoard=EXTERNAL&amp;csk.HROrganization=1000
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b32dbc55d014fd42</description>
-      <companyName>North Oaks Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Hammond, LA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LPN - MEDICINE UNIT FLOOR 2 at North Oaks Health System</title>
-      <link>https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,12145,1%29.JobPostingDisplay?pagesize=1&amp;csk.JobBoard=EXTERNAL&amp;csk.HROrganization=1000</link>
-      <guid isPermaLink="false">North Oaks Health System-LPN - MEDICINE UNIT FLOOR 2-Hammond, LA, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Hammond, LA, US
-🏠 Work: On-site
-
-📝 Description: Status: PRN \\- As Needed
+* 5\\.Responsibility for the Supervision of Others:","Health Care","https://www.indeed.com/cmp/North-Oaks-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/02b7d780049210826f5ce8d9b389cb72","http://www.northoaks.org","15790 Paul Vega, MD, Drive
+Hammond, LA 70403","1,001 to 5,000","","North Oaks Health System is a Level II Trauma Center, Primary Stroke Center, and one of Louisiana's largest and most progressive community hospital organizations strategically based between New Orlean","","","","","","",""
+"in-a94dabdda0e5d023","indeed","https://www.indeed.com/viewjob?jk=a94dabdda0e5d023","https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,12145,1%29.JobPostingDisplay?pagesize=1&csk.JobBoard=EXTERNAL&csk.HROrganization=1000","LPN - MEDICINE UNIT FLOOR 2","North Oaks Health System","Hammond, LA, US","2025-12-28","","","","","","",False,"","","","","Status: PRN \\- As Needed
 
 
 Shift: 6:45 am to 7:15 pm, 1 shift per week, 1 weekend shift per month, rotating holidays
@@ -1851,23 +1521,9 @@ C. Share knowledge with others.
 
   
 
-8\\. Is able to demonstrate competency in age specific criteria as applicable to job scope.
-🔗 Apply Direct: https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,12145,1%29.JobPostingDisplay?pagesize=1&amp;csk.JobBoard=EXTERNAL&amp;csk.HROrganization=1000
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a94dabdda0e5d023</description>
-      <companyName>North Oaks Health System</companyName>
-      <jobLocation>Hammond, LA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LPN - MEDICINE UNIT FLOOR 2 at North Oaks Health System</title>
-      <link>https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,12144,1%29.JobPostingDisplay?pagesize=1&amp;csk.JobBoard=EXTERNAL&amp;csk.HROrganization=1000</link>
-      <guid isPermaLink="false">North Oaks Health System-LPN - MEDICINE UNIT FLOOR 2-Hammond, LA, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Hammond, LA, US
-🏠 Work: On-site
-
-📝 Description: Status: PRN \\- As Needed
+8\\. Is able to demonstrate competency in age specific criteria as applicable to job scope.","Health Care","https://www.indeed.com/cmp/North-Oaks-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/02b7d780049210826f5ce8d9b389cb72","http://www.northoaks.org","15790 Paul Vega, MD, Drive
+Hammond, LA 70403","1,001 to 5,000","","North Oaks Health System is a Level II Trauma Center, Primary Stroke Center, and one of Louisiana's largest and most progressive community hospital organizations strategically based between New Orlean","","","","","","",""
+"in-384130ceb6abfb45","indeed","https://www.indeed.com/viewjob?jk=384130ceb6abfb45","https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,12144,1%29.JobPostingDisplay?pagesize=1&csk.JobBoard=EXTERNAL&csk.HROrganization=1000","LPN - MEDICINE UNIT FLOOR 2","North Oaks Health System","Hammond, LA, US","2025-12-28","","","","","","",False,"","","","","Status: PRN \\- As Needed
 
 
 Shift: 6:45 pm to 7:15 am, 1 shift per week, on weekend shift per month, rotating holidays
@@ -2032,23 +1688,9 @@ C. Share knowledge with others.
 
   
 
-8\\. Is able to demonstrate competency in age specific criteria as applicable to job scope.
-🔗 Apply Direct: https://css-northoakshealth-prd.inforcloudsuite.com/hcm/Jobs/form/JobPosting%5BJobPostingSet%5D%281000,12144,1%29.JobPostingDisplay?pagesize=1&amp;csk.JobBoard=EXTERNAL&amp;csk.HROrganization=1000
-🔗 Job Board: https://www.indeed.com/viewjob?jk=384130ceb6abfb45</description>
-      <companyName>North Oaks Health System</companyName>
-      <jobLocation>Hammond, LA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Assistant Director Of Nursing - ADON at Ingleside Communities</title>
-      <link>https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a78859f9b13764b019b62b38a236419&amp;source=Indeed+Free</link>
-      <guid isPermaLink="false">Ingleside Communities-Assistant Director Of Nursing - ADON-Madison, WI, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Madison, WI, US
-🏠 Work: On-site
-
-📝 Description: * **Assistant Director of Nursing (ADON) – Take Your RN Career to the Next Level**
+8\\. Is able to demonstrate competency in age specific criteria as applicable to job scope.","Health Care","https://www.indeed.com/cmp/North-Oaks-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/02b7d780049210826f5ce8d9b389cb72","http://www.northoaks.org","15790 Paul Vega, MD, Drive
+Hammond, LA 70403","1,001 to 5,000","","North Oaks Health System is a Level II Trauma Center, Primary Stroke Center, and one of Louisiana's largest and most progressive community hospital organizations strategically based between New Orlean","","","","","","",""
+"in-85ac8a83701f5df0","indeed","https://www.indeed.com/viewjob?jk=85ac8a83701f5df0","https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a78859f9b13764b019b62b38a236419&source=Indeed+Free","Assistant Director Of Nursing - ADON","Ingleside Communities","Madison, WI, US","2025-12-28","","","","","","",False,"","","","","* **Assistant Director of Nursing (ADON) – Take Your RN Career to the Next Level**
 
 
 **Ready to move beyond the floor and step into leadership?**
@@ -2095,7 +1737,7 @@ What We’re Looking For:
 * A balance of clinical expertise \\+ people skills.
 
 
-Perks \\&amp; Benefits:
+Perks \\& Benefits:
 * Competitive salary \\+ leadership bonus opportunities.
 
 
@@ -2111,24 +1753,8 @@ Perks \\&amp; Benefits:
 * **This isn’t just another management role—it’s a chance to shape culture, lead with purpose, and take your RN career somewhere exciting.** Apply today! Step into leadership. Leave your mark!
 
 
-\\#INDIC
-🔗 Apply Direct: https://recruitingbypaycor.com/career/JobIntroduction.action?id=8a78859f9b13764b019b62b38a236419&amp;source=Indeed+Free
-🔗 Job Board: https://www.indeed.com/viewjob?jk=85ac8a83701f5df0</description>
-      <companyName>Ingleside Communities</companyName>
-      <jobLocation>Madison, WI, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Acute Care at Texas Children's Hospital</title>
-      <link>https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/422270</link>
-      <guid isPermaLink="false">Texas Children's Hospital-Registered Nurse (RN) - Acute Care-The Woodlands, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: The Woodlands, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: We are searching for Inpatient Acute Care Nurses to work at our Woodlands location — applicants who work well in a fast\\-paced hospital setting. In this position you’ll provide quality nursing care to patients by assessing, planning, educating, implementing, and evaluating age\\-appropriate care in a manner that incorporates family centered principles and cost\\-effective care. We need someone who can collect and analyze data from medical records to coordinate patient care.
+\\#INDIC","Health Care","https://www.indeed.com/cmp/Ingleside-Communities","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6f2d7b7688f89c6e06d534c72842780e","http://www.inglesidecommunities.org","407 N 8th Street Mount Horeb, WI 53572","51 to 200","","","","","","","","",""
+"in-3112722458c31989","indeed","https://www.indeed.com/viewjob?jk=3112722458c31989","https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/422270","Registered Nurse (RN) - Acute Care","Texas Children's Hospital","The Woodlands, TX, US","2025-12-28","fulltime","","","","","",False,"","","","","We are searching for Inpatient Acute Care Nurses to work at our Woodlands location — applicants who work well in a fast\\-paced hospital setting. In this position you’ll provide quality nursing care to patients by assessing, planning, educating, implementing, and evaluating age\\-appropriate care in a manner that incorporates family centered principles and cost\\-effective care. We need someone who can collect and analyze data from medical records to coordinate patient care.
 
 
 Think you’ve got what it takes?
@@ -2158,43 +1784,11 @@ As part of our commitment to maintaining a safe and healthy workplace, all succe
 * Formulates, implements, and documents individualized teaching plan based on patient/family assessment
 * Serves as a patient/family advocate while caring for patients and collaborating with other health care team members
 * Administers and documents medications and treatments in a timely manner
-* Demonstrates willingness and ability to acquire new knowledge and utilize new skills needed to improve individual, team, and organizational performances
-🔗 Apply Direct: https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/422270
-🔗 Job Board: https://www.indeed.com/viewjob?jk=3112722458c31989</description>
-      <companyName>Texas Children's Hospital</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>The Woodlands, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Acute Care at Texas Children's Hospital</title>
-      <link>https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/422274</link>
-      <guid isPermaLink="false">Texas Children's Hospital-Registered Nurse (RN) - Acute Care-The Woodlands, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: The Woodlands, TX, US
-💼 Type: Parttime
-🏠 Work: On-site
-
-📝 Description: To provide nursing care to patients by assessing, planning, educating, implementing, and evaluating age\\-appropriate care in a manner that incorporates family\\-centered principles and cost\\-effective care.
-🔗 Apply Direct: https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/422274
-🔗 Job Board: https://www.indeed.com/viewjob?jk=bbfd396810cf0749</description>
-      <companyName>Texas Children's Hospital</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>The Woodlands, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Acute Care at Texas Children's Hospital</title>
-      <link>https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/422252</link>
-      <guid isPermaLink="false">Texas Children's Hospital-Registered Nurse (RN) - Acute Care-The Woodlands, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: The Woodlands, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: We are searching for Inpatient Acute Care Nurses to work at our Woodlands location — applicants who work well in a fast\\-paced hospital setting. In this position you’ll provide quality nursing care to patients by assessing, planning, educating, implementing, and evaluating age\\-appropriate care in a manner that incorporates family centered principles and cost\\-effective care. We need someone who can collect and analyze data from medical records to coordinate patient care.
+* Demonstrates willingness and ability to acquire new knowledge and utilize new skills needed to improve individual, team, and organizational performances","Health Care","https://www.indeed.com/cmp/Texas-Children's-Hospital","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0783f5e66fb1352e96258d070ba4999d","https://texaschildrenspeople.org/","6621 Fannin Street
+Houston, Texas 77030","5,001 to 10,000","$1B to $5B (USD)","Texas Children's Hospital is an internationally recognized full-care pediatric hospital located in the heart of Houston's Medical Center.","","","","","","",""
+"in-bbfd396810cf0749","indeed","https://www.indeed.com/viewjob?jk=bbfd396810cf0749","https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/422274","Registered Nurse (RN) - Acute Care","Texas Children's Hospital","The Woodlands, TX, US","2025-12-28","parttime","","","","","",False,"","","","","To provide nursing care to patients by assessing, planning, educating, implementing, and evaluating age\\-appropriate care in a manner that incorporates family\\-centered principles and cost\\-effective care.","Health Care","https://www.indeed.com/cmp/Texas-Children's-Hospital","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0783f5e66fb1352e96258d070ba4999d","https://texaschildrenspeople.org/","6621 Fannin Street
+Houston, Texas 77030","5,001 to 10,000","$1B to $5B (USD)","Texas Children's Hospital is an internationally recognized full-care pediatric hospital located in the heart of Houston's Medical Center.","","","","","","",""
+"in-5d7a05b566f5d533","indeed","https://www.indeed.com/viewjob?jk=5d7a05b566f5d533","https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/422252","Registered Nurse (RN) - Acute Care","Texas Children's Hospital","The Woodlands, TX, US","2025-12-28","fulltime","","","","","",False,"","","","","We are searching for Inpatient Acute Care Nurses to work at our Woodlands location — applicants who work well in a fast\\-paced hospital setting. In this position you’ll provide quality nursing care to patients by assessing, planning, educating, implementing, and evaluating age\\-appropriate care in a manner that incorporates family centered principles and cost\\-effective care. We need someone who can collect and analyze data from medical records to coordinate patient care.
 
 
 Think you’ve got what it takes?
@@ -2224,25 +1818,9 @@ As part of our commitment to maintaining a safe and healthy workplace, all succe
 * Formulates, implements, and documents individualized teaching plan based on patient/family assessment
 * Serves as a patient/family advocate while caring for patients and collaborating with other health care team members
 * Administers and documents medications and treatments in a timely manner
-* Demonstrates willingness and ability to acquire new knowledge and utilize new skills needed to improve individual, team, and organizational performances
-🔗 Apply Direct: https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/422252
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5d7a05b566f5d533</description>
-      <companyName>Texas Children's Hospital</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>The Woodlands, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Vice President of Clinical Operations at Avir Health Group</title>
-      <link>https://jobs.apploi.com/view/1684156?utm_campaign=integration&amp;utm_medium=job-board-feed&amp;utm_source=indeed-apply-feed</link>
-      <guid isPermaLink="false">Avir Health Group-Vice President of Clinical Operations-Odem, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Odem, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: We are looking for a motivated performer to join our Management Team as a **Vice President of Clinical Operations** for our South Division! This person must have a strong history of excellent clinical standards within the long\\-term care industry.
+* Demonstrates willingness and ability to acquire new knowledge and utilize new skills needed to improve individual, team, and organizational performances","Health Care","https://www.indeed.com/cmp/Texas-Children's-Hospital","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0783f5e66fb1352e96258d070ba4999d","https://texaschildrenspeople.org/","6621 Fannin Street
+Houston, Texas 77030","5,001 to 10,000","$1B to $5B (USD)","Texas Children's Hospital is an internationally recognized full-care pediatric hospital located in the heart of Houston's Medical Center.","","","","","","",""
+"in-210f3b3d266992a1","indeed","https://www.indeed.com/viewjob?jk=210f3b3d266992a1","https://jobs.apploi.com/view/1684156?utm_campaign=integration&utm_medium=job-board-feed&utm_source=indeed-apply-feed","Vice President of Clinical Operations","Avir Health Group","Odem, TX, US","2025-12-28","fulltime","","","","","",False,"","","","","We are looking for a motivated performer to join our Management Team as a **Vice President of Clinical Operations** for our South Division! This person must have a strong history of excellent clinical standards within the long\\-term care industry.
 
 **DRIVEN BY EXPERTISE, GUIDED BY COMPASSION.** At Avir Health Group, we blend empathy, understanding, and clinical expertise to deliver personalized skilled nursing, rehabilitation, and long\\-term care services across Texas.
 
@@ -2279,25 +1857,8 @@ As part of our commitment to maintaining a safe and healthy workplace, all succe
 We strive to create an environment where people feel safe, heard and understood. Our leadership teams embrace our “Your Voice” philosophy.
 
 
-Avir Health Group is an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status.
-🔗 Apply Direct: https://jobs.apploi.com/view/1684156?utm_campaign=integration&amp;utm_medium=job-board-feed&amp;utm_source=indeed-apply-feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=210f3b3d266992a1</description>
-      <companyName>Avir Health Group</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Odem, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Assistant Director of Nursing (ADON) at nan</title>
-      <link>https://jobs.apploi.com/view/1600962?utm_campaign=integration&amp;utm_medium=job-board-feed&amp;utm_source=indeed-apply-feed</link>
-      <guid isPermaLink="false">nan-Assistant Director of Nursing (ADON)-Sarcoxie, MO, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Sarcoxie, MO, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: We are seeking individuals with genuine empathy and patience to help care for our residents’ needs. Applicants must have a caring approach and be willing to care for the needs of patients and the team. Pillars for successful employment are work ethic, integrity, and competence.  
+Avir Health Group is an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status.","","https://www.indeed.com/cmp/Avir-Health-Group-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d4bf98e01726c1eccc7f4c55fd90fa7d","","","Decline to state","Decline to state","","","","","","","",""
+"in-5e42db6ce02a7ffd","indeed","https://www.indeed.com/viewjob?jk=5e42db6ce02a7ffd","https://jobs.apploi.com/view/1600962?utm_campaign=integration&utm_medium=job-board-feed&utm_source=indeed-apply-feed","Assistant Director of Nursing (ADON)","","Sarcoxie, MO, US","2025-12-28","fulltime","","","","","",False,"","","","","We are seeking individuals with genuine empathy and patience to help care for our residents’ needs. Applicants must have a caring approach and be willing to care for the needs of patients and the team. Pillars for successful employment are work ethic, integrity, and competence.  
 
   
 
@@ -2318,7 +1879,7 @@ We are currently seeking a Assistant Director of Nursing (ADON).
 
 * Strong Leadership and Supervisory Skills
 * Unencumbered Registered Nurse (RN) license in the state of practice with previous DON or ADON experience.
-* Rehabilitation Focus, Wound Care Experience, Knowledge of Medicare A \\&amp; B, Willing To Work With Behavior Management Residents
+* Rehabilitation Focus, Wound Care Experience, Knowledge of Medicare A \\& B, Willing To Work With Behavior Management Residents
 * Enjoy working with the Elderly, MDS/Care Plans, Willing to work 2 Weeks a Month, Previous CNA/CMT instructor certification and have excellent regulatory compliance record and commitments to TQM (Total Quality Management)
 * Strong leadership skills with the ability to motivate and mentor staff  
 
@@ -2344,24 +1905,8 @@ Familiarity with healthcare systems and regulations, including HIPAA compliance
 * Mayo Clinic Programs: Access exclusive programs from the Mayo Clinic, including resources for workouts, lifestyle, mental health, and diet to promote a balanced and healthy lifestyle.
 
 
-These additional benefits are available to you without reducing your take\\-home pay!
-🔗 Apply Direct: https://jobs.apploi.com/view/1600962?utm_campaign=integration&amp;utm_medium=job-board-feed&amp;utm_source=indeed-apply-feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5e42db6ce02a7ffd</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Sarcoxie, MO, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse - Med/Surg - PRN Days at Forrest City Medical Center</title>
-      <link>https://recruiting2.ultipro.com/QHC1000QHCS/JobBoard/35a707b2-c614-4d14-aa6a-b43a30c10d34/OpportunityDetail?opportunityId=d905aaed-cd97-4797-90f4-6411ba493bd8&amp;postingId=52215aea-7bdb-4f70-9676-12c8c9f18dbd</link>
-      <guid isPermaLink="false">Forrest City Medical Center-Registered Nurse - Med/Surg - PRN Days-Forrest City, AR, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Forrest City, AR, US
-💼 Type: Parttime
-🏠 Work: On-site
-
-📝 Description: **Registered Nurse \\- Med/Surg \\- PRN Days**
+These additional benefits are available to you without reducing your take\\-home pay!","","","","","","","","","","","","","","",""
+"in-7c51d0c83c77d0fa","indeed","https://www.indeed.com/viewjob?jk=7c51d0c83c77d0fa","https://recruiting2.ultipro.com/QHC1000QHCS/JobBoard/35a707b2-c614-4d14-aa6a-b43a30c10d34/OpportunityDetail?opportunityId=d905aaed-cd97-4797-90f4-6411ba493bd8&postingId=52215aea-7bdb-4f70-9676-12c8c9f18dbd","Registered Nurse - Med/Surg - PRN Days","Forrest City Medical Center","Forrest City, AR, US","2025-12-28","parttime","","","","","",False,"","","","","**Registered Nurse \\- Med/Surg \\- PRN Days**
 
 
 
@@ -2396,26 +1941,8 @@ Forrest City Medical Center is your community medical provider, serving Eastern 
 
 Equal Opportunity Employer  
 
-This employer is required to notify all applicants of their rights pursuant to federal employment laws. For further information, please review the Know Your Rights notice from the Department of Labor.
-🔗 Apply Direct: https://recruiting2.ultipro.com/QHC1000QHCS/JobBoard/35a707b2-c614-4d14-aa6a-b43a30c10d34/OpportunityDetail?opportunityId=d905aaed-cd97-4797-90f4-6411ba493bd8&amp;postingId=52215aea-7bdb-4f70-9676-12c8c9f18dbd
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7c51d0c83c77d0fa</description>
-      <companyName>Forrest City Medical Center</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Forrest City, AR, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Infection Control Nurse at nan</title>
-      <link>https://recruiting.paylocity.com/recruiting/jobs/Details/3798184/Nexus-at-Berwyn/Infection-Control-Nurse?source=Indeed_Feed</link>
-      <guid isPermaLink="false">nan-Infection Control Nurse-Berwyn, IL, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Berwyn, IL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 40 - 45 (hourly)
-
-📝 Description: Description:
+This employer is required to notify all applicants of their rights pursuant to federal employment laws. For further information, please review the Know Your Rights notice from the Department of Labor.","","https://www.indeed.com/cmp/Forrest-City-Medical-Center","","http://www.forrestcitymedicalcenter.com","Forrest City","201 to 500","$25M to $100M (USD)","","","","","","","",""
+"in-8c7f9340d8b3e3e2","indeed","https://www.indeed.com/viewjob?jk=8c7f9340d8b3e3e2","https://recruiting.paylocity.com/recruiting/jobs/Details/3798184/Nexus-at-Berwyn/Infection-Control-Nurse?source=Indeed_Feed","Infection Control Nurse","","Berwyn, IL, US","2025-12-28","fulltime","direct_data","hourly",40.0,45.0,"USD",False,"","","","","Description:
 **Join us at the Nexus of care and compassion.**
 
 **Infection Control Benefits****:**
@@ -2444,28 +1971,8 @@ Requirements:
 * RN License required.
 
 
-keywords: wound care, infection control, rn, snf, nursing home
-🔗 Apply Direct: https://recruiting.paylocity.com/recruiting/jobs/Details/3798184/Nexus-at-Berwyn/Infection-Control-Nurse?source=Indeed_Feed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=8c7f9340d8b3e3e2</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Berwyn, IL, US</jobLocation>
-      <salaryMin>40</salaryMin>
-      <salaryMax>45</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse, Acute Med Surgical A - Full time at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/registered-nurse-acute-med-surgical-a-full-time-274773?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-Registered Nurse, Acute Med Surgical A - Full time-Lake Charles, LA, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Lake Charles, LA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Description**  
+keywords: wound care, infection control, rn, snf, nursing home","","","","","","","","","","","","","","",""
+"in-96434bdd9151ba36","indeed","https://www.indeed.com/viewjob?jk=96434bdd9151ba36","https://careers.christushealth.org/opportunity/registered-nurse-acute-med-surgical-a-full-time-274773?utm_campaign=Indeed","Registered Nurse, Acute Med Surgical A - Full time","CHRISTUS Health","Lake Charles, LA, US","2025-12-28","fulltime","","","","","",False,"","","","","**Description**  
 
 Summary:
 
@@ -2518,25 +2025,9 @@ TBD
 Work Type:
 
 
-Full Time
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/registered-nurse-acute-med-surgical-a-full-time-274773?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=96434bdd9151ba36</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Lake Charles, LA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN, Registered Nurse - Neurology at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/rn-registered-nurse-neurology-296257?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-RN, Registered Nurse - Neurology-Tyler, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Tyler, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Description**  
+Full Time","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-04d32bf443887ef6","indeed","https://www.indeed.com/viewjob?jk=04d32bf443887ef6","https://careers.christushealth.org/opportunity/rn-registered-nurse-neurology-296257?utm_campaign=Indeed","RN, Registered Nurse - Neurology","CHRISTUS Health","Tyler, TX, US","2025-12-28","fulltime","","","","","",False,"","","","","**Description**  
 
 Summary:
 
@@ -2589,25 +2080,9 @@ Work Schedule:
 Work Type:
 
 
-Full Time
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/rn-registered-nurse-neurology-296257?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=04d32bf443887ef6</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Tyler, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN, Registered Nurse - IMC Telemetry at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/rn-registered-nurse-imc-telemetry-309629?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-RN, Registered Nurse - IMC Telemetry-New Braunfels, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: New Braunfels, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Description**  
+Full Time","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-c31127b651e8c1db","indeed","https://www.indeed.com/viewjob?jk=c31127b651e8c1db","https://careers.christushealth.org/opportunity/rn-registered-nurse-imc-telemetry-309629?utm_campaign=Indeed","RN, Registered Nurse - IMC Telemetry","CHRISTUS Health","New Braunfels, TX, US","2025-12-28","fulltime","","","","","",False,"","","","","**Description**  
 
 CHRISTUS Santa Rosa Hospital \\- New Braunfels (CSRH\\-NB), nestled in the heart of downtown New Braunfels, is a full\\-service, 94\\-private bed facility that continues to expand to meet the needs of New Braunfels’ strong population growth. Innovative equipment and procedures are utilized, including an Outpatient Imaging Center, orthopedic and surgical services, rehabilitation, a renovated birthing center, including 24/7 neonatal coverage, emergency care, wound care/hyperbaric center, 3D mammography, and comprehensive heart care, from diagnostics to open\\-heart surgery.
 
@@ -2702,7 +2177,7 @@ Experienced Associates
 
 Grace Periods for  
 
-New Graduates \\&amp; Experienced Associates New to the Specialty
+New Graduates \\& Experienced Associates New to the Specialty
 
   
 
@@ -2740,24 +2215,9 @@ Work Schedule:
 Work Type:
 
 
-Full Time
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/rn-registered-nurse-imc-telemetry-309629?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c31127b651e8c1db</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>New Braunfels, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN, Registered Nurse - ECC Emergency Care - PRN at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/rn-registered-nurse-ecc-emergency-care-prn-307367?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-RN, Registered Nurse - ECC Emergency Care - PRN-San Antonio, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: San Antonio, TX, US
-🏠 Work: On-site
-
-📝 Description: **Description**  
+Full Time","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-b28f844702695e0a","indeed","https://www.indeed.com/viewjob?jk=b28f844702695e0a","https://careers.christushealth.org/opportunity/rn-registered-nurse-ecc-emergency-care-prn-307367?utm_campaign=Indeed","RN, Registered Nurse - ECC Emergency Care - PRN","CHRISTUS Health","San Antonio, TX, US","2025-12-28","","","","","","",False,"","","","","**Description**  
 
 CHRISTUS Santa Rosa Hospital \\- Westover Hills (CSRH\\-WH) is a 150\\-bed hospital serving the fastest\\-growing area of San Antonio. Specialized care includes orthopedic and surgical services, ICU, women’s services, a newborn nursery, comprehensive cardiovascular care from diagnostics to open heart surgery, vascular lab, sleep center, emergency services, the CHRISTUS Weight Loss Institute, wound care, rehabilitation, and more. The campus also boasts an Outpatient Imaging Center and three medical plazas, one of which houses our CHRISTUS Santa Rosa Family Medicine Residency Program and CHRISTUS Santa Rosa Family Health Center.
 
@@ -2857,7 +2317,7 @@ Experienced Associates
 
 Grace Periods for  
 
-New Graduates \\&amp; Experienced Associates New to the Specialty
+New Graduates \\& Experienced Associates New to the Specialty
 
   
 
@@ -2895,24 +2355,9 @@ Work Schedule:
 Work Type:
 
 
-Per Diem As Needed
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/rn-registered-nurse-ecc-emergency-care-prn-307367?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b28f844702695e0a</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobLocation>San Antonio, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN, Registered Nurse - ECC Emergency Care at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/rn-registered-nurse-ecc-emergency-care-307368?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-RN, Registered Nurse - ECC Emergency Care-San Antonio, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: San Antonio, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Description**  
+Per Diem As Needed","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-6fd923fbf9892c0f","indeed","https://www.indeed.com/viewjob?jk=6fd923fbf9892c0f","https://careers.christushealth.org/opportunity/rn-registered-nurse-ecc-emergency-care-307368?utm_campaign=Indeed","RN, Registered Nurse - ECC Emergency Care","CHRISTUS Health","San Antonio, TX, US","2025-12-28","fulltime","","","","","",False,"","","","","**Description**  
 
 CHRISTUS Santa Rosa Hospital \\- Westover Hills (CSRH\\-WH) is a 150\\-bed hospital serving the fastest\\-growing area of San Antonio. Specialized care includes orthopedic and surgical services, ICU, women’s services, a newborn nursery, comprehensive cardiovascular care from diagnostics to open heart surgery, vascular lab, sleep center, emergency services, the CHRISTUS Weight Loss Institute, wound care, rehabilitation, and more. The campus also boasts an Outpatient Imaging Center and three medical plazas, one of which houses our CHRISTUS Santa Rosa Family Medicine Residency Program and CHRISTUS Santa Rosa Family Health Center.
 
@@ -3012,7 +2457,7 @@ Experienced Associates
 
 Grace Periods for  
 
-New Graduates \\&amp; Experienced Associates New to the Specialty
+New Graduates \\& Experienced Associates New to the Specialty
 
   
 
@@ -3050,25 +2495,9 @@ Work Schedule:
 Work Type:
 
 
-Full Time
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/rn-registered-nurse-ecc-emergency-care-307368?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=6fd923fbf9892c0f</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>San Antonio, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN, Registered Nurse Float PIII - Nursing Float Pool at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/rn-registered-nurse-float-piii-nursing-float-pool-305830?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-RN, Registered Nurse Float PIII - Nursing Float Pool-New Braunfels, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: New Braunfels, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Description**  
+Full Time","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-e11bcf3615f68996","indeed","https://www.indeed.com/viewjob?jk=e11bcf3615f68996","https://careers.christushealth.org/opportunity/rn-registered-nurse-float-piii-nursing-float-pool-305830?utm_campaign=Indeed","RN, Registered Nurse Float PIII - Nursing Float Pool","CHRISTUS Health","New Braunfels, TX, US","2025-12-28","fulltime","","","","","",False,"","","","","**Description**  
 
 Summary:
 
@@ -3106,7 +2535,7 @@ Standard I: Utilizes the Nursing Process
 * Must be able to perform unit\\-specific competencies based on the specific patient care need for the designated unit's patient population.
 
 
-Standard II. Patient Throughput \\&amp; Patient Flow Process
+Standard II. Patient Throughput \\& Patient Flow Process
 
 
 * Anticipates and plans for admission/discharge/transfer needs to facilitate patient flow.
@@ -3239,25 +2668,9 @@ Work Type:
 
   
 
-Full Time
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/rn-registered-nurse-float-piii-nursing-float-pool-305830?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e11bcf3615f68996</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>New Braunfels, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>CRNA, Certified Registered Nurse Anesthetist - Anesthesiology at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/crna-certified-registered-nurse-anesthetist-anesthesiology-300649?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-CRNA, Certified Registered Nurse Anesthetist - Anesthesiology-Jacksonville, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Jacksonville, TX, US
-🏠 Work: On-site
-💰 Salary: USD 14 - 200 (hourly)
-
-📝 Description: **Description**  
+Full Time","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-691256ac4433f7ed","indeed","https://www.indeed.com/viewjob?jk=691256ac4433f7ed","https://careers.christushealth.org/opportunity/crna-certified-registered-nurse-anesthetist-anesthesiology-300649?utm_campaign=Indeed","CRNA, Certified Registered Nurse Anesthetist - Anesthesiology","CHRISTUS Health","Jacksonville, TX, US","2025-12-28","","direct_data","hourly",14.0,200.0,"USD",False,"","","","deedee.fowler@christushealth.org","**Description**  
 
 Summary:
 
@@ -3316,28 +2729,9 @@ Work Type:
 
   
 
-Per Diem As Needed
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/crna-certified-registered-nurse-anesthetist-anesthesiology-300649?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=691256ac4433f7ed</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobLocation>Jacksonville, TX, US</jobLocation>
-      <salaryMin>14</salaryMin>
-      <salaryMax>200</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN, Registered Nurse - Hemodialysis at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/rn-registered-nurse-hemodialysis-300925?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-RN, Registered Nurse - Hemodialysis-Jacksonville, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Jacksonville, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Description**  
+Per Diem As Needed","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-3caff35c3ed0ee17","indeed","https://www.indeed.com/viewjob?jk=3caff35c3ed0ee17","https://careers.christushealth.org/opportunity/rn-registered-nurse-hemodialysis-300925?utm_campaign=Indeed","RN, Registered Nurse - Hemodialysis","CHRISTUS Health","Jacksonville, TX, US","2025-12-28","fulltime","","","","","",False,"","","","","**Description**  
 
 Summary:
 
@@ -3390,25 +2784,9 @@ Work Schedule:
 Work Type:
 
 
-Full Time
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/rn-registered-nurse-hemodialysis-300925?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=3caff35c3ed0ee17</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Jacksonville, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>CRNA, Certified Registered Nurse Anesthetist - Anesthesiology at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/crna-certified-registered-nurse-anesthetist-anesthesiology-299770?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-CRNA, Certified Registered Nurse Anesthetist - Anesthesiology-Jacksonville, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Jacksonville, TX, US
-🏠 Work: On-site
-💰 Salary: USD 14 - 200 (hourly)
-
-📝 Description: **Description**  
+Full Time","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-700b599f41853ccb","indeed","https://www.indeed.com/viewjob?jk=700b599f41853ccb","https://careers.christushealth.org/opportunity/crna-certified-registered-nurse-anesthetist-anesthesiology-299770?utm_campaign=Indeed","CRNA, Certified Registered Nurse Anesthetist - Anesthesiology","CHRISTUS Health","Jacksonville, TX, US","2025-12-28","","direct_data","hourly",14.0,200.0,"USD",False,"","","","deedee.fowler@christushealth.org","**Description**  
 
 Summary:
 
@@ -3467,27 +2845,9 @@ Work Type:
 
   
 
-Per Diem As Needed
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/crna-certified-registered-nurse-anesthetist-anesthesiology-299770?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=700b599f41853ccb</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobLocation>Jacksonville, TX, US</jobLocation>
-      <salaryMin>14</salaryMin>
-      <salaryMax>200</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN, Registered Nurse - Acute MedSurgical A at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/rn-registered-nurse-acute-medsurgical-a-301161?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-RN, Registered Nurse - Acute MedSurgical A-Jacksonville, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Jacksonville, TX, US
-🏠 Work: On-site
-
-📝 Description: **Description**  
+Per Diem As Needed","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-849872986b40a74b","indeed","https://www.indeed.com/viewjob?jk=849872986b40a74b","https://careers.christushealth.org/opportunity/rn-registered-nurse-acute-medsurgical-a-301161?utm_campaign=Indeed","RN, Registered Nurse - Acute MedSurgical A","CHRISTUS Health","Jacksonville, TX, US","2025-12-28","","","","","","",False,"","","","","**Description**  
 
 Summary:
 
@@ -3540,24 +2900,9 @@ PRN
 Work Type:
 
 
-Per Diem As Needed
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/rn-registered-nurse-acute-medsurgical-a-301161?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=849872986b40a74b</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobLocation>Jacksonville, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse, Behavioral Medicine - Full time at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/registered-nurse-behavioral-medicine-full-time-288601?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-Registered Nurse, Behavioral Medicine - Full time-Lake Charles, LA, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Lake Charles, LA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Description**  
+Per Diem As Needed","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-5a4503c53dee3fa7","indeed","https://www.indeed.com/viewjob?jk=5a4503c53dee3fa7","https://careers.christushealth.org/opportunity/registered-nurse-behavioral-medicine-full-time-288601?utm_campaign=Indeed","Registered Nurse, Behavioral Medicine - Full time","CHRISTUS Health","Lake Charles, LA, US","2025-12-28","fulltime","","","","","",False,"","","","","**Description**  
 
 Summary:
 
@@ -3610,25 +2955,9 @@ Work Schedule:
 Work Type:
 
 
-Full Time
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/registered-nurse-behavioral-medicine-full-time-288601?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5a4503c53dee3fa7</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Lake Charles, LA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN, Registered Nurse - Interventional Radiology at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/rn-registered-nurse-interventional-radiology-295537?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-RN, Registered Nurse - Interventional Radiology-Corpus Christi, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Corpus Christi, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Description**  
+Full Time","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-ab25378f8b14ae01","indeed","https://www.indeed.com/viewjob?jk=ab25378f8b14ae01","https://careers.christushealth.org/opportunity/rn-registered-nurse-interventional-radiology-295537?utm_campaign=Indeed","RN, Registered Nurse - Interventional Radiology","CHRISTUS Health","Corpus Christi, TX, US","2025-12-28","fulltime","","","","","",False,"","","","","**Description**  
 
 Summary:
 
@@ -3640,7 +2969,7 @@ CHRISTUS Spohn Hospital Corpus Christi \\- Shoreline overlooking Corpus Christi 
 
 
 * The Pavilion and North Tower house a state\\-of\\-the\\-art emergency department, ICU, Cardiac Cath Lab and surgical suites
-* A teaching facility in affiliation with the Texas A\\&amp;M University System Health and Science Center College of Medicine
+* A teaching facility in affiliation with the Texas A\\&M University System Health and Science Center College of Medicine
 * Accredited Chest Pain Center
 * Accredited Joint Commission Stroke Team
 
@@ -3690,24 +3019,9 @@ MULTIPLE SHIFTS AVAILABLE
 Work Type:
 
 
-Full Time
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/rn-registered-nurse-interventional-radiology-295537?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ab25378f8b14ae01</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Corpus Christi, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN, Registered Nurse - ICU Cardiovascular - PRN at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/rn-registered-nurse-icu-cardiovascular-prn-291265?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-RN, Registered Nurse - ICU Cardiovascular - PRN-San Antonio, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: San Antonio, TX, US
-🏠 Work: On-site
-
-📝 Description: **Description**  
+Full Time","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-09228d42cd620aa0","indeed","https://www.indeed.com/viewjob?jk=09228d42cd620aa0","https://careers.christushealth.org/opportunity/rn-registered-nurse-icu-cardiovascular-prn-291265?utm_campaign=Indeed","RN, Registered Nurse - ICU Cardiovascular - PRN","CHRISTUS Health","San Antonio, TX, US","2025-12-28","","","","","","",False,"","","","","**Description**  
 
 Summary:
 
@@ -3760,24 +3074,9 @@ PRN
 Work Type:
 
 
-Per Diem As Needed
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/rn-registered-nurse-icu-cardiovascular-prn-291265?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=09228d42cd620aa0</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobLocation>San Antonio, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN, Registered Nurse - ICU Cardiovascular at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/rn-registered-nurse-icu-cardiovascular-291264?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-RN, Registered Nurse - ICU Cardiovascular-San Antonio, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: San Antonio, TX, US
-💼 Type: Parttime
-🏠 Work: On-site
-
-📝 Description: **Description**  
+Per Diem As Needed","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-03a7aa6c4ff1255b","indeed","https://www.indeed.com/viewjob?jk=03a7aa6c4ff1255b","https://careers.christushealth.org/opportunity/rn-registered-nurse-icu-cardiovascular-291264?utm_campaign=Indeed","RN, Registered Nurse - ICU Cardiovascular","CHRISTUS Health","San Antonio, TX, US","2025-12-28","parttime","","","","","",False,"","","","","**Description**  
 
 Summary:
 
@@ -3830,25 +3129,9 @@ MULTIPLE SHIFTS AVAILABLE
 Work Type:
 
 
-Part Time
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/rn-registered-nurse-icu-cardiovascular-291264?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=03a7aa6c4ff1255b</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>San Antonio, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse, ECC Emergency Care - Full time at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/registered-nurse-ecc-emergency-care-full-time-289642?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-Registered Nurse, ECC Emergency Care - Full time-Lake Charles, LA, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Lake Charles, LA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Description**  
+Part Time","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-624b21e9fcabca9f","indeed","https://www.indeed.com/viewjob?jk=624b21e9fcabca9f","https://careers.christushealth.org/opportunity/registered-nurse-ecc-emergency-care-full-time-289642?utm_campaign=Indeed","Registered Nurse, ECC Emergency Care - Full time","CHRISTUS Health","Lake Charles, LA, US","2025-12-28","fulltime","","","","","",False,"","","","","**Description**  
 
 Summary:
 
@@ -3941,7 +3224,7 @@ Experienced Associates
 
 Grace Periods for  
 
-New Graduates \\&amp; Experienced Associates New to the Specialty
+New Graduates \\& Experienced Associates New to the Specialty
 
   
 
@@ -3979,25 +3262,9 @@ MULTIPLE SHIFTS AVAILABLE
 Work Type:
 
 
-Full Time
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/registered-nurse-ecc-emergency-care-full-time-289642?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=624b21e9fcabca9f</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Lake Charles, LA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN, Registered Nurse - IMC Neuro/Stroke - Full Time at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/rn-registered-nurse-imc-neuro-stroke-full-time-289232?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-RN, Registered Nurse - IMC Neuro/Stroke - Full Time-Longview, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Longview, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Description**  
+Full Time","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-78dd6c5cf4f43622","indeed","https://www.indeed.com/viewjob?jk=78dd6c5cf4f43622","https://careers.christushealth.org/opportunity/rn-registered-nurse-imc-neuro-stroke-full-time-289232?utm_campaign=Indeed","RN, Registered Nurse - IMC Neuro/Stroke - Full Time","CHRISTUS Health","Longview, TX, US","2025-12-28","fulltime","","","","","",False,"","","","","**Description**  
 
 Summary:
 
@@ -4086,7 +3353,7 @@ Experienced Associates
 
 Grace Periods for  
 
-New Graduates \\&amp; Experienced Associates New to the Specialty
+New Graduates \\& Experienced Associates New to the Specialty
 
   
 
@@ -4124,25 +3391,9 @@ Work Schedule:
 Work Type:
 
 
-Full Time
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/rn-registered-nurse-imc-neuro-stroke-full-time-289232?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=78dd6c5cf4f43622</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Longview, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse, Behavioral Medicine - Full time at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/registered-nurse-behavioral-medicine-full-time-290010?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-Registered Nurse, Behavioral Medicine - Full time-Lake Charles, LA, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Lake Charles, LA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Description**  
+Full Time","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-f2b01dca8d2a76b7","indeed","https://www.indeed.com/viewjob?jk=f2b01dca8d2a76b7","https://careers.christushealth.org/opportunity/registered-nurse-behavioral-medicine-full-time-290010?utm_campaign=Indeed","Registered Nurse, Behavioral Medicine - Full time","CHRISTUS Health","Lake Charles, LA, US","2025-12-28","fulltime","","","","","",False,"","","","","**Description**  
 
 Summary:
 
@@ -4195,25 +3446,9 @@ Work Schedule:
 Work Type:
 
 
-Full Time
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/registered-nurse-behavioral-medicine-full-time-290010?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f2b01dca8d2a76b7</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Lake Charles, LA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinical Director - Marshall Emergency Department at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/clinical-director-marshall-emergency-department-290079?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-Clinical Director - Marshall Emergency Department-Marshall, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Marshall, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Description**  
+Full Time","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-d3e6dc2e2b9cc203","indeed","https://www.indeed.com/viewjob?jk=d3e6dc2e2b9cc203","https://careers.christushealth.org/opportunity/clinical-director-marshall-emergency-department-290079?utm_campaign=Indeed","Clinical Director - Marshall Emergency Department","CHRISTUS Health","Marshall, TX, US","2025-12-28","fulltime","","","","","",False,"","","","","**Description**  
 
 Summary:
 
@@ -4263,25 +3498,9 @@ Work Schedule:
 
 **Work Type:**
 
-Full Time
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/clinical-director-marshall-emergency-department-290079?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d3e6dc2e2b9cc203</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Marshall, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse, Acute Oncology - Full time at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/registered-nurse-acute-oncology-full-time-289562?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-Registered Nurse, Acute Oncology - Full time-Beaumont, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Beaumont, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Description**  
+Full Time","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-505281a32e3fe2d2","indeed","https://www.indeed.com/viewjob?jk=505281a32e3fe2d2","https://careers.christushealth.org/opportunity/registered-nurse-acute-oncology-full-time-289562?utm_campaign=Indeed","Registered Nurse, Acute Oncology - Full time","CHRISTUS Health","Beaumont, TX, US","2025-12-28","fulltime","","","","","",False,"","","","","**Description**  
 
 Summary:
 
@@ -4334,24 +3553,9 @@ Work Schedule:
 Work Type:
 
 
-Full Time
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/registered-nurse-acute-oncology-full-time-289562?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=505281a32e3fe2d2</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Beaumont, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN, Registered Nurse - ICU Neonatal - PRN at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/rn-registered-nurse-icu-neonatal-prn-283275?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-RN, Registered Nurse - ICU Neonatal - PRN-Texarkana, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Texarkana, TX, US
-🏠 Work: On-site
-
-📝 Description: **Description**  
+Full Time","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-d6205a40840ef171","indeed","https://www.indeed.com/viewjob?jk=d6205a40840ef171","https://careers.christushealth.org/opportunity/rn-registered-nurse-icu-neonatal-prn-283275?utm_campaign=Indeed","RN, Registered Nurse - ICU Neonatal - PRN","CHRISTUS Health","Texarkana, TX, US","2025-12-28","","","","","","",False,"","","","","**Description**  
 
 Summary:
 
@@ -4440,7 +3644,7 @@ Experienced Associates
 
 Grace Periods for  
 
-New Graduates \\&amp; Experienced Associates New to the Specialty
+New Graduates \\& Experienced Associates New to the Specialty
 
   
 
@@ -4478,24 +3682,9 @@ Work Schedule:
 Work Type:
 
 
-Per Diem As Needed
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/rn-registered-nurse-icu-neonatal-prn-283275?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d6205a40840ef171</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobLocation>Texarkana, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinical Supervisor PEDS/Full-Time at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/clinical-supervisor-peds-full-time-5001133218800?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-Clinical Supervisor PEDS/Full-Time-Santa Fe, NM, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Santa Fe, NM, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Description** **POSITION SUMMARY:** The Clinical Supervisor, in collaboration with and under the direction of the Nursing Department Director/Manager, is accountable for ongoing shift leadership and operations of a clinical department and for nursing care safety and quality. The Clinical Supervisor uses sound human resource and budget principles to guide the daily provision of nursing services to patients and families. The Clinical Supervisor supports comprehensive patient and family services through effective participation with the interdisciplinary team. The Clinical Supervisor is responsible for supervising nursing department associates and providing patient care when needed. Coaches and guides employees under his/her supervision. Demonstrates Professionalism and Excellence by performing as role model for clinical and service excellence.
+Per Diem As Needed","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-f486c672e88fe644","indeed","https://www.indeed.com/viewjob?jk=f486c672e88fe644","https://careers.christushealth.org/opportunity/clinical-supervisor-peds-full-time-5001133218800?utm_campaign=Indeed","Clinical Supervisor PEDS/Full-Time","CHRISTUS Health","Santa Fe, NM, US","2025-12-28","fulltime","","","","","",False,"","","","","**Description** **POSITION SUMMARY:** The Clinical Supervisor, in collaboration with and under the direction of the Nursing Department Director/Manager, is accountable for ongoing shift leadership and operations of a clinical department and for nursing care safety and quality. The Clinical Supervisor uses sound human resource and budget principles to guide the daily provision of nursing services to patients and families. The Clinical Supervisor supports comprehensive patient and family services through effective participation with the interdisciplinary team. The Clinical Supervisor is responsible for supervising nursing department associates and providing patient care when needed. Coaches and guides employees under his/her supervision. Demonstrates Professionalism and Excellence by performing as role model for clinical and service excellence.
 
  **Requirements** **MINIMUM QUALIFICATIONS:**
 
@@ -4527,25 +3716,9 @@ Per Diem As Needed
 Works irregular hours. Multiple simultaneous activities of patient care. Exposure to infectious diseases and x\\-rays. Exposure to varying unpredictable situations.
 
 
-**PHYSICAL REQUIREMENTS:** Must be able to handle emergency situations, prolonged, extensive or considerable standing. Has knowledge of and uses good body mechanics. Occasionally positions, pushes and/or transfers patients or equipment. Hearing and visual acuity within normal limits. Manual dexterity and fine motor coordination required.
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/clinical-supervisor-peds-full-time-5001133218800?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f486c672e88fe644</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Santa Fe, NM, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse, ECC Emergency Care - Full time at CHRISTUS Health</title>
-      <link>https://careers.christushealth.org/opportunity/registered-nurse-ecc-emergency-care-full-time-270602?utm_campaign=Indeed</link>
-      <guid isPermaLink="false">CHRISTUS Health-Registered Nurse, ECC Emergency Care - Full time-Beaumont, TX, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Beaumont, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Description**  
+**PHYSICAL REQUIREMENTS:** Must be able to handle emergency situations, prolonged, extensive or considerable standing. Has knowledge of and uses good body mechanics. Occasionally positions, pushes and/or transfers patients or equipment. Hearing and visual acuity within normal limits. Manual dexterity and fine motor coordination required.","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-d9de3fb3d88ec3ae","indeed","https://www.indeed.com/viewjob?jk=d9de3fb3d88ec3ae","https://careers.christushealth.org/opportunity/registered-nurse-ecc-emergency-care-full-time-270602?utm_campaign=Indeed","Registered Nurse, ECC Emergency Care - Full time","CHRISTUS Health","Beaumont, TX, US","2025-12-28","fulltime","","","","","",False,"","","","","**Description**  
 
 Summary:
 
@@ -4639,7 +3812,7 @@ Experienced Associates
 
 Grace Periods for  
 
-New Graduates \\&amp; Experienced Associates New to the Specialty
+New Graduates \\& Experienced Associates New to the Specialty
 
   
 
@@ -4677,25 +3850,9 @@ Work Schedule:
 Work Type:
 
 
-Full Time
-🔗 Apply Direct: https://careers.christushealth.org/opportunity/registered-nurse-ecc-emergency-care-full-time-270602?utm_campaign=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d9de3fb3d88ec3ae</description>
-      <companyName>CHRISTUS Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Beaumont, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Patient Care Tech - Pediatric ICU - Rotating at VCU Health System</title>
-      <link>https://careers.vcuhealth.org/us/en/job/VHSVHSUSR40461EXTERNALENUS/Patient-Care-Tech-Pediatric-ICU-Rotating?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">VCU Health System-Patient Care Tech - Pediatric ICU - Rotating-Richmond, VA, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Richmond, VA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: \\*\\*Up to $2,500 Sign On Bonus for offers accepted by February 28, 2026\\. Terms and Conditions apply\\*\\*  
+Full Time","","https://www.indeed.com/cmp/Christus-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f385040e696568d645ba70248d9eccb8","http://CHRISTUScareers.org","Irving, TX","10,000+","$5B to $10B (USD)","CHRISTUS Health is a Catholic not-for-profit health care system with 600+ centers including long-term care facilities, community hospitals, walk-in clinics, and health ministries.
+","","","","","","",""
+"in-5e5eca0976e83681","indeed","https://www.indeed.com/viewjob?jk=5e5eca0976e83681","https://careers.vcuhealth.org/us/en/job/VHSVHSUSR40461EXTERNALENUS/Patient-Care-Tech-Pediatric-ICU-Rotating?utm_source=indeed&utm_medium=phenom-feeds","Patient Care Tech - Pediatric ICU - Rotating","VCU Health System","Richmond, VA, US","2025-12-28","fulltime","","","","","",False,"","","","","\\*\\*Up to $2,500 Sign On Bonus for offers accepted by February 28, 2026\\. Terms and Conditions apply\\*\\*  
 
   
 
@@ -4845,26 +4002,9 @@ Emotional: Fast pace environment, Able to handle multiple priorities, Frequent a
 
 
 Rotating
-EEO Employer/Disabled/Protected Veteran/41 CFR 60\\-1\\.4\\.
-🔗 Apply Direct: https://careers.vcuhealth.org/us/en/job/VHSVHSUSR40461EXTERNALENUS/Patient-Care-Tech-Pediatric-ICU-Rotating?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5e5eca0976e83681</description>
-      <companyName>VCU Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Richmond, VA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse - Full Time - Weho at Sev Laser Aesthetics</title>
-      <link>https://ats.rippling.com/sevlaser/jobs/361140f8-0bae-41ff-b014-e49d18732a0c?jobSite=Indeed</link>
-      <guid isPermaLink="false">Sev Laser Aesthetics-Registered Nurse - Full Time - Weho-Glendale, CA, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Glendale, CA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 50 - 65 (hourly)
-
-📝 Description: **Join the SEV Laser Team!**
+EEO Employer/Disabled/Protected Veteran/41 CFR 60\\-1\\.4\\.","Health Care","https://www.indeed.com/cmp/Vcu-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cca655a2fd1ab83219fbffa76f85fc1f","http://careers.vcuhealth.org","1250 E Marshall Street
+Richmond, VA 23219","10,000+","$500M to $1B (USD)","We are a strong, passionate organization of more than 13,000 who take pride in caring for every person who come through our doors.","","","","","","",""
+"in-9fb2c06634b6e596","indeed","https://www.indeed.com/viewjob?jk=9fb2c06634b6e596","https://ats.rippling.com/sevlaser/jobs/361140f8-0bae-41ff-b014-e49d18732a0c?jobSite=Indeed","Registered Nurse - Full Time - Weho","Sev Laser Aesthetics","Glendale, CA, US","2025-12-28","fulltime","direct_data","hourly",50.0,65.0,"USD",False,"","","","","**Join the SEV Laser Team!**
 
   
 
@@ -4898,7 +4038,7 @@ We are looking for individuals who are not only skilled in their craft but also 
 * Collaborate with team members to enhance service delivery and overall client experience.
 * Stay updated on industry trends and advancements in laser technology.
 
-**Skills \\&amp; Qualifications:**
+**Skills \\& Qualifications:**
 
 * Valid California RN License
 * Previous experience in laser hair removal or a related field is preferred.
@@ -4913,7 +4053,7 @@ We are looking for individuals who are not only skilled in their craft but also 
 * Including weekends and Holidays.
 * Must be available to work from 9:30am\\-7:30pm each day.
 
-**Perks \\&amp; Benefits:**
+**Perks \\& Benefits:**
 
 * Posted range includes base hourly rate plus average tips and overtime earnings
 * Position pays a competitive hourly rate \\+ tips
@@ -4923,30 +4063,8 @@ We are looking for individuals who are not only skilled in their craft but also 
 
  **The pay range for this role is:**  
 
-50 \\- 65 USD per hour(Skin and Body)
-🔗 Apply Direct: https://ats.rippling.com/sevlaser/jobs/361140f8-0bae-41ff-b014-e49d18732a0c?jobSite=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=9fb2c06634b6e596</description>
-      <companyName>Sev Laser Aesthetics</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Glendale, CA, US</jobLocation>
-      <salaryMin>50</salaryMin>
-      <salaryMax>65</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse - Full Time - Weho at Sev Laser Aesthetics</title>
-      <link>https://ats.rippling.com/sevlaser/jobs/361140f8-0bae-41ff-b014-e49d18732a0c?jobSite=Indeed</link>
-      <guid isPermaLink="false">Sev Laser Aesthetics-Registered Nurse - Full Time - Weho-West Hollywood, CA, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: West Hollywood, CA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 50 - 65 (hourly)
-
-📝 Description: **Join the SEV Laser Team!**
+50 \\- 65 USD per hour(Skin and Body)","","https://www.indeed.com/cmp/Sev-Laser-Aesthetics-3","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/119b7d46ead1315540aed2f09c11cbce","https://sevlaser.com/","","Decline to state","Decline to state","SEV is a space where you can luxuriate in comfort while we cater to your beauty needs. Each one of our locations across the United States is elegantly designed with a boutique feel. It’s the most upsc","","","","","","",""
+"in-f9c0099a93ffda78","indeed","https://www.indeed.com/viewjob?jk=f9c0099a93ffda78","https://ats.rippling.com/sevlaser/jobs/361140f8-0bae-41ff-b014-e49d18732a0c?jobSite=Indeed","Registered Nurse - Full Time - Weho","Sev Laser Aesthetics","West Hollywood, CA, US","2025-12-28","fulltime","direct_data","hourly",50.0,65.0,"USD",False,"","","","","**Join the SEV Laser Team!**
 
   
 
@@ -4980,7 +4098,7 @@ We are looking for individuals who are not only skilled in their craft but also 
 * Collaborate with team members to enhance service delivery and overall client experience.
 * Stay updated on industry trends and advancements in laser technology.
 
-**Skills \\&amp; Qualifications:**
+**Skills \\& Qualifications:**
 
 * Valid California RN License
 * Previous experience in laser hair removal or a related field is preferred.
@@ -4995,7 +4113,7 @@ We are looking for individuals who are not only skilled in their craft but also 
 * Including weekends and Holidays.
 * Must be available to work from 9:30am\\-7:30pm each day.
 
-**Perks \\&amp; Benefits:**
+**Perks \\& Benefits:**
 
 * Posted range includes base hourly rate plus average tips and overtime earnings
 * Position pays a competitive hourly rate \\+ tips
@@ -5005,30 +4123,8 @@ We are looking for individuals who are not only skilled in their craft but also 
 
  **The pay range for this role is:**  
 
-50 \\- 65 USD per hour(Skin and Body)
-🔗 Apply Direct: https://ats.rippling.com/sevlaser/jobs/361140f8-0bae-41ff-b014-e49d18732a0c?jobSite=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f9c0099a93ffda78</description>
-      <companyName>Sev Laser Aesthetics</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>West Hollywood, CA, US</jobLocation>
-      <salaryMin>50</salaryMin>
-      <salaryMax>65</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse - Part Time - Virginia Beach VA at Sev Laser Aesthetics</title>
-      <link>https://ats.rippling.com/sevlaser/jobs/7861bc2f-7a53-4c98-be70-3c165bfbecd7?jobSite=Indeed</link>
-      <guid isPermaLink="false">Sev Laser Aesthetics-Registered Nurse - Part Time - Virginia Beach VA-Virginia Beach, VA, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Virginia Beach, VA, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 35 - 50 (hourly)
-
-📝 Description: **Join the SEV Laser Team!**
+50 \\- 65 USD per hour(Skin and Body)","","https://www.indeed.com/cmp/Sev-Laser-Aesthetics-3","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/119b7d46ead1315540aed2f09c11cbce","https://sevlaser.com/","","Decline to state","Decline to state","SEV is a space where you can luxuriate in comfort while we cater to your beauty needs. Each one of our locations across the United States is elegantly designed with a boutique feel. It’s the most upsc","","","","","","",""
+"in-6242e7d1a6f9a00e","indeed","https://www.indeed.com/viewjob?jk=6242e7d1a6f9a00e","https://ats.rippling.com/sevlaser/jobs/7861bc2f-7a53-4c98-be70-3c165bfbecd7?jobSite=Indeed","Registered Nurse - Part Time - Virginia Beach VA","Sev Laser Aesthetics","Virginia Beach, VA, US","2025-12-28","parttime","direct_data","hourly",35.0,50.0,"USD",False,"","","","","**Join the SEV Laser Team!**
 
   
 
@@ -5062,7 +4158,7 @@ We are looking for individuals who are not only skilled in their craft but also 
 * Collaborate with team members to enhance service delivery and overall client experience.
 * Stay updated on industry trends and advancements in laser technology.
 
-**Skills \\&amp; Qualifications:**
+**Skills \\& Qualifications:**
 
 * **Valid Virginia RN License**
 * Previous experience in laser hair removal or a related field is preferred.
@@ -5077,7 +4173,7 @@ We are looking for individuals who are not only skilled in their craft but also 
 * Including weekends and Holidays.
 * Must be available to work from 9:30am\\-7:30pm each day.
 
-**Perks \\&amp; Benefits:**
+**Perks \\& Benefits:**
 
 * Posted range includes base hourly rate plus average tips and overtime earnings
 * Position pays a competitive hourly rate \\+ tips
@@ -5087,29 +4183,8 @@ We are looking for individuals who are not only skilled in their craft but also 
 
  **The pay range for this role is:**  
 
-35 \\- 50 USD per hour(West Virginia Beach \\- Norfolk, VA)
-🔗 Apply Direct: https://ats.rippling.com/sevlaser/jobs/7861bc2f-7a53-4c98-be70-3c165bfbecd7?jobSite=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=6242e7d1a6f9a00e</description>
-      <companyName>Sev Laser Aesthetics</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Virginia Beach, VA, US</jobLocation>
-      <salaryMin>35</salaryMin>
-      <salaryMax>50</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Psych RN at Solana Staffing Solutions</title>
-      <link>https://jobs.chattr.ai/solanastaffing/1890f8fc-011d-4393-b5c5-69a321e80a0e?utm_source=Indeed</link>
-      <guid isPermaLink="false">Solana Staffing Solutions-Psych RN-Westborough, MA, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Westborough, MA, US
-💼 Type: Contract
-🏠 Work: On-site
-
-📝 Description: Solana Staffing Solutions is a boutique recruitment firm placing contract nurses and therapists in behavioral healthcare facilities throughout Arizona, California, Massachusetts, Nevada and Texas. We are seeking a Psychiatric RN (Registered Nurse, Psychiatric Nurse) for a travel assignment at our partner facility. Roles include acute inpatient, residential, partial hospitalization, and intensive outpatient settings.
+35 \\- 50 USD per hour(West Virginia Beach \\- Norfolk, VA)","","https://www.indeed.com/cmp/Sev-Laser-Aesthetics-3","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/119b7d46ead1315540aed2f09c11cbce","https://sevlaser.com/","","Decline to state","Decline to state","SEV is a space where you can luxuriate in comfort while we cater to your beauty needs. Each one of our locations across the United States is elegantly designed with a boutique feel. It’s the most upsc","","","","","","",""
+"in-1d4bcb53184b490e","indeed","https://www.indeed.com/viewjob?jk=1d4bcb53184b490e","https://jobs.chattr.ai/solanastaffing/1890f8fc-011d-4393-b5c5-69a321e80a0e?utm_source=Indeed","Psych RN","Solana Staffing Solutions","Westborough, MA, US","2025-12-28","contract","","","","","",False,"","","","","Solana Staffing Solutions is a boutique recruitment firm placing contract nurses and therapists in behavioral healthcare facilities throughout Arizona, California, Massachusetts, Nevada and Texas. We are seeking a Psychiatric RN (Registered Nurse, Psychiatric Nurse) for a travel assignment at our partner facility. Roles include acute inpatient, residential, partial hospitalization, and intensive outpatient settings.
 
 
 **Contract Details:**
@@ -5131,7 +4206,7 @@ We are looking for individuals who are not only skilled in their craft but also 
 *RN may perform other related duties to meet the ongoing needs of the hospital.*
 
 
-**Knowledge, Skills \\&amp; Abilities:**
+**Knowledge, Skills \\& Abilities:**
 
 
 * Knowledge of patient rights and laws pertaining to mental health and regulations
@@ -5217,29 +4292,12 @@ License/Certification:
 * RN Massachusetts License in good standing required.
 
 
-Work Location: On site
-🔗 Apply Direct: https://jobs.chattr.ai/solanastaffing/1890f8fc-011d-4393-b5c5-69a321e80a0e?utm_source=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1d4bcb53184b490e</description>
-      <companyName>Solana Staffing Solutions</companyName>
-      <jobType>Contract</jobType>
-      <jobLocation>Westborough, MA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Nurse at nan</title>
-      <link>https://restore-hyper-wellness-rhwm017.careerplug.com/j/02uaf6t</link>
-      <guid isPermaLink="false">nan-Nurse-Reno, NV, US</guid>
-      <pubDate>Sun, 28 Dec 2025 09:18:07 +0000</pubDate>
-      <description>📍 Location: Reno, NV, US
-💼 Type: Parttime
-🏠 Work: On-site
-
-📝 Description: **Benefits:**
+Work Location: On site","","https://www.indeed.com/cmp/Solana-Staffing-Solutions","","","","","","","","","","","","",""
+"in-f71b506c86fcb2dc","indeed","https://www.indeed.com/viewjob?jk=f71b506c86fcb2dc","https://restore-hyper-wellness-rhwm017.careerplug.com/j/02uaf6t","Nurse","","Reno, NV, US","2025-12-28","parttime","","hourly","","","USD",False,"","","","","**Benefits:**
 * Bonus based on performance
 * Employee discounts
 * Flexible schedule
-* Training \\&amp; development
+* Training \\& development
 **Benefits/Perks**
 * A competitive salary
 * Flexible Schedules
@@ -5255,7 +4313,7 @@ Do you have a passion for nursing but are tired of the hectic, high\\-stress env
 Restore is seeking an outgoing, experienced Nurse to join our team of wellness professionals on a mission to help people feel better so they can do more of what they love. We’re the antithesis of a traditional medical office or clinic, offering innovative wellness services in a fun, comfortable environment. Our nurses have described working for Restore as “the most fun you can have at a nursing job while still helping people in a meaningful way.” This is your opportunity to take an active role in assisting individuals on their health and wellness journey and leading a team of nurses to support the Restore mission.
 
 **Responsibilities**
-Medical Operations \\&amp; Clinical Duties
+Medical Operations \\& Clinical Duties
 * Administer IV Drip Therapy and Intramuscular (IM) Shots to deliver our menu of vitamins, minerals, and antioxidants.
 * Educate clients on the qualities and benefits of our IV Drip and Intramuscular (IM) Shot ingredients.
 * Administer Hyperbaric Oxygen Therapy sessions.
@@ -5284,15 +4342,4 @@ Medical Operations \\&amp; Clinical Duties
 * You’re willing to adhere to all policies and procedures and understand the importance of maintaining medical compliance.
 
 
-*This franchise is independently owned and operated by a franchisee. Your application will go directly to the franchisee, and all hiring decisions will be made by the management of this franchisee. All inquiries about employment at this franchisee should be made directly to the franchise location, and not to Restore Hyper Wellness.*
-🔗 Apply Direct: https://restore-hyper-wellness-rhwm017.careerplug.com/j/02uaf6t
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f71b506c86fcb2dc</description>
-      <jobType>Parttime</jobType>
-      <jobLocation>Reno, NV, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-  </channel>
-</rss>
+*This franchise is independently owned and operated by a franchisee. Your application will go directly to the franchisee, and all hiring decisions will be made by the management of this franchisee. All inquiries about employment at this franchisee should be made directly to the franchise location, and not to Restore Hyper Wellness.*","","","","","","","","","","","","","","",""
