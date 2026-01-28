@@ -1,22 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Daily Nurse Jobs Feed</title>
-    <description>Daily feed of nursing jobs with direct company application links</description>
-    <link>https://github.com/your-username/your-repo</link>
-    <lastBuildDate>Wed, 28 Jan 2026 09:31:39 +0000</lastBuildDate>
-    <generator>Nurse Job Search Bot</generator>
-    <language>en-us</language>
-    <item>
-      <title>Registered Nurse at BrightStar Care</title>
-      <link>https://careers.brightstarcare.com/job-detail-164628-registered-nurse#jobapplication</link>
-      <guid isPermaLink="false">BrightStar Care-Registered Nurse-Crystal Lake, IL, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Crystal Lake, IL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Local Agency:** BrightStar Care
+"id","site","job_board_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type","job_url"
+"in-240e8ced392032ad","indeed","https://www.indeed.com/viewjob?jk=240e8ced392032ad","https://careers.brightstarcare.com/job-detail-164628-registered-nurse#jobapplication","Registered Nurse","BrightStar Care","Crystal Lake, IL, US","2026-01-28","fulltime","","","","","",False,"","","","","**Local Agency:** BrightStar Care
   
 **Location:** Crystal Lake, IL
   
@@ -90,25 +73,8 @@ PHYSICAL REQUIREMENTS
   
   
 
-Must be able to stand, walk, squat, bend, kneel, reach, twist, push and pull. Varied assistance is required depending on the ability of the client. Must be able to lift to 50 pounds. Visual and hearing acuity required.
-🔗 Apply Direct: https://careers.brightstarcare.com/job-detail-164628-registered-nurse#jobapplication
-🔗 Job Board: https://www.indeed.com/viewjob?jk=240e8ced392032ad</description>
-      <companyName>BrightStar Care</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Crystal Lake, IL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Staff Nurse-OR at NYC Health + Hospitals</title>
-      <link>https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=131305&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">NYC Health + Hospitals-Staff Nurse-OR-New York, NY, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: New York, NY, US
-💼 Type: Parttime
-🏠 Work: On-site
-
-📝 Description: **About NYC Health \\+ Hospitals**
+Must be able to stand, walk, squat, bend, kneel, reach, twist, push and pull. Varied assistance is required depending on the ability of the client. Must be able to lift to 50 pounds. Visual and hearing acuity required.","","https://www.indeed.com/cmp/Brightstar-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6cfb7560997096dba4ded77713eb43b8","https://www.brightstarcare.com/locations/west-portland/","Bannockburn, IL","1,001 to 5,000","$1M to $5M (USD)","At BrightStar Care, our mission is to go above and beyond to truly deliver 'A Higher Standard of Care' and nothing less.","","","","","","",""
+"in-61012fc1cb95fbdb","indeed","https://www.indeed.com/viewjob?jk=61012fc1cb95fbdb","https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=131305&PostingSeq=1","Staff Nurse-OR","NYC Health + Hospitals","New York, NY, US","2026-01-28","parttime","","yearly","","","USD",False,"","","","","**About NYC Health \\+ Hospitals**
 ---------------------------------
 
   
@@ -139,7 +105,7 @@ Weekends: 7\\-7:30
 Rotating Weekends
 
 
-**Duties \\&amp; Responsibilities**
+**Duties \\& Responsibilities**
 ------------------------------
 
   
@@ -262,28 +228,8 @@ NYC Health and Hospitals offers a competitive benefits package that includes:
   
 
 
-If you wish to apply for this position, please apply online by clicking the "Apply for Job" button.
-🔗 Apply Direct: https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=131305&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=61012fc1cb95fbdb</description>
-      <companyName>NYC Health + Hospitals</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>New York, NY, US</jobLocation>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Infusion Registered Nurse - Issaquah at Fred Hutchinson Cancer Center</title>
-      <link>https://careers-fhcrc.icims.com/jobs/30570/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Fred Hutchinson Cancer Center-Infusion Registered Nurse - Issaquah-Issaquah, WA, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Issaquah, WA, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 54 - 101 (hourly)
-
-📝 Description: Overview:
+If you wish to apply for this position, please apply online by clicking the ""Apply for Job"" button.","Health Care","https://www.indeed.com/cmp/Nyc-Health-Hospitals","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2a7e0ac7eac70bd3addbf14e8f17512c","https://www.nychealthandhospitals.org/","50 Water St. New York, NY 10004","1,001 to 5,000","$25M to $100M (USD)","We always put patients first! NYCHHC is committed to excellence in health care and the safety of people in the City of New York.","","","","","","",""
+"in-35e7bbc06eac90dc","indeed","https://www.indeed.com/viewjob?jk=35e7bbc06eac90dc","https://careers-fhcrc.icims.com/jobs/30570/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Infusion Registered Nurse - Issaquah","Fred Hutchinson Cancer Center","Issaquah, WA, US","2026-01-28","perdiem","direct_data","hourly",54.0,101.0,"USD",False,"","","","hrops@fredhutch.org","Overview:
 
 Fred Hutchinson Cancer Center is an independent, nonprofit organization providing adult cancer treatment and groundbreaking research focused on cancer and infectious diseases. Based in Seattle, Fred Hutch is the only National Cancer Institute\\-designated cancer center in Washington.  
 
@@ -346,29 +292,8 @@ This position may be eligible for relocation assistance.
 Fred Hutchinson Cancer Center offers employees access to a retirement savings plan, an employee assistance program, and paid sick leave (1 hour for every 30 hours worked).  
 
 
-Additional Information: We are proud to be an Equal Employment Opportunity (EEO) and Vietnam Era Veterans Readjustment Assistance Act (VEVRAA) Employer. We do not discriminate on the basis of race, color, religion, creed, ancestry, national origin, sex, age, disability (physical or mental), marital or veteran status, genetic information, sexual orientation, gender identity, political ideology, or membership in any other legally protected class. We desire priority referrals of protected veterans. If due to a disability you need assistance/and or a reasonable accommodation during the application or recruiting process, please send a request to Human Resources at hrops@fredhutch.org or by calling 206\\-667\\-4700\\.
-🔗 Apply Direct: https://careers-fhcrc.icims.com/jobs/30570/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=35e7bbc06eac90dc</description>
-      <companyName>Fred Hutchinson Cancer Center</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Issaquah, WA, US</jobLocation>
-      <salaryMin>54</salaryMin>
-      <salaryMax>101</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Nurse for Learning for Life Program (Lincoln, MA) at CASE Collaborative</title>
-      <link>https://www.SchoolSpring.com/jobdetail?jobId=5514460</link>
-      <guid isPermaLink="false">CASE Collaborative-Nurse for Learning for Life Program (Lincoln, MA)-Concord, MA, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Concord, MA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Join us! Going strong since 1974, CASE is an educational collaborative agency made up of 11 regional and municipal districts affording member and non\\-member school districts the opportunity to augment local services by planning, developing and implementing programs for students with special needs.PENSION JOB! HEALTH INSURANCE ON DAY ONE!This position is a 10 month position, 182 days, 32 to 34\\.5 hrs a week (180 student days; 2 professional development days).CASE is seeking a dynamic and compassionate LPN/TA to provide quality, medical care in order for students to participate in all aspects of their school day; To work closely with students with disabilities in an effort to provide them with medical, physical, instructional, and emotional support needed for progress toward IEP goals; To assist the special and regular education staff in implementing activities within the school setting; Job duties can vary due to the diverse nature of the students. The Learning for Life (LFL) Program is a specialized program that addresses the many different cognitive, physical, medical, communication, and social needs of students. Students in LFL have multiple disabilities including complex learning and medical needs. The curriculum helps build independence and includes functional academics and daily living skills. PERFORMANCE RESPONSIBILITIES:
+Additional Information: We are proud to be an Equal Employment Opportunity (EEO) and Vietnam Era Veterans Readjustment Assistance Act (VEVRAA) Employer. We do not discriminate on the basis of race, color, religion, creed, ancestry, national origin, sex, age, disability (physical or mental), marital or veteran status, genetic information, sexual orientation, gender identity, political ideology, or membership in any other legally protected class. We desire priority referrals of protected veterans. If due to a disability you need assistance/and or a reasonable accommodation during the application or recruiting process, please send a request to Human Resources at hrops@fredhutch.org or by calling 206\\-667\\-4700\\.","Organization","https://www.indeed.com/cmp/Fred-Hutchinson-Cancer-Center-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4f52d6e0556df7b90775dc5c5369a0ff","http://www.fredhutch.org/careers","Seattle, WA ","1,001 to 5,000","$500M to $1B (USD)","Fred Hutchinson Cancer Center is an independent, nonprofit cancer treatment and research center based in Seattle.","","","","","","",""
+"in-ce5b25bfa0f7f248","indeed","https://www.indeed.com/viewjob?jk=ce5b25bfa0f7f248","https://www.SchoolSpring.com/jobdetail?jobId=5514460","Nurse for Learning for Life Program (Lincoln, MA)","CASE Collaborative","Concord, MA, US","2026-01-28","fulltime","","","","","",False,"","","","","Join us! Going strong since 1974, CASE is an educational collaborative agency made up of 11 regional and municipal districts affording member and non\\-member school districts the opportunity to augment local services by planning, developing and implementing programs for students with special needs.PENSION JOB! HEALTH INSURANCE ON DAY ONE!This position is a 10 month position, 182 days, 32 to 34\\.5 hrs a week (180 student days; 2 professional development days).CASE is seeking a dynamic and compassionate LPN/TA to provide quality, medical care in order for students to participate in all aspects of their school day; To work closely with students with disabilities in an effort to provide them with medical, physical, instructional, and emotional support needed for progress toward IEP goals; To assist the special and regular education staff in implementing activities within the school setting; Job duties can vary due to the diverse nature of the students. The Learning for Life (LFL) Program is a specialized program that addresses the many different cognitive, physical, medical, communication, and social needs of students. Students in LFL have multiple disabilities including complex learning and medical needs. The curriculum helps build independence and includes functional academics and daily living skills. PERFORMANCE RESPONSIBILITIES:
 * Follow individual protocols and procedures for identified special education students requiring medical or health interventions including emergency guidelines.
 * Assess students health conditions for any changes in their health status and to determine if identified health needs are being appropriately met.
 * Administer necessary nursing procedures based on students needs and doctors orders.
@@ -394,25 +319,8 @@ Additional Information: We are proud to be an Equal Employment Opportunity (EEO)
 PHYSICAL DEMANDS:* Ability to: use hands to finger, handle or feel objects, tools or controls, see (including close vision, distance vision, peripheral vision, depth perception and the ability to adjust focus), hear and speak; e.g., computer, calculator, telephone.
 * Requires good physical condition in order to support lifting, positioning, and transitioning students, as needed, according to caseload/classroom assignment. Demands of lifting may be up to 50 pounds.
 
-EVALUATION:Performance evaluation conducted biannually by the Program Administrator with input from the Special Education Teacher.Competitive benefits Include (based on contract and position) \\- Unit B Contract with salary chart can be found on CASE web site here:Unit B \\- Compensation competitive with public school employee sector \\- Participation in MA state pension system (MSRB) \\- Voluntary benefits: health insurance on day one, dental insurance, long\\-term disability, and life insurance available on the first day of the month after hiring \\- CASE covers 65% health insurance premiums and 50% cost of basic life insurance \\- 12 sick days, 3 personal days, religious holiday, and bereavement days \\- Mileage reimbursement for travel between schools \\- 457(b) and 403(b) Retirement Plans
-🔗 Apply Direct: https://www.SchoolSpring.com/jobdetail?jobId=5514460
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ce5b25bfa0f7f248</description>
-      <companyName>CASE Collaborative</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Concord, MA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Case Manager at BrightStar Care</title>
-      <link>https://careers.brightstarcare.com/job-detail-164584-rn-case-manager#jobapplication</link>
-      <guid isPermaLink="false">BrightStar Care-RN Case Manager-Gainesville, FL, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Gainesville, FL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Local Agency:** BrightStar Care
+EVALUATION:Performance evaluation conducted biannually by the Program Administrator with input from the Special Education Teacher.Competitive benefits Include (based on contract and position) \\- Unit B Contract with salary chart can be found on CASE web site here:Unit B \\- Compensation competitive with public school employee sector \\- Participation in MA state pension system (MSRB) \\- Voluntary benefits: health insurance on day one, dental insurance, long\\-term disability, and life insurance available on the first day of the month after hiring \\- CASE covers 65% health insurance premiums and 50% cost of basic life insurance \\- 12 sick days, 3 personal days, religious holiday, and bereavement days \\- Mileage reimbursement for travel between schools \\- 457(b) and 403(b) Retirement Plans","","https://www.indeed.com/cmp/Case-Collaborative","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/208742bfc35be6d948fa2fc0523075aa","","","","","","","","","","","",""
+"in-7ecc222671302ea6","indeed","https://www.indeed.com/viewjob?jk=7ecc222671302ea6","https://careers.brightstarcare.com/job-detail-164584-rn-case-manager#jobapplication","RN Case Manager","BrightStar Care","Gainesville, FL, US","2026-01-28","fulltime","","hourly","","","USD",False,"","","","","**Local Agency:** BrightStar Care
   
 **Location:** Gainesville, FL
   
@@ -494,27 +402,8 @@ All prospective employees must comply with Florida AHCA background screening req
   
 Educational information regarding the Care Provider Background Screening Clearinghouse can be found at:
   
-https://info.clearinghouse.com
-🔗 Apply Direct: https://careers.brightstarcare.com/job-detail-164584-rn-case-manager#jobapplication
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7ecc222671302ea6</description>
-      <companyName>BrightStar Care</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Gainesville, FL, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinical Liaison at nan</title>
-      <link>https://jobs-selectmedicalcorp.icims.com/jobs/356363/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">nan-Clinical Liaison-Lake Worth, FL, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Lake Worth, FL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+https://info.clearinghouse.com","","https://www.indeed.com/cmp/Brightstar-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6cfb7560997096dba4ded77713eb43b8","https://www.brightstarcare.com/locations/west-portland/","Bannockburn, IL","1,001 to 5,000","$1M to $5M (USD)","At BrightStar Care, our mission is to go above and beyond to truly deliver 'A Higher Standard of Care' and nothing less.","","","","","","",""
+"in-e140bc5a068cf299","indeed","https://www.indeed.com/viewjob?jk=e140bc5a068cf299","https://jobs-selectmedicalcorp.icims.com/jobs/356363/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Clinical Liaison","","Lake Worth, FL, US","2026-01-28","fulltime","","","","","",False,"","","","","Overview:
 **Select Rehab of Palm Beach \\- Acute Rehab Unit**
 
 **Clinical Liaison ( RN / PT/ OT/ SLP)**
@@ -572,29 +461,13 @@ Additional Data:
 
 * **Earn More:** Uncapped monthly bonus program
 * **Start Strong**: Extensive orientation program to ensure a smooth transition into our setting
-* **Recharge \\&amp; Refresh**: Generous PTO and Paid Sick Time for full\\-time team members to maintain a healthy work\\-life balance
+* **Recharge \\& Refresh**: Generous PTO and Paid Sick Time for full\\-time team members to maintain a healthy work\\-life balance
 * **Your Health Matters**: Comprehensive medical/RX, health, vision, employee assistance program (EAP), and dental plan offerings for full\\-time team members
 * **Invest in Your Future:** Company\\-matching 401(k) retirement plan, as well as life and disability protection for full\\-time team members
 * **Your Impact Matters:** Join a team of over 44,000 committed to providing exceptional patient care
 
- *Equal Opportunity Employer, including Disabled/Veterans*
-🔗 Apply Direct: https://jobs-selectmedicalcorp.icims.com/jobs/356363/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e140bc5a068cf299</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Lake Worth, FL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Infusion Nurse at BrightStar Care</title>
-      <link>https://careers.brightstarcare.com/job-detail-164615-infusion-nurse#jobapplication</link>
-      <guid isPermaLink="false">BrightStar Care-Infusion Nurse-Onalaska, WI, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Onalaska, WI, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Local Agency:** BrightStar Care
+ *Equal Opportunity Employer, including Disabled/Veterans*","","","","","","","","","","","","","","",""
+"in-3317f6bd17bd2392","indeed","https://www.indeed.com/viewjob?jk=3317f6bd17bd2392","https://careers.brightstarcare.com/job-detail-164615-infusion-nurse#jobapplication","Infusion Nurse","BrightStar Care","Onalaska, WI, US","2026-01-28","fulltime","","","","","",False,"","","","","**Local Agency:** BrightStar Care
   
 **Location:** Onalaska, WI
   
@@ -628,7 +501,7 @@ Understands regulatory compliance with state and federal regulations
   
 Adhere to HIPAA and maintain client confidentiality
   
-**Experienced preferred:** Peripheral IV starts/maintenance \\&amp; IV Infusion Therapy Injection and self\\-infusion training Phlebotomy for adult and pediatric patients CVAD experience \\&amp; knowledge Advanced Nursing Certifications (CRNI, OCN preferred)
+**Experienced preferred:** Peripheral IV starts/maintenance \\& IV Infusion Therapy Injection and self\\-infusion training Phlebotomy for adult and pediatric patients CVAD experience \\& knowledge Advanced Nursing Certifications (CRNI, OCN preferred)
   
   
 
@@ -636,25 +509,8 @@ EDUCATION
   
   
 
-**Preferred:** Bachelor’s degree in Nursing. Must have graduated from a National League of Nursing accredited program
-🔗 Apply Direct: https://careers.brightstarcare.com/job-detail-164615-infusion-nurse#jobapplication
-🔗 Job Board: https://www.indeed.com/viewjob?jk=3317f6bd17bd2392</description>
-      <companyName>BrightStar Care</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Onalaska, WI, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Case Manager at BrightStar Care</title>
-      <link>https://careers.brightstarcare.com/job-detail-164591-rn-case-manager#jobapplication</link>
-      <guid isPermaLink="false">BrightStar Care-RN Case Manager-Winter Garden, FL, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Winter Garden, FL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Local Agency:** BrightStar Care
+**Preferred:** Bachelor’s degree in Nursing. Must have graduated from a National League of Nursing accredited program","","https://www.indeed.com/cmp/Brightstar-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6cfb7560997096dba4ded77713eb43b8","https://www.brightstarcare.com/locations/west-portland/","Bannockburn, IL","1,001 to 5,000","$1M to $5M (USD)","At BrightStar Care, our mission is to go above and beyond to truly deliver 'A Higher Standard of Care' and nothing less.","","","","","","",""
+"in-a07b0fd4dbd988f3","indeed","https://www.indeed.com/viewjob?jk=a07b0fd4dbd988f3","https://careers.brightstarcare.com/job-detail-164591-rn-case-manager#jobapplication","RN Case Manager","BrightStar Care","Winter Garden, FL, US","2026-01-28","fulltime","","hourly","","","USD",False,"","","","","**Local Agency:** BrightStar Care
   
 **Location:** Winter Garden, FL
   
@@ -736,27 +592,8 @@ All prospective employees must comply with Florida AHCA background screening req
   
 Educational information regarding the Care Provider Background Screening Clearinghouse can be found at:
   
-https://info.clearinghouse.com
-🔗 Apply Direct: https://careers.brightstarcare.com/job-detail-164591-rn-case-manager#jobapplication
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a07b0fd4dbd988f3</description>
-      <companyName>BrightStar Care</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Winter Garden, FL, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse | Full-time with Benefits at BrightStar Care</title>
-      <link>https://careers.brightstarcare.com/job-detail-164617-registered-nurse-full-time-with-benefits#jobapplication</link>
-      <guid isPermaLink="false">BrightStar Care-Registered Nurse | Full-time with Benefits-Onalaska, WI, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Onalaska, WI, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Local Agency:** BrightStar Care
+https://info.clearinghouse.com","","https://www.indeed.com/cmp/Brightstar-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6cfb7560997096dba4ded77713eb43b8","https://www.brightstarcare.com/locations/west-portland/","Bannockburn, IL","1,001 to 5,000","$1M to $5M (USD)","At BrightStar Care, our mission is to go above and beyond to truly deliver 'A Higher Standard of Care' and nothing less.","","","","","","",""
+"in-cbed31cd5a639bca","indeed","https://www.indeed.com/viewjob?jk=cbed31cd5a639bca","https://careers.brightstarcare.com/job-detail-164617-registered-nurse-full-time-with-benefits#jobapplication","Registered Nurse | Full-time with Benefits","BrightStar Care","Onalaska, WI, US","2026-01-28","fulltime","","","","","",False,"","","","","**Local Agency:** BrightStar Care
   
 **Location:** Onalaska, WI
   
@@ -860,25 +697,8 @@ PHYSICAL REQUIREMENTS
   
   
 
-Must be able to stand, walk, squat, bend, kneel, reach, twist, push and pull. Varied assistance is required depending on the ability of the client. Must be able to lift to 50 pounds. Visual and hearing acuity required.
-🔗 Apply Direct: https://careers.brightstarcare.com/job-detail-164617-registered-nurse-full-time-with-benefits#jobapplication
-🔗 Job Board: https://www.indeed.com/viewjob?jk=cbed31cd5a639bca</description>
-      <companyName>BrightStar Care</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Onalaska, WI, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Emergency Room - Flow Coordinator, Nights at Piedmont Healthcare</title>
-      <link>https://careers-piedmont.icims.com/jobs/15867/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Piedmont Healthcare-Emergency Room - Flow Coordinator, Nights-Cartersville, GA, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Cartersville, GA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview: The Emergency Department (ED) Patient Flow Coordinator position is responsible for the overall movement of patients through the ED in a safe and efficient manner. This position will coordinate all patient care activities and be a liaison with the ED medical staff to ensure that care can be delivered in an efficient and safe manner. The Patient Flow Coordinator appropriately delegates the workload and is a role model for teamwork, leadership and professionalism in the ED. Responsibilities: The Emergency Department (ED) Patient Flow Coordinator position is responsible for the overall movement of patients through the ED in a safe and efficient manner. This position will coordinate all patient care activities and be a liaison with the ED medical staff to ensure that care can be delivered in an efficient and safe manner. The Patient Flow Coordinator appropriately delegates the workload and is a role model for teamwork, leadership and professionalism in the ED. Qualifications: **Education*** Graduate from a nursing program Required
+Must be able to stand, walk, squat, bend, kneel, reach, twist, push and pull. Varied assistance is required depending on the ability of the client. Must be able to lift to 50 pounds. Visual and hearing acuity required.","","https://www.indeed.com/cmp/Brightstar-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6cfb7560997096dba4ded77713eb43b8","https://www.brightstarcare.com/locations/west-portland/","Bannockburn, IL","1,001 to 5,000","$1M to $5M (USD)","At BrightStar Care, our mission is to go above and beyond to truly deliver 'A Higher Standard of Care' and nothing less.","","","","","","",""
+"in-52940daebc58de56","indeed","https://www.indeed.com/viewjob?jk=52940daebc58de56","https://careers-piedmont.icims.com/jobs/15867/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Emergency Room - Flow Coordinator, Nights","Piedmont Healthcare","Cartersville, GA, US","2026-01-28","fulltime","","","","","",False,"","","","","Overview: The Emergency Department (ED) Patient Flow Coordinator position is responsible for the overall movement of patients through the ED in a safe and efficient manner. This position will coordinate all patient care activities and be a liaison with the ED medical staff to ensure that care can be delivered in an efficient and safe manner. The Patient Flow Coordinator appropriately delegates the workload and is a role model for teamwork, leadership and professionalism in the ED. Responsibilities: The Emergency Department (ED) Patient Flow Coordinator position is responsible for the overall movement of patients through the ED in a safe and efficient manner. This position will coordinate all patient care activities and be a liaison with the ED medical staff to ensure that care can be delivered in an efficient and safe manner. The Patient Flow Coordinator appropriately delegates the workload and is a role model for teamwork, leadership and professionalism in the ED. Qualifications: **Education*** Graduate from a nursing program Required
 * Bachelor’s Degree of Nursing Preferred
 
 **Work Experience*** 1 year of Emergency Department experience, as a registered nurse (RN) Required
@@ -890,24 +710,8 @@ Must be able to stand, walk, squat, bend, kneel, reach, twist, push and pull. Va
 * PALS \\- Pediatric Advanced Life Support Required
 * CEN \\- Certified Emergency Room Nurse Preferred
 
-Business Unit : Company Name: Piedmont Cartersville
-🔗 Apply Direct: https://careers-piedmont.icims.com/jobs/15867/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=52940daebc58de56</description>
-      <companyName>Piedmont Healthcare</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Cartersville, GA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Emergency Room, PRN III at Piedmont Healthcare</title>
-      <link>https://careers-piedmont.icims.com/jobs/15868/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Piedmont Healthcare-RN - Emergency Room, PRN III-Cartersville, GA, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Cartersville, GA, US
-🏠 Work: On-site
-
-📝 Description: Responsibilities: The staff nurse provides nursing care to patients from birth through the lifecycle utilizing nursing processes to assess, plan, implement, and evaluate the care for patients. He/she functions within the framework of the policies and procedures of the organization and demonstrates professional growth and accountability. The staff nurse is responsible for maintaining standards of practice, coordinating patient care activities of all assigned staff in the provision of quality nursing care. Qualifications: **Education*** Graduate from a nursing program Required
+Business Unit : Company Name: Piedmont Cartersville","","https://www.indeed.com/cmp/Piedmont-Healthcare","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/af1d02d54f5831cd44b66521c5a2f638","http://www.piedmont.org","Atlanta, GA","10,000+","Decline to state","At Piedmont, you’ll be a part of an exceptional healthcare experience.","","","","","","",""
+"in-c2acf326c7d2365f","indeed","https://www.indeed.com/viewjob?jk=c2acf326c7d2365f","https://careers-piedmont.icims.com/jobs/15868/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN - Emergency Room, PRN III","Piedmont Healthcare","Cartersville, GA, US","2026-01-28","","","","","","",False,"","","","","Responsibilities: The staff nurse provides nursing care to patients from birth through the lifecycle utilizing nursing processes to assess, plan, implement, and evaluate the care for patients. He/she functions within the framework of the policies and procedures of the organization and demonstrates professional growth and accountability. The staff nurse is responsible for maintaining standards of practice, coordinating patient care activities of all assigned staff in the provision of quality nursing care. Qualifications: **Education*** Graduate from a nursing program Required
 * Bachelor’s Degree Preferred
 
 **Work Experience*** No experience required New Graduates of a nursing program eligible Required
@@ -928,25 +732,8 @@ Business Unit : Company Name: Piedmont Cartersville
 * Surgical Services: Additional Required Certifications: PreOp/PACU/ENDO/CSU – ACLS; PALS if unit provides care to pediatric patients (Nurse Residents or nurses new to specialty will complete applicable certifications within 6 months of start date) OR – BLS required only within 180 Days Required
 * Women’s Services: Additional Required Certifications: Labor and Delivery\\-ACLS Certification \\- (Nurse Residents or nurses new to specialty will complete applicable certifications within 6 months of start date) NRP by the end of orientation period, AWHONN Intermediate Fetal Monitoring Program within 12 months of start date Mother/Baby\\- NRP by the end of orientation period NICU\\- NRP by the end of orientation period NAT (Newborn Admission Team)\\- NRP by the end of orientation period Nursery\\- NRP by the end of orientation period within 180 Days Required
 
-Business Unit : Company Name: Piedmont Cartersville
-🔗 Apply Direct: https://careers-piedmont.icims.com/jobs/15868/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c2acf326c7d2365f</description>
-      <companyName>Piedmont Healthcare</companyName>
-      <jobLocation>Cartersville, GA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LPN Care Coordinator at Alvis</title>
-      <link>https://secure5.entertimeonline.com/ta/CBIZ20621.careers?ShowJob=470133585</link>
-      <guid isPermaLink="false">Alvis-LPN Care Coordinator-Columbus, OH, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Columbus, OH, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 25 - 31 (hourly)
-
-📝 Description: **Career Details:**
+Business Unit : Company Name: Piedmont Cartersville","","https://www.indeed.com/cmp/Piedmont-Healthcare","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/af1d02d54f5831cd44b66521c5a2f638","http://www.piedmont.org","Atlanta, GA","10,000+","Decline to state","At Piedmont, you’ll be a part of an exceptional healthcare experience.","","","","","","",""
+"in-4ff10d1a8f2eed19","indeed","https://www.indeed.com/viewjob?jk=4ff10d1a8f2eed19","https://secure5.entertimeonline.com/ta/CBIZ20621.careers?ShowJob=470133585","LPN Care Coordinator","Alvis","Columbus, OH, US","2026-01-28","fulltime","direct_data","hourly",25.0,31.0,"USD",False,"","","","","**Career Details:**
 
 
 
@@ -988,30 +775,8 @@ Join our team to make a difference in people’s lives, every day. Together, we 
 **Looking for a career? Join our team!**
 
 
-***Alvis Inc. can help you fulfill that career goal. Our programs directly impact 8,000 men and women and indirectly impact tens of thousands more. At Alvis, as our vision states, we believe a person’s potential is more important than their past and strive to give individuals the inspiration, encouragement and the tools they need to turn their lives around 180 degrees.***
-🔗 Apply Direct: https://secure5.entertimeonline.com/ta/CBIZ20621.careers?ShowJob=470133585
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4ff10d1a8f2eed19</description>
-      <companyName>Alvis</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Columbus, OH, US</jobLocation>
-      <salaryMin>25</salaryMin>
-      <salaryMax>31</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>PRN Home Infusion Nurse at Naven Health, Inc</title>
-      <link>https://optioncare.wd1.myworkdayjobs.com/en-US/NavenHealth/job/Las-Vegas-NV/PRN-Home-Infusion-Nurse_R34220</link>
-      <guid isPermaLink="false">Naven Health, Inc-PRN Home Infusion Nurse-Las Vegas, NV, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Las Vegas, NV, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 40 - 67 (hourly)
-
-📝 Description: Delivering an exceptional infusion experience, everywhere. Delivering on our unyielding commitment, always.
+***Alvis Inc. can help you fulfill that career goal. Our programs directly impact 8,000 men and women and indirectly impact tens of thousands more. At Alvis, as our vision states, we believe a person’s potential is more important than their past and strive to give individuals the inspiration, encouragement and the tools they need to turn their lives around 180 degrees.***","","https://www.indeed.com/cmp/Alvis-4","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/106508ee73721615b05f2a9cdc34c54e","","","","","","","","","","","",""
+"in-ff39b2d06cc439bc","indeed","https://www.indeed.com/viewjob?jk=ff39b2d06cc439bc","https://optioncare.wd1.myworkdayjobs.com/en-US/NavenHealth/job/Las-Vegas-NV/PRN-Home-Infusion-Nurse_R34220","PRN Home Infusion Nurse","Naven Health, Inc","Las Vegas, NV, US","2026-01-28","parttime","direct_data","hourly",40.0,67.0,"USD",False,"","","","","Delivering an exceptional infusion experience, everywhere. Delivering on our unyielding commitment, always.
 Naven Health is a nationwide home infusion nursing network and clinical platform focused on delivering specialized, truly exceptional infusion care. With over 1,600 team members, including over 1,500 nurses, we are a company aligned to the values of the nurses at our center – to provide an exceptional infusion experience, everywhere. Naven Health delivers home infusion services for a broad range of specialized therapies, as well as clinical trial services and special programs for pharmaceutical manufacturers. Joining the Naven Health team means being a part of a dynamic and growing organization that is dedicated to our customers, our teammates, and the patients we serve.
 Job Description Summary:
 An Infusion Nurse I is a licensed registered nurse who provides basic direct patient care to patients in the home, or in an alternate infusion site, to ensure patient safety with continuity and compliance under a physician’s plan of care. Works under very close direct supervision of the designated supervisor.
@@ -1056,7 +821,7 @@ Physical Demand Requirements* Ability to lift up to 50 pounds with a maximum lif
 Travel Requirements: (if required)* Willing to travel 100% of the time for business purposes.
 
 
-Preferred Qualifications \\&amp; Interests (PQIs)* Bachelor of Science in Nursing as granted by an accredited school of nursing preferred.
+Preferred Qualifications \\& Interests (PQIs)* Bachelor of Science in Nursing as granted by an accredited school of nursing preferred.
 * 1 year of previous experience as a RN in a home health or acute care setting.
 
 
@@ -1067,29 +832,8 @@ Benefits:* 401k Retirement Savings Plan with Company Match
 * myFlexPay
 * Award/Recognition Programs
 
-*Naven Health subscribes to a policy of equal employment opportunity, making employment available without regard to race, color, religion, national origin, citizenship status according to the Immigration Reform and Control Act of 1986, sex, sexual orientation, gender identity, age, disability, veteran status, or genetic information.*
-🔗 Apply Direct: https://optioncare.wd1.myworkdayjobs.com/en-US/NavenHealth/job/Las-Vegas-NV/PRN-Home-Infusion-Nurse_R34220
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ff39b2d06cc439bc</description>
-      <companyName>Naven Health, Inc</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Las Vegas, NV, US</jobLocation>
-      <salaryMin>40</salaryMin>
-      <salaryMax>67</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Nurse Clinician - Cardiac Surgery ICU at VCU Health System</title>
-      <link>https://careers.vcuhealth.org/us/en/job/R35999/Nurse-Clinician-Cardiac-Surgery-ICU</link>
-      <guid isPermaLink="false">VCU Health System-Nurse Clinician - Cardiac Surgery ICU-Richmond, VA, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Richmond, VA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: The Nurse Clinician demonstrates a high level of expertise in the assessment, diagnosis and treatment of the complex patients and their responses to actual or potential health problems. This role assists the health care team with the prevention of illness and injury, maintenance of wellness, and provision of comfort. The Nurse Clinician provides direction, education, leadership and accountability for program development, implementation and evaluation in area of responsibility. This role includes professional development and empowerment of staff as well as management of resources to promote desired outcomes with attention to quality, efficiency and cost.
+*Naven Health subscribes to a policy of equal employment opportunity, making employment available without regard to race, color, religion, national origin, citizenship status according to the Immigration Reform and Control Act of 1986, sex, sexual orientation, gender identity, age, disability, veteran status, or genetic information.*","","https://www.indeed.com/cmp/Naven-Health,-Inc","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5cc75714ec4231478b1f60a3cc0612b9","https://navenhealth.com/","Sarasota, FL","1,001 to 5,000","Decline to state","Naven Health is one of the largest home infusion nursing networks in the country with more than 1,600 infusion nurses providing exceptional care throughout all 50 states. ","","","","","","",""
+"in-334eee5b2937f9f9","indeed","https://www.indeed.com/viewjob?jk=334eee5b2937f9f9","https://careers.vcuhealth.org/us/en/job/R35999/Nurse-Clinician-Cardiac-Surgery-ICU","Nurse Clinician - Cardiac Surgery ICU","VCU Health System","Richmond, VA, US","2026-01-28","fulltime","","","","","",False,"","","","","The Nurse Clinician demonstrates a high level of expertise in the assessment, diagnosis and treatment of the complex patients and their responses to actual or potential health problems. This role assists the health care team with the prevention of illness and injury, maintenance of wellness, and provision of comfort. The Nurse Clinician provides direction, education, leadership and accountability for program development, implementation and evaluation in area of responsibility. This role includes professional development and empowerment of staff as well as management of resources to promote desired outcomes with attention to quality, efficiency and cost.
 Licensure, Certification, or Registration Requirements for Hire:  
 
 Current RN licensure in Virginia or eligible or compact state  
@@ -1169,25 +913,9 @@ Mental/Sensory: Strong recall, Reasoning, Problem solving, Hearing, Speak clearl
 Emotional: Fast pace environment, Steady pace, Able to handle multiple priorities, Frequent and intense customer interactions, Noisy environment, Able to adapt to frequent change
 
 
-EEO Employer/Disabled/Protected Veteran/41 CFR 60\\-1\\.4\\.
-🔗 Apply Direct: https://careers.vcuhealth.org/us/en/job/R35999/Nurse-Clinician-Cardiac-Surgery-ICU
-🔗 Job Board: https://www.indeed.com/viewjob?jk=334eee5b2937f9f9</description>
-      <companyName>VCU Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Richmond, VA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Nurse Clinician - Comprehensive Liver Care Unit - Intermediate Care at VCU Health System</title>
-      <link>https://careers.vcuhealth.org/us/en/job/R35661/Nurse-Clinician-Comprehensive-Liver-Care-Unit-Intermediate-Care</link>
-      <guid isPermaLink="false">VCU Health System-Nurse Clinician - Comprehensive Liver Care Unit - Intermediate Care-Richmond, VA, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Richmond, VA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Are you ready to be a part of something groundbreaking?
+EEO Employer/Disabled/Protected Veteran/41 CFR 60\\-1\\.4\\.","Health Care","https://www.indeed.com/cmp/Vcu-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cca655a2fd1ab83219fbffa76f85fc1f","http://careers.vcuhealth.org","1250 E Marshall Street
+Richmond, VA 23219","10,000+","$500M to $1B (USD)","We are a strong, passionate organization of more than 13,000 who take pride in caring for every person who come through our doors.","","","","","","",""
+"in-6b9a500464ced1b9","indeed","https://www.indeed.com/viewjob?jk=6b9a500464ced1b9","https://careers.vcuhealth.org/us/en/job/R35661/Nurse-Clinician-Comprehensive-Liver-Care-Unit-Intermediate-Care","Nurse Clinician - Comprehensive Liver Care Unit - Intermediate Care","VCU Health System","Richmond, VA, US","2026-01-28","fulltime","","","","","",False,"","","","","Are you ready to be a part of something groundbreaking?
   
 
   
@@ -1257,26 +985,9 @@ Education/training PREFERRED:
 Master's Degree in Nursing or a related field. If the master’s degree is not in Nursing, then it is required to have a Baccalaureate Degree in Nursing
 
 
-EEO Employer/Disabled/Protected Veteran/41 CFR 60\\-1\\.4\\.
-🔗 Apply Direct: https://careers.vcuhealth.org/us/en/job/R35661/Nurse-Clinician-Comprehensive-Liver-Care-Unit-Intermediate-Care
-🔗 Job Board: https://www.indeed.com/viewjob?jk=6b9a500464ced1b9</description>
-      <companyName>VCU Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Richmond, VA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Assistant Nurse Manager (ANM) - Surgical Services at ECU Health</title>
-      <link>https://careers.vidanthealth.com/en/jobs/16975480-rn-assistant-nurse-manager-anm-pacu?tm_job=979381-1A&amp;tm_event=view&amp;tm_company=2362</link>
-      <guid isPermaLink="false">ECU Health-Assistant Nurse Manager (ANM) - Surgical Services-Tarboro, NC, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Tarboro, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 43 - 59 (hourly)
-
-📝 Description: **Responsibilities**
+EEO Employer/Disabled/Protected Veteran/41 CFR 60\\-1\\.4\\.","Health Care","https://www.indeed.com/cmp/Vcu-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cca655a2fd1ab83219fbffa76f85fc1f","http://careers.vcuhealth.org","1250 E Marshall Street
+Richmond, VA 23219","10,000+","$500M to $1B (USD)","We are a strong, passionate organization of more than 13,000 who take pride in caring for every person who come through our doors.","","","","","","",""
+"in-60240348e456a27e","indeed","https://www.indeed.com/viewjob?jk=60240348e456a27e","https://careers.vidanthealth.com/en/jobs/16975480-rn-assistant-nurse-manager-anm-pacu?tm_job=979381-1A&tm_event=view&tm_company=2362","Assistant Nurse Manager (ANM) - Surgical Services","ECU Health","Tarboro, NC, US","2026-01-28","fulltime","direct_data","hourly",43.0,59.0,"USD",False,"","","","gloria.jones@ecuhealth.org","**Responsibilities**
 
 
 **Up to $30K Commitment Incentive**
@@ -1362,30 +1073,8 @@ Gloria Jones, Sr Recruiter
 ECU Health Talent Acquisition
 
 
-Email: gloria.jones@ecuhealth.org
-🔗 Apply Direct: https://careers.vidanthealth.com/en/jobs/16975480-rn-assistant-nurse-manager-anm-pacu?tm_job=979381-1A&amp;tm_event=view&amp;tm_company=2362
-🔗 Job Board: https://www.indeed.com/viewjob?jk=60240348e456a27e</description>
-      <companyName>ECU Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Tarboro, NC, US</jobLocation>
-      <salaryMin>43</salaryMin>
-      <salaryMax>59</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Transfer Center at ECU Health</title>
-      <link>https://careers.vidanthealth.com/en/jobs/16972888-registered-nurse-transfer-center-nights?tm_job=979398-1A&amp;tm_event=view&amp;tm_company=2362</link>
-      <guid isPermaLink="false">ECU Health-Registered Nurse (RN) - Transfer Center-Greenville, NC, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Greenville, NC, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 85,280 - 127,920 (yearly)
-
-📝 Description: **Position Summary**
+Email: gloria.jones@ecuhealth.org","","https://www.indeed.com/cmp/Ecu-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f87b2967dbbefaa3c6033b3e4a578594","https://careers.ecuhealth.org/","Greenville, NC","1,001 to 5,000","Decline to state","ECU Health’s mission is to improve the health and well-being of eastern North Carolina.","","","","","","",""
+"in-6b442ba963fd0246","indeed","https://www.indeed.com/viewjob?jk=6b442ba963fd0246","https://careers.vidanthealth.com/en/jobs/16972888-registered-nurse-transfer-center-nights?tm_job=979398-1A&tm_event=view&tm_company=2362","Registered Nurse (RN) - Transfer Center","ECU Health","Greenville, NC, US","2026-01-28","parttime","direct_data","yearly",85280.0,127920.0,"USD",False,"","","","","**Position Summary**
 
 
 Coordinates hospital\\-to\\-hospital transfers, in accordance with state and federal regulations.  
@@ -1411,12 +1100,12 @@ Perform initial utilization management screening
 
 
 * Coordinates and facilitates all admission/bed requests from inpatient/outpatient/clinics/pre\\-admits/regional referrals for cardiovascular services. Follows established algorithms, protocols, guidelines and procedures for how to accept and process admission request information. Works collaboratively with Regional referring contacts, physicians, clinicians, EastCare, all CV inpatient and outpatient units, Admissions, ED and Patient Care Facilitators to accept, document specifics, arrange transfer/transport arrangements and process admission information.
-* Documents special requests or conditions of transfers. Develops plan of how, when, \\&amp; where to proceed with patient placement requests. Balances the external referral request with the internal ED and transfer needs
+* Documents special requests or conditions of transfers. Develops plan of how, when, \\& where to proceed with patient placement requests. Balances the external referral request with the internal ED and transfer needs
 * Uses Web On\\-Call physician call schedules to identify physician coverage for unassigned patients.
 * Uses IWARN system to communicate internally/externally and with physician and Cath Lab on\\-call staff.
 * Evaluates the needs of both medicine and surgery bed requests in regards to system and regional referral list. Provides direct communication with both referring and accepting physician/clinicians.
 
-Communicates and collaborates with physicians/clinicians/internal departments \\&amp; referring facilities as it relates to clinical screening/needs, referrals, placement, facsimiles, bed assignments and acceptance of patients.  
+Communicates and collaborates with physicians/clinicians/internal departments \\& referring facilities as it relates to clinical screening/needs, referrals, placement, facsimiles, bed assignments and acceptance of patients.  
 * 
 
 **Minimum Requirements**
@@ -1475,30 +1164,8 @@ Shift: Nights 7pm to 7am
 **About ECU Health Medical Center**
 
 
-ECU Health Medical Center, one of four academic medical centers in North Carolina, is the 974\\-bed flagship hospital for ECU Health and serves as the primary teaching hospital for The Brody School of Medicine at East Carolina University. ECU Health Medical Center has achieved Magnet® designation twice and provides acute and intermediate care, rehabilitation and outpatient health services to a 29\\-county region that is home to more than 1\\.4 million people.
-🔗 Apply Direct: https://careers.vidanthealth.com/en/jobs/16972888-registered-nurse-transfer-center-nights?tm_job=979398-1A&amp;tm_event=view&amp;tm_company=2362
-🔗 Job Board: https://www.indeed.com/viewjob?jk=6b442ba963fd0246</description>
-      <companyName>ECU Health</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Greenville, NC, US</jobLocation>
-      <salaryMin>85280</salaryMin>
-      <salaryMax>127920</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>House Supervisor at PeaceHealth</title>
-      <link>https://careers.peacehealth.org/jobs/17273828-house-supervisor?tm_job=PH-INFOR-124894&amp;tm_event=view&amp;tm_company=12800</link>
-      <guid isPermaLink="false">PeaceHealth-House Supervisor-Vancouver, WA, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Vancouver, WA, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 64 - 96 (hourly)
-
-📝 Description: **Description**
+ECU Health Medical Center, one of four academic medical centers in North Carolina, is the 974\\-bed flagship hospital for ECU Health and serves as the primary teaching hospital for The Brody School of Medicine at East Carolina University. ECU Health Medical Center has achieved Magnet® designation twice and provides acute and intermediate care, rehabilitation and outpatient health services to a 29\\-county region that is home to more than 1\\.4 million people.","","https://www.indeed.com/cmp/Ecu-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f87b2967dbbefaa3c6033b3e4a578594","https://careers.ecuhealth.org/","Greenville, NC","1,001 to 5,000","Decline to state","ECU Health’s mission is to improve the health and well-being of eastern North Carolina.","","","","","","",""
+"in-8d4832b7accdcf87","indeed","https://www.indeed.com/viewjob?jk=8d4832b7accdcf87","https://careers.peacehealth.org/jobs/17273828-house-supervisor?tm_job=PH-INFOR-124894&tm_event=view&tm_company=12800","House Supervisor","PeaceHealth","Vancouver, WA, US","2026-01-28","parttime","direct_data","hourly",64.0,96.0,"USD",False,"","","","","**Description**
 
 
 **House Supervisor – Nursing Administration**
@@ -1600,7 +1267,7 @@ As the House Supervisor, you play a critical leadership role in hospital operati
 
   
 
-**Compensation \\&amp; Total Rewards**
+**Compensation \\& Total Rewards**
 
 
 PeaceHealth offers a competitive and comprehensive benefits package designed to support whole\\-person wellbeing—**physical, emotional, financial, social, and spiritual**.
@@ -1631,28 +1298,9 @@ If you’re ready to lead with compassion, support a dedicated team, and help sh
 **Please attach your current resume for full consideration.**
 
 
-*PeaceHealth is an EEO Affirmative Action Employer/Vets/Disabled in accordance with applicable local, state, or federal laws.*
-🔗 Apply Direct: https://careers.peacehealth.org/jobs/17273828-house-supervisor?tm_job=PH-INFOR-124894&amp;tm_event=view&amp;tm_company=12800
-🔗 Job Board: https://www.indeed.com/viewjob?jk=8d4832b7accdcf87</description>
-      <companyName>PeaceHealth</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Vancouver, WA, US</jobLocation>
-      <salaryMin>64</salaryMin>
-      <salaryMax>96</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>304308 Nurse Manager at University of Pennsylvania Health System</title>
-      <link>https://careers.pennmedicine.org/en/jobs/17273715-304308-nurse-manager?tm_job=UPHS-INFOR-305254&amp;tm_event=view&amp;tm_company=47008</link>
-      <guid isPermaLink="false">University of Pennsylvania Health System-304308 Nurse Manager-Philadelphia, PA, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Philadelphia, PA, US
-🏠 Work: On-site
-
-📝 Description: **Description**
+*PeaceHealth is an EEO Affirmative Action Employer/Vets/Disabled in accordance with applicable local, state, or federal laws.*","Health Care","https://www.indeed.com/cmp/Peacehealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7f6bb7fc1fe5c0e64d4b90ed9a1ddab7","http://careers.peacehealth.org","1115  SE 164th Avenue
+Vancouver, WA 98683","10,000+","$1B to $5B (USD)","PeaceHealth offers exceptional and compassionate care to both rural and urban communities across Washington, Oregon & Alaska.","","","","","","",""
+"in-52ee61931b6a2669","indeed","https://www.indeed.com/viewjob?jk=52ee61931b6a2669","https://careers.pennmedicine.org/en/jobs/17273715-304308-nurse-manager?tm_job=UPHS-INFOR-305254&tm_event=view&tm_company=47008","304308 Nurse Manager","University of Pennsylvania Health System","Philadelphia, PA, US","2026-01-28","","","","","","",False,"","","","","**Description**
 
 
 Penn Medicine is dedicated to our tripartite mission of providing the highest level of care to patients, conducting innovative research, and educating future leaders in the field of medicine. Working for this leading academic medical center means collaboration with top clinical, technical and business professionals across all disciplines.  
@@ -1678,13 +1326,13 @@ Regularly meets with employees to improve communication and to build productive 
 
 Continuously communicates to staff the importance of patient satisfaction, quality of care, and sound financial performance; and champions our successes and priorities for improving performance in meeting and exceeding patient and customer expectations.  
 
-Analyze employee satisfaction data\\&amp; identify opportunities for improvement.  
+Analyze employee satisfaction data\\& identify opportunities for improvement.  
 
 Collaborate with staff to develop action plans.  
 
 Implement and follow through with action plans.  
 
-Manage \\&amp; eliminate process workarounds.  
+Manage \\& eliminate process workarounds.  
 
 Focus energy on collaboration and not blame.  
 
@@ -1860,7 +1508,7 @@ Collaborates with the School of Nursing and other researchers in promoting and c
 
 Financial Management:  
 
-Develop understanding of Revenue \\&amp; Reimbursement in HealthCare  
+Develop understanding of Revenue \\& Reimbursement in HealthCare  
 
 Develop budget for individual AU/Dept based on assumptions and decisions made by UPHS and Dept Leaders  
 
@@ -1896,7 +1544,7 @@ Support Magnet and Shared Governance initiatives and principles of inclusion.
 
 Attract/Recruit:  
 
-Recruitment of competent staff to meet operational needs (“scope of service” “products \\&amp; services”) and who demonstrate the ability to be service orientation and align with the core values  
+Recruitment of competent staff to meet operational needs (“scope of service” “products \\& services”) and who demonstrate the ability to be service orientation and align with the core values  
 
 On\\-Boarding\\- proper orientation of staff to their roles, accountabilities and performance measures within probationary period  
 
@@ -1940,7 +1588,7 @@ Ensures that Entity utilizes consistent, effective processes for establishing an
 
 Ensure continuous survey readiness  
 
-Ensure department human resource management practices comply with labor law, state \\&amp; federal requirements  
+Ensure department human resource management practices comply with labor law, state \\& federal requirements  
 
 Employee safety
 
@@ -1970,24 +1618,8 @@ We believe that the best care for our patients starts with the best care for our
   
 
 Live Your Life's Work
-We are an Equal Opportunity employer. Candidates are considered for employment without regard to race, ethnicity, color, sex, sexual orientation, gender identity, religion, national origin, ancestry, age, disability, marital status, familial status, genetic information, domestic or sexual violence victim status, citizenship status, military status, status as a protected veteran or any other status protected by applicable law.
-🔗 Apply Direct: https://careers.pennmedicine.org/en/jobs/17273715-304308-nurse-manager?tm_job=UPHS-INFOR-305254&amp;tm_event=view&amp;tm_company=47008
-🔗 Job Board: https://www.indeed.com/viewjob?jk=52ee61931b6a2669</description>
-      <companyName>University of Pennsylvania Health System</companyName>
-      <jobLocation>Philadelphia, PA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Supv Pt Care Services ARRMC (IMCU) at Asante</title>
-      <link>https://jobs.asante.org/en/jobs/17273738-supv-pt-care-services-arrmc-imcu?tm_job=24227&amp;tm_event=view&amp;tm_company=45924</link>
-      <guid isPermaLink="false">Asante-Supv Pt Care Services ARRMC (IMCU)-Grants Pass, OR, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Grants Pass, OR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Supv Pt Care Services ARRMC (IMCU)**
+We are an Equal Opportunity employer. Candidates are considered for employment without regard to race, ethnicity, color, sex, sexual orientation, gender identity, religion, national origin, ancestry, age, disability, marital status, familial status, genetic information, domestic or sexual violence victim status, citizenship status, military status, status as a protected veteran or any other status protected by applicable law.","Health Care","https://www.indeed.com/cmp/University-of-Pennsylvania-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2ecf02865ae6da7fd50299feb248e92a","https://www.pennmedicine.org","Philadelphia, PA","10,000+","$5B to $10B (USD)","We're proud of our physicians at Penn Medicine. Our clinical teams value lifelong learning, and Penn offers excellent and competitive professional development for physicians throughout their careers.","","","","","","",""
+"in-67010acaa7cb0175","indeed","https://www.indeed.com/viewjob?jk=67010acaa7cb0175","https://jobs.asante.org/en/jobs/17273738-supv-pt-care-services-arrmc-imcu?tm_job=24227&tm_event=view&tm_company=45924","Supv Pt Care Services ARRMC (IMCU)","Asante","Grants Pass, OR, US","2026-01-28","fulltime","","","","","",False,"","","","","**Supv Pt Care Services ARRMC (IMCU)**
 
 
 **Additional Position Details:** FTE: 1\\.000000 \\| Full Time \\| Primarily Mon \\- Fri / 8AM \\- 5PM
@@ -2032,7 +1664,7 @@ We offer a comprehensive Total Rewards package designed to support your well\\-b
 
 
 * **Competitive Pay:** Hourly and salaried positions earn market\\-based compensation. Managers and above are eligible for incentive bonuses.
-* **Health \\&amp; Wellness:** Medical, dental, and vision coverage for part\\-time and above employees and their eligible dependents beginning within 30 days of hire.
+* **Health \\& Wellness:** Medical, dental, and vision coverage for part\\-time and above employees and their eligible dependents beginning within 30 days of hire.
 * **Retirement Savings:** Employer\\-sponsored retirement plan with company contribution and match.
 * **Paid Time Off:** Generous ETO for part\\-time and above employees.
 * **Professional Development:** Continue to enhance your education through our tuition reimbursement and tuition repayment program
@@ -2045,27 +1677,11 @@ At Asante, we are guided by our values:
 **Excellence \\- Respect \\- Honesty \\- Service \\- Teamwork**
 
 
-*Asante is proud to be an Equal Opportunity Employer. We are committed to creating a diverse and inclusive workplace and to employing and advancing qualified individuals of all backgrounds, including women, minorities, individuals with disabilities, and protected veterans.*
-🔗 Apply Direct: https://jobs.asante.org/en/jobs/17273738-supv-pt-care-services-arrmc-imcu?tm_job=24227&amp;tm_event=view&amp;tm_company=45924
-🔗 Job Board: https://www.indeed.com/viewjob?jk=67010acaa7cb0175</description>
-      <companyName>Asante</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Grants Pass, OR, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Dialysis - St. Vincent Medical Center at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR263911EXTERNALENUS/Registered-Nurse-RN-Dialysis-St-Vincent-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Registered Nurse (RN) - Dialysis - St. Vincent Medical Center-Toledo, OH, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Toledo, OH, US
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Join our team today!**
+*Asante is proud to be an Equal Opportunity Employer. We are committed to creating a diverse and inclusive workplace and to employing and advancing qualified individuals of all backgrounds, including women, minorities, individuals with disabilities, and protected veterans.*","Health Care","https://www.indeed.com/cmp/Asante","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/05a1bbc1a7e4c462aeca7326afe550eb","https://www.asante.org","Medford, OR","5,001 to 10,000","$500M to $1B (USD)","Asante exists to provide quality healthcare services in a compassionate manner valued by the communities we serve.","","","","","","",""
+"in-f9996c691e33431c","indeed","https://www.indeed.com/viewjob?jk=f9996c691e33431c","https://careers.mercy.com/us/en/job/BSMMHPUSR263911EXTERNALENUS/Registered-Nurse-RN-Dialysis-St-Vincent-Medical-Center?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse (RN) - Dialysis - St. Vincent Medical Center","Mercy Health","Toledo, OH, US","2026-01-28","","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Join our team today!**
 
 * **Higher Pay Scales and Sign\\-On Incentives**
-* **Accredited Residency Programs \\&amp; Specialty Fellowships**
+* **Accredited Residency Programs \\& Specialty Fellowships**
 * **Flexible Schedule to live the life you deserve**
 * **Preceptor Pay**
 * **Rewarding Higher Differentials with working on the Weekend**
@@ -2113,23 +1729,8 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR263911EXTERNALENUS/Registered-Nurse-RN-Dialysis-St-Vincent-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f9996c691e33431c</description>
-      <companyName>Mercy Health</companyName>
-      <jobLocation>Toledo, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Critical Care Transport Registered Nurse (RN) - Mercy Health LifeFlight at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR264037EXTERNALENUS/Critical-Care-Transport-Registered-Nurse-RN-Mercy-Health-LifeFlight?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Critical Care Transport Registered Nurse (RN) - Mercy Health LifeFlight-Toledo, OH, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Toledo, OH, US
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**SUMMARY:**
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-abfc8d239f0cbd7d","indeed","https://www.indeed.com/viewjob?jk=abfc8d239f0cbd7d","https://careers.mercy.com/us/en/job/BSMMHPUSR264037EXTERNALENUS/Critical-Care-Transport-Registered-Nurse-RN-Mercy-Health-LifeFlight?utm_source=indeed&utm_medium=phenom-feeds","Critical Care Transport Registered Nurse (RN) - Mercy Health LifeFlight","Mercy Health","Toledo, OH, US","2026-01-28","","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**SUMMARY:**
 
 
 Responsible for providing emergency nursing care in a prompt and efficient manner to all patients transported via Mercy Health Life Flight Network. Responsible for assessing, planning, organizing, documenting, and evaluating patient care in conjunction with another Critical Care Transport Care provider. The Critical Care Transport Nurse acts as a professional representative of Bon Secours Mercy Health to the community, as an educator to professional groups, to emergency medical services and promotes Mercy Health \\- St. Vincent Medical Center and Mercy Health \\- St. Rita's Medical Center as regional referral centers. Assists in the provision of care to patients of all age groups (neonate, pediatric, adult and geriatric). The Critical Care Transport Nurse will be hired in on a ground Mobile Intensive Care Unit base with a progression towards rotor wing flight cross training if interested and openings are available.
@@ -2157,7 +1758,7 @@ Specialty/Nursing
 * TNCC and ITLS required or obtained within 6 months of hire.
 * Pediatric Advanced Life Support (PALS) required within 6 months of hire.
 * Neonatal Resuscitation Program (NRP) required within 6 months of hire.
-* FEMA 100, 200, \\&amp; 700 within 6 months of hire
+* FEMA 100, 200, \\& 700 within 6 months of hire
 * Emergency Vehicle Operations Certification required within 6 months of hire.
 
 **Preferred:**
@@ -2193,23 +1794,8 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR264037EXTERNALENUS/Critical-Care-Transport-Registered-Nurse-RN-Mercy-Health-LifeFlight?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=abfc8d239f0cbd7d</description>
-      <companyName>Mercy Health</companyName>
-      <jobLocation>Toledo, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Critical Care Transport Registered Nurse (RN) - Mercy Health LifeFlight at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR262976EXTERNALENUS/Critical-Care-Transport-Registered-Nurse-RN-Mercy-Health-LifeFlight?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Critical Care Transport Registered Nurse (RN) - Mercy Health LifeFlight-Toledo, OH, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Toledo, OH, US
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**SUMMARY:**
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-0908d01f35b7338b","indeed","https://www.indeed.com/viewjob?jk=0908d01f35b7338b","https://careers.mercy.com/us/en/job/BSMMHPUSR262976EXTERNALENUS/Critical-Care-Transport-Registered-Nurse-RN-Mercy-Health-LifeFlight?utm_source=indeed&utm_medium=phenom-feeds","Critical Care Transport Registered Nurse (RN) - Mercy Health LifeFlight","Mercy Health","Toledo, OH, US","2026-01-28","","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**SUMMARY:**
 
 
 Responsible for providing emergency nursing care in a prompt and efficient manner to all patients transported via Mercy Health Life Flight Network. Responsible for assessing, planning, organizing, documenting, and evaluating patient care in conjunction with another Critical Care Transport Care provider. The Critical Care Transport Nurse acts as a professional representative of Bon Secours Mercy Health to the community, as an educator to professional groups, to emergency medical services and promotes Mercy Health \\- St. Vincent Medical Center and Mercy Health \\- St. Rita's Medical Center as regional referral centers. Assists in the provision of care to patients of all age groups (neonate, pediatric, adult and geriatric). The Critical Care Transport Nurse will be hired in on a ground Mobile Intensive Care Unit base with a progression towards rotor wing flight cross training if interested and openings are available.
@@ -2237,7 +1823,7 @@ Specialty/Nursing
 * TNCC and ITLS required or obtained within 6 months of hire.
 * Pediatric Advanced Life Support (PALS) required within 6 months of hire.
 * Neonatal Resuscitation Program (NRP) required within 6 months of hire.
-* FEMA 100, 200, \\&amp; 700 within 6 months of hire
+* FEMA 100, 200, \\& 700 within 6 months of hire
 * Emergency Vehicle Operations Certification required within 6 months of hire.
 
 **Preferred:**
@@ -2273,25 +1859,8 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR262976EXTERNALENUS/Critical-Care-Transport-Registered-Nurse-RN-Mercy-Health-LifeFlight?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=0908d01f35b7338b</description>
-      <companyName>Mercy Health</companyName>
-      <jobLocation>Toledo, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Medical Surgical Nurse at CommonSpirit Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3292&amp;rx_jobId=453032&amp;rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F91098949312%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dv1_ar_nurse%26rx_ch%3Djobp4p%26rx_group%3D497598%26rx_id%3Dccba6caa-fbe4-11f0-a61b-170476c44c15%26rx_job%3D453032%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260128T070311Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid</link>
-      <guid isPermaLink="false">CommonSpirit Health-Medical Surgical Nurse-Sherwood, AR, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Sherwood, AR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 32 - 44 (hourly)
-
-📝 Description: **Job Summary and Responsibilities**  
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-0c8a7f7c6475a5c2","indeed","https://www.indeed.com/viewjob?jk=0c8a7f7c6475a5c2","https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=453032&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F91098949312%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dv1_ar_nurse%26rx_ch%3Djobp4p%26rx_group%3D497598%26rx_id%3Dccba6caa-fbe4-11f0-a61b-170476c44c15%26rx_job%3D453032%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260128T070311Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid","Medical Surgical Nurse","CommonSpirit Health","Sherwood, AR, US","2026-01-28","fulltime","direct_data","hourly",32.0,44.0,"USD",False,"","","","","**Job Summary and Responsibilities**  
 
 As a **Med Surg Nurse** you will be a pivotal healthcare professional, delivering compassionate, high\\-quality care that truly impacts our patients' well\\-being and recovery.  
 
@@ -2324,30 +1893,8 @@ To be successful in this role, you will possess keen assessment skills, acute cr
 CHI St. Vincent, a regional health network serving Arkansas, is part of CommonSpirit Health. We have served Arkansas since 1888 with a history of many firsts. Together with more than 4,500 coworkers, 1,000 medical staff, and 500 volunteers, we consistently receive praise for care advancements. CHI St Vincent North has 69 beds and offers a small\\-town feeling of family and camaraderie. We have a strong neuro and cardiac focus.
 CommonSpirit Health was formed by the alignment of Catholic Health Initiatives (CHI) and Dignity Health in 2019\\. With our combined resources, CommonSpirit is committed to building healthy communities, advocating for those who are poor and vulnerable, and innovating how and where healing can happen, both inside our hospitals and out in the community. CHI St. Vincent provides you with the same level of care you provide to others. We care about our team member well\\-being and offer benefits that complement and support your work/life balance. **Pay Range**  
 
-$32\\.28 \\- $44\\.14 /hour
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3292&amp;rx_jobId=453032&amp;rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F91098949312%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dv1_ar_nurse%26rx_ch%3Djobp4p%26rx_group%3D497598%26rx_id%3Dccba6caa-fbe4-11f0-a61b-170476c44c15%26rx_job%3D453032%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260128T070311Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid
-🔗 Job Board: https://www.indeed.com/viewjob?jk=0c8a7f7c6475a5c2</description>
-      <companyName>CommonSpirit Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Sherwood, AR, US</jobLocation>
-      <salaryMin>32</salaryMin>
-      <salaryMax>44</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>CCICU Nurse at CommonSpirit Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3292&amp;rx_jobId=451825&amp;rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F91094598848%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dv1_az_nurse%26rx_ch%3Djobp4p%26rx_group%3D465630%26rx_id%3Dc51a0f76-fbe4-11f0-a61b-176a59e83767%26rx_job%3D451825%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260128T070311Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid</link>
-      <guid isPermaLink="false">CommonSpirit Health-CCICU Nurse-Chandler, AZ, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Chandler, AZ, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 35 - 58 (hourly)
-
-📝 Description: **Job Summary and Responsibilities**  
+$32\\.28 \\- $44\\.14 /hour","","https://www.indeed.com/cmp/Commonspirit-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0190019f0dce83416c36b0855f0aa5f3","","","Decline to state","more than $10B (USD)","Two legacies of caring. One ministry of change.","","","","","","",""
+"in-b28c6362ef0d36d6","indeed","https://www.indeed.com/viewjob?jk=b28c6362ef0d36d6","https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=451825&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F91094598848%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dv1_az_nurse%26rx_ch%3Djobp4p%26rx_group%3D465630%26rx_id%3Dc51a0f76-fbe4-11f0-a61b-176a59e83767%26rx_job%3D451825%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260128T070311Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid","CCICU Nurse","CommonSpirit Health","Chandler, AZ, US","2026-01-28","fulltime","direct_data","hourly",35.0,58.0,"USD",False,"","","","","**Job Summary and Responsibilities**  
 
 As a Registered Nurse (RN), you will be a pivotal healthcare professional, delivering compassionate, high\\-quality care that truly impacts our patients' well\\-being and recovery.  
 
@@ -2390,30 +1937,8 @@ Cerner knowledge.**Where You'll Work**
 
 Located in the Phoenix, Ariz., suburb of Chandler, the Chandler Regional Medical Center is a 429\\-bed, not\\-for\\-profit hospital with more than 2,600 team members and almost 1,000 doctors on staff representing all major specialties. Chandler Regional joined the Dignity Health system in 1999, but has been part of the community for more than 50 years. The hospital includes a Level I Trauma Center, a Heart and Vascular Center, a Wound Healing Center, a Family Birth Center and many additional services. Dignity Health Chandler Regional, Mercy Gilbert, and Arizona General Hospital Mesa awarded $422,000 in grants to support five community projects led by 15 local organizations. Since 1991, Dignity Health's Community Health Improvement Grants program has provided $91 million to nearly 3,800 health projects, focusing on vulnerable and underserved populations. **Pay Range**  
 
-$35\\.00 \\- $58\\.63 /hour
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3292&amp;rx_jobId=451825&amp;rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F91094598848%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dv1_az_nurse%26rx_ch%3Djobp4p%26rx_group%3D465630%26rx_id%3Dc51a0f76-fbe4-11f0-a61b-176a59e83767%26rx_job%3D451825%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260128T070311Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b28c6362ef0d36d6</description>
-      <companyName>CommonSpirit Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Chandler, AZ, US</jobLocation>
-      <salaryMin>35</salaryMin>
-      <salaryMax>58</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Acuity Adaptable ICU Nurse at CommonSpirit Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3292&amp;rx_jobId=454516&amp;rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F91098846096%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dv1_az_nurse%26rx_ch%3Djobp4p%26rx_group%3D465630%26rx_id%3Dc999a478-fbe4-11f0-a61b-5532eea00851%26rx_job%3D454516%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260128T070311Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid</link>
-      <guid isPermaLink="false">CommonSpirit Health-Acuity Adaptable ICU Nurse-Prescott Valley, AZ, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Prescott Valley, AZ, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 35 - 58 (hourly)
-
-📝 Description: **Job Summary and Responsibilities** **We are offering $10K in relocation to new hires who meet the eligibility requirements**.  
+$35\\.00 \\- $58\\.63 /hour","","https://www.indeed.com/cmp/Commonspirit-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0190019f0dce83416c36b0855f0aa5f3","","","Decline to state","more than $10B (USD)","Two legacies of caring. One ministry of change.","","","","","","",""
+"in-eb7d122c27554699","indeed","https://www.indeed.com/viewjob?jk=eb7d122c27554699","https://jsv3.recruitics.com/redirect?rx_cid=3292&rx_jobId=454516&rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F91098846096%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dv1_az_nurse%26rx_ch%3Djobp4p%26rx_group%3D465630%26rx_id%3Dc999a478-fbe4-11f0-a61b-5532eea00851%26rx_job%3D454516%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260128T070311Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid","Acuity Adaptable ICU Nurse","CommonSpirit Health","Prescott Valley, AZ, US","2026-01-28","fulltime","direct_data","hourly",35.0,58.0,"USD",False,"","","","","**Job Summary and Responsibilities** **We are offering $10K in relocation to new hires who meet the eligibility requirements**.  
 
 As our Acuity Adaptable ICU Nurse at Dignity Health Yavapai Regional Medical Center, you will help patients with varying acuity levels by providing exceptional care, monitoring their condition, administering medications and treatments as prescribed by physicians, and ensuring that patients receive the necessary care and support to achieve optimal outcomes. Every day you will work in various units, such as ICU, PCU, and Med\\-Surg, providing exceptional care to patients with varying acuity levels. You will be expected to monitor and manage patients, perform diagnostic tests, interpret results, collaborate with interdisciplinary team members, maintain accurate medical records, and provide education and support to patients and their families.**Apply today and discover why our employees love working here!**
 This is the opportunity for cross training into our other service lines, if interested (PCU, PEDS) while working in a Multicare Unit. You have opportunities to learn and grow (Charge RN, Resource RN, Precepting, Committee Participation). No silos, we work as one team with different specialties, excellent teamwork among our team members and we have an active Unit Base Practice Council who influence RN/NA practice, quality, and patient experience.* Provides assessment planning implementation and evaluation of care for patients from adolescent to geriatric.
@@ -2440,30 +1965,8 @@ Required* Associate degree of Nursing or foreign equivalent.
 
 Dignity Health\\-Yavapai Regional Medical Center (DH\\-YRMC) now part of CommonSpirit Health, is a dynamic, value\\-driven, non\\-profit healthcare leader. Evolved from a community hospital, we are now a state\\-of\\-the\\-art system featuring two acute care hospitals and an extensive network of primary and specialty clinics. We are deeply committed to community impact and offer a broad range of inpatient and outpatient services. If you seek innovation and clear career advancement opportunities within an integrated provider, apply today. **Pay Range**  
 
-$35\\.00 \\- $58\\.63 /hour
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3292&amp;rx_jobId=454516&amp;rx_url=https%3A%2F%2Fwww.commonspirit.careers%2Fjob%2F-%2F-%2F35300%2F91098846096%3Fiis%3DIndeedPaid%26iisn%3DIndeedPaid%26mode%3Djob%26rx_a%3D1%26rx_c%3Dv1_az_nurse%26rx_ch%3Djobp4p%26rx_group%3D465630%26rx_id%3Dc999a478-fbe4-11f0-a61b-5532eea00851%26rx_job%3D454516%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260128T070311Z%26rx_vp%3Dcpc%26utm_medium%3Dcpc%26utm_source%3DIndeedPaid
-🔗 Job Board: https://www.indeed.com/viewjob?jk=eb7d122c27554699</description>
-      <companyName>CommonSpirit Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Prescott Valley, AZ, US</jobLocation>
-      <salaryMin>35</salaryMin>
-      <salaryMax>58</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse Admin-Supv at nan</title>
-      <link>https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=91729&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">nan-Registered Nurse Admin-Supv-Saint Peter, MN, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Saint Peter, MN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 47 - 70 (hourly)
-
-📝 Description: **Job Details**
+$35\\.00 \\- $58\\.63 /hour","","https://www.indeed.com/cmp/Commonspirit-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0190019f0dce83416c36b0855f0aa5f3","","","Decline to state","more than $10B (USD)","Two legacies of caring. One ministry of change.","","","","","","",""
+"in-5e3024704fd43fec","indeed","https://www.indeed.com/viewjob?jk=5e3024704fd43fec","https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=91729&PostingSeq=1","Registered Nurse Admin-Supv","","Saint Peter, MN, US","2026-01-28","fulltime","direct_data","hourly",47.0,70.0,"USD",False,"","","","careers@state.mn.us, kayla.evenson@state.mn.us, kayla.evenson@state.mn.us, Accommodations.DCT@state.mn.us, kayla.evenson@state.mn.us, careers@state.mn.us","**Job Details**
 ---------------
 
 **Working Title: Registered Nurse Admin\\-Supv**  
@@ -2492,7 +1995,7 @@ $35\\.00 \\- $58\\.63 /hour
 * Designated in Connect 700 Program for Applicants with Disabilities: Yes
 
 
-Direct Care \\&amp; Treatment (DCT) is unable to provide sponsorship for work visas. Applicants must be eligible to work in the United States at the start of employment. DCT does not participate in E\\-Verify.
+Direct Care \\& Treatment (DCT) is unable to provide sponsorship for work visas. Applicants must be eligible to work in the United States at the start of employment. DCT does not participate in E\\-Verify.
 
 ### **The work you'll do is more than just a job.**
 
@@ -2510,7 +2013,7 @@ The Forensic Mental Health Program provides mental health evaluation and treatme
 The Registered Nurse Administrative Supervisor provides supervision in the coordination and delivery of safe quality nursing care to patients of the Forensic Mental Health Program (FMHP) ensuring individual patient holistic health needs are being met. The night RNAS serves as a leader working in coordination with program leadership to provide overall clinical and operational direction. The incumbent must be able to perform the essential function of the job with or without reasonable accommodation. He/she has the delegated authority and responsibility to assure that the following functions are addressed:
 
 * To provide supervision and support to Registered Nurse Supervisors and Unit Supervisors in the work area.
-* To participate in establishing, reviewing and implementation of the nursing service delivery plan, standards of practice, quality of care and performance of nursing care within Forensic Services and Direct Care \\&amp; Treatment.
+* To participate in establishing, reviewing and implementation of the nursing service delivery plan, standards of practice, quality of care and performance of nursing care within Forensic Services and Direct Care \\& Treatment.
 * To act as a liaison between other departments and service providers.
 * To participate in the recruitment and retention of nursing staff to meet the staffing needs of the FMHP.
 
@@ -2543,7 +2046,7 @@ REFERENCE/BACKGROUND CHECKS \\- The Department of Human Services will conduct re
 EDUCATION VERIFICATION \\- Applicants will be required to provide a copy of their high school diploma at time of interview OR copies of their college transcript or college degree/diploma at time of interview. Copies of the college degree/diploma are acceptable ONLY if it clearly identifies the field in which it was earned.
 
 
-Direct Care \\&amp; Treatment (DCT) healthcare facilities require employees to provide documentation that they are free from tuberculosis (TB) through a blood test prior to employment. DCT does not accept TB skin testing.
+Direct Care \\& Treatment (DCT) healthcare facilities require employees to provide documentation that they are free from tuberculosis (TB) through a blood test prior to employment. DCT does not accept TB skin testing.
 
 
 **Application Details**
@@ -2623,29 +2126,8 @@ All qualified applicants will receive consideration for employment without regar
 **APPLICANTS WITH DISABILITIES**
 
 
-Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the Careers Help Desk at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.
-🔗 Apply Direct: https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=91729&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5e3024704fd43fec</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Saint Peter, MN, US</jobLocation>
-      <salaryMin>47</salaryMin>
-      <salaryMax>70</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Acute Care Hospital Float Pool at UCHealth</title>
-      <link>https://click.appcast.io/t/dl24z48rMiKeMf1TarwBbVoNWhBqOk6QdSfcMS83elI=</link>
-      <guid isPermaLink="false">UCHealth-RN Acute Care Hospital Float Pool-Loveland, CO, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Loveland, CO, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 35 - 54 (hourly)
-
-📝 Description: **Location:** UCHealth Medical Center of the Rockies \\- Loveland  
+Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the Careers Help Desk at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.","","","","","","","","","","","","","","",""
+"in-7e0e74ae3200896e","indeed","https://www.indeed.com/viewjob?jk=7e0e74ae3200896e","https://click.appcast.io/t/dl24z48rMiKeMf1TarwBbVoNWhBqOk6QdSfcMS83elI=","RN Acute Care Hospital Float Pool","UCHealth","Loveland, CO, US","2026-01-28","parttime","direct_data","hourly",35.0,54.0,"USD",False,"","","","","**Location:** UCHealth Medical Center of the Rockies \\- Loveland  
 
   
 
@@ -2745,29 +2227,8 @@ UCHealth recognizes and appreciates the rich array of talents and perspectives t
 
   
 
-Who We Are (uchealth.org)
-🔗 Apply Direct: https://click.appcast.io/t/dl24z48rMiKeMf1TarwBbVoNWhBqOk6QdSfcMS83elI=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7e0e74ae3200896e</description>
-      <companyName>UCHealth</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Loveland, CO, US</jobLocation>
-      <salaryMin>35</salaryMin>
-      <salaryMax>54</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Advanced Care Partner Ortho Trauma at UCHealth</title>
-      <link>https://click.appcast.io/t/FMFxcXPGfyeVMFHD-DsHdkMKWLZ_p-5rlkyLt-XoSbQ=</link>
-      <guid isPermaLink="false">UCHealth-Advanced Care Partner Ortho Trauma-Colorado Springs, CO, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Colorado Springs, CO, US
-🏠 Work: Remote
-💰 Salary: USD 19 - 24 (hourly)
-
-📝 Description: Advanced Care Partner (ACP)is a specialized role for nursing (RN) students following completion of first clinical rotation.  
+Who We Are (uchealth.org)","","https://www.indeed.com/cmp/Uchealth-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7907e7110956828b2c55894e04021df3","http://www.uchealth.org","Aurora, CO","10,000+","Decline to state","With award-winning hospitals and facilities serving the entire Front Range, UCHealth is Colorado's largest, most innovative health system.","","","","","","",""
+"in-ef84e866d20b60a9","indeed","https://www.indeed.com/viewjob?jk=ef84e866d20b60a9","https://click.appcast.io/t/FMFxcXPGfyeVMFHD-DsHdkMKWLZ_p-5rlkyLt-XoSbQ=","Advanced Care Partner Ortho Trauma","UCHealth","Colorado Springs, CO, US","2026-01-28","","direct_data","hourly",19.0,24.0,"USD",True,"","","","","Advanced Care Partner (ACP)is a specialized role for nursing (RN) students following completion of first clinical rotation.  
 
   
 
@@ -2892,28 +2353,8 @@ UCHealth recognizes and appreciates the rich array of talents and perspectives t
 
   
 
-Who We Are (uchealth.org)
-🔗 Apply Direct: https://click.appcast.io/t/FMFxcXPGfyeVMFHD-DsHdkMKWLZ_p-5rlkyLt-XoSbQ=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ef84e866d20b60a9</description>
-      <companyName>UCHealth</companyName>
-      <jobLocation>Colorado Springs, CO, US</jobLocation>
-      <salaryMin>19</salaryMin>
-      <salaryMax>24</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>true</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Advanced Care Partner Parkview Pueblo West at UCHealth</title>
-      <link>https://click.appcast.io/t/Vez9mTCpfAZr0-fQ8Q_LSaN29Yu_PvddAccgXcaA11Q=</link>
-      <guid isPermaLink="false">UCHealth-Advanced Care Partner Parkview Pueblo West-Pueblo West, CO, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Pueblo West, CO, US
-🏠 Work: Remote
-💰 Salary: USD 18 - 27 (hourly)
-
-📝 Description: Advanced Care Partner (ACP)is a specialized role for nursing (RN) students following completion of first clinical rotation.  
+Who We Are (uchealth.org)","","https://www.indeed.com/cmp/Uchealth-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7907e7110956828b2c55894e04021df3","http://www.uchealth.org","Aurora, CO","10,000+","Decline to state","With award-winning hospitals and facilities serving the entire Front Range, UCHealth is Colorado's largest, most innovative health system.","","","","","","",""
+"in-ddc5023fad42a9a6","indeed","https://www.indeed.com/viewjob?jk=ddc5023fad42a9a6","https://click.appcast.io/t/Vez9mTCpfAZr0-fQ8Q_LSaN29Yu_PvddAccgXcaA11Q=","Advanced Care Partner Parkview Pueblo West","UCHealth","Pueblo West, CO, US","2026-01-28","","direct_data","hourly",18.0,27.0,"USD",True,"","","","","Advanced Care Partner (ACP)is a specialized role for nursing (RN) students following completion of first clinical rotation.  
 
   
 
@@ -3038,28 +2479,8 @@ UCHealth recognizes and appreciates the rich array of talents and perspectives t
 
   
 
-Who We Are (uchealth.org)
-🔗 Apply Direct: https://click.appcast.io/t/Vez9mTCpfAZr0-fQ8Q_LSaN29Yu_PvddAccgXcaA11Q=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ddc5023fad42a9a6</description>
-      <companyName>UCHealth</companyName>
-      <jobLocation>Pueblo West, CO, US</jobLocation>
-      <salaryMin>18</salaryMin>
-      <salaryMax>27</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>true</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>First Academy Nurse at nan</title>
-      <link>https://fbcrogers.recruiterbox.com/jobs/fk0zfvs?fjb_hash=ezLpq610</link>
-      <guid isPermaLink="false">nan-First Academy Nurse-Rogers, AR, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Rogers, AR, US
-💼 Type: Parttime
-🏠 Work: On-site
-
-📝 Description: First Academy is a growing Christian school in Rogers, Arkansas. Housed within First Baptist Rogers, FA is open to PK3\\-7th grade students with plans to continue to expand our upper school in forthcoming years.
+Who We Are (uchealth.org)","","https://www.indeed.com/cmp/Uchealth-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7907e7110956828b2c55894e04021df3","http://www.uchealth.org","Aurora, CO","10,000+","Decline to state","With award-winning hospitals and facilities serving the entire Front Range, UCHealth is Colorado's largest, most innovative health system.","","","","","","",""
+"in-9e34a2bd6028baf3","indeed","https://www.indeed.com/viewjob?jk=9e34a2bd6028baf3","https://fbcrogers.recruiterbox.com/jobs/fk0zfvs?fjb_hash=ezLpq610","First Academy Nurse","","Rogers, AR, US","2026-01-28","parttime","","","","","",False,"","","","","First Academy is a growing Christian school in Rogers, Arkansas. Housed within First Baptist Rogers, FA is open to PK3\\-7th grade students with plans to continue to expand our upper school in forthcoming years.
 
 
 **We are currently accepting applications for a part\\-time nurse for the 2026\\-2027 school year.**
@@ -3105,25 +2526,8 @@ Part\\-time nursing position up to 25 hours per week following school calendar w
 * Participates in training and other meetings and initiatives
 * Respects and upholds school policies and standards delineated in faculty policies, student handbooks, and in faculty training
 * Follows Matthew 18:15\\-17 model for handling conflicts
-* Maintains licensure and certifications
-🔗 Apply Direct: https://fbcrogers.recruiterbox.com/jobs/fk0zfvs?fjb_hash=ezLpq610
-🔗 Job Board: https://www.indeed.com/viewjob?jk=9e34a2bd6028baf3</description>
-      <jobType>Parttime</jobType>
-      <jobLocation>Rogers, AR, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Nurse Manager - RN - Full-Time at Accura HealthCare</title>
-      <link>https://lakeandesseniorliving.hcshiring.com/jobs/3b8QqOQeV0SCyLM0ms5vTQ?ref=Indeed&amp;title=Nurse%20Manager%20-%20RN%20-%20Full-Time</link>
-      <guid isPermaLink="false">Accura HealthCare-Nurse Manager - RN - Full-Time-Lake Andes, SD, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Lake Andes, SD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 34 - 44 (hourly)
-
-📝 Description: Lake Andes Senior Living has the opportunity to welcome a Nurse Manager (RN) to join our team! Our Nurse Managers lead the clinical team and promote the physical, mental, emotional, and spiritual well\\-being of our residents and team members. If this sounds like the ideal culture you desire, we welcome the opportunity to work with you!
+* Maintains licensure and certifications","","","","","","","","","","","","","","",""
+"in-c890f8073f82b215","indeed","https://www.indeed.com/viewjob?jk=c890f8073f82b215","https://lakeandesseniorliving.hcshiring.com/jobs/3b8QqOQeV0SCyLM0ms5vTQ?ref=Indeed&title=Nurse%20Manager%20-%20RN%20-%20Full-Time","Nurse Manager - RN - Full-Time","Accura HealthCare","Lake Andes, SD, US","2026-01-28","fulltime","direct_data","hourly",34.0,44.0,"USD",False,"","","","","Lake Andes Senior Living has the opportunity to welcome a Nurse Manager (RN) to join our team! Our Nurse Managers lead the clinical team and promote the physical, mental, emotional, and spiritual well\\-being of our residents and team members. If this sounds like the ideal culture you desire, we welcome the opportunity to work with you!
   
   
 
@@ -3199,30 +2603,8 @@ As a Nurse Manager, you will assist the clinical leadership team in planning, or
 * These benefits are available to full\\-time employees. Minnesota employees are eligible for PTO regardless of status.
 
 
-This organization is an Equal Opportunity Employer and leading post\\-acute healthcare provider.
-🔗 Apply Direct: https://lakeandesseniorliving.hcshiring.com/jobs/3b8QqOQeV0SCyLM0ms5vTQ?ref=Indeed&amp;title=Nurse%20Manager%20-%20RN%20-%20Full-Time
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c890f8073f82b215</description>
-      <companyName>Accura HealthCare</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Lake Andes, SD, US</jobLocation>
-      <salaryMin>34</salaryMin>
-      <salaryMax>44</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Registered Nurse at Hale Anuenue Restorative Care Center</title>
-      <link>https://lifecarecareers.hcshiring.com/jobs/NKYXty3Juk2ighTlh3BLmw?ref=Indeed&amp;title=RN%20Registered%20Nurse</link>
-      <guid isPermaLink="false">Hale Anuenue Restorative Care Center-RN Registered Nurse-Hilo, HI, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Hilo, HI, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 38 - 46 (hourly)
-
-📝 Description: **PAID TIME OFF:**  
+This organization is an Equal Opportunity Employer and leading post\\-acute healthcare provider.","Health Care","https://www.indeed.com/cmp/Accura-Healthcare-5","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/1d6b46a32880b4d5162d73e9560de2d5","http://www.accura.healthcare","West Des Moines, IA","1,001 to 5,000","","Accura HealthCare is a Midwest-based healthcare company that manages and operates skilled nursing, rehabilitation, assisted living, and independent living communities throughout IA, MN, SD, and NE.","","","","","","",""
+"in-28f1524640bd71ef","indeed","https://www.indeed.com/viewjob?jk=28f1524640bd71ef","https://lifecarecareers.hcshiring.com/jobs/NKYXty3Juk2ighTlh3BLmw?ref=Indeed&title=RN%20Registered%20Nurse","RN Registered Nurse","Hale Anuenue Restorative Care Center","Hilo, HI, US","2026-01-28","fulltime","direct_data","hourly",38.0,46.0,"USD",False,"","","","","**PAID TIME OFF:**  
 
 Paid Days Off (PDO) benefit accrues time off for sick, absent, tardy, vacation, personal, etc. at 4\\.66 minutes for every hour worked after successfully passing the introductory period. Accrual levels increase with length of service.
   
@@ -3278,30 +2660,8 @@ As an important member of our interdisciplinary team, the RN delivers quality nu
 * Communicate and function productively on an interdisciplinary team
 
 
-An Equal Opportunity Employer
-🔗 Apply Direct: https://lifecarecareers.hcshiring.com/jobs/NKYXty3Juk2ighTlh3BLmw?ref=Indeed&amp;title=RN%20Registered%20Nurse
-🔗 Job Board: https://www.indeed.com/viewjob?jk=28f1524640bd71ef</description>
-      <companyName>Hale Anuenue Restorative Care Center</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Hilo, HI, US</jobLocation>
-      <salaryMin>38</salaryMin>
-      <salaryMax>46</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Registered Nurse at Hale Anuenue Restorative Care Center</title>
-      <link>https://lifecarecareers.hcshiring.com/jobs/NKYXty3Juk2ighTlh3BLmw?ref=Indeed&amp;title=RN%20Registered%20Nurse</link>
-      <guid isPermaLink="false">Hale Anuenue Restorative Care Center-RN Registered Nurse-Hilo, HI, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Hilo, HI, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 38 - 46 (hourly)
-
-📝 Description: **PAID TIME OFF:**  
+An Equal Opportunity Employer","","https://www.indeed.com/cmp/Hale-Anuenue-Restorative-Care-Center","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/36d2d62cbcd2e93e9a4e264cfdc1f3e1","https://lcca.com/locations/hi/hale-anuenue/","Hilo, HI","Decline to state","Decline to state","","","","","","","",""
+"in-9bcd25780ef5a932","indeed","https://www.indeed.com/viewjob?jk=9bcd25780ef5a932","https://lifecarecareers.hcshiring.com/jobs/NKYXty3Juk2ighTlh3BLmw?ref=Indeed&title=RN%20Registered%20Nurse","RN Registered Nurse","Hale Anuenue Restorative Care Center","Hilo, HI, US","2026-01-28","fulltime","direct_data","hourly",38.0,46.0,"USD",False,"","","","","**PAID TIME OFF:**  
 
 Paid Days Off (PDO) benefit accrues time off for sick, absent, tardy, vacation, personal, etc. at 4\\.66 minutes for every hour worked after successfully passing the introductory period. Accrual levels increase with length of service.
   
@@ -3357,29 +2717,8 @@ As an important member of our interdisciplinary team, the RN delivers quality nu
 * Communicate and function productively on an interdisciplinary team
 
 
-An Equal Opportunity Employer
-🔗 Apply Direct: https://lifecarecareers.hcshiring.com/jobs/NKYXty3Juk2ighTlh3BLmw?ref=Indeed&amp;title=RN%20Registered%20Nurse
-🔗 Job Board: https://www.indeed.com/viewjob?jk=9bcd25780ef5a932</description>
-      <companyName>Hale Anuenue Restorative Care Center</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Hilo, HI, US</jobLocation>
-      <salaryMin>38</salaryMin>
-      <salaryMax>46</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN- ICU FT Nights at University of Pennsylvania Health System</title>
-      <link>https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=49A5DF61-2005-4F80-92AA-A37330165B5C</link>
-      <guid isPermaLink="false">University of Pennsylvania Health System-RN- ICU FT Nights-Doylestown, PA, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Doylestown, PA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Job Detail* ###### **Job Title:**
+An Equal Opportunity Employer","","https://www.indeed.com/cmp/Hale-Anuenue-Restorative-Care-Center","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/36d2d62cbcd2e93e9a4e264cfdc1f3e1","https://lcca.com/locations/hi/hale-anuenue/","Hilo, HI","Decline to state","Decline to state","","","","","","","",""
+"in-ff1be4ad5addf88a","indeed","https://www.indeed.com/viewjob?jk=ff1be4ad5addf88a","https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=49A5DF61-2005-4F80-92AA-A37330165B5C","RN- ICU FT Nights","University of Pennsylvania Health System","Doylestown, PA, US","2026-01-28","fulltime","","","","","",False,"","","","","Job Detail* ###### **Job Title:**
 
 
 RN\\- ICU FT Nights
@@ -3468,25 +2807,8 @@ V. QUALIFICATIONS:
 
 1\\. Certified in BLS for Healthcare Provider and ACLS.
 
-2\\. Excellent interpersonal and team building skills.
-🔗 Apply Direct: https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=49A5DF61-2005-4F80-92AA-A37330165B5C
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ff1be4ad5addf88a</description>
-      <companyName>University of Pennsylvania Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Doylestown, PA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN- 4 East FT Days at University of Pennsylvania Health System</title>
-      <link>https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=BED0779A-6DD2-438C-B962-57F2ACF7CD52</link>
-      <guid isPermaLink="false">University of Pennsylvania Health System-RN- 4 East FT Days-Doylestown, PA, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Doylestown, PA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Job Detail* ###### **Job Title:**
+2\\. Excellent interpersonal and team building skills.","Health Care","https://www.indeed.com/cmp/University-of-Pennsylvania-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2ecf02865ae6da7fd50299feb248e92a","https://www.pennmedicine.org","Philadelphia, PA","10,000+","$5B to $10B (USD)","We're proud of our physicians at Penn Medicine. Our clinical teams value lifelong learning, and Penn offers excellent and competitive professional development for physicians throughout their careers.","","","","","","",""
+"in-6e91a61e0725f479","indeed","https://www.indeed.com/viewjob?jk=6e91a61e0725f479","https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=BED0779A-6DD2-438C-B962-57F2ACF7CD52","RN- 4 East FT Days","University of Pennsylvania Health System","Doylestown, PA, US","2026-01-28","fulltime","","","","","",False,"","","","","Job Detail* ###### **Job Title:**
 
 
 RN\\- 4 East FT Days
@@ -3570,24 +2892,8 @@ C. Other Skills:
 
 
 * Telemetry
-* Ventilator (2 South)
-🔗 Apply Direct: https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=BED0779A-6DD2-438C-B962-57F2ACF7CD52
-🔗 Job Board: https://www.indeed.com/viewjob?jk=6e91a61e0725f479</description>
-      <companyName>University of Pennsylvania Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Doylestown, PA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN at University of Pennsylvania Health System</title>
-      <link>https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=2EA5F2FB-8E52-40EE-ACA2-83B71DAEE768</link>
-      <guid isPermaLink="false">University of Pennsylvania Health System-RN-Doylestown, PA, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Doylestown, PA, US
-🏠 Work: On-site
-
-📝 Description: Job Detail* ###### **Job Title:**
+* Ventilator (2 South)","Health Care","https://www.indeed.com/cmp/University-of-Pennsylvania-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2ecf02865ae6da7fd50299feb248e92a","https://www.pennmedicine.org","Philadelphia, PA","10,000+","$5B to $10B (USD)","We're proud of our physicians at Penn Medicine. Our clinical teams value lifelong learning, and Penn offers excellent and competitive professional development for physicians throughout their careers.","","","","","","",""
+"in-583ceb95f97014a1","indeed","https://www.indeed.com/viewjob?jk=583ceb95f97014a1","https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=2EA5F2FB-8E52-40EE-ACA2-83B71DAEE768","RN","University of Pennsylvania Health System","Doylestown, PA, US","2026-01-28","","","","","","",False,"","","","","Job Detail* ###### **Job Title:**
 
 
 RN \\- IRAD \\- Casual \\- Variable Shifts
@@ -3690,23 +2996,8 @@ QUALIFICATIONS:
 
 
 
-**\\*Must live within a 30 minutes of Doylestown per the on\\-call policy\\***
-🔗 Apply Direct: https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=2EA5F2FB-8E52-40EE-ACA2-83B71DAEE768
-🔗 Job Board: https://www.indeed.com/viewjob?jk=583ceb95f97014a1</description>
-      <companyName>University of Pennsylvania Health System</companyName>
-      <jobLocation>Doylestown, PA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Field Nurse at University of Pennsylvania Health System</title>
-      <link>https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=533888C5-3940-4B78-AB7A-2FCCFCD46BE9</link>
-      <guid isPermaLink="false">University of Pennsylvania Health System-Field Nurse-Doylestown, PA, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Doylestown, PA, US
-🏠 Work: On-site
-
-📝 Description: Job Detail* ###### **Job Title:**
+**\\*Must live within a 30 minutes of Doylestown per the on\\-call policy\\***","Health Care","https://www.indeed.com/cmp/University-of-Pennsylvania-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2ecf02865ae6da7fd50299feb248e92a","https://www.pennmedicine.org","Philadelphia, PA","10,000+","$5B to $10B (USD)","We're proud of our physicians at Penn Medicine. Our clinical teams value lifelong learning, and Penn offers excellent and competitive professional development for physicians throughout their careers.","","","","","","",""
+"in-0cf798d57cf15713","indeed","https://www.indeed.com/viewjob?jk=0cf798d57cf15713","https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=533888C5-3940-4B78-AB7A-2FCCFCD46BE9","Field Nurse","University of Pennsylvania Health System","Doylestown, PA, US","2026-01-28","","","","","","",False,"","","","","Job Detail* ###### **Job Title:**
 
 
 Field Nurse \\- Hospice \\- Casual \\- Days
@@ -4698,7 +3989,7 @@ Very Heavy over 100 lbs)
 * **QUALIFICATIONS:**
 
 
-A. Education: Registered Professional Nurse with current license with the Bureau of Professional \\&amp; Occupational Affairs in the Commonwealth of Pennsylvania.
+A. Education: Registered Professional Nurse with current license with the Bureau of Professional \\& Occupational Affairs in the Commonwealth of Pennsylvania.
 
 B. Experience: One year recent medical\\-surgical experience or community health experience desired. Two years of experience preferred.
 
@@ -4709,25 +4000,8 @@ Auto in good working condition.
 Professional attire for patient care.
 
 Basic Computer skills.
-Hospice nursing must be available for on\\-call as needed and live within 30 minutes of the hospital.
-🔗 Apply Direct: https://dh.igreentree.com/CSS_External/CSSPage_Referred.ASP?ReqKey=533888C5-3940-4B78-AB7A-2FCCFCD46BE9
-🔗 Job Board: https://www.indeed.com/viewjob?jk=0cf798d57cf15713</description>
-      <companyName>University of Pennsylvania Health System</companyName>
-      <jobLocation>Doylestown, PA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse - RN - Comprehensive Cardiac ICU at Sanford Health</title>
-      <link>https://click.appcast.io/t/olv4J3OMw-VG_U2SN_ZYvCi6PyjO0ylL7BZyLVkfyEk=</link>
-      <guid isPermaLink="false">Sanford Health-Registered Nurse - RN - Comprehensive Cardiac ICU-Fargo, ND, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Fargo, ND, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 32 - 48 (hourly)
-
-📝 Description: Careers With Purpose  
+Hospice nursing must be available for on\\-call as needed and live within 30 minutes of the hospital.","Health Care","https://www.indeed.com/cmp/University-of-Pennsylvania-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2ecf02865ae6da7fd50299feb248e92a","https://www.pennmedicine.org","Philadelphia, PA","10,000+","$5B to $10B (USD)","We're proud of our physicians at Penn Medicine. Our clinical teams value lifelong learning, and Penn offers excellent and competitive professional development for physicians throughout their careers.","","","","","","",""
+"in-a4437832cca3b50a","indeed","https://www.indeed.com/viewjob?jk=a4437832cca3b50a","https://click.appcast.io/t/olv4J3OMw-VG_U2SN_ZYvCi6PyjO0ylL7BZyLVkfyEk=","Registered Nurse - RN - Comprehensive Cardiac ICU","Sanford Health","Fargo, ND, US","2026-01-28","fulltime","direct_data","hourly",32.0,48.0,"USD",False,"","","","talent@sanfordhealth.org","Careers With Purpose  
 
   
 
@@ -4830,29 +4104,8 @@ Sanford Health has a Drug Free Workplace Policy. An accepted offer will require 
 **Job Function:** Nursing
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/olv4J3OMw-VG_U2SN_ZYvCi6PyjO0ylL7BZyLVkfyEk=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a4437832cca3b50a</description>
-      <companyName>Sanford Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Fargo, ND, US</jobLocation>
-      <salaryMin>32</salaryMin>
-      <salaryMax>48</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Procedures - Maternal Fetal Medicine - PRN at Sanford Health</title>
-      <link>https://click.appcast.io/t/mPie3-dIhi6i1ORLJWr_VtpMZaSCbM_07-_jIGKdTO0=</link>
-      <guid isPermaLink="false">Sanford Health-RN Procedures - Maternal Fetal Medicine - PRN-Sioux Falls, SD, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Sioux Falls, SD, US
-🏠 Work: On-site
-💰 Salary: USD 29 - 44 (hourly)
-
-📝 Description: **Careers With Purpose**  
+**Featured:** No","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
+"in-ae6df928d78ea729","indeed","https://www.indeed.com/viewjob?jk=ae6df928d78ea729","https://click.appcast.io/t/mPie3-dIhi6i1ORLJWr_VtpMZaSCbM_07-_jIGKdTO0=","RN Procedures - Maternal Fetal Medicine - PRN","Sanford Health","Sioux Falls, SD, US","2026-01-28","","direct_data","hourly",29.0,44.0,"USD",False,"","","","talent@sanfordhealth.org","**Careers With Purpose**  
 
   
 
@@ -4924,29 +4177,8 @@ Sanford Health has a Drug Free Workplace Policy. An accepted offer will require 
 **Job Function:** Nursing
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/mPie3-dIhi6i1ORLJWr_VtpMZaSCbM_07-_jIGKdTO0=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ae6df928d78ea729</description>
-      <companyName>Sanford Health</companyName>
-      <jobLocation>Sioux Falls, SD, US</jobLocation>
-      <salaryMin>29</salaryMin>
-      <salaryMax>44</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LPN - Gastroenterology Clinic at Sanford Health</title>
-      <link>https://click.appcast.io/t/Ob5Ya_hDtoHhNAhUdIR4__NJI2DfGUSRfsCxcSXTU80=</link>
-      <guid isPermaLink="false">Sanford Health-LPN - Gastroenterology Clinic-Sioux Falls, SD, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Sioux Falls, SD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 21 - 29 (hourly)
-
-📝 Description: Careers With Purpose  
+**Featured:** No","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
+"in-1c8d85b5d10a4f98","indeed","https://www.indeed.com/viewjob?jk=1c8d85b5d10a4f98","https://click.appcast.io/t/Ob5Ya_hDtoHhNAhUdIR4__NJI2DfGUSRfsCxcSXTU80=","LPN - Gastroenterology Clinic","Sanford Health","Sioux Falls, SD, US","2026-01-28","fulltime","direct_data","hourly",21.0,29.0,"USD",False,"","","","talent@sanfordhealth.org","Careers With Purpose  
 
   
 
@@ -5075,30 +4307,8 @@ Sanford Health has a Drug Free Workplace Policy. An accepted offer will require 
 **Job Function:** Nursing
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/Ob5Ya_hDtoHhNAhUdIR4__NJI2DfGUSRfsCxcSXTU80=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1c8d85b5d10a4f98</description>
-      <companyName>Sanford Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Sioux Falls, SD, US</jobLocation>
-      <salaryMin>21</salaryMin>
-      <salaryMax>29</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LPN - License Practical Nurse - 34th &amp; Kiwanis Family Medicine Clinic - FT Days at Sanford Health</title>
-      <link>https://click.appcast.io/t/A8hHCpM46OMlq5BD9r2MkDxmlZ2HpsEAIghFmewJGTw=</link>
-      <guid isPermaLink="false">Sanford Health-LPN - License Practical Nurse - 34th &amp; Kiwanis Family Medicine Clinic - FT Days-Sioux Falls, SD, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Sioux Falls, SD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 21 - 29 (hourly)
-
-📝 Description: Careers With Purpose  
+**Featured:** No","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
+"in-61e880f39b0eb27f","indeed","https://www.indeed.com/viewjob?jk=61e880f39b0eb27f","https://click.appcast.io/t/A8hHCpM46OMlq5BD9r2MkDxmlZ2HpsEAIghFmewJGTw=","LPN - License Practical Nurse - 34th & Kiwanis Family Medicine Clinic - FT Days","Sanford Health","Sioux Falls, SD, US","2026-01-28","fulltime","direct_data","hourly",21.0,29.0,"USD",False,"","","","talent@sanfordhealth.org","Careers With Purpose  
 
   
 
@@ -5110,7 +4320,7 @@ With over 224 clinic locations and 46 medical centers, Sanford Health is one of 
 
   
 
-**Facility:** 34th \\&amp; Kiwanis Clinic
+**Facility:** 34th \\& Kiwanis Clinic
   
 
 **Location:** Sioux Falls, SD
@@ -5210,30 +4420,8 @@ Sanford Health has a Drug Free Workplace Policy. An accepted offer will require 
 **Job Function:** Nursing
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/A8hHCpM46OMlq5BD9r2MkDxmlZ2HpsEAIghFmewJGTw=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=61e880f39b0eb27f</description>
-      <companyName>Sanford Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Sioux Falls, SD, US</jobLocation>
-      <salaryMin>21</salaryMin>
-      <salaryMax>29</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Inpatient - Endoscopy/GI Lab at Sanford Health</title>
-      <link>https://click.appcast.io/t/b0WNlMDJZcP3K2YuzzHmTbc_hSAhKWIcm4MTG8Venko=</link>
-      <guid isPermaLink="false">Sanford Health-RN Inpatient - Endoscopy/GI Lab-Bismarck, ND, US</guid>
-      <pubDate>Wed, 28 Jan 2026 09:31:39 +0000</pubDate>
-      <description>📍 Location: Bismarck, ND, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 32 - 48 (hourly)
-
-📝 Description: Careers With Purpose  
+**Featured:** No","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
+"in-7b90e38d7e89be44","indeed","https://www.indeed.com/viewjob?jk=7b90e38d7e89be44","https://click.appcast.io/t/b0WNlMDJZcP3K2YuzzHmTbc_hSAhKWIcm4MTG8Venko=","RN Inpatient - Endoscopy/GI Lab","Sanford Health","Bismarck, ND, US","2026-01-28","fulltime","direct_data","hourly",32.0,48.0,"USD",False,"","","","talent@sanfordhealth.org","Careers With Purpose  
 
   
 
@@ -5355,18 +4543,4 @@ Sanford Health has a Drug Free Workplace Policy. An accepted offer will require 
 **Job Function:** Nursing
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/b0WNlMDJZcP3K2YuzzHmTbc_hSAhKWIcm4MTG8Venko=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7b90e38d7e89be44</description>
-      <companyName>Sanford Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Bismarck, ND, US</jobLocation>
-      <salaryMin>32</salaryMin>
-      <salaryMax>48</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-  </channel>
-</rss>
+**Featured:** No","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
