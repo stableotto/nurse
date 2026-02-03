@@ -1,23 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Daily Nurse Jobs Feed</title>
-    <description>Daily feed of nursing jobs with direct company application links</description>
-    <link>https://github.com/your-username/your-repo</link>
-    <lastBuildDate>Tue, 03 Feb 2026 09:37:44 +0000</lastBuildDate>
-    <generator>Nurse Job Search Bot</generator>
-    <language>en-us</language>
-    <item>
-      <title>Clinical Nurse - Pediatrics at Valleywise Health</title>
-      <link>https://pm.healthcaresource.com/CS/maricopa/#/job/34825?source=Indeed</link>
-      <guid isPermaLink="false">Valleywise Health-Clinical Nurse - Pediatrics-Phoenix, AZ, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Phoenix, AZ, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 34 - 50 (hourly)
-
-📝 Description: Under the direction of a Nurse Manager (or Executive DON, Ambulatory), a Clinical Nurse provides professional, skilled, age\\-specific nursing care for patients in collaboration with physicians and other disciplines. Performs all aspects of patient care, including but not limited to patient assessment, medication administration, identifying nursing problems, and care plans. Provides or delegates care according to Valleywise Health policies and functions as a client advocate and educator. Completes and processes all required documentation, indirectly supervises ancillary personnel as directed, and participates in team building and quality improvement activities. The position demonstrates professional skills and behaviors to promote comprehensive, cost\\-effective, and meaningful healthcare for consumers in a diverse healthcare environment.
+"id","site","job_board_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type","job_url"
+"in-af41821734435b12","indeed","https://www.indeed.com/viewjob?jk=af41821734435b12","https://pm.healthcaresource.com/CS/maricopa/#/job/34825?source=Indeed","Clinical Nurse - Pediatrics","Valleywise Health","Phoenix, AZ, US","2026-02-03","fulltime","direct_data","hourly",34.0,50.0,"USD",False,"","","","","Under the direction of a Nurse Manager (or Executive DON, Ambulatory), a Clinical Nurse provides professional, skilled, age\\-specific nursing care for patients in collaboration with physicians and other disciplines. Performs all aspects of patient care, including but not limited to patient assessment, medication administration, identifying nursing problems, and care plans. Provides or delegates care according to Valleywise Health policies and functions as a client advocate and educator. Completes and processes all required documentation, indirectly supervises ancillary personnel as directed, and participates in team building and quality improvement activities. The position demonstrates professional skills and behaviors to promote comprehensive, cost\\-effective, and meaningful healthcare for consumers in a diverse healthcare environment.
 **Hourly Pay Rate: $34\\.15 \\- $50\\.37**
 **Qualifications**
 **Education:**
@@ -46,28 +28,8 @@
 
 Location: Valleywise Health System · FQHC Pediatric Clinic \\- Phoenix  
 
-Schedule: Regular FT 40 Hours Per Week, Days
-🔗 Apply Direct: https://pm.healthcaresource.com/CS/maricopa/#/job/34825?source=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=af41821734435b12</description>
-      <companyName>Valleywise Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Phoenix, AZ, US</jobLocation>
-      <salaryMin>34</salaryMin>
-      <salaryMax>50</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN PRN) at Wellpath</title>
-      <link>https://careers-wellpath.icims.com/jobs/184328/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Wellpath-Registered Nurse (RN PRN)-Madera, CA, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Madera, CA, US
-🏠 Work: On-site
-
-📝 Description: **You Matter**:
+Schedule: Regular FT 40 Hours Per Week, Days","","https://www.indeed.com/cmp/Valleywise-Health-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/230dc16eb02cdc664b2dea8d557b4a10","https://jobs.valleywisehealth.org/","","1,001 to 5,000","$100M to $500M (USD)","Valleywise Health was established in 1877 as a place to care for the sick in the rapidly-growing area of Maricopa County. Since then, we’ve continued to provide exceptional care to the people of AZ.","","","","","","",""
+"in-0f06f0e06fe27339","indeed","https://www.indeed.com/viewjob?jk=0f06f0e06fe27339","https://careers-wellpath.icims.com/jobs/184328/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse (RN PRN)","Wellpath","Madera, CA, US","2026-02-03","","","hourly","","","USD",False,"","","","","**You Matter**:
 * Make a difference every day in the lives of the underserved
 * Join a mission driven organization with a people first culture
 * Excellent career growth opportunities
@@ -128,7 +90,7 @@ As a Registered Nurse (RN), your primary responsibility is to provide patient ca
 
   
 
-**Qualifications \\&amp; Requirements**:
+**Qualifications \\& Requirements**:
 
 Education* Graduate from an accredited school of nursing.
 
@@ -153,26 +115,8 @@ We celebrate a variety of backgrounds and are committed to creating an inclusive
 
 Deadline to apply to this position is contingent upon applicant volume. Those positions located in Colorado will have a specific deadline posted in the job description.  
 
-We are an Affirmative Action Employer in accordance with applicable state and local laws.
-🔗 Apply Direct: https://careers-wellpath.icims.com/jobs/184328/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=0f06f0e06fe27339</description>
-      <companyName>Wellpath</companyName>
-      <jobLocation>Madera, CA, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Vocational Nurse at Wellpath</title>
-      <link>https://careers-wellpath.icims.com/jobs/184351/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Wellpath-Licensed Vocational Nurse-Merced, CA, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Merced, CA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **You Matter**:
+We are an Affirmative Action Employer in accordance with applicable state and local laws.","","https://www.indeed.com/cmp/Wellpath","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/38b44e169e08e7dd16c107ce305124bd","http://www.wellpathcare.com","Nashville, TN","10,000+","$1B to $5B (USD)","We are Wellpath. We are the right people, striving to do the right thing. We will continue to create healthier communities—wherever we go, wherever we grow—one patient at a time.","","","","","","",""
+"in-aa3e68da2430f77e","indeed","https://www.indeed.com/viewjob?jk=aa3e68da2430f77e","https://careers-wellpath.icims.com/jobs/184351/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Licensed Vocational Nurse","Wellpath","Merced, CA, US","2026-02-03","fulltime","","","","","",False,"","","","","**You Matter**:
 * Make a difference every day in the lives of the underserved
 * Join a mission driven organization with a people first culture
 * Excellent career growth opportunities
@@ -238,7 +182,7 @@ The Licensed Vocational Nurse (LVN) provides assistance and collects data in the
 
   
 
-**Qualifications \\&amp; Requirements**:
+**Qualifications \\& Requirements**:
 
 Education* Graduate from an accredited School of Nursing
 
@@ -263,25 +207,8 @@ We celebrate a variety of backgrounds and are committed to creating an inclusive
 
 Deadline to apply to this position is contingent upon applicant volume. Those positions located in Colorado will have a specific deadline posted in the job description.  
 
-We are an Affirmative Action Employer in accordance with applicable state and local laws.
-🔗 Apply Direct: https://careers-wellpath.icims.com/jobs/184351/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=aa3e68da2430f77e</description>
-      <companyName>Wellpath</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Merced, CA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Treatment Nurse - RN at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65326/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-Treatment Nurse - RN-Alabaster, AL, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Alabaster, AL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+We are an Affirmative Action Employer in accordance with applicable state and local laws.","","https://www.indeed.com/cmp/Wellpath","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/38b44e169e08e7dd16c107ce305124bd","http://www.wellpathcare.com","Nashville, TN","10,000+","$1B to $5B (USD)","We are Wellpath. We are the right people, striving to do the right thing. We will continue to create healthier communities—wherever we go, wherever we grow—one patient at a time.","","","","","","",""
+"in-e6be328395adcda4","indeed","https://www.indeed.com/viewjob?jk=e6be328395adcda4","https://healthcare-diversicare.icims.com/jobs/65326/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Treatment Nurse - RN","Diversicare Healthcare Services","Alabaster, AL, US","2026-02-03","fulltime","","","","","",False,"","","","","Overview:
 **Discover What’s Possible!**  
 
 At Diversicare, we understand the contributions of every team member are the parts that make up the whole. We appreciate them for the work they do each day to showcase their talents and gifts.  
@@ -337,24 +264,8 @@ Qualifications:
 * Good interpersonal and communication skills; has an interest to perform a service.
 
 
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65326/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e6be328395adcda4</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Alabaster, AL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Nurse RN at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65323/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-Nurse RN-Oak Ridge, TN, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Oak Ridge, TN, US
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-66890c8641077caa","indeed","https://www.indeed.com/viewjob?jk=66890c8641077caa","https://healthcare-diversicare.icims.com/jobs/65323/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Nurse RN","Diversicare Healthcare Services","Oak Ridge, TN, US","2026-02-03","","","","","","",False,"","","","","Overview:
 **Unlock Your Nursing Career Potential at Diversicare!**  
 
 Join Diversicare, where we prioritize the growth and success of our valued team members. Nurses play a pivotal role in our mission to enhance lives through exceptional healthcare, exceeding expectations every step of the way. **Why Choose Diversicare?*** **Clinical Career Progression:** Climb the Clinical Career Ladder, advancing from roles like Charge Nurse to RN Supervisor, Unit Manager, Clinical Educator, Assistant, and Director of Nursing.
@@ -377,23 +288,8 @@ Qualifications:
 * Proficiency in meeting prescribed nursing standards.
 
  *Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.*
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65323/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=66890c8641077caa</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobLocation>Oak Ridge, TN, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LVN LPN at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65322/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-LVN LPN-Oak Ridge, TN, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Oak Ridge, TN, US
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-81223a1755692787","indeed","https://www.indeed.com/viewjob?jk=81223a1755692787","https://healthcare-diversicare.icims.com/jobs/65322/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","LVN LPN","Diversicare Healthcare Services","Oak Ridge, TN, US","2026-02-03","","","","","","",False,"","","","","Overview:
 **At Diversicare, we value our nursing team members and provide opportunities for growth and career advancement.**  
 
 At Diversicare, we prioritize the growth and development of our valued nursing team members. Our Nurses play a pivotal role in our mission to enhance lives through outstanding healthcare, surpassing expectations every step of the way. **Why Choose Diversicare?*** **Clinical Career Advancement:** Elevate your clinical leadership skills with our Clinical Career Ladder, offering progression opportunities to roles like LPN Charge Nurse, LPN Nurse Supervisor, and Unit Manager.
@@ -415,24 +311,8 @@ Qualifications:
 
   
 
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65322/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=81223a1755692787</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobLocation>Oak Ridge, TN, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LVN LPN at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65324/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-LVN LPN-Alabaster, AL, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Alabaster, AL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-69357f6a317c9ef0","indeed","https://www.indeed.com/viewjob?jk=69357f6a317c9ef0","https://healthcare-diversicare.icims.com/jobs/65324/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","LVN LPN","Diversicare Healthcare Services","Alabaster, AL, US","2026-02-03","fulltime","","","","","",False,"","","","","Overview:
 **At Diversicare, we value our nursing team members and provide opportunities for growth and career advancement.**  
 
 At Diversicare, we prioritize the growth and development of our valued nursing team members. Our Nurses play a pivotal role in our mission to enhance lives through outstanding healthcare, surpassing expectations every step of the way. **Why Choose Diversicare?*** **Clinical Career Advancement:** Elevate your clinical leadership skills with our Clinical Career Ladder, offering progression opportunities to roles like LPN Charge Nurse, LPN Nurse Supervisor, and Unit Manager.
@@ -454,25 +334,8 @@ Qualifications:
 
   
 
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65324/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=69357f6a317c9ef0</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Alabaster, AL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Nurse RN at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65325/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-Nurse RN-Alabaster, AL, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Alabaster, AL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-a7f1b80ffdc8366e","indeed","https://www.indeed.com/viewjob?jk=a7f1b80ffdc8366e","https://healthcare-diversicare.icims.com/jobs/65325/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Nurse RN","Diversicare Healthcare Services","Alabaster, AL, US","2026-02-03","fulltime","","","","","",False,"","","","","Overview:
 **Unlock Your Nursing Career Potential at Diversicare!**  
 
 Join Diversicare, where we prioritize the growth and success of our valued team members. Nurses play a pivotal role in our mission to enhance lives through exceptional healthcare, exceeding expectations every step of the way. **Why Choose Diversicare?*** **Clinical Career Progression:** Climb the Clinical Career Ladder, advancing from roles like Charge Nurse to RN Supervisor, Unit Manager, Clinical Educator, Assistant, and Director of Nursing.
@@ -495,25 +358,8 @@ Qualifications:
 * Proficiency in meeting prescribed nursing standards.
 
  *Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.*
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65325/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a7f1b80ffdc8366e</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Alabaster, AL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Treatment Nurse LPN at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65327/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-Treatment Nurse LPN-Alabaster, AL, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Alabaster, AL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-0d2fc48f073b969b","indeed","https://www.indeed.com/viewjob?jk=0d2fc48f073b969b","https://healthcare-diversicare.icims.com/jobs/65327/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Treatment Nurse LPN","Diversicare Healthcare Services","Alabaster, AL, US","2026-02-03","fulltime","","","","","",False,"","","","","Overview:
 **Discover What’s Possible!**  
 
 At Diversicare, we understand the contributions of every team member are the parts that make up the whole. We appreciate them for the work they do each day to showcase their talents and gifts.  
@@ -571,26 +417,8 @@ Qualifications:
 * Good interpersonal and communication skills; has an interest to perform a service.
 
 
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65327/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=0d2fc48f073b969b</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Alabaster, AL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>New Graduate Nurse Residency Medical Telemetry (IMC) at MedStar Health</title>
-      <link>https://careers.medstarhealth.org/careers-home/jobs/158255/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">MedStar Health-New Graduate Nurse Residency Medical Telemetry (IMC)-Baltimore, MD, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Baltimore, MD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 35 - 44 (hourly)
-
-📝 Description: About this Job:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-6327080fb0ba6949","indeed","https://www.indeed.com/viewjob?jk=6327080fb0ba6949","https://careers.medstarhealth.org/careers-home/jobs/158255/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","New Graduate Nurse Residency Medical Telemetry (IMC)","MedStar Health","Baltimore, MD, US","2026-02-03","fulltime","direct_data","hourly",35.0,44.0,"USD",False,"","","","","About this Job:
 **Unit Highlights**
 32 bed unit that provides comprehensive care to a large population of patients with cardiac and medical conditions.  
 
@@ -614,29 +442,8 @@ As a Clinical Nurse, you will provide skilled, compassionate care to patients an
 * Active MD RN License or Active Compact State RN and Basic Life Support for Healthcare providers required (AHA or American Red Cross).
 
 
-This position has a hiring range of : USD $35\\.00 \\- USD $44\\.24 /Hr.
-🔗 Apply Direct: https://careers.medstarhealth.org/careers-home/jobs/158255/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=6327080fb0ba6949</description>
-      <companyName>MedStar Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Baltimore, MD, US</jobLocation>
-      <salaryMin>35</salaryMin>
-      <salaryMax>44</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Ambulatory Pre-Op/PACU - Days - PRN at VCU Health System</title>
-      <link>https://careers.vcuhealth.org/us/en/job/R41369/Registered-Nurse-RN-Ambulatory-Pre-Op-PACU-Days-PRN</link>
-      <guid isPermaLink="false">VCU Health System-Registered Nurse (RN) - Ambulatory Pre-Op/PACU - Days - PRN-Richmond, VA, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Richmond, VA, US
-💼 Type: Parttime
-🏠 Work: On-site
-
-📝 Description: \\*\\*$5,000 sign\\-on bonus for offers accepted by February 28, 2026\\. Terms and conditions apply\\*\\*  
+This position has a hiring range of : USD $35\\.00 \\- USD $44\\.24 /Hr.","","https://www.indeed.com/cmp/Medstar-Health-1d682363","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/1c50aaadf0b0603955eb05eea8bd60b1","https://www.medstarhealth.org/","Columbia, MD","10,000+","Decline to state","At MedStar Health, we use the best of our minds and the best of our hearts to serve our patients, those who care for them, and our communities. It’s how we treat people.","","","","","","",""
+"in-c40994080f135a48","indeed","https://www.indeed.com/viewjob?jk=c40994080f135a48","https://careers.vcuhealth.org/us/en/job/R41369/Registered-Nurse-RN-Ambulatory-Pre-Op-PACU-Days-PRN","Registered Nurse (RN) - Ambulatory Pre-Op/PACU - Days - PRN","VCU Health System","Richmond, VA, US","2026-02-03","parttime","","","","","",False,"","","","","\\*\\*$5,000 sign\\-on bonus for offers accepted by February 28, 2026\\. Terms and conditions apply\\*\\*  
 
   
 
@@ -648,27 +455,10 @@ The Clinical Nurse II job demonstrates a mastery of clinical skills and begins t
 The Clinical Nurse III job demonstrates clinical knowledge at the unit level and begins to apply this knowledge to a specific patient population. This job assists the health care team with the prevention of illness and injury, maintenance of wellness, and provision of comfort. This job anticipates changes in patient situations and intervenes appropriately. This job provides direction, education, and serves as a role model in a clinical setting. This job delivers and accurately documents direct, age\\-specific care to a patient or group of patients based on medical orders and an integrated, multidisciplinary plan of care. This job safely administers prescribed medications, identifying incompatibilities and/or interactions.
 Licensure, Certification, or Registration Requirements for Hire: Clin I, Clin II, Clin III: Current RN licensure in Virginia or eligible or compact state Licensure, Certification, or Registration Requirements for continued employment: Clin I, Clin II, Clin III: Current RN licensure in Virginia, AHA BLS HCP Certification or equivalent Experience REQUIRED: Clin I: N/A Clin II: 12 to 24 months RN experience Clin III: 3 years of clinical experience Experience PREFERRED: Clin I: Experience as an LPN, nursing assistant or care partner in either an acute care setting or as applicable to area of practice Clin II, Clin III: Academic Health Care Experience; Experience with similar patient population in either an acute care setting or as applicable to area of practice Education/training REQUIRED: Clin I, Clin II, Clin III: Diploma or Associates Degree from a professional nursing program recognized and/or approved by the corresponding state’s Board of Nursing. All registered nurses without a Bachelor's degree in Nursing (or higher) will be required to enroll in an approved RN to BSN program within two years of their start date and to complete the program within five years of their start date unless grandfathered under previous requirements. Education/training PREFERRED: Clin I, Clin II, Clin III: Completion of a Bachelor’s Degree in Nursing (or higher) from an accredited program Clin III: Certification in specialty area Independent action(s) required: Follows documented physician/licensed independent provider orders. Practices within the boundaries of the regulations governing the practice of nursing in the Commonwealth of Virginia. Practice is guided by the ANA Code of Ethics for Nursing and established national nursing practice standards. All practice is guided by and follows the VCUHS policies and procedures and established practice. Supervisory responsibilities (if applicable): Clin I, Clin II, Clin III: Organizes work and delegates and supervises others (RN's, LPN's, Care Partners, Unit Secretaries, etc.) in carrying out assignments. Additional position requirements: Clin I, Clin II, Clin III: Clinicians work all three shifts, weekends and holidays. Individual shift rotation and schedules will be established with your specific Nurse Manager/Practice Manager. Schedules, including requirements of shift rotations and hours of work may be adjusted as necessary to meet unit requirements and/or as needed. Age Specific groups served: As appropriate based on unit assignment. Physical Requirements (includes use of assistance devices as appropriate): Physical: Lifting 20\\-50 lbs. Other: Exposure to potentially hazardous and infectious substances Activities: Prolonged standing, Prolonged sitting, Frequent bending, Walking (distance), Climbing (steps, ladder, other), Reaching (overhead, extensive, repetitive) Mental/Sensory: Strong recall, Reasoning, Problem solving, Hearing, Speak clearly, Write legibly, Reading, Logical thinking Emotional: Fast pace environment, Steady pace, Able to handle multiple priorities, Frequent and intense customer interactions, Noisy environment
 Days
-EEO Employer/Disabled/Protected Veteran/41 CFR 60\\-1\\.4\\.
-🔗 Apply Direct: https://careers.vcuhealth.org/us/en/job/R41369/Registered-Nurse-RN-Ambulatory-Pre-Op-PACU-Days-PRN
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c40994080f135a48</description>
-      <companyName>VCU Health System</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Richmond, VA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinical Nurse II- Med/SurgTelemetry - Irvine (5)- FT, Night Shift at UC Irvine Health</title>
-      <link>https://jobs.uci.edu/jobs/140424/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">UC Irvine Health-Clinical Nurse II- Med/SurgTelemetry - Irvine (5)- FT, Night Shift-Irvine, CA, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Irvine, CA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 67 - 92 (hourly)
-
-📝 Description: Overview:
-**UCI Health** is the clinical enterprise of the University of California, Irvine, and the only academic health system based in Orange County. UCI Health is comprised of its main campus, UCI Medical Center, a 459\\-bed, acute care hospital in in Orange, Calif., four hospitals and affiliated physicians of the UCI Health Community Network in Orange and Los Angeles counties and ambulatory care centers across the region. Listed among America’s Best Hospitals by U.S. News \\&amp; World Report for 23 consecutive years, UCI Medical Center provides tertiary and quaternary care and is home to Orange County’s only National Cancer Institute\\-designated comprehensive cancer center, high\\-risk perinatal/neonatal program and American College of Surgeons\\-verified Level I adult and Level II pediatric trauma center, gold level 1 geriatric emergency department and regional burn center. UCI Health serves a region of nearly 4 million people in Orange County, western Riverside County and southeast Los Angeles County.
+EEO Employer/Disabled/Protected Veteran/41 CFR 60\\-1\\.4\\.","Health Care","https://www.indeed.com/cmp/Vcu-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cca655a2fd1ab83219fbffa76f85fc1f","http://careers.vcuhealth.org","1250 E Marshall Street
+Richmond, VA 23219","10,000+","$500M to $1B (USD)","We are a strong, passionate organization of more than 13,000 who take pride in caring for every person who come through our doors.","","","","","","",""
+"in-971675022e57f1c0","indeed","https://www.indeed.com/viewjob?jk=971675022e57f1c0","https://jobs.uci.edu/jobs/140424/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Clinical Nurse II- Med/SurgTelemetry - Irvine (5)- FT, Night Shift","UC Irvine Health","Irvine, CA, US","2026-02-03","fulltime","direct_data","hourly",67.0,92.0,"USD",False,"","","","eec@uci.edu","Overview:
+**UCI Health** is the clinical enterprise of the University of California, Irvine, and the only academic health system based in Orange County. UCI Health is comprised of its main campus, UCI Medical Center, a 459\\-bed, acute care hospital in in Orange, Calif., four hospitals and affiliated physicians of the UCI Health Community Network in Orange and Los Angeles counties and ambulatory care centers across the region. Listed among America’s Best Hospitals by U.S. News \\& World Report for 23 consecutive years, UCI Medical Center provides tertiary and quaternary care and is home to Orange County’s only National Cancer Institute\\-designated comprehensive cancer center, high\\-risk perinatal/neonatal program and American College of Surgeons\\-verified Level I adult and Level II pediatric trauma center, gold level 1 geriatric emergency department and regional burn center. UCI Health serves a region of nearly 4 million people in Orange County, western Riverside County and southeast Los Angeles County.
 To learn more about UCI Health, visit www.ucihealth.org.
 Responsibilities:
 **Position Summary:**The clinical nurse will collaborate with interdisciplinary teams to develop and implement a plan of care for a specific group of assigned patients. Performs professional nursing duties that incorporate the psychomotor and age appropriate cognitive skills of the patient/family/significant other to assess, plan, intervene and advocate for the patient on an ongoing basis throughout the continuum of care. Will evaluate patient outcomes, effectiveness of plan of care, and readiness for discharge and revise plan or make referrals as necessary. Acts as a role model and mentor to a variety of students and nurses new to the unit. Functions as a (PCC) Patient Care Coordinator as requested by the supervisor/manager.
@@ -719,35 +509,14 @@ We are committed to attracting and retaining a diverse workforce along with hono
 
   
 
-UCI provides reasonable accommodations for applicants with disabilities upon request. For more information, please contact UCI's Employee Experience Center (EEC) at eec@uci.edu or at (949\\) 824\\-0500, Monday \\- Friday from 8:30 a.m. \\- 5:00 p.m.
-🔗 Apply Direct: https://jobs.uci.edu/jobs/140424/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=971675022e57f1c0</description>
-      <companyName>UC Irvine Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Irvine, CA, US</jobLocation>
-      <salaryMin>67</salaryMin>
-      <salaryMax>92</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse (LPN) at Signature HealthCARE LLC</title>
-      <link>https://signaturehealthcarejobs.com/jobs/24650/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Signature HealthCARE LLC-Licensed Practical Nurse (LPN)-Elizabethtown, KY, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Elizabethtown, KY, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: About Us :
+UCI provides reasonable accommodations for applicants with disabilities upon request. For more information, please contact UCI's Employee Experience Center (EEC) at eec@uci.edu or at (949\\) 824\\-0500, Monday \\- Friday from 8:30 a.m. \\- 5:00 p.m.","Health Care","https://www.indeed.com/cmp/Uc-Irvine-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f719f6d113695ec78bc684eac0982507","http://careers.ucirvinehealth.org/","Orange, CA","1,001 to 5,000","","UC Irvine Health is committed to attracting talented employees to continue to build on the organization's strengths and achievements.","","","","","","",""
+"in-dbfa6508657e6a6a","indeed","https://www.indeed.com/viewjob?jk=dbfa6508657e6a6a","https://signaturehealthcarejobs.com/jobs/24650/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Licensed Practical Nurse (LPN)","Signature HealthCARE LLC","Elizabethtown, KY, US","2026-02-03","fulltime","","hourly","","","USD",False,"","","","","About Us :
 
 Signature HealthCARE of Elizabethtown is a 112\\-bed facility offering short\\-term rehabilitative care as well as long\\-term care. It is our mission as a family\\-based organization to revolutionize the healthcare industry through a culture of resident centered healthcare services, personalized spirituality, and real quality of life initiatives.
 About Signature :
 **Signature HealthCARE** is a family\\-based healthcare company offering integrated services across multiple states. Our continuum of care includes skilled nursing, rehabilitation, assisted and memory care, and home\\-based services supported by innovative technologies like telehealth and Care.ai\\-enabled solutions.  
 
-We are committed to advancing person\\-directed care and quality outcomes. Many of our facilities continue to receive high performance ratings and accreditations. As an award\\-winning organization recognized over the years by national outlets such as *U.S. News \\&amp; World Report*, we take pride in fostering compassionate care environments and being an employer of choice in the healthcare industry.
+We are committed to advancing person\\-directed care and quality outcomes. Many of our facilities continue to receive high performance ratings and accreditations. As an award\\-winning organization recognized over the years by national outlets such as *U.S. News \\& World Report*, we take pride in fostering compassionate care environments and being an employer of choice in the healthcare industry.
 Overview:
 **Are you a caring LPN looking to make strong connections and an impact on patients?**  
 
@@ -782,7 +551,7 @@ Our exceptional Benefits Package and Signature Perks include the following and m
 * Uniform Allowance (Seventy\\-Five Dollars) for first\\-time newly hired stakeholders and continuous allotment
 * Pay Advance and Next Day Pay!
 * Paid Time Off (PTO)
-* Reward \\&amp; Recognition Program (HEART)
+* Reward \\& Recognition Program (HEART)
 * VitalLinks
 * Signature Inspire Foundation – providing a safety net for our stakeholders
 
@@ -802,27 +571,8 @@ Each pillar has its own staff and initiatives, ensuring that our unique culture 
 Signature HealthCARE is an Equal Opportunity\\-Affirmative Action Employer – Minority / Female / Disability / Veteran and other protected categories
 
 
-Pay Range: Up to USD $29\\.59/Hr. Hashtag : \\#LI\\-NK1
-🔗 Apply Direct: https://signaturehealthcarejobs.com/jobs/24650/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=dbfa6508657e6a6a</description>
-      <companyName>Signature HealthCARE LLC</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Elizabethtown, KY, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at Catholic Health</title>
-      <link>https://jobs.chsli.org/jobs/66514/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Catholic Health-Registered Nurse-Rockville Centre, NY, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Rockville Centre, NY, US
-🏠 Work: On-site
-💰 Salary: USD 54 - 74 (hourly)
-
-📝 Description: Overview:
+Pay Range: Up to USD $29\\.59/Hr. Hashtag : \\#LI\\-NK1","","https://www.indeed.com/cmp/Signature-Healthcare-LLC-6","","http://ltcrevolution.com/","","5,001 to 10,000","Decline to state","Signature HealthCARE has a vision to radically change the landscape of health care to transform lives.","","","","","","",""
+"in-cdfd15ff9afc9d34","indeed","https://www.indeed.com/viewjob?jk=cdfd15ff9afc9d34","https://jobs.chsli.org/jobs/66514/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse","Catholic Health","Rockville Centre, NY, US","2026-02-03","","direct_data","hourly",54.0,74.0,"USD",False,"","","","","Overview:
 
 At Catholic Health, our primary focus is the way we treat and serve our communities. We work collaboratively to provide compassionate care and utilize evidence based practice to improve outcomes – to every patient, every time.
 We are committed to caring for Long Island. Be a part of our team of healthcare heroes.
@@ -844,28 +594,8 @@ Posted Salary Range: USD $54\\.48 \\- USD $74\\.72 /Hr. :
 
 This range serves as a good faith estimate and actual pay will encompass a number of factors, including a candidate’s qualifications, skills, competencies and experience. The salary range or rate listed does not include any bonuses/incentive, differential pay or other forms of compensation that may be applicable to this job and it does not include the value of benefits.  
 
-At Catholic Health, we believe in a people\\-first approach. In addition to the estimated base pay provided, Catholic Health offers generous benefits packages, generous tuition assistance, a defined benefit pension plan, and a culture that supports professional and educational growth.
-🔗 Apply Direct: https://jobs.chsli.org/jobs/66514/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=cdfd15ff9afc9d34</description>
-      <companyName>Catholic Health</companyName>
-      <jobLocation>Rockville Centre, NY, US</jobLocation>
-      <salaryMin>54</salaryMin>
-      <salaryMax>74</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at Catholic Health</title>
-      <link>https://jobs.chsli.org/jobs/66518/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Catholic Health-Registered Nurse-Rockville Centre, NY, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Rockville Centre, NY, US
-🏠 Work: On-site
-💰 Salary: USD 54 - 74 (hourly)
-
-📝 Description: Overview:
+At Catholic Health, we believe in a people\\-first approach. In addition to the estimated base pay provided, Catholic Health offers generous benefits packages, generous tuition assistance, a defined benefit pension plan, and a culture that supports professional and educational growth.","Health Care","https://www.indeed.com/cmp/Catholic-Health-4","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8b5e260d6ccf0c6fac24a2bcb08fda83","https://jobs.chsli.org/","992 N Village Ave, Rockville Centre, NY 11570","10,000+","$1B to $5B (USD)","As a member of the CHS team, you will enjoy a career that is rewarding and challenging and allows you to make a real difference in others’ lives as you advance your own career.","","","","","","",""
+"in-125d8c12dcd6e0cc","indeed","https://www.indeed.com/viewjob?jk=125d8c12dcd6e0cc","https://jobs.chsli.org/jobs/66518/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse","Catholic Health","Rockville Centre, NY, US","2026-02-03","","direct_data","hourly",54.0,74.0,"USD",False,"","","","","Overview:
 
 At Catholic Health, our primary focus is the way we treat and serve our communities. We work collaboratively to provide compassionate care and utilize evidence based practice to improve outcomes – to every patient, every time.
 We are committed to caring for Long Island. Be a part of our team of healthcare heroes.
@@ -887,50 +617,11 @@ Posted Salary Range: USD $54\\.48 \\- USD $74\\.72 /Hr. :
 
 This range serves as a good faith estimate and actual pay will encompass a number of factors, including a candidate’s qualifications, skills, competencies and experience. The salary range or rate listed does not include any bonuses/incentive, differential pay or other forms of compensation that may be applicable to this job and it does not include the value of benefits.  
 
-At Catholic Health, we believe in a people\\-first approach. In addition to the estimated base pay provided, Catholic Health offers generous benefits packages, generous tuition assistance, a defined benefit pension plan, and a culture that supports professional and educational growth.
-🔗 Apply Direct: https://jobs.chsli.org/jobs/66518/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=125d8c12dcd6e0cc</description>
-      <companyName>Catholic Health</companyName>
-      <jobLocation>Rockville Centre, NY, US</jobLocation>
-      <salaryMin>54</salaryMin>
-      <salaryMax>74</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse Per Diem at Catholic Health</title>
-      <link>https://jobs.chsli.org/jobs/66513/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Catholic Health-Registered Nurse Per Diem-Rockville Centre, NY, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Rockville Centre, NY, US
-💼 Type: Perdiem
-🏠 Work: On-site
+At Catholic Health, we believe in a people\\-first approach. In addition to the estimated base pay provided, Catholic Health offers generous benefits packages, generous tuition assistance, a defined benefit pension plan, and a culture that supports professional and educational growth.","Health Care","https://www.indeed.com/cmp/Catholic-Health-4","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8b5e260d6ccf0c6fac24a2bcb08fda83","https://jobs.chsli.org/","992 N Village Ave, Rockville Centre, NY 11570","10,000+","$1B to $5B (USD)","As a member of the CHS team, you will enjoy a career that is rewarding and challenging and allows you to make a real difference in others’ lives as you advance your own career.","","","","","","",""
+"in-811b177a809728fc","indeed","https://www.indeed.com/viewjob?jk=811b177a809728fc","https://jobs.chsli.org/jobs/66513/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse Per Diem","Catholic Health","Rockville Centre, NY, US","2026-02-03","perdiem","","hourly","","","USD",False,"","","","","**Posted Salary Range:**  
 
-📝 Description: **Posted Salary Range:**  
-
-USD $58\\.43 \\- USD $58\\.43 /Hr.
-🔗 Apply Direct: https://jobs.chsli.org/jobs/66513/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=811b177a809728fc</description>
-      <companyName>Catholic Health</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Rockville Centre, NY, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Vocational Nurse - LVN Needed! at Cambrian Homecare</title>
-      <link>https://careers-cambrianhomecare.icims.com/jobs/2336/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Cambrian Homecare-Licensed Vocational Nurse - LVN Needed!-Lakewood, CA, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Lakewood, CA, US
-💼 Type: Parttime
-🏠 Work: On-site
-
-📝 Description: Overview:
+USD $58\\.43 \\- USD $58\\.43 /Hr.","Health Care","https://www.indeed.com/cmp/Catholic-Health-4","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8b5e260d6ccf0c6fac24a2bcb08fda83","https://jobs.chsli.org/","992 N Village Ave, Rockville Centre, NY 11570","10,000+","$1B to $5B (USD)","As a member of the CHS team, you will enjoy a career that is rewarding and challenging and allows you to make a real difference in others’ lives as you advance your own career.","","","","","","",""
+"in-42a0eea9a3f3ed35","indeed","https://www.indeed.com/viewjob?jk=42a0eea9a3f3ed35","https://careers-cambrianhomecare.icims.com/jobs/2336/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Licensed Vocational Nurse - LVN Needed!","Cambrian Homecare","Lakewood, CA, US","2026-02-03","parttime","","hourly","","","USD",False,"","","","","Overview:
 
 PROVIDE ONE ON ONE SKILLED CARE TO CHILDREN OF ALL AGES WHO HAVE DEVELOPMENTAL DISABILITIES  
 
@@ -939,7 +630,7 @@ Weekends Varies Shifts!! **What Cambrian can do for you!*** **SCHEDULE FLEXIBILI
 * **OPPORTUNITIES FOR GROWTH!** As we continue to grow, you can grow with us! Employee recognition!
 * **SUPPORTIVE OFFICE TEAM:** We are not just a job, we are family. We are available 24/7 FOR YOU!
 * **SICK PAY!**
-* **REFERRAL BONUS**\\-Refer a friend \\&amp; get a bonus!
+* **REFERRAL BONUS**\\-Refer a friend \\& get a bonus!
 * **DISCOUNTS**\\- on restaurants, amusement parks, movie tickets, and more!
 
  **Pay rate:** $35\\.00 hourly
@@ -966,27 +657,8 @@ Qualifications:
  *We are an equal opportunity employer and prohibit discrimination/harassment without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.*  
 
 *\\#ZR*
-Posted Min Pay Rate: USD $35\\.00/Hr. Posted Max Pay Rate: USD $35\\.00/Hr.
-🔗 Apply Direct: https://careers-cambrianhomecare.icims.com/jobs/2336/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=42a0eea9a3f3ed35</description>
-      <companyName>Cambrian Homecare</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Lakewood, CA, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN, IP Rehab FT Nights at Baptist Health</title>
-      <link>https://careers-baptisthealthal.icims.com/jobs/271786/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Baptist Health-RN, IP Rehab FT Nights-Homewood, AL, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Homewood, AL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Position Summary: **Baptist Health Brookwood Hospital**  
+Posted Min Pay Rate: USD $35\\.00/Hr. Posted Max Pay Rate: USD $35\\.00/Hr.","","https://www.indeed.com/cmp/Cambrian-Homecare","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b3055838548819993aa52421db1aeb2d","https://www.cambrianhomecare.com","Long Beach, CA","Decline to state","Decline to state","Cambrian Homecare is recognized as a caring and capable employer, always working to improve services and systems to assist caregivers and clients.","","","","","","",""
+"in-746312293204ca11","indeed","https://www.indeed.com/viewjob?jk=746312293204ca11","https://careers-baptisthealthal.icims.com/jobs/271786/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN, IP Rehab FT Nights","Baptist Health","Homewood, AL, US","2026-02-03","fulltime","","","","","",False,"","","","","Position Summary: **Baptist Health Brookwood Hospital**  
 
 Serving the Homewood community, Baptist Health Brookwood Hospital is a 595\\-bed acute\\-care hospital located in Birmingham, Alabama. The facility offers a full complement of services, including emergency care, cardiovascular care, bariatrics, orthopedics and rehabilitation, and surgical services. It also is one of the largest providers of psychiatric care in the state. The hospital has earned Primary Stroke Center certification from The Joint Commission, and its bariatric program has been accredited as a Comprehensive Center by the Metabolic and Bariatric Surgery Accreditation and Quality Improvement Program (MBSAQIP). The Women’s Medical Center provides comprehensive women’s services through all stages of life, including gynecologic surgery, maternity care, and labor and delivery services. Additionally, the Level III Neonatal Intensive Care Unit (NICU) holds Advanced Certification in Perinatal Care from The Joint Commission.  
 
@@ -1013,7 +685,7 @@ one and offer flexibility wherever possible, so that you can be present for your
 * Paid Parental Leave
 * Pet Insurance
 * Car Insurance
-* Educational benefits including tuition reimbursement \\&amp; student loan assistance
+* Educational benefits including tuition reimbursement \\& student loan assistance
 * All benefits start day one
 
   
@@ -1045,25 +717,8 @@ Responsibilities:
 
 
 Qualifications:
-**Education/Training****:**Graduate of an approved school of nursing. Meets all mandatory, developmental, and performance competency requirements for Baptist Health, Orlando Health, and assigned unit/department.**Licensure/Certification****:**Maintains current State of Alabama RN license or valid eNLC multistate RN license Maintains current BLS/Healthcare Provider certification. ACLS, NRP, PALS, TNCC are required for certain areas.
-🔗 Apply Direct: https://careers-baptisthealthal.icims.com/jobs/271786/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=746312293204ca11</description>
-      <companyName>Baptist Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Homewood, AL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN, Ortho/Spine Full-time Nights at Baptist Health</title>
-      <link>https://careers-baptisthealthal.icims.com/jobs/265504/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Baptist Health-RN, Ortho/Spine Full-time Nights-Homewood, AL, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Homewood, AL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Position Summary: **Baptist Health Brookwood Hospital**  
+**Education/Training****:**Graduate of an approved school of nursing. Meets all mandatory, developmental, and performance competency requirements for Baptist Health, Orlando Health, and assigned unit/department.**Licensure/Certification****:**Maintains current State of Alabama RN license or valid eNLC multistate RN license Maintains current BLS/Healthcare Provider certification. ACLS, NRP, PALS, TNCC are required for certain areas.","","https://www.indeed.com/cmp/Baptist-Health-6d0840b4","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/74fab3c87fdeea34b5d6bf74411bb8b7","","","Decline to state","Decline to state","Baptist Health is dedicated to guiding our patients — as well as our team members and the community — toward their optimal health and well-being. ","","","","","","",""
+"in-1939c4308a1e56cc","indeed","https://www.indeed.com/viewjob?jk=1939c4308a1e56cc","https://careers-baptisthealthal.icims.com/jobs/265504/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN, Ortho/Spine Full-time Nights","Baptist Health","Homewood, AL, US","2026-02-03","fulltime","","","","","",False,"","","","","Position Summary: **Baptist Health Brookwood Hospital**  
 
 Serving the Homewood community, Baptist Health Brookwood Hospital is a 595\\-bed acute\\-care hospital located in Birmingham, Alabama. The facility offers a full complement of services, including emergency care, cardiovascular care, bariatrics, orthopedics and rehabilitation, and surgical services. It also is one of the largest providers of psychiatric care in the state. The hospital has earned Primary Stroke Center certification from The Joint Commission, and its bariatric program has been accredited as a Comprehensive Center by the Metabolic and Bariatric Surgery Accreditation and Quality Improvement Program (MBSAQIP). The Women’s Medical Center provides comprehensive women’s services through all stages of life, including gynecologic surgery, maternity care, and labor and delivery services. Additionally, the Level III Neonatal Intensive Care Unit (NICU) holds Advanced Certification in Perinatal Care from The Joint Commission.  
 
@@ -1096,7 +751,7 @@ one and offer flexibility wherever possible, so that you can be present for your
 * Paid Parental Leave
 * Pet Insurance
 * Car Insurance
-* Educational benefits including tuition reimbursement \\&amp; student loan assistance
+* Educational benefits including tuition reimbursement \\& student loan assistance
 * All benefits start day one
 
 **Schedule: 3 twelves on nights****Time: 6:45 PM\\- 7:15 AM****Weekend: Every 3rd weekend**
@@ -1132,25 +787,8 @@ Responsibilities:
 
 
 Qualifications:
-**Education/Training****:** Graduate of an approved school of nursing. Meets all mandatory, developmental, and performance competency requirements for Baptist Health, Orlando Health, and assigned unit/department.**Licensure/Certification****:** Maintains current State of Alabama RN license or valid eNLC multistate RN license Maintains current BLS/Healthcare Provider certification. ACLS, NRP, PALS, TNCC are required for certain areas. NRP required for Neonatal Intensive care Unit (NICU).
-🔗 Apply Direct: https://careers-baptisthealthal.icims.com/jobs/265504/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1939c4308a1e56cc</description>
-      <companyName>Baptist Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Homewood, AL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN, Ortho/Spine Full-time Days at Baptist Health</title>
-      <link>https://careers-baptisthealthal.icims.com/jobs/265493/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Baptist Health-RN, Ortho/Spine Full-time Days-Homewood, AL, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Homewood, AL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Position Summary: **Baptist Health Brookwood Hospital**  
+**Education/Training****:** Graduate of an approved school of nursing. Meets all mandatory, developmental, and performance competency requirements for Baptist Health, Orlando Health, and assigned unit/department.**Licensure/Certification****:** Maintains current State of Alabama RN license or valid eNLC multistate RN license Maintains current BLS/Healthcare Provider certification. ACLS, NRP, PALS, TNCC are required for certain areas. NRP required for Neonatal Intensive care Unit (NICU).","","https://www.indeed.com/cmp/Baptist-Health-6d0840b4","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/74fab3c87fdeea34b5d6bf74411bb8b7","","","Decline to state","Decline to state","Baptist Health is dedicated to guiding our patients — as well as our team members and the community — toward their optimal health and well-being. ","","","","","","",""
+"in-badd12daec9fdd4c","indeed","https://www.indeed.com/viewjob?jk=badd12daec9fdd4c","https://careers-baptisthealthal.icims.com/jobs/265493/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN, Ortho/Spine Full-time Days","Baptist Health","Homewood, AL, US","2026-02-03","fulltime","","","","","",False,"","","","","Position Summary: **Baptist Health Brookwood Hospital**  
 
 Serving the Homewood community, Baptist Health Brookwood Hospital is a 595\\-bed acute\\-care hospital located in Birmingham, Alabama. The facility offers a full complement of services, including emergency care, cardiovascular care, bariatrics, orthopedics and rehabilitation, and surgical services. It also is one of the largest providers of psychiatric care in the state. The hospital has earned Primary Stroke Center certification from The Joint Commission, and its bariatric program has been accredited as a Comprehensive Center by the Metabolic and Bariatric Surgery Accreditation and Quality Improvement Program (MBSAQIP). The Women’s Medical Center provides comprehensive women’s services through all stages of life, including gynecologic surgery, maternity care, and labor and delivery services. Additionally, the Level III Neonatal Intensive Care Unit (NICU) holds Advanced Certification in Perinatal Care from The Joint Commission.  
 
@@ -1183,7 +821,7 @@ one and offer flexibility wherever possible, so that you can be present for your
 * Paid Parental Leave
 * Pet Insurance
 * Car Insurance
-* Educational benefits including tuition reimbursement \\&amp; student loan assistance
+* Educational benefits including tuition reimbursement \\& student loan assistance
 * All benefits start day one
 
 **Schedule: 3 twelves on Days****Time: 6:45 AM\\- 7:15 PM****Weekend: Every 3rd weekend**
@@ -1219,26 +857,8 @@ Responsibilities:
 
 
 Qualifications:
-**Education/Training****:** Graduate of an approved school of nursing. Meets all mandatory, developmental, and performance competency requirements for Baptist Health, Orlando Health, and assigned unit/department.**Licensure/Certification****:** Maintains current State of Alabama RN license or valid eNLC multistate RN license Maintains current BLS/Healthcare Provider certification. ACLS, NRP, PALS, TNCC are required for certain areas. NRP required for Neonatal Intensive care Unit (NICU).
-🔗 Apply Direct: https://careers-baptisthealthal.icims.com/jobs/265493/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=badd12daec9fdd4c</description>
-      <companyName>Baptist Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Homewood, AL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Dispensing Nurse - LPN at BayMark Health Services</title>
-      <link>https://careers.baymark.com/jobs/16996119-dispensing-nurse-lpn?tm_job=2025-5667&amp;tm_event=view&amp;tm_company=14099</link>
-      <guid isPermaLink="false">BayMark Health Services-Dispensing Nurse - LPN-New Bedford, MA, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: New Bedford, MA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 30 - 33 (hourly)
-
-📝 Description: **Description**  
+**Education/Training****:** Graduate of an approved school of nursing. Meets all mandatory, developmental, and performance competency requirements for Baptist Health, Orlando Health, and assigned unit/department.**Licensure/Certification****:** Maintains current State of Alabama RN license or valid eNLC multistate RN license Maintains current BLS/Healthcare Provider certification. ACLS, NRP, PALS, TNCC are required for certain areas. NRP required for Neonatal Intensive care Unit (NICU).","","https://www.indeed.com/cmp/Baptist-Health-6d0840b4","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/74fab3c87fdeea34b5d6bf74411bb8b7","","","Decline to state","Decline to state","Baptist Health is dedicated to guiding our patients — as well as our team members and the community — toward their optimal health and well-being. ","","","","","","",""
+"in-b0db44aabdcbfe93","indeed","https://www.indeed.com/viewjob?jk=b0db44aabdcbfe93","https://careers.baymark.com/jobs/16996119-dispensing-nurse-lpn?tm_job=2025-5667&tm_event=view&tm_company=14099","Dispensing Nurse - LPN","BayMark Health Services","New Bedford, MA, US","2026-02-03","fulltime","direct_data","hourly",30.0,33.0,"USD",False,"","","","","**Description**  
 
 
 
@@ -1272,9 +892,9 @@ Responsibilities:
 Qualifications:
 
 
-* Current \\&amp; good standing LPN/LVN license in the State of Massachusetts
+* Current \\& good standing LPN/LVN license in the State of Massachusetts
 * Current CPR certification required
-* EMR \\&amp; computer proficiency desired
+* EMR \\& computer proficiency desired
 * Experience in chemical dependency preferred, self\\-motivated and directed, must have a positive attitude toward individuals in substance abuse treatment.
 * Satisfactory drug screen and criminal background check.
 
@@ -1293,14 +913,14 @@ BayMark offers excellent benefits:
 * 401K match
 * Medical, Dental, Vision Insurance
 * Voluntary Worksite Benefits (i.e., Accidental Injury)
-* Company paid Short \\&amp; Long Term Disability
+* Company paid Short \\& Long Term Disability
 * Company paid Basic Life Insurance
 * Paid Time Off
 * Bereavement Leave
 * Flexible Sick Time
 * Employee Referral Program
 * BayMark Perks Program
-* Jury Duty \\&amp; Witness Duty Leave
+* Jury Duty \\& Witness Duty Leave
 * BayMark University Learning
 
   
@@ -1312,30 +932,8 @@ Health Care Resource Center, a progressive substance abuse treatment organizatio
 
 
 
-Health Care Resource Center is committed to Equal Employment Opportunity (EEO) and to compliance with all Federal, State and local laws that prohibit employment discrimination on the basis of race, color, age, natural origin, ethnicity, religion, gender, pregnancy, marital status, sexual orientation, citizenship, genetic disposition, disability or veteran’s status or any other classification protected by State/Federal laws.
-🔗 Apply Direct: https://careers.baymark.com/jobs/16996119-dispensing-nurse-lpn?tm_job=2025-5667&amp;tm_event=view&amp;tm_company=14099
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b0db44aabdcbfe93</description>
-      <companyName>BayMark Health Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>New Bedford, MA, US</jobLocation>
-      <salaryMin>30</salaryMin>
-      <salaryMax>33</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Dispensing Nurse - LPN at BayMark Health Services</title>
-      <link>https://careers.baymark.com/jobs/16996190-dispensing-nurse-lpn?tm_job=2025-5721&amp;tm_event=view&amp;tm_company=14099</link>
-      <guid isPermaLink="false">BayMark Health Services-Dispensing Nurse - LPN-Newport, VT, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Newport, VT, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 29 - 29 (hourly)
-
-📝 Description: **Description**  
+Health Care Resource Center is committed to Equal Employment Opportunity (EEO) and to compliance with all Federal, State and local laws that prohibit employment discrimination on the basis of race, color, age, natural origin, ethnicity, religion, gender, pregnancy, marital status, sexual orientation, citizenship, genetic disposition, disability or veteran’s status or any other classification protected by State/Federal laws.","Health Care","https://www.indeed.com/cmp/Baymark-Health-Services","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ef5af2acd2fd944ac5632af577045b9c","https://baymark.com/","Lewisville","1,001 to 5,000","","What is Methadone? Methadone is a synthetic opioid agonist that blocks the receptors in the brain that are affected by heroin and prescri","","","","","","",""
+"in-d58c4355a981d8a6","indeed","https://www.indeed.com/viewjob?jk=d58c4355a981d8a6","https://careers.baymark.com/jobs/16996190-dispensing-nurse-lpn?tm_job=2025-5721&tm_event=view&tm_company=14099","Dispensing Nurse - LPN","BayMark Health Services","Newport, VT, US","2026-02-03","perdiem","direct_data","hourly",29.0,29.0,"USD",False,"","","","","**Description**  
 
 
 
@@ -1369,9 +967,9 @@ Responsibilities:
 Qualifications:
 
 
-* Current \\&amp; good standing LPN/LVN license in the State of Vermont
+* Current \\& good standing LPN/LVN license in the State of Vermont
 * Current CPR certification required
-* EMR \\&amp; computer proficiency desired
+* EMR \\& computer proficiency desired
 * Experience in chemical dependency preferred, self\\-motivated and directed, must have a positive attitude toward individuals in substance abuse treatment.
 * Satisfactory drug screen and criminal background check.
 
@@ -1401,29 +999,8 @@ Health Care Resource Center, a progressive substance abuse treatment organizatio
 
 
 
-Health Care Resource Center is committed to Equal Employment Opportunity (EEO) and to compliance with all Federal, State and local laws that prohibit employment discrimination on the basis of race, color, age, natural origin, ethnicity, religion, gender, pregnancy, marital status, sexual orientation, citizenship, genetic disposition, disability or veteran’s status or any other classification protected by State/Federal laws.
-🔗 Apply Direct: https://careers.baymark.com/jobs/16996190-dispensing-nurse-lpn?tm_job=2025-5721&amp;tm_event=view&amp;tm_company=14099
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d58c4355a981d8a6</description>
-      <companyName>BayMark Health Services</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Newport, VT, US</jobLocation>
-      <salaryMin>29</salaryMin>
-      <salaryMax>29</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Dispensing Nurse- LPN/LVN at BayMark Health Services</title>
-      <link>https://careers.baymark.com/jobs/16996192-dispensing-nurse-lpn-slash-lvn?tm_job=2025-5745&amp;tm_event=view&amp;tm_company=14099</link>
-      <guid isPermaLink="false">BayMark Health Services-Dispensing Nurse- LPN/LVN-Somersworth, NH, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Somersworth, NH, US
-💼 Type: Perdiem
-🏠 Work: On-site
-
-📝 Description: **Description**  
+Health Care Resource Center is committed to Equal Employment Opportunity (EEO) and to compliance with all Federal, State and local laws that prohibit employment discrimination on the basis of race, color, age, natural origin, ethnicity, religion, gender, pregnancy, marital status, sexual orientation, citizenship, genetic disposition, disability or veteran’s status or any other classification protected by State/Federal laws.","Health Care","https://www.indeed.com/cmp/Baymark-Health-Services","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ef5af2acd2fd944ac5632af577045b9c","https://baymark.com/","Lewisville","1,001 to 5,000","","What is Methadone? Methadone is a synthetic opioid agonist that blocks the receptors in the brain that are affected by heroin and prescri","","","","","","",""
+"in-f03fa582fc5e8463","indeed","https://www.indeed.com/viewjob?jk=f03fa582fc5e8463","https://careers.baymark.com/jobs/16996192-dispensing-nurse-lpn-slash-lvn?tm_job=2025-5745&tm_event=view&tm_company=14099","Dispensing Nurse- LPN/LVN","BayMark Health Services","Somersworth, NH, US","2026-02-03","perdiem","","","","","",False,"","","","","**Description**  
 
 
 
@@ -1441,7 +1018,7 @@ An ideal dispensing nurse candidate works cooperatively with supervisory counsel
 
   
 
-Essential Duties \\&amp; Responsibilities:
+Essential Duties \\& Responsibilities:
 
 * Administer daily medication to patients in accordance with program policy and medical protocols, including Methadone and Suboxone
 * Use automated dispensing system(s), calibrate pump and maintain dispensing equipment
@@ -1455,9 +1032,9 @@ Essential Duties \\&amp; Responsibilities:
 
 Qualifications:
 
-* Current \\&amp; good standing Licensed Practical Nurse (LPN) / Licensed Vocational Nurse (LVN) license in the State of New Hampshire
+* Current \\& good standing Licensed Practical Nurse (LPN) / Licensed Vocational Nurse (LVN) license in the State of New Hampshire
 * Current CPR certification required
-* EMR \\&amp; computer proficiency desired
+* EMR \\& computer proficiency desired
 * Experience in chemical dependency preferred, self\\-motivated and directed, must have a positive attitude toward individuals in substance abuse treatment
 * Satisfactory drug screen and criminal background check.
 
@@ -1471,25 +1048,8 @@ Health Care Resource Centers, a progressive substance abuse treatment organizati
 
   
 
-Health Care Resource Centers is committed to Equal Employment Opportunity (EEO) and to compliance with all Federal, State and local laws that prohibit employment discrimination on the basis of race, color, age, natural origin, ethnicity, religion, gender, pregnancy, marital status, sexual orientation, citizenship, genetic disposition, disability or veteran’s status or any other classification protected by State/Federal laws.
-🔗 Apply Direct: https://careers.baymark.com/jobs/16996192-dispensing-nurse-lpn-slash-lvn?tm_job=2025-5745&amp;tm_event=view&amp;tm_company=14099
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f03fa582fc5e8463</description>
-      <companyName>BayMark Health Services</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Somersworth, NH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>TEMPORARY NURSE OPPORTUNITY (12 week assignment) at BayMark Health Services</title>
-      <link>https://careers.baymark.com/jobs/16996397-temporary-nurse-opportunity-12-week-assignment?tm_job=2025-5726&amp;tm_event=view&amp;tm_company=14099</link>
-      <guid isPermaLink="false">BayMark Health Services-TEMPORARY NURSE OPPORTUNITY (12 week assignment)-Sioux Falls, SD, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Sioux Falls, SD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Description**  
+Health Care Resource Centers is committed to Equal Employment Opportunity (EEO) and to compliance with all Federal, State and local laws that prohibit employment discrimination on the basis of race, color, age, natural origin, ethnicity, religion, gender, pregnancy, marital status, sexual orientation, citizenship, genetic disposition, disability or veteran’s status or any other classification protected by State/Federal laws.","Health Care","https://www.indeed.com/cmp/Baymark-Health-Services","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ef5af2acd2fd944ac5632af577045b9c","https://baymark.com/","Lewisville","1,001 to 5,000","","What is Methadone? Methadone is a synthetic opioid agonist that blocks the receptors in the brain that are affected by heroin and prescri","","","","","","",""
+"in-14707adf4d7a70d1","indeed","https://www.indeed.com/viewjob?jk=14707adf4d7a70d1","https://careers.baymark.com/jobs/16996397-temporary-nurse-opportunity-12-week-assignment?tm_job=2025-5726&tm_event=view&tm_company=14099","TEMPORARY NURSE OPPORTUNITY (12 week assignment)","BayMark Health Services","Sioux Falls, SD, US","2026-02-03","fulltime","","","","","",False,"","","","","**Description**  
 
 
 
@@ -1521,7 +1081,7 @@ Qualifications:
 
 * Current and good standing Licensed Practical Nurse (LPN) / Licensed Vocational Nurse (LVN)/Registered Nurse (RN) license in the State of South Dakota
 * Current CPR certification required
-* EMR \\&amp; computer proficiency desired
+* EMR \\& computer proficiency desired
 * Experience in chemical dependency preferred, self\\-motivated and directed, must have a positive attitude toward individuals in substance abuse treatment
 * Satisfactory drug screen and criminal background check.
 
@@ -1536,26 +1096,8 @@ BAART Program, a progressive substance abuse treatment organization, is committe
 
 
 
-BAART Program is committed to Equal Employment Opportunity (EEO) and to compliance with all Federal, State and local laws that prohibit employment discrimination on the basis of race, color, age, natural origin, ethnicity, religion, gender, pregnancy, marital status, sexual orientation, citizenship, genetic disposition, disability or veteran’s status or any other classification protected by State/Federal laws.
-🔗 Apply Direct: https://careers.baymark.com/jobs/16996397-temporary-nurse-opportunity-12-week-assignment?tm_job=2025-5726&amp;tm_event=view&amp;tm_company=14099
-🔗 Job Board: https://www.indeed.com/viewjob?jk=14707adf4d7a70d1</description>
-      <companyName>BayMark Health Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Sioux Falls, SD, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Dispensing Nurse - LPN at BayMark Health Services</title>
-      <link>https://careers.baymark.com/jobs/16996191-dispensing-nurse-lpn?tm_job=2025-5729&amp;tm_event=view&amp;tm_company=14099</link>
-      <guid isPermaLink="false">BayMark Health Services-Dispensing Nurse - LPN-Chicopee, MA, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Chicopee, MA, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 28 - 31 (hourly)
-
-📝 Description: **Description**  
+BAART Program is committed to Equal Employment Opportunity (EEO) and to compliance with all Federal, State and local laws that prohibit employment discrimination on the basis of race, color, age, natural origin, ethnicity, religion, gender, pregnancy, marital status, sexual orientation, citizenship, genetic disposition, disability or veteran’s status or any other classification protected by State/Federal laws.","Health Care","https://www.indeed.com/cmp/Baymark-Health-Services","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ef5af2acd2fd944ac5632af577045b9c","https://baymark.com/","Lewisville","1,001 to 5,000","","What is Methadone? Methadone is a synthetic opioid agonist that blocks the receptors in the brain that are affected by heroin and prescri","","","","","","",""
+"in-9847d18ccd97a593","indeed","https://www.indeed.com/viewjob?jk=9847d18ccd97a593","https://careers.baymark.com/jobs/16996191-dispensing-nurse-lpn?tm_job=2025-5729&tm_event=view&tm_company=14099","Dispensing Nurse - LPN","BayMark Health Services","Chicopee, MA, US","2026-02-03","perdiem","direct_data","hourly",28.0,31.0,"USD",False,"","","","","**Description**  
 
 
 
@@ -1589,9 +1131,9 @@ Responsibilities:
 Qualifications:
 
 
-* Current \\&amp; good standing LPN/LVN license in the State of Massachusetts
+* Current \\& good standing LPN/LVN license in the State of Massachusetts
 * Current CPR certification required
-* EMR \\&amp; computer proficiency desired
+* EMR \\& computer proficiency desired
 * Experience in chemical dependency preferred, self\\-motivated and directed, must have a positive attitude toward individuals in substance abuse treatment.
 * Satisfactory drug screen and criminal background check.
 
@@ -1621,30 +1163,8 @@ Health Care Resource Center, a progressive substance abuse treatment organizatio
 
 
 
-Health Care Resource Center is committed to Equal Employment Opportunity (EEO) and to compliance with all Federal, State and local laws that prohibit employment discrimination on the basis of race, color, age, natural origin, ethnicity, religion, gender, pregnancy, marital status, sexual orientation, citizenship, genetic disposition, disability or veteran’s status or any other classification protected by State/Federal laws.
-🔗 Apply Direct: https://careers.baymark.com/jobs/16996191-dispensing-nurse-lpn?tm_job=2025-5729&amp;tm_event=view&amp;tm_company=14099
-🔗 Job Board: https://www.indeed.com/viewjob?jk=9847d18ccd97a593</description>
-      <companyName>BayMark Health Services</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Chicopee, MA, US</jobLocation>
-      <salaryMin>28</salaryMin>
-      <salaryMax>31</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN), Children's and Women Operational Pool at ECU Health</title>
-      <link>https://careers.vidanthealth.com/en/jobs/16993405-registered-nurse-rn-childrens-and-women-operational-pool?tm_job=979630-1A&amp;tm_event=view&amp;tm_company=2362</link>
-      <guid isPermaLink="false">ECU Health-Registered Nurse (RN), Children's and Women Operational Pool-Greenville, NC, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Greenville, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 33 - 41 (hourly)
-
-📝 Description: **Position Summary**
+Health Care Resource Center is committed to Equal Employment Opportunity (EEO) and to compliance with all Federal, State and local laws that prohibit employment discrimination on the basis of race, color, age, natural origin, ethnicity, religion, gender, pregnancy, marital status, sexual orientation, citizenship, genetic disposition, disability or veteran’s status or any other classification protected by State/Federal laws.","Health Care","https://www.indeed.com/cmp/Baymark-Health-Services","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ef5af2acd2fd944ac5632af577045b9c","https://baymark.com/","Lewisville","1,001 to 5,000","","What is Methadone? Methadone is a synthetic opioid agonist that blocks the receptors in the brain that are affected by heroin and prescri","","","","","","",""
+"in-f05d9e87e5eafc46","indeed","https://www.indeed.com/viewjob?jk=f05d9e87e5eafc46","https://careers.vidanthealth.com/en/jobs/16993405-registered-nurse-rn-childrens-and-women-operational-pool?tm_job=979630-1A&tm_event=view&tm_company=2362","Registered Nurse (RN), Children's and Women Operational Pool","ECU Health","Greenville, NC, US","2026-02-03","fulltime","direct_data","hourly",33.0,41.0,"USD",False,"","","","","**Position Summary**
 
 
 Up to $30K Commitment Incentive  
@@ -1732,30 +1252,8 @@ It is the goal of ECU Health and its entities to employ the most qualified indiv
 Offers of employment are subject to successful completion of all pre\\-employment screenings, which may include an occupational health screening, criminal record check, education, reference, and licensure verification.
 
 
-We value diversity and are proud to be an equal opportunity employer. Decisions of employment are made based on business needs, job requirements and applicant's qualifications without regard to race, color, religion, gender, national origin, disability status, protected veteran status, genetic information and testing, family and medical leave, sexual orientation, gender identity or expression or any other status protected by law. We prohibit retaliation against individuals who bring forth any complaint, orally or in writing, to the employer, or against any individuals who assist or participate in the investigation of any complaint.
-🔗 Apply Direct: https://careers.vidanthealth.com/en/jobs/16993405-registered-nurse-rn-childrens-and-women-operational-pool?tm_job=979630-1A&amp;tm_event=view&amp;tm_company=2362
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f05d9e87e5eafc46</description>
-      <companyName>ECU Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Greenville, NC, US</jobLocation>
-      <salaryMin>33</salaryMin>
-      <salaryMax>41</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Children's Operational Leader - Children's and Women's Operational Pool at ECU Health</title>
-      <link>https://careers.vidanthealth.com/en/jobs/16993403-childrens-operational-leader-childrens-and-womens-operational-pool?tm_job=976726-1A&amp;tm_event=view&amp;tm_company=2362</link>
-      <guid isPermaLink="false">ECU Health-Children's Operational Leader - Children's and Women's Operational Pool-Greenville, NC, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Greenville, NC, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 38 - 52 (hourly)
-
-📝 Description: **Position Summary**
+We value diversity and are proud to be an equal opportunity employer. Decisions of employment are made based on business needs, job requirements and applicant's qualifications without regard to race, color, religion, gender, national origin, disability status, protected veteran status, genetic information and testing, family and medical leave, sexual orientation, gender identity or expression or any other status protected by law. We prohibit retaliation against individuals who bring forth any complaint, orally or in writing, to the employer, or against any individuals who assist or participate in the investigation of any complaint.","","https://www.indeed.com/cmp/Ecu-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f87b2967dbbefaa3c6033b3e4a578594","https://careers.ecuhealth.org/","Greenville, NC","1,001 to 5,000","Decline to state","ECU Health’s mission is to improve the health and well-being of eastern North Carolina.","","","","","","",""
+"in-0e543fe007855a9d","indeed","https://www.indeed.com/viewjob?jk=0e543fe007855a9d","https://careers.vidanthealth.com/en/jobs/16993403-childrens-operational-leader-childrens-and-womens-operational-pool?tm_job=976726-1A&tm_event=view&tm_company=2362","Children's Operational Leader - Children's and Women's Operational Pool","ECU Health","Greenville, NC, US","2026-02-03","parttime","direct_data","hourly",38.0,52.0,"USD",False,"","","","","**Position Summary**
 
 
 The Children's Operational Leader (COL) coordinates and facilitates patient care for clinical units within Maynard Children's Hospital. The COL is responsible for overseeing and enforcing criteria for safe, quality patient care. The COL will provide emergency response for pediatric patients throughout the organization acting as the lead nursing resource during these responses. The COL coordinates patient care and staffing resources throughout Maynard Children's services and ensures efficient, safe delivery of patient care at all times. Through procurement of resources, education, guidance of nursing and organizational activities during the designated shift, the COL facilitates the delivery of safe patient care, patient throughput, and ensures all operational initiatives are met. The COL holds accountability and responsibility for assisting with patient or family needs, providing staff guidance and support, maintaining environment of care, ensuring patient throughput, and providing regional consultations for nursing care delivery as needs arise. The COL works in conjunction with the unit charge nurses, unit leadership, and senior Maynard Children's leadership to identify, address, and resolve any variance in service delivery throughout the designated shift.
@@ -1864,29 +1362,8 @@ It is the goal of ECU Health and its entities to employ the most qualified indiv
 Offers of employment are subject to successful completion of all pre\\-employment screenings, which may include an occupational health screening, criminal record check, education, reference, and licensure verification.
 
 
-We value diversity and are proud to be an equal opportunity employer. Decisions of employment are made based on business needs, job requirements and applicant's qualifications without regard to race, color, religion, gender, national origin, disability status, protected veteran status, genetic information and testing, family and medical leave, sexual orientation, gender identity or expression or any other status protected by law. We prohibit retaliation against individuals who bring forth any complaint, orally or in writing, to the employer, or against any individuals who assist or participate in the investigation of any complaint.
-🔗 Apply Direct: https://careers.vidanthealth.com/en/jobs/16993403-childrens-operational-leader-childrens-and-womens-operational-pool?tm_job=976726-1A&amp;tm_event=view&amp;tm_company=2362
-🔗 Job Board: https://www.indeed.com/viewjob?jk=0e543fe007855a9d</description>
-      <companyName>ECU Health</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Greenville, NC, US</jobLocation>
-      <salaryMin>38</salaryMin>
-      <salaryMax>52</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN)- Emergency Department at MaineHealth</title>
-      <link>https://www.careersatmainehealth.org/jobs/16992788-registered-nurse-rn-emergency-department?tm_job=10-INFOR-55549&amp;tm_event=view&amp;tm_company=89083</link>
-      <guid isPermaLink="false">MaineHealth-Registered Nurse (RN)- Emergency Department-Brunswick, ME, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Brunswick, ME, US
-💼 Type: Parttime, Fulltime
-🏠 Work: On-site
-
-📝 Description: **Description**
+We value diversity and are proud to be an equal opportunity employer. Decisions of employment are made based on business needs, job requirements and applicant's qualifications without regard to race, color, religion, gender, national origin, disability status, protected veteran status, genetic information and testing, family and medical leave, sexual orientation, gender identity or expression or any other status protected by law. We prohibit retaliation against individuals who bring forth any complaint, orally or in writing, to the employer, or against any individuals who assist or participate in the investigation of any complaint.","","https://www.indeed.com/cmp/Ecu-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f87b2967dbbefaa3c6033b3e4a578594","https://careers.ecuhealth.org/","Greenville, NC","1,001 to 5,000","Decline to state","ECU Health’s mission is to improve the health and well-being of eastern North Carolina.","","","","","","",""
+"in-03ec57900bfa3a9f","indeed","https://www.indeed.com/viewjob?jk=03ec57900bfa3a9f","https://www.careersatmainehealth.org/jobs/16992788-registered-nurse-rn-emergency-department?tm_job=10-INFOR-55549&tm_event=view&tm_company=89083","Registered Nurse (RN)- Emergency Department","MaineHealth","Brunswick, ME, US","2026-02-03","parttime, fulltime","","","","","",False,"","","","lisa.bickford@mainehealth.org","**Description**
 
 
 Mid Coast Hospital
@@ -1940,25 +1417,9 @@ We offer benefits that support an individual's needs for today and flexibility t
 
 MaineHealth remains focused on investing in our care team and developing an inclusive environment where you can thrive and feel supported to realize your full potential. If you’re looking to build a career in a place where people help one another deliver best\\-in\\-class care, apply today.  
 
-If you have questions about this role, please contact lisa.bickford@mainehealth.org
-🔗 Apply Direct: https://www.careersatmainehealth.org/jobs/16992788-registered-nurse-rn-emergency-department?tm_job=10-INFOR-55549&amp;tm_event=view&amp;tm_company=89083
-🔗 Job Board: https://www.indeed.com/viewjob?jk=03ec57900bfa3a9f</description>
-      <companyName>MaineHealth</companyName>
-      <jobType>Parttime, Fulltime</jobType>
-      <jobLocation>Brunswick, ME, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN)- Medical Surgical at MaineHealth</title>
-      <link>https://www.careersatmainehealth.org/jobs/16992796-registered-nurse-rn-medical-surgical?tm_job=10-INFOR-54841&amp;tm_event=view&amp;tm_company=89083</link>
-      <guid isPermaLink="false">MaineHealth-Registered Nurse (RN)- Medical Surgical-Rockport, ME, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Rockport, ME, US
-💼 Type: Parttime, Fulltime
-🏠 Work: On-site
-
-📝 Description: **Description**
+If you have questions about this role, please contact lisa.bickford@mainehealth.org","Health Care","https://www.indeed.com/cmp/Mainehealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4e0fdd6a4c8d67de00116af370947529","http://careersatmainehealth.org","110 Free Street
+Portland, ME 04102","10,000+","$25M to $100M (USD)","The MaineHealth system offers outstanding opportunities to work and live in one of the most spectacular areas of our nation.","","","","","","",""
+"in-efc85956b690698e","indeed","https://www.indeed.com/viewjob?jk=efc85956b690698e","https://www.careersatmainehealth.org/jobs/16992796-registered-nurse-rn-medical-surgical?tm_job=10-INFOR-54841&tm_event=view&tm_company=89083","Registered Nurse (RN)- Medical Surgical","MaineHealth","Rockport, ME, US","2026-02-03","parttime, fulltime","","","","","",False,"","","","lisa.bickford@mainehealth.org","**Description**
 
 
 Pen Bay Hospital
@@ -2010,25 +1471,9 @@ We offer benefits that support an individual's needs for today and flexibility t
 
 MaineHealth remains focused on investing in our care team and developing an inclusive environment where you can thrive and feel supported to realize your full potential. If you’re looking to build a career in a place where people help one another deliver best\\-in\\-class care, apply today.  
 
-If you have questions about this role, please contact lisa.bickford@mainehealth.org
-🔗 Apply Direct: https://www.careersatmainehealth.org/jobs/16992796-registered-nurse-rn-medical-surgical?tm_job=10-INFOR-54841&amp;tm_event=view&amp;tm_company=89083
-🔗 Job Board: https://www.indeed.com/viewjob?jk=efc85956b690698e</description>
-      <companyName>MaineHealth</companyName>
-      <jobType>Parttime, Fulltime</jobType>
-      <jobLocation>Rockport, ME, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN)- Medical Surgical at MaineHealth</title>
-      <link>https://www.careersatmainehealth.org/jobs/16992794-registered-nurse-rn-medical-surgical?tm_job=10-INFOR-54842&amp;tm_event=view&amp;tm_company=89083</link>
-      <guid isPermaLink="false">MaineHealth-Registered Nurse (RN)- Medical Surgical-Rockport, ME, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Rockport, ME, US
-💼 Type: Parttime, Fulltime
-🏠 Work: On-site
-
-📝 Description: **Description**
+If you have questions about this role, please contact lisa.bickford@mainehealth.org","Health Care","https://www.indeed.com/cmp/Mainehealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4e0fdd6a4c8d67de00116af370947529","http://careersatmainehealth.org","110 Free Street
+Portland, ME 04102","10,000+","$25M to $100M (USD)","The MaineHealth system offers outstanding opportunities to work and live in one of the most spectacular areas of our nation.","","","","","","",""
+"in-7dc1fee15f228f12","indeed","https://www.indeed.com/viewjob?jk=7dc1fee15f228f12","https://www.careersatmainehealth.org/jobs/16992794-registered-nurse-rn-medical-surgical?tm_job=10-INFOR-54842&tm_event=view&tm_company=89083","Registered Nurse (RN)- Medical Surgical","MaineHealth","Rockport, ME, US","2026-02-03","parttime, fulltime","","","","","",False,"","","","lisa.bickford@mainehealth.org","**Description**
 
 
 Pen Bay Hospital
@@ -2080,26 +1525,9 @@ We offer benefits that support an individual's needs for today and flexibility t
 
 MaineHealth remains focused on investing in our care team and developing an inclusive environment where you can thrive and feel supported to realize your full potential. If you’re looking to build a career in a place where people help one another deliver best\\-in\\-class care, apply today.  
 
-If you have questions about this role, please contact lisa.bickford@mainehealth.org
-🔗 Apply Direct: https://www.careersatmainehealth.org/jobs/16992794-registered-nurse-rn-medical-surgical?tm_job=10-INFOR-54842&amp;tm_event=view&amp;tm_company=89083
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7dc1fee15f228f12</description>
-      <companyName>MaineHealth</companyName>
-      <jobType>Parttime, Fulltime</jobType>
-      <jobLocation>Rockport, ME, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN NICU (Meal and Break) at PeaceHealth</title>
-      <link>https://careers.peacehealth.org/jobs/16526560-rn-nicu-meal-and-break?tm_job=PH-INFOR-105134&amp;tm_event=view&amp;tm_company=12800</link>
-      <guid isPermaLink="false">PeaceHealth-RN NICU (Meal and Break)-Springfield, OR, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Springfield, OR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 49 - 77 (hourly)
-
-📝 Description: **Description**  
+If you have questions about this role, please contact lisa.bickford@mainehealth.org","Health Care","https://www.indeed.com/cmp/Mainehealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4e0fdd6a4c8d67de00116af370947529","http://careersatmainehealth.org","110 Free Street
+Portland, ME 04102","10,000+","$25M to $100M (USD)","The MaineHealth system offers outstanding opportunities to work and live in one of the most spectacular areas of our nation.","","","","","","",""
+"in-28aa310c648c2c94","indeed","https://www.indeed.com/viewjob?jk=28aa310c648c2c94","https://careers.peacehealth.org/jobs/16526560-rn-nicu-meal-and-break?tm_job=PH-INFOR-105134&tm_event=view&tm_company=12800","RN NICU (Meal and Break)","PeaceHealth","Springfield, OR, US","2026-02-03","fulltime","direct_data","hourly",49.0,77.0,"USD",False,"","","","","**Description**  
 
 
 
@@ -2210,30 +1638,9 @@ PeaceHealth is committed to the overall wellbeing of our caregivers: physical, e
 See how PeaceHealth is committed to Inclusivity, Respect for Diversity and Cultural Humility.
 
 
-For full consideration of your skills and abilities, please attach a current resume with your application. EEO Affirmative Action Employer/Vets/Disabled in accordance with applicable local, state, or federal laws.
-🔗 Apply Direct: https://careers.peacehealth.org/jobs/16526560-rn-nicu-meal-and-break?tm_job=PH-INFOR-105134&amp;tm_event=view&amp;tm_company=12800
-🔗 Job Board: https://www.indeed.com/viewjob?jk=28aa310c648c2c94</description>
-      <companyName>PeaceHealth</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Springfield, OR, US</jobLocation>
-      <salaryMin>49</salaryMin>
-      <salaryMax>77</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Neonatal Clinical Nurse Specialist - Ped's Administration at ECU Health</title>
-      <link>https://careers.vidanthealth.com/en/jobs/16096418-neonatal-clinical-nurse-specialist-peds-administration?tm_job=976660-1A&amp;tm_event=view&amp;tm_company=2362</link>
-      <guid isPermaLink="false">ECU Health-Neonatal Clinical Nurse Specialist - Ped's Administration-Greenville, NC, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Greenville, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 92,206 - 152,152 (yearly)
-
-📝 Description: **Position Summary**
+For full consideration of your skills and abilities, please attach a current resume with your application. EEO Affirmative Action Employer/Vets/Disabled in accordance with applicable local, state, or federal laws.","Health Care","https://www.indeed.com/cmp/Peacehealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7f6bb7fc1fe5c0e64d4b90ed9a1ddab7","http://careers.peacehealth.org","1115  SE 164th Avenue
+Vancouver, WA 98683","10,000+","$1B to $5B (USD)","PeaceHealth offers exceptional and compassionate care to both rural and urban communities across Washington, Oregon & Alaska.","","","","","","",""
+"in-14a04997aadd5702","indeed","https://www.indeed.com/viewjob?jk=14a04997aadd5702","https://careers.vidanthealth.com/en/jobs/16096418-neonatal-clinical-nurse-specialist-peds-administration?tm_job=976660-1A&tm_event=view&tm_company=2362","Neonatal Clinical Nurse Specialist - Ped's Administration","ECU Health","Greenville, NC, US","2026-02-03","fulltime","direct_data","yearly",92206.0,152152.0,"USD",False,"","","","","**Position Summary**
 
 
 The Clinical Nurse Specialist (CNS) is a powerhouse of advanced nursing expertise board\\-certified\\-certified, masters or doctoral\\-prepared, and laser\\-focused on elevating patient outcomes and transforming healthcare systems.
@@ -2244,7 +1651,7 @@ Expert Clinician. Visionary Leader. Change Agent.
 
 The CNS is not just a nurse they're a strategic force driving innovation across three critical spheres:  
 
-Patient \\&amp; Family Care  
+Patient \\& Family Care  
 
 Nursing Practice  
 
@@ -2254,7 +1661,7 @@ Organizational Systems
 With deep clinical insight and a passion for excellence, the CNS identifies care gaps, crafts evidence\\-based solutions, and delivers measurable, cost\\-effective results that reshape the future of care.
 
 
-Trusted Advisor \\&amp; Educator
+Trusted Advisor \\& Educator
 
 
 As a mentor and consultant, the CNS empowers healthcare teams, educates patients and families, and fosters interdisciplinary collaboration. Their leadership cultivates a thriving work culture and ensures safe, high\\-quality care.
@@ -2325,30 +1732,8 @@ It is the goal of ECU Health and its entities to employ the most qualified indiv
 Offers of employment are subject to successful completion of all pre\\-employment screenings, which may include an occupational health screening, criminal record check, education, reference, and licensure verification.
 
 
-We value diversity and are proud to be an equal opportunity employer. Decisions of employment are made based on business needs, job requirements and applicants qualifications without regard to race, color, religion, gender, national origin, disability status, protected veteran status, genetic information and testing, family and medical leave, sexual orientation, gender identity or expression or any other status protected by law. We prohibit retaliation against individuals who bring forth any complaint, orally or in writing, to the employer, or against any individuals who assist or participate in the investigation of any complaint.
-🔗 Apply Direct: https://careers.vidanthealth.com/en/jobs/16096418-neonatal-clinical-nurse-specialist-peds-administration?tm_job=976660-1A&amp;tm_event=view&amp;tm_company=2362
-🔗 Job Board: https://www.indeed.com/viewjob?jk=14a04997aadd5702</description>
-      <companyName>ECU Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Greenville, NC, US</jobLocation>
-      <salaryMin>92206</salaryMin>
-      <salaryMax>152152</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Operating Room, 1.0 FTE, Days at PeaceHealth</title>
-      <link>https://careers.peacehealth.org/jobs/15569107-rn-operating-room?tm_job=PH-INFOR-102329&amp;tm_event=view&amp;tm_company=12800</link>
-      <guid isPermaLink="false">PeaceHealth-RN - Operating Room, 1.0 FTE, Days-Ketchikan, AK, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Ketchikan, AK, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 42 - 68 (hourly)
-
-📝 Description: **Description**
+We value diversity and are proud to be an equal opportunity employer. Decisions of employment are made based on business needs, job requirements and applicants qualifications without regard to race, color, religion, gender, national origin, disability status, protected veteran status, genetic information and testing, family and medical leave, sexual orientation, gender identity or expression or any other status protected by law. We prohibit retaliation against individuals who bring forth any complaint, orally or in writing, to the employer, or against any individuals who assist or participate in the investigation of any complaint.","","https://www.indeed.com/cmp/Ecu-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f87b2967dbbefaa3c6033b3e4a578594","https://careers.ecuhealth.org/","Greenville, NC","1,001 to 5,000","Decline to state","ECU Health’s mission is to improve the health and well-being of eastern North Carolina.","","","","","","",""
+"in-616c360cd1d51115","indeed","https://www.indeed.com/viewjob?jk=616c360cd1d51115","https://careers.peacehealth.org/jobs/15569107-rn-operating-room?tm_job=PH-INFOR-102329&tm_event=view&tm_company=12800","RN - Operating Room, 1.0 FTE, Days","PeaceHealth","Ketchikan, AK, US","2026-02-03","fulltime","direct_data","hourly",42.0,68.0,"USD",False,"","","","","**Description**
 
 
 **PeaceHealth is seeking a RN \\- Operating Room for a Full Time, 1\\.00 FTE, Day position. The salary range for this job opening at PeaceHealth is $42\\.77 – $68\\.68\\.** The hiring rate is dependent upon several factors, including but not limited to education, training, work experience, terms of any applicable collective bargaining agreement, seniority, etc.
@@ -2430,28 +1815,9 @@ See how PeaceHealth is committed to Inclusivity, Respect for Diversity and Cultu
 For full consideration of your skills and abilities, please attach a current resume with your application. EEO Affirmative Action Employer/Vets/Disabled in accordance with applicable local, state, or federal laws.
 
 
-This position is represented by a collective bargaining agreement. There may be more than one opening on this posting.
-🔗 Apply Direct: https://careers.peacehealth.org/jobs/15569107-rn-operating-room?tm_job=PH-INFOR-102329&amp;tm_event=view&amp;tm_company=12800
-🔗 Job Board: https://www.indeed.com/viewjob?jk=616c360cd1d51115</description>
-      <companyName>PeaceHealth</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Ketchikan, AK, US</jobLocation>
-      <salaryMin>42</salaryMin>
-      <salaryMax>68</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse - Northwest at Comprehensive Cancer Centers of Nevada</title>
-      <link>https://careers.usoncology.com/jobs/38058/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Comprehensive Cancer Centers of Nevada-Registered Nurse - Northwest-Las Vegas, NV, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Las Vegas, NV, US
-🏠 Work: On-site
-
-📝 Description: Overview:
+This position is represented by a collective bargaining agreement. There may be more than one opening on this posting.","Health Care","https://www.indeed.com/cmp/Peacehealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7f6bb7fc1fe5c0e64d4b90ed9a1ddab7","http://careers.peacehealth.org","1115  SE 164th Avenue
+Vancouver, WA 98683","10,000+","$1B to $5B (USD)","PeaceHealth offers exceptional and compassionate care to both rural and urban communities across Washington, Oregon & Alaska.","","","","","","",""
+"in-c9d33d2e2d8df173","indeed","https://www.indeed.com/viewjob?jk=c9d33d2e2d8df173","https://careers.usoncology.com/jobs/38058/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse - Northwest","Comprehensive Cancer Centers of Nevada","Las Vegas, NV, US","2026-02-03","","","","","","",False,"","","","","Overview:
 
 At Comprehensive Cancer Centers of Nevada (CCCN) a distinguished team of doctors, researchers, nurses, and healthcare professionals have provided patients with groundbreaking treatments on the healing edge of medicine for over 50 years. Our team provides the most effective treatments, both existing and emerging, to diagnose and successfully treat cancer and blood disorders. We support this goal with state\\-of\\-the\\-art facilities across Southern Nevada, all of which integrate the latest diagnostic, therapeutic, and research capabilities. CCCN is dedicated to patient\\-centered care, advancing innovation, discovery, and improving outcomes. Motivated, caring professionals are encouraged to join us.
 
@@ -2508,7 +1874,7 @@ Responsibilities:
 
 
 Qualifications:
-**Minimum Job Qualifications (Knowledge, Skills, \\&amp; Abilities):**
+**Minimum Job Qualifications (Knowledge, Skills, \\& Abilities):**
 
 * High School Diploma
 * Graduate from an accredited program for professional nursing education.
@@ -2564,25 +1930,8 @@ If you possess the above qualifications and a desire to make a difference, we in
 
   
 
-The US Oncology Network is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability, or protected veteran status. This employer participates in E\\-Verify.
-🔗 Apply Direct: https://careers.usoncology.com/jobs/38058/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c9d33d2e2d8df173</description>
-      <companyName>Comprehensive Cancer Centers of Nevada</companyName>
-      <jobLocation>Las Vegas, NV, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) , Intermediate Neonatal RN, Children's and Women's Operational Pool at ECU Health</title>
-      <link>https://careers.vidanthealth.com/en/jobs/16993673-registered-nurse-rn-intermediate-neonatal-rn-childrens-and-womens-operational-pool?tm_job=979626-1A&amp;tm_event=view&amp;tm_company=2362</link>
-      <guid isPermaLink="false">ECU Health-Registered Nurse (RN) , Intermediate Neonatal RN, Children's and Women's Operational Pool-Greenville, NC, US</guid>
-      <pubDate>Tue, 03 Feb 2026 09:37:44 +0000</pubDate>
-      <description>📍 Location: Greenville, NC, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 38 - 52 (hourly)
-
-📝 Description: **Position Summary**
+The US Oncology Network is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability, or protected veteran status. This employer participates in E\\-Verify.","Health Care","https://www.indeed.com/cmp/Comprehensive-Cancer-Centers-of-Nevada","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/866e98c563154623500359cbc11c1867","http://www.cccnevada.com/","Multiple locations across Southern Nevada","501 to 1,000","less than $1M (USD)","","","","","","","",""
+"in-64269d9e82dda8bb","indeed","https://www.indeed.com/viewjob?jk=64269d9e82dda8bb","https://careers.vidanthealth.com/en/jobs/16993673-registered-nurse-rn-intermediate-neonatal-rn-childrens-and-womens-operational-pool?tm_job=979626-1A&tm_event=view&tm_company=2362","Registered Nurse (RN) , Intermediate Neonatal RN, Children's and Women's Operational Pool","ECU Health","Greenville, NC, US","2026-02-03","parttime","direct_data","hourly",38.0,52.0,"USD",False,"","","","","**Position Summary**
 
 
 Intermediate Neonatal RNs will be able to provide nursing care in the Neonatal Intensive Care Unit with Level I\\-Level III patients or function as a Stork RN in Labor and Delivery, depending on staffing needs to best satisfy the Women's and Children's divisions. RN will be competent in providing safe, consistent care to both healthy newborns and intermediate level I\\-III NICU patients.
@@ -2625,18 +1974,4 @@ Unit Fact Sheets: https://www.ecuhealth.org/wp\\-content/uploads/2025/01/Unit\\_
 **ECU Health**
 
 
-At the James and Connie Maynard Childrens Hospital, located at ECU Health Medical Center in Greenville, we are committed to caring for the kids of eastern North Carolina. As the regions only Childrens Hospital, this hospital within a hospital has a total 197 beds and bassinets, including a Level IV NICU, quaternary PICU with ECMO capabilities, a dedicated Pediatric Emergency Department, and a specialized critical\\-care transport team. Using the latest technologies and highly trained personnel, our child\\-centered clinical care is unrivaled. The facilities and pediatric services are strategically designed to meet the unique needs of children involving families from start to finish. Our team at Maynard Childrens Hospital is committed to transforming the future of eastern North Carolina, one child at a time.
-🔗 Apply Direct: https://careers.vidanthealth.com/en/jobs/16993673-registered-nurse-rn-intermediate-neonatal-rn-childrens-and-womens-operational-pool?tm_job=979626-1A&amp;tm_event=view&amp;tm_company=2362
-🔗 Job Board: https://www.indeed.com/viewjob?jk=64269d9e82dda8bb</description>
-      <companyName>ECU Health</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Greenville, NC, US</jobLocation>
-      <salaryMin>38</salaryMin>
-      <salaryMax>52</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-  </channel>
-</rss>
+At the James and Connie Maynard Childrens Hospital, located at ECU Health Medical Center in Greenville, we are committed to caring for the kids of eastern North Carolina. As the regions only Childrens Hospital, this hospital within a hospital has a total 197 beds and bassinets, including a Level IV NICU, quaternary PICU with ECMO capabilities, a dedicated Pediatric Emergency Department, and a specialized critical\\-care transport team. Using the latest technologies and highly trained personnel, our child\\-centered clinical care is unrivaled. The facilities and pediatric services are strategically designed to meet the unique needs of children involving families from start to finish. Our team at Maynard Childrens Hospital is committed to transforming the future of eastern North Carolina, one child at a time.","","https://www.indeed.com/cmp/Ecu-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f87b2967dbbefaa3c6033b3e4a578594","https://careers.ecuhealth.org/","Greenville, NC","1,001 to 5,000","Decline to state","ECU Health’s mission is to improve the health and well-being of eastern North Carolina.","","","","","","",""
