@@ -1,21 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Daily Nurse Jobs Feed</title>
-    <description>Daily feed of nursing jobs with direct company application links</description>
-    <link>https://github.com/your-username/your-repo</link>
-    <lastBuildDate>Tue, 10 Feb 2026 09:58:28 +0000</lastBuildDate>
-    <generator>Nurse Job Search Bot</generator>
-    <language>en-us</language>
-    <item>
-      <title>RN BU - Cardiac Stepdown at Cleveland Clinic</title>
-      <link>https://clevelandclinic.contacthr.com/150981334</link>
-      <guid isPermaLink="false">Cleveland Clinic-RN BU - Cardiac Stepdown-Vero Beach, FL, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Vero Beach, FL, US
-🏠 Work: On-site
-
-📝 Description: Join our team at Cleveland Clinic Indian River Hospital and experience world\\-class patient care at its best. Located in sunny Florida’s Treasure Coast, Indian River Hospital is committed to providing optimal family\\- and community\\-focused services. Here, you will be part of a collaborative, compassionate, and innovative team of caregivers. You will work with state\\-of\\-the\\-art technology and will build a rewarding career with one of the most respected healthcare organizations in the world.
+"id","site","job_board_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type","job_url"
+"in-1a496c1361547941","indeed","https://www.indeed.com/viewjob?jk=1a496c1361547941","https://clevelandclinic.contacthr.com/150981334","RN BU - Cardiac Stepdown","Cleveland Clinic","Vero Beach, FL, US","2026-02-10","","","","","","",False,"","","","","Join our team at Cleveland Clinic Indian River Hospital and experience world\\-class patient care at its best. Located in sunny Florida’s Treasure Coast, Indian River Hospital is committed to providing optimal family\\- and community\\-focused services. Here, you will be part of a collaborative, compassionate, and innovative team of caregivers. You will work with state\\-of\\-the\\-art technology and will build a rewarding career with one of the most respected healthcare organizations in the world.
 
   
 
@@ -71,25 +55,8 @@ Preferred qualifications for the ideal future caregiver include:
 **Pay Range**
 
 
-Salaries \\[which may be] shown on independent job search websites reflect various market averages and do not represent information obtained directly from The Cleveland Clinic. Because we value each individual candidate, we invite and encourage each candidate to discuss salary/hourly specifics during the application and hiring process.
-🔗 Apply Direct: https://clevelandclinic.contacthr.com/150981334
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1a496c1361547941</description>
-      <companyName>Cleveland Clinic</companyName>
-      <jobLocation>Vero Beach, FL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Assistant Nurse Manager Perioperative Services at St. Charles Health System</title>
-      <link>https://careers.stcharleshealthcare.org/us/en/job/R1021550/Assistant-Nurse-Manager-Perioperative-Services</link>
-      <guid isPermaLink="false">St. Charles Health System-Assistant Nurse Manager Perioperative Services-Bend, OR, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Bend, OR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 131,580 - 203,944 (yearly)
-
-📝 Description: This position will support Perioperative Services in Redmond and Madras
+Salaries \\[which may be] shown on independent job search websites reflect various market averages and do not represent information obtained directly from The Cleveland Clinic. Because we value each individual candidate, we invite and encourage each candidate to discuss salary/hourly specifics during the application and hiring process.","","https://www.indeed.com/cmp/Cleveland-Clinic","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fe8fac2380fd8d9b9e9f6f450375a31a","https://jobs.clevelandclinic.org/","","10,000+","$1B to $5B (USD)","","","","","","","",""
+"in-7b8f9deffafb28d2","indeed","https://www.indeed.com/viewjob?jk=7b8f9deffafb28d2","https://careers.stcharleshealthcare.org/us/en/job/R1021550/Assistant-Nurse-Manager-Perioperative-Services","Assistant Nurse Manager Perioperative Services","St. Charles Health System","Bend, OR, US","2026-02-10","fulltime","direct_data","yearly",131580.0,203944.0,"USD",False,"","","","","This position will support Perioperative Services in Redmond and Madras
   
 
 This position is eligible for an in\\-state or out\\-of\\-state relocation bonus.  
@@ -298,32 +265,11 @@ Scheduled Days of the Week:
 
 
 Variable with Call
-Shift Start \\&amp; End Time:
+Shift Start \\& End Time:
 
 
-Variable
-🔗 Apply Direct: https://careers.stcharleshealthcare.org/us/en/job/R1021550/Assistant-Nurse-Manager-Perioperative-Services
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7b8f9deffafb28d2</description>
-      <companyName>St. Charles Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Bend, OR, US</jobLocation>
-      <salaryMin>131580</salaryMin>
-      <salaryMax>203944</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Per Diem Occupational Registered Nurse- Detroit at Stellantis</title>
-      <link>https://FCA.contacthr.com/150977927</link>
-      <guid isPermaLink="false">Stellantis-Per Diem Occupational Registered Nurse- Detroit-Detroit, MI, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Detroit, MI, US
-💼 Type: Perdiem
-🏠 Work: On-site
-
-📝 Description: The Occupational Health Nurse (OHN) is responsible for the prevention, recognition, and treatment of on\\-the\\-job illness and injuries. This position requires skills and knowledge in health and safety education, counseling, environmental health, safety, rehabilitation, and human relations. The OHN at Stellantis plays an important role in the delivery of nursing services in accordance with federal and state regulations as well as corporate health service policies and procedures. The OHN must work towards promoting optimum health care and safety in the workplace in accordance with the goals and values of the profession and Stellantis. The OHN at Stellantis must be able to work autonomously with minimal supervision, effectively manage medical emergencies, and often work as the single medical care provider. For these reasons, prior nursing experience is imperative to delivering optimal nursing care in an occupational setting.
+Variable","Health Care","https://www.indeed.com/cmp/St.-Charles-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3a3ef02102f9a545756ed423c7ad4090","https://www.stcharleshealthcare.org","Bend","1,001 to 5,000","$100M to $500M (USD)","","","","","","","",""
+"in-fb2b85122b2c7809","indeed","https://www.indeed.com/viewjob?jk=fb2b85122b2c7809","https://FCA.contacthr.com/150977927","Per Diem Occupational Registered Nurse- Detroit","Stellantis","Detroit, MI, US","2026-02-10","perdiem","","","","","",False,"","","","","The Occupational Health Nurse (OHN) is responsible for the prevention, recognition, and treatment of on\\-the\\-job illness and injuries. This position requires skills and knowledge in health and safety education, counseling, environmental health, safety, rehabilitation, and human relations. The OHN at Stellantis plays an important role in the delivery of nursing services in accordance with federal and state regulations as well as corporate health service policies and procedures. The OHN must work towards promoting optimum health care and safety in the workplace in accordance with the goals and values of the profession and Stellantis. The OHN at Stellantis must be able to work autonomously with minimal supervision, effectively manage medical emergencies, and often work as the single medical care provider. For these reasons, prior nursing experience is imperative to delivering optimal nursing care in an occupational setting.
   
   
 
@@ -361,13 +307,13 @@ Advanced Cardiovascular Life Support (ACLS) Certification
 
 Our Benefits — Designed with You in Mind
   
-Comprehensive Health \\&amp; Well\\-being Coverage
+Comprehensive Health \\& Well\\-being Coverage
   
 From your very first day, you’ll have access to medical, dental, vision, and prescription drug coverage — ensuring you and your family stay healthy and protected.
   
 Generous Paid Time Off
   
-**We believe in work\\-life balance. That’s why we offer:** 17\\+ paid holidays, including shut\\-down from December 24th through New Years Day every year. Vacation, float \\&amp; wellbeing days, sick time and fully paid parental leave when your family needs you most.
+**We believe in work\\-life balance. That’s why we offer:** 17\\+ paid holidays, including shut\\-down from December 24th through New Years Day every year. Vacation, float \\& wellbeing days, sick time and fully paid parental leave when your family needs you most.
   
 Competitive Retirement Savings Plans
   
@@ -379,7 +325,7 @@ An employer match on contributions to your 401k, Roth, and Catch\\-Up plans
   
 An employer contribution, even if you don’t contribute
   
-Income Protection \\&amp; Insurance Options
+Income Protection \\& Insurance Options
   
 Benefit from included and optional disability, life, and other insurance programs — because your peace of mind matters.
   
@@ -405,25 +351,8 @@ Student loan refinancing programs
   
 And so much more!
   
-When you join us, you’re not just building a career — you’re joining a company that supports you, inside and outside of work.
-🔗 Apply Direct: https://FCA.contacthr.com/150977927
-🔗 Job Board: https://www.indeed.com/viewjob?jk=fb2b85122b2c7809</description>
-      <companyName>Stellantis</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Detroit, MI, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Assistant Head Nurse - OR at NYC Health + Hospitals</title>
-      <link>https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=131841&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">NYC Health + Hospitals-Assistant Head Nurse - OR-New York, NY, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: New York, NY, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **About NYC Health \\+ Hospitals**
+When you join us, you’re not just building a career — you’re joining a company that supports you, inside and outside of work.","","https://www.indeed.com/cmp/Stellantis","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cdce24c52a8955b06ab88ef14efdeaff","http://www.stellantis.com","Amsterdam","10,000+","more than $10B (USD)","Our People Make the Difference Behind every brand, behind every product there is a team of talented people who make it possible. We are coming together with 14 iconic automotive brands. Join Us!","","","","","","",""
+"in-da004d70c2942228","indeed","https://www.indeed.com/viewjob?jk=da004d70c2942228","https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=131841&PostingSeq=1","Assistant Head Nurse - OR","NYC Health + Hospitals","New York, NY, US","2026-02-10","fulltime","","yearly","","","USD",False,"","","","","**About NYC Health \\+ Hospitals**
 ---------------------------------
 
   
@@ -448,7 +377,7 @@ At NYC Health \\+ Hospitals, our mission is to deliver high quality care health 
 
   
 
-**Duties \\&amp; Responsibilities**
+**Duties \\& Responsibilities**
 ------------------------------
 
   
@@ -580,26 +509,8 @@ NYC Health and Hospitals offers a competitive benefits package that includes:
   
 
 
-If you wish to apply for this position, please apply online by clicking the "Apply for Job" button.
-🔗 Apply Direct: https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=131841&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=da004d70c2942228</description>
-      <companyName>NYC Health + Hospitals</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>New York, NY, US</jobLocation>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN PRN) at Wellpath</title>
-      <link>https://careers-wellpath.icims.com/jobs/184508/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Wellpath-Registered Nurse (RN PRN)-Castle Rock, CO, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Castle Rock, CO, US
-🏠 Work: On-site
-
-📝 Description: Why Wellpath:
+If you wish to apply for this position, please apply online by clicking the ""Apply for Job"" button.","Health Care","https://www.indeed.com/cmp/Nyc-Health-Hospitals","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2a7e0ac7eac70bd3addbf14e8f17512c","https://www.nychealthandhospitals.org/","50 Water St. New York, NY 10004","1,001 to 5,000","$25M to $100M (USD)","We always put patients first! NYCHHC is committed to excellence in health care and the safety of people in the City of New York.","","","","","","",""
+"in-ebfedfcd07f61280","indeed","https://www.indeed.com/viewjob?jk=ebfedfcd07f61280","https://careers-wellpath.icims.com/jobs/184508/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse (RN PRN)","Wellpath","Castle Rock, CO, US","2026-02-10","","","hourly","","","USD",False,"","","","","Why Wellpath:
 **Now is your moment to make a difference in the lives of the underserved.**
 If there is one unifying characteristic of everyone on our team, it is the deep desire to make a difference by helping society's most vulnerable and often overlooked individuals. Every day we have the distinct honor and responsibility to show up with non\\-judgmental compassion to provide hope and healing to those who need it most. For those whose calling it is to serve others, now is your moment to join our mission to provide quality care to every patient with compassion, collaboration, and innovation, to live our mantra to “Always Do The Right Thing!”, and to collectively do our part to heal the world, one patient at a time.  
 
@@ -654,25 +565,8 @@ We celebrate a variety of backgrounds and are committed to creating an inclusive
 
 Deadline to apply to this position is contingent upon applicant volume. Those positions located in Colorado will have a specific deadline posted in the job description.  
 
-We are an Affirmative Action Employer in accordance with applicable state and local laws.
-🔗 Apply Direct: https://careers-wellpath.icims.com/jobs/184508/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ebfedfcd07f61280</description>
-      <companyName>Wellpath</companyName>
-      <jobLocation>Castle Rock, CO, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Psychiatric Technician (LPT) or Licensed Vocational Nurse (LVN) at Wellpath</title>
-      <link>https://careers-wellpath.icims.com/jobs/184509/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Wellpath-Licensed Psychiatric Technician (LPT) or Licensed Vocational Nurse (LVN)-San Luis Obispo, CA, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: San Luis Obispo, CA, US
-🏠 Work: On-site
-
-📝 Description: Why Wellpath:
+We are an Affirmative Action Employer in accordance with applicable state and local laws.","","https://www.indeed.com/cmp/Wellpath","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2d8512ddf2f5899483194a9e0efb0a88","http://www.wellpathcare.com","Nashville, TN","10,000+","$1B to $5B (USD)","We are Wellpath. We are the right people, striving to do the right thing. We will continue to create healthier communities—wherever we go, wherever we grow—one patient at a time.","","","","","","",""
+"in-9f8daa7464fce5a0","indeed","https://www.indeed.com/viewjob?jk=9f8daa7464fce5a0","https://careers-wellpath.icims.com/jobs/184509/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Licensed Psychiatric Technician (LPT) or Licensed Vocational Nurse (LVN)","Wellpath","San Luis Obispo, CA, US","2026-02-10","","","hourly","","","USD",False,"","","","","Why Wellpath:
 **Now is your moment to make a difference in the lives of the underserved.**
   
 
@@ -731,26 +625,8 @@ We celebrate a variety of backgrounds and are committed to creating an inclusive
 
 Deadline to apply to this position is contingent upon applicant volume. Those positions located in Colorado will have a specific deadline posted in the job description.  
 
-We are an Affirmative Action Employer in accordance with applicable state and local laws.
-🔗 Apply Direct: https://careers-wellpath.icims.com/jobs/184509/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=9f8daa7464fce5a0</description>
-      <companyName>Wellpath</companyName>
-      <jobLocation>San Luis Obispo, CA, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Staff Nurse - Ambulatory Care Services at NYC Health + Hospitals</title>
-      <link>https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=131839&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">NYC Health + Hospitals-Staff Nurse - Ambulatory Care Services-New York, NY, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: New York, NY, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **About NYC Health \\+ Hospitals**
+We are an Affirmative Action Employer in accordance with applicable state and local laws.","","https://www.indeed.com/cmp/Wellpath","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2d8512ddf2f5899483194a9e0efb0a88","http://www.wellpathcare.com","Nashville, TN","10,000+","$1B to $5B (USD)","We are Wellpath. We are the right people, striving to do the right thing. We will continue to create healthier communities—wherever we go, wherever we grow—one patient at a time.","","","","","","",""
+"in-8b55d3a1b06015cd","indeed","https://www.indeed.com/viewjob?jk=8b55d3a1b06015cd","https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=131839&PostingSeq=1","Staff Nurse - Ambulatory Care Services","NYC Health + Hospitals","New York, NY, US","2026-02-10","fulltime","","yearly","","","USD",False,"","","","","**About NYC Health \\+ Hospitals**
 ---------------------------------
 
   
@@ -775,7 +651,7 @@ At NYC Health \\+ Hospitals, our mission is to deliver high quality care health 
 
   
 
-**Duties \\&amp; Responsibilities**
+**Duties \\& Responsibilities**
 ------------------------------
 
   
@@ -898,27 +774,8 @@ NYC Health and Hospitals offers a competitive benefits package that includes:
   
 
 
-If you wish to apply for this position, please apply online by clicking the "Apply for Job" button.
-🔗 Apply Direct: https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=131839&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=8b55d3a1b06015cd</description>
-      <companyName>NYC Health + Hospitals</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>New York, NY, US</jobLocation>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Assistant Director of Nursing RN ADON at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65467/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-Assistant Director of Nursing RN ADON-Huntsville, AL, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Huntsville, AL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+If you wish to apply for this position, please apply online by clicking the ""Apply for Job"" button.","Health Care","https://www.indeed.com/cmp/Nyc-Health-Hospitals","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2a7e0ac7eac70bd3addbf14e8f17512c","https://www.nychealthandhospitals.org/","50 Water St. New York, NY 10004","1,001 to 5,000","$25M to $100M (USD)","We always put patients first! NYCHHC is committed to excellence in health care and the safety of people in the City of New York.","","","","","","",""
+"in-20ff02e19238064b","indeed","https://www.indeed.com/viewjob?jk=20ff02e19238064b","https://healthcare-diversicare.icims.com/jobs/65467/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Assistant Director of Nursing RN ADON","Diversicare Healthcare Services","Huntsville, AL, US","2026-02-10","fulltime","","","","","",False,"","","","","Overview:
 **Advance Your Nursing Leadership Career as an Assistant Director of Nursing (RN) at Diversicare!**  
 
 Are you an experienced RN with a passion for leadership and a drive for excellence in healthcare? Diversicare, a leading provider of post\\-acute care services, invites you to take the next step in your nursing career as our Assistant Director of Nursing. **Why Choose Diversicare as an Assistant Director of Nursing (RN)?*** **Leadership Opportunity:** As our Assistant Director of Nursing, you'll play a pivotal role in shaping the quality of care and the future of our nursing department. Lead by example, inspire your team, and make a lasting impact on patient outcomes.
@@ -944,26 +801,8 @@ Qualifications:
 * Experience in long\\-term care or skilled nursing facilities preferred
 
 
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65467/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=20ff02e19238064b</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Huntsville, AL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinical Reviewer (SCA-Remote) at Acentra Health</title>
-      <link>https://careers.acentra.com/jobs/5363/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Acentra Health-Clinical Reviewer (SCA-Remote)-US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: US
-💼 Type: Fulltime
-🏠 Work: Remote
-💰 Salary: USD 28 - 32 (hourly)
-
-📝 Description: Company Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-54c6e59502a00b9b","indeed","https://www.indeed.com/viewjob?jk=54c6e59502a00b9b","https://careers.acentra.com/jobs/5363/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Clinical Reviewer (SCA-Remote)","Acentra Health","US","2026-02-10","fulltime","direct_data","hourly",28.0,32.0,"USD",True,"","","","","Company Overview:
 
 Acentra Health exists to empower better health outcomes through technology, services, and clinical expertise. Our mission is to innovate health solutions that deliver maximum value and impact.  
 
@@ -1032,34 +871,12 @@ Acentra Health is an Equal Opportunity Employer. All qualified applicants will r
 Benefits are a key component of your rewards package. Our benefits are designed to provide additional protection, security, and support for your career and life away from work. Our benefits include comprehensive health plans, paid time off, retirement savings, corporate wellness, educational assistance, corporate discounts, and more. **Compensation**  
 
 The pay range for this position is below: ***“Based on our compensation philosophy, an applicant’s placement in the pay range will depend on various considerations, such as years of applicable experience and skill level.”***
-Pay Range: USD $28\\.37 \\- USD $32\\.00 /Hr.
-🔗 Apply Direct: https://careers.acentra.com/jobs/5363/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=54c6e59502a00b9b</description>
-      <companyName>Acentra Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>US</jobLocation>
-      <salaryMin>28</salaryMin>
-      <salaryMax>32</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>true</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse - LPN at Genesis Healthcare</title>
-      <link>https://www.genesiscareers.jobs/genesishcc/jobs/41582/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Genesis Healthcare-Licensed Practical Nurse - LPN-Pembroke, NC, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Pembroke, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 30 - 33 (hourly)
-
-📝 Description: Overview:
-**FULL\\-TIME \\&amp; PART\\-TIME LPN POSITIONS**
+Pay Range: USD $28\\.37 \\- USD $32\\.00 /Hr.","","https://www.indeed.com/cmp/Acentra-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/01c9a5f60c21d20b31d789b083dab78c","","","Decline to state","Decline to state","","","","","","","",""
+"in-c3d85048a2ebf999","indeed","https://www.indeed.com/viewjob?jk=c3d85048a2ebf999","https://www.genesiscareers.jobs/genesishcc/jobs/41582/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Licensed Practical Nurse - LPN","Genesis Healthcare","Pembroke, NC, US","2026-02-10","fulltime","direct_data","hourly",30.0,33.0,"USD",False,"","","","","Overview:
+**FULL\\-TIME \\& PART\\-TIME LPN POSITIONS**
 **8 and 12 Hour Shifts Available!**
 **$7,500 RETENTION BONUS FOR FULL\\-TIME NURSES**
-**Ask about our Evening \\&amp; Night shift rates, WEEKEND WARRIOR\\-BAYLOR \\&amp; Increased Pay in Lieu of Benefits Programs!**
+**Ask about our Evening \\& Night shift rates, WEEKEND WARRIOR\\-BAYLOR \\& Increased Pay in Lieu of Benefits Programs!**
 
 At Genesis Healthcare, we are dedicated to improving the lives we touch through the delivery of high\\-quality care and exceptional service. As a leading provider in the long\\-term care industry, we believe in fostering a collaborative, inclusive and supportive work environment where every team member is valued and empowered to make a difference. Whether you're an experienced professional or just starting your career, we offer opportunities for growth, development, and advancement in a range of roles. Join us in our mission to enhance the well\\-being of our patients and residents while making a meaningful impact in the communities we serve.
 Responsibilities:
@@ -1100,34 +917,12 @@ We also offer several voluntary insurances, such as:
 
 
 Restrictions apply based on collective bargaining agreements, applicable state law and factors such as pay classification, job grade, location, and length of service.
-Posted Salary Range: USD $30\\.00 \\- USD $33\\.00 /Hr. Bonus: USD $7,500\\.00
-🔗 Apply Direct: https://www.genesiscareers.jobs/genesishcc/jobs/41582/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c3d85048a2ebf999</description>
-      <companyName>Genesis Healthcare</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Pembroke, NC, US</jobLocation>
-      <salaryMin>30</salaryMin>
-      <salaryMax>33</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse, RN at Genesis Healthcare</title>
-      <link>https://www.genesiscareers.jobs/genesishcc/jobs/41581/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Genesis Healthcare-Registered Nurse, RN-Pembroke, NC, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Pembroke, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 41 - 45 (hourly)
-
-📝 Description: Overview:
-**FULL\\-TIME \\&amp; PART\\-TIME RN POSITIONS**
+Posted Salary Range: USD $30\\.00 \\- USD $33\\.00 /Hr. Bonus: USD $7,500\\.00","Health Care","https://www.indeed.com/cmp/Genesis-Healthcare-6","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26754bcd7f4553315c065858e0744ed5","http://www.genesishcc.com/","101 E. State St., Kennett Square, PA","10,000+","","Our mission is to improve the lives we touch through the delivery of high quality healthcare and everyday compassion.","","","","","","",""
+"in-58470df2beefb746","indeed","https://www.indeed.com/viewjob?jk=58470df2beefb746","https://www.genesiscareers.jobs/genesishcc/jobs/41581/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse, RN","Genesis Healthcare","Pembroke, NC, US","2026-02-10","fulltime","direct_data","hourly",41.0,45.0,"USD",False,"","","","","Overview:
+**FULL\\-TIME \\& PART\\-TIME RN POSITIONS**
 **8 and 12 Hour Shifts Available!**
 **$7,500 RETENTION BONUS FOR FULL\\-TIME NURSES**
-**ASK ABOUT OUR WEEKEND WARRIOR\\-BAYLOR \\&amp; Increased Pay in Lieu of Benefits Programs!**
+**ASK ABOUT OUR WEEKEND WARRIOR\\-BAYLOR \\& Increased Pay in Lieu of Benefits Programs!**
 
 At Genesis Healthcare, we are dedicated to improving the lives we touch through the delivery of high\\-quality care and exceptional service. As a leading provider in the long\\-term care industry, we believe in fostering a collaborative, inclusive and supportive work environment where every team member is valued and empowered to make a difference. Whether you're an experienced professional or just starting your career, we offer opportunities for growth, development, and advancement in a range of roles. Join us in our mission to enhance the well\\-being of our patients and residents while making a meaningful impact in the communities we serve.
 Responsibilities:
@@ -1174,30 +969,9 @@ We also offer several voluntary insurances such as:
 
 
 Restrictions apply based on collective bargaining agreements, applicable state law and factors such as pay classification, job grade, location, and length of service.
-Posted Salary Range: USD $41\\.00 \\- USD $45\\.00 /Hr. Bonus: USD $7,500\\.00
-🔗 Apply Direct: https://www.genesiscareers.jobs/genesishcc/jobs/41581/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=58470df2beefb746</description>
-      <companyName>Genesis Healthcare</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Pembroke, NC, US</jobLocation>
-      <salaryMin>41</salaryMin>
-      <salaryMax>45</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinical Nurse I - Operating Room - FT, Days at UC Irvine Health</title>
-      <link>https://jobs.uci.edu/jobs/140690/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">UC Irvine Health-Clinical Nurse I - Operating Room - FT, Days-Orange, CA, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Orange, CA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
-**UCI Health** is the clinical enterprise of the University of California, Irvine, and the only academic health system based in Orange County. UCI Health is comprised of its main campus, UCI Medical Center, a 459\\-bed, acute care hospital in in Orange, Calif., four hospitals and affiliated physicians of the UCI Health Community Network in Orange and Los Angeles counties and ambulatory care centers across the region. Listed among America’s Best Hospitals by U.S. News \\&amp; World Report for 23 consecutive years, UCI Medical Center provides tertiary and quaternary care and is home to Orange County’s only National Cancer Institute\\-designated comprehensive cancer center, high\\-risk perinatal/neonatal program and American College of Surgeons\\-verified Level I adult and Level II pediatric trauma center, gold level 1 geriatric emergency department and regional burn center. UCI Health serves a region of nearly 4 million people in Orange County, western Riverside County and southeast Los Angeles County.
+Posted Salary Range: USD $41\\.00 \\- USD $45\\.00 /Hr. Bonus: USD $7,500\\.00","Health Care","https://www.indeed.com/cmp/Genesis-Healthcare-6","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26754bcd7f4553315c065858e0744ed5","http://www.genesishcc.com/","101 E. State St., Kennett Square, PA","10,000+","","Our mission is to improve the lives we touch through the delivery of high quality healthcare and everyday compassion.","","","","","","",""
+"in-e790345c279aa560","indeed","https://www.indeed.com/viewjob?jk=e790345c279aa560","https://jobs.uci.edu/jobs/140690/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Clinical Nurse I - Operating Room - FT, Days","UC Irvine Health","Orange, CA, US","2026-02-10","fulltime","","hourly","","","USD",False,"","","","eec@uci.edu","Overview:
+**UCI Health** is the clinical enterprise of the University of California, Irvine, and the only academic health system based in Orange County. UCI Health is comprised of its main campus, UCI Medical Center, a 459\\-bed, acute care hospital in in Orange, Calif., four hospitals and affiliated physicians of the UCI Health Community Network in Orange and Los Angeles counties and ambulatory care centers across the region. Listed among America’s Best Hospitals by U.S. News \\& World Report for 23 consecutive years, UCI Medical Center provides tertiary and quaternary care and is home to Orange County’s only National Cancer Institute\\-designated comprehensive cancer center, high\\-risk perinatal/neonatal program and American College of Surgeons\\-verified Level I adult and Level II pediatric trauma center, gold level 1 geriatric emergency department and regional burn center. UCI Health serves a region of nearly 4 million people in Orange County, western Riverside County and southeast Los Angeles County.
 To learn more about UCI Health, visit www.ucihealth.org.
 Responsibilities:
 **Position Summary:**The clinical nurse will collaborate with interdisciplinary teams to develop and implement a plan of care for a specific group of assigned patients. Performs professional nursing duties that incorporate the psychomotor and age appropriate cognitive skills of the patient/family/significant other to assess, plan, intervene and advocate for the patient on an ongoing basis throughout the continuum of care. Will evaluate patient outcomes, effectiveness of plan of care, and readiness for discharge and revise plan or make referrals as necessary. Acts as a role model and mentor to a variety of students and nurses new to the unit. Functions as a (PCC) Patient Care Coordinator as requested by the supervisor/manager.
@@ -1243,28 +1017,8 @@ We are committed to attracting and retaining a diverse workforce along with hono
 
   
 
-UCI provides reasonable accommodations for applicants with disabilities upon request. For more information, please contact UCI's Employee Experience Center (EEC) at eec@uci.edu or at (949\\) 824\\-0500, Monday \\- Friday from 8:30 a.m. \\- 5:00 p.m.
-🔗 Apply Direct: https://jobs.uci.edu/jobs/140690/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e790345c279aa560</description>
-      <companyName>UC Irvine Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Orange, CA, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Director Of Nursing 1 (Office/On-Site) at State of Connecticut</title>
-      <link>https://www.jobapscloud.com/CT/sup/bulpreview.asp?b=&amp;R1=260122&amp;R2=2751MP&amp;R3=001</link>
-      <guid isPermaLink="false">State of Connecticut-Director Of Nursing 1 (Office/On-Site)-New Haven, CT, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: New Haven, CT, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 124,895 - 170,298 (yearly)
-
-📝 Description: ***Does taking lead in your nursing career interest you?******If so, please read below to learn more about this exciting opportunity!***  
+UCI provides reasonable accommodations for applicants with disabilities upon request. For more information, please contact UCI's Employee Experience Center (EEC) at eec@uci.edu or at (949\\) 824\\-0500, Monday \\- Friday from 8:30 a.m. \\- 5:00 p.m.","Health Care","https://www.indeed.com/cmp/Uc-Irvine-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f719f6d113695ec78bc684eac0982507","http://careers.ucirvinehealth.org/","Orange, CA","1,001 to 5,000","","UC Irvine Health is committed to attracting talented employees to continue to build on the organization's strengths and achievements.","","","","","","",""
+"in-fce2d7521e916ef3","indeed","https://www.indeed.com/viewjob?jk=fce2d7521e916ef3","https://www.jobapscloud.com/CT/sup/bulpreview.asp?b=&R1=260122&R2=2751MP&R3=001","Director Of Nursing 1 (Office/On-Site)","State of Connecticut","New Haven, CT, US","2026-02-10","fulltime","direct_data","yearly",124895.0,170298.0,"USD",False,"","","","DAS.SHRM@ct.gov, Nicole.Frascatore@ct.gov","***Does taking lead in your nursing career interest you?******If so, please read below to learn more about this exciting opportunity!***  
 
 The **State of Connecticu****t**, Department of Mental Health and Addiction Services (**DMHAS**) is currently seeking a dedicated and experienced **Director of Nursing 1**to join our team.  
 
@@ -1458,30 +1212,8 @@ Note: For state employees this experience is interpreted at the level of a Super
 * Incumbents in this class must possess and retain a license as a Registered Nurse in Connecticut OR hold a Multistate or Compact Registered Nurse license.
 * Incumbents in this class serving in the capacity of the Nurse Executive are required to possess a master's degree in nursing, social or behavioral science, public health administration, health care administration, hospital administration or a related field.
 * Incumbents in this class may be required to possess and retain a valid Motor Vehicle Operator’s license.
-* Incumbents in this class may be required to travel.
-🔗 Apply Direct: https://www.jobapscloud.com/CT/sup/bulpreview.asp?b=&amp;R1=260122&amp;R2=2751MP&amp;R3=001
-🔗 Job Board: https://www.indeed.com/viewjob?jk=fce2d7521e916ef3</description>
-      <companyName>State of Connecticut</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>New Haven, CT, US</jobLocation>
-      <salaryMin>124895</salaryMin>
-      <salaryMax>170298</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Surgical Oncology at ECU Health</title>
-      <link>https://careers.vidanthealth.com/en/jobs/17026423-registered-nurse-rn-surgical-oncology?tm_job=978216-2A&amp;tm_event=view&amp;tm_company=2362</link>
-      <guid isPermaLink="false">ECU Health-Registered Nurse (RN) - Surgical Oncology-Greenville, NC, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Greenville, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 38 - 52 (hourly)
-
-📝 Description: **Position Summary**
+* Incumbents in this class may be required to travel.","Government","https://www.indeed.com/cmp/State-of-Connecticut","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/879433409eb8e5dfbf60aa0cab5e0641","https://www.jobapscloud.com/CT/","Hartford","10,000+","","","","","","","","",""
+"in-eb142961bed69054","indeed","https://www.indeed.com/viewjob?jk=eb142961bed69054","https://careers.vidanthealth.com/en/jobs/17026423-registered-nurse-rn-surgical-oncology?tm_job=978216-2A&tm_event=view&tm_company=2362","Registered Nurse (RN) - Surgical Oncology","ECU Health","Greenville, NC, US","2026-02-10","fulltime","direct_data","hourly",38.0,52.0,"USD",False,"","","","","**Position Summary**
 
 
 Responsible to provide care in accordance with the North Carolina Board of Nursing\\-Nurse Practice Act, American Nurses Association Standards of Practice and other standards established by profession/professional groups, regulating bodies/agents. Nursing care will be delivered in accordance with ECU Health and entity specific nursing policies, procedures and professional standards of care/practice.  
@@ -1544,30 +1276,8 @@ It is the goal of ECU Health and its entities to employ the most qualified indiv
 Offers of employment are subject to successful completion of all pre\\-employment screenings, which may include an occupational health screening, criminal record check, education, reference, and licensure verification.
 
 
-We value diversity and are proud to be an equal opportunity employer. Decisions of employment are made based on business needs, job requirements and applicant's qualifications without regard to race, color, religion, gender, national origin, disability status, protected veteran status, genetic information and testing, family and medical leave, sexual orientation, gender identity or expression or any other status protected by law. We prohibit retaliation against individuals who bring forth any complaint, orally or in writing, to the employer, or against any individuals who assist or participate in the investigation of any complaint.
-🔗 Apply Direct: https://careers.vidanthealth.com/en/jobs/17026423-registered-nurse-rn-surgical-oncology?tm_job=978216-2A&amp;tm_event=view&amp;tm_company=2362
-🔗 Job Board: https://www.indeed.com/viewjob?jk=eb142961bed69054</description>
-      <companyName>ECU Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Greenville, NC, US</jobLocation>
-      <salaryMin>38</salaryMin>
-      <salaryMax>52</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - 2 East Family Medicine Unit at ECU Health</title>
-      <link>https://careers.vidanthealth.com/en/jobs/17025863-registered-nurse-rn-2-east-family-medicine-unit?tm_job=979115-1A&amp;tm_event=view&amp;tm_company=2362</link>
-      <guid isPermaLink="false">ECU Health-Registered Nurse (RN) - 2 East Family Medicine Unit-Greenville, NC, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Greenville, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 33 - 41 (hourly)
-
-📝 Description: **Position Summary**
+We value diversity and are proud to be an equal opportunity employer. Decisions of employment are made based on business needs, job requirements and applicant's qualifications without regard to race, color, religion, gender, national origin, disability status, protected veteran status, genetic information and testing, family and medical leave, sexual orientation, gender identity or expression or any other status protected by law. We prohibit retaliation against individuals who bring forth any complaint, orally or in writing, to the employer, or against any individuals who assist or participate in the investigation of any complaint.","","https://www.indeed.com/cmp/Ecu-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f87b2967dbbefaa3c6033b3e4a578594","https://careers.ecuhealth.org/","Greenville, NC","1,001 to 5,000","Decline to state","ECU Health’s mission is to improve the health and well-being of eastern North Carolina.","","","","","","",""
+"in-e422884b3ec61ffe","indeed","https://www.indeed.com/viewjob?jk=e422884b3ec61ffe","https://careers.vidanthealth.com/en/jobs/17025863-registered-nurse-rn-2-east-family-medicine-unit?tm_job=979115-1A&tm_event=view&tm_company=2362","Registered Nurse (RN) - 2 East Family Medicine Unit","ECU Health","Greenville, NC, US","2026-02-10","fulltime","direct_data","hourly",33.0,41.0,"USD",False,"","","","","**Position Summary**
 
 
 Responsible to provide care in accordance with the North Carolina Board of Nursing\\-Nurse Practice Act, American Nurses Association Standards of Practice and other standards established by profession/professional groups, regulating bodies/agents. Nursing care will be delivered in accordance with ECU Health and entity specific nursing policies, procedures and professional standards of care/practice.  
@@ -1630,30 +1340,8 @@ It is the goal of ECU Health and its entities to employ the most qualified indiv
 Offers of employment are subject to successful completion of all pre\\-employment screenings, which may include an occupational health screening, criminal record check, education, reference, and licensure verification.
 
 
-We value diversity and are proud to be an equal opportunity employer. Decisions of employment are made based on business needs, job requirements and applicant's qualifications without regard to race, color, religion, gender, national origin, disability status, protected veteran status, genetic information and testing, family and medical leave, sexual orientation, gender identity or expression or any other status protected by law. We prohibit retaliation against individuals who bring forth any complaint, orally or in writing, to the employer, or against any individuals who assist or participate in the investigation of any complaint.
-🔗 Apply Direct: https://careers.vidanthealth.com/en/jobs/17025863-registered-nurse-rn-2-east-family-medicine-unit?tm_job=979115-1A&amp;tm_event=view&amp;tm_company=2362
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e422884b3ec61ffe</description>
-      <companyName>ECU Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Greenville, NC, US</jobLocation>
-      <salaryMin>33</salaryMin>
-      <salaryMax>41</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Hybrid Complex Medical Unit (HCMU) at ECU Health</title>
-      <link>https://careers.vidanthealth.com/en/jobs/17025166-registered-nurse-rn-hybrid-complex-medical-unit-hcmu?tm_job=979797-1A&amp;tm_event=view&amp;tm_company=2362</link>
-      <guid isPermaLink="false">ECU Health-Registered Nurse (RN) - Hybrid Complex Medical Unit (HCMU)-Greenville, NC, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Greenville, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 38 - 52 (hourly)
-
-📝 Description: **Position Summary**
+We value diversity and are proud to be an equal opportunity employer. Decisions of employment are made based on business needs, job requirements and applicant's qualifications without regard to race, color, religion, gender, national origin, disability status, protected veteran status, genetic information and testing, family and medical leave, sexual orientation, gender identity or expression or any other status protected by law. We prohibit retaliation against individuals who bring forth any complaint, orally or in writing, to the employer, or against any individuals who assist or participate in the investigation of any complaint.","","https://www.indeed.com/cmp/Ecu-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f87b2967dbbefaa3c6033b3e4a578594","https://careers.ecuhealth.org/","Greenville, NC","1,001 to 5,000","Decline to state","ECU Health’s mission is to improve the health and well-being of eastern North Carolina.","","","","","","",""
+"in-f0ec513f7b829734","indeed","https://www.indeed.com/viewjob?jk=f0ec513f7b829734","https://careers.vidanthealth.com/en/jobs/17025166-registered-nurse-rn-hybrid-complex-medical-unit-hcmu?tm_job=979797-1A&tm_event=view&tm_company=2362","Registered Nurse (RN) - Hybrid Complex Medical Unit (HCMU)","ECU Health","Greenville, NC, US","2026-02-10","fulltime","direct_data","hourly",38.0,52.0,"USD",False,"","","","","**Position Summary**
 
 
 Responsible to provide care in accordance with the North Carolina Board of Nursing\\-Nurse Practice Act, American Nurses Association Standards of Practice and other standards established by profession/professional groups, regulating bodies/agents. Nursing care will be delivered in accordance with ECU Health and entity specific nursing policies, procedures and professional standards of care/practice.  
@@ -1716,30 +1404,8 @@ It is the goal of ECU Health and its entities to employ the most qualified indiv
 Offers of employment are subject to successful completion of all pre\\-employment screenings, which may include an occupational health screening, criminal record check, education, reference, and licensure verification.
 
 
-We value diversity and are proud to be an equal opportunity employer. Decisions of employment are made based on business needs, job requirements and applicant's qualifications without regard to race, color, religion, gender, national origin, disability status, protected veteran status, genetic information and testing, family and medical leave, sexual orientation, gender identity or expression or any other status protected by law. We prohibit retaliation against individuals who bring forth any complaint, orally or in writing, to the employer, or against any individuals who assist or participate in the investigation of any complaint.
-🔗 Apply Direct: https://careers.vidanthealth.com/en/jobs/17025166-registered-nurse-rn-hybrid-complex-medical-unit-hcmu?tm_job=979797-1A&amp;tm_event=view&amp;tm_company=2362
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f0ec513f7b829734</description>
-      <companyName>ECU Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Greenville, NC, US</jobLocation>
-      <salaryMin>38</salaryMin>
-      <salaryMax>52</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LPN | Medical at Monument Health</title>
-      <link>https://monumenthealth.wd1.myworkdayjobs.com/en-US/Goldcareers/job/Rapid-City-SD-USA/LPN---Medical_26_2898-2</link>
-      <guid isPermaLink="false">Monument Health-LPN | Medical-Rapid City, SD, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Rapid City, SD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 25 - 29 (hourly)
-
-📝 Description: Current Employees:
+We value diversity and are proud to be an equal opportunity employer. Decisions of employment are made based on business needs, job requirements and applicant's qualifications without regard to race, color, religion, gender, national origin, disability status, protected veteran status, genetic information and testing, family and medical leave, sexual orientation, gender identity or expression or any other status protected by law. We prohibit retaliation against individuals who bring forth any complaint, orally or in writing, to the employer, or against any individuals who assist or participate in the investigation of any complaint.","","https://www.indeed.com/cmp/Ecu-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f87b2967dbbefaa3c6033b3e4a578594","https://careers.ecuhealth.org/","Greenville, NC","1,001 to 5,000","Decline to state","ECU Health’s mission is to improve the health and well-being of eastern North Carolina.","","","","","","",""
+"in-28183e1962b9ae7a","indeed","https://www.indeed.com/viewjob?jk=28183e1962b9ae7a","https://monumenthealth.wd1.myworkdayjobs.com/en-US/Goldcareers/job/Rapid-City-SD-USA/LPN---Medical_26_2898-2","LPN | Medical","Monument Health","Rapid City, SD, US","2026-02-10","fulltime","direct_data","hourly",25.0,29.0,"USD",False,"","","","","Current Employees:
 
 **Primary Location**
 
@@ -1827,30 +1493,8 @@ Regular
 10 Monument Health Rapid City Hospital, Inc.
 **Make a difference** . *Every day.*
 
-**Monument Health is** **an Equal** **Opportunity/Affirmative** **Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected Veteran status.**
-🔗 Apply Direct: https://monumenthealth.wd1.myworkdayjobs.com/en-US/Goldcareers/job/Rapid-City-SD-USA/LPN---Medical_26_2898-2
-🔗 Job Board: https://www.indeed.com/viewjob?jk=28183e1962b9ae7a</description>
-      <companyName>Monument Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Rapid City, SD, US</jobLocation>
-      <salaryMin>25</salaryMin>
-      <salaryMax>29</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN | NICU at Monument Health</title>
-      <link>https://monumenthealth.wd1.myworkdayjobs.com/en-US/Goldcareers/job/Rapid-City-SD-USA/RN---NICU_26_2629-2</link>
-      <guid isPermaLink="false">Monument Health-RN | NICU-Rapid City, SD, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Rapid City, SD, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 35 - 43 (hourly)
-
-📝 Description: Current Employees:
+**Monument Health is** **an Equal** **Opportunity/Affirmative** **Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected Veteran status.**","","https://www.indeed.com/cmp/Monument-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/92a839bc9d12795e5134f5ae745e4fa7","","","","","Headquartered in Rapid City, S.D., Monument Health (formerly Regional Health) is a community-based health care system with a mission to make a difference, every day.","","","","","","",""
+"in-e32afc0d9e44a8d5","indeed","https://www.indeed.com/viewjob?jk=e32afc0d9e44a8d5","https://monumenthealth.wd1.myworkdayjobs.com/en-US/Goldcareers/job/Rapid-City-SD-USA/RN---NICU_26_2629-2","RN | NICU","Monument Health","Rapid City, SD, US","2026-02-10","parttime","direct_data","hourly",35.0,43.0,"USD",False,"","","","","Current Employees:
 
 **Primary Location**
 
@@ -1984,30 +1628,8 @@ PRN
 10 Monument Health Rapid City Hospital, Inc.
 **Make a difference** . *Every day.*
 
-**Monument Health is** **an Equal** **Opportunity/Affirmative** **Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected Veteran status.**
-🔗 Apply Direct: https://monumenthealth.wd1.myworkdayjobs.com/en-US/Goldcareers/job/Rapid-City-SD-USA/RN---NICU_26_2629-2
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e32afc0d9e44a8d5</description>
-      <companyName>Monument Health</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Rapid City, SD, US</jobLocation>
-      <salaryMin>35</salaryMin>
-      <salaryMax>43</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN | NICU at Monument Health</title>
-      <link>https://monumenthealth.wd1.myworkdayjobs.com/en-US/Goldcareers/job/Rapid-City-SD-USA/RN---NICU_26_2628-2</link>
-      <guid isPermaLink="false">Monument Health-RN | NICU-Rapid City, SD, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Rapid City, SD, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 35 - 43 (hourly)
-
-📝 Description: Current Employees:
+**Monument Health is** **an Equal** **Opportunity/Affirmative** **Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected Veteran status.**","","https://www.indeed.com/cmp/Monument-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/92a839bc9d12795e5134f5ae745e4fa7","","","","","Headquartered in Rapid City, S.D., Monument Health (formerly Regional Health) is a community-based health care system with a mission to make a difference, every day.","","","","","","",""
+"in-e3a4ca7a824649f8","indeed","https://www.indeed.com/viewjob?jk=e3a4ca7a824649f8","https://monumenthealth.wd1.myworkdayjobs.com/en-US/Goldcareers/job/Rapid-City-SD-USA/RN---NICU_26_2628-2","RN | NICU","Monument Health","Rapid City, SD, US","2026-02-10","parttime","direct_data","hourly",35.0,43.0,"USD",False,"","","","","Current Employees:
 
 **Primary Location**
 
@@ -2141,30 +1763,8 @@ PRN
 10 Monument Health Rapid City Hospital, Inc.
 **Make a difference** . *Every day.*
 
-**Monument Health is** **an Equal** **Opportunity/Affirmative** **Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected Veteran status.**
-🔗 Apply Direct: https://monumenthealth.wd1.myworkdayjobs.com/en-US/Goldcareers/job/Rapid-City-SD-USA/RN---NICU_26_2628-2
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e3a4ca7a824649f8</description>
-      <companyName>Monument Health</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Rapid City, SD, US</jobLocation>
-      <salaryMin>35</salaryMin>
-      <salaryMax>43</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN | Endoscopy at Monument Health</title>
-      <link>https://monumenthealth.wd1.myworkdayjobs.com/en-US/Goldcareers/job/Rapid-City-SD-USA/RN---Endoscopy_26_2849-2</link>
-      <guid isPermaLink="false">Monument Health-RN | Endoscopy-Rapid City, SD, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Rapid City, SD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 37 - 46 (hourly)
-
-📝 Description: Current Employees:
+**Monument Health is** **an Equal** **Opportunity/Affirmative** **Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected Veteran status.**","","https://www.indeed.com/cmp/Monument-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/92a839bc9d12795e5134f5ae745e4fa7","","","","","Headquartered in Rapid City, S.D., Monument Health (formerly Regional Health) is a community-based health care system with a mission to make a difference, every day.","","","","","","",""
+"in-3f9ab1478d5b37c1","indeed","https://www.indeed.com/viewjob?jk=3f9ab1478d5b37c1","https://monumenthealth.wd1.myworkdayjobs.com/en-US/Goldcareers/job/Rapid-City-SD-USA/RN---Endoscopy_26_2849-2","RN | Endoscopy","Monument Health","Rapid City, SD, US","2026-02-10","fulltime","direct_data","hourly",37.0,46.0,"USD",False,"","","","","Current Employees:
 
 **Primary Location**
 
@@ -2303,28 +1903,8 @@ Regular
 10 Monument Health Rapid City Hospital, Inc.
 **Make a difference** . *Every day.*
 
-**Monument Health is** **an Equal** **Opportunity/Affirmative** **Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected Veteran status.**
-🔗 Apply Direct: https://monumenthealth.wd1.myworkdayjobs.com/en-US/Goldcareers/job/Rapid-City-SD-USA/RN---Endoscopy_26_2849-2
-🔗 Job Board: https://www.indeed.com/viewjob?jk=3f9ab1478d5b37c1</description>
-      <companyName>Monument Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Rapid City, SD, US</jobLocation>
-      <salaryMin>37</salaryMin>
-      <salaryMax>46</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Ortho - Neuro - Stroke - Lorain Hospital at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR266091EXTERNALENUS/Registered-Nurse-RN-Ortho-Neuro-Stroke-Lorain-Hospital?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Registered Nurse (RN) - Ortho - Neuro - Stroke - Lorain Hospital-Lorain, OH, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Lorain, OH, US
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.
+**Monument Health is** **an Equal** **Opportunity/Affirmative** **Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected Veteran status.**","","https://www.indeed.com/cmp/Monument-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/92a839bc9d12795e5134f5ae745e4fa7","","","","","Headquartered in Rapid City, S.D., Monument Health (formerly Regional Health) is a community-based health care system with a mission to make a difference, every day.","","","","","","",""
+"in-ed24bcce7ba94302","indeed","https://www.indeed.com/viewjob?jk=ed24bcce7ba94302","https://careers.mercy.com/us/en/job/BSMMHPUSR266091EXTERNALENUS/Registered-Nurse-RN-Ortho-Neuro-Stroke-Lorain-Hospital?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse (RN) - Ortho - Neuro - Stroke - Lorain Hospital","Mercy Health","Lorain, OH, US","2026-02-10","","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.
 New Hires Eligible for \\*\\*\\***Sign On Bonus up to $10K**\\*\\*\\*
 
 **General Summary**
@@ -2387,24 +1967,8 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR266091EXTERNALENUS/Registered-Nurse-RN-Ortho-Neuro-Stroke-Lorain-Hospital?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ed24bcce7ba94302</description>
-      <companyName>Mercy Health</companyName>
-      <jobLocation>Lorain, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Assistant Director of Nursing, ADON at CommuniCare Health Services</title>
-      <link>https://communicarehealth.wd1.myworkdayjobs.com/CHSExternalCareerSite/job/SouthPointe-Healthcare-Center/Assistant-Director-of-Nursing--ADON_R-0000112944</link>
-      <guid isPermaLink="false">CommuniCare Health Services-Assistant Director of Nursing, ADON-Indianapolis, IN, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Indianapolis, IN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Job Address:**
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-81c5349c94916ebd","indeed","https://www.indeed.com/viewjob?jk=81c5349c94916ebd","https://communicarehealth.wd1.myworkdayjobs.com/CHSExternalCareerSite/job/SouthPointe-Healthcare-Center/Assistant-Director-of-Nursing--ADON_R-0000112944","Assistant Director of Nursing, ADON","CommuniCare Health Services","Indianapolis, IN, US","2026-02-10","fulltime","","","","","",False,"","","","","**Job Address:**
 
 
 4904 War Admiral Drive Indianapolis, IN 46237 **Southpointe Healthcare Center,** a member of the CommuniCare Family of Companies, is currently recruiting for an **RN Assistant Director of Nursing** to join our team.
@@ -2414,7 +1978,7 @@ All applicants will receive consideration for employment without regard to race,
 
 The position of RN Assistant Director of Nursing monitors and provides personal nursing care and leadership to the nursing staff to assure that care standards are met and the highest degree of quality resident care is provided for at all times. The position must function as a team member, team leader, and supervisor to ensure that work is accomplished and quality care is delivered, supporting team members and leading the way in celebrating team successes. While assisting the DON with the planning, organizing, developing and directing the overall operation of the Nursing Department, the position must also manage the resources within their control and assist others in managing resources.
 
-**JOB DUTIES \\&amp; RESPONSIBILITIES**
+**JOB DUTIES \\& RESPONSIBILITIES**
 
 * May assess the needs of new residents and inform staff of new resident arrivals.
 * Make daily resident visits to observe and evaluate resident’s physical and emotional status and revise care plan accordingly.
@@ -2436,7 +2000,7 @@ The position of RN Assistant Director of Nursing monitors and provides personal 
 * Provide leadership to the staff and create loyalty to the organization, its mission, and its goals by leading by example.
 * Perform other related activities as assigned or requested.
 
-**QUALIFICATIONS KNOWLEDGE/SKILLS \\&amp; ABILITIES**
+**QUALIFICATIONS KNOWLEDGE/SKILLS \\& ABILITIES**
 
 * Must possess a current license as an RN in the state where the center is located.
 * Must possess, as a minimum, a Nursing degree from an accredited college or university, or a graduate of an approved RN program.
@@ -2458,25 +2022,8 @@ As a CommuniCare employee you will enjoy competitive wages and PTO plans. We off
 
 Since 1984, CommuniCare Family of Companies has been committed to delivering exceptional person\\-centered care as a national leader in post\\-acute care for those that are chronically ill or have complex conditions. Our more than 130 skilled nursing, assisted living, and long\\-term care facilities deliver sophisticated and transformative care to nearly 16,000 residents and patients at any given time. CommuniCare employs more than 16,000 employees across several states.  
 
-As a family owned and operated company, family and heart are woven into every aspect of our continuum of care. Our mission, to serve with pride, is evident and is a quality residents, families and community partners have come to expect and trust. Dedicated to improving the lives of seniors, we put extraordinary service above all else. We continue to raise the bar and innovate wherever possible to deliver a higher quality of life for those far beyond our facilities. Because of this, our facilities are a better place for residents to live, patients to stay, employees to work and families to heal.
-🔗 Apply Direct: https://communicarehealth.wd1.myworkdayjobs.com/CHSExternalCareerSite/job/SouthPointe-Healthcare-Center/Assistant-Director-of-Nursing--ADON_R-0000112944
-🔗 Job Board: https://www.indeed.com/viewjob?jk=81c5349c94916ebd</description>
-      <companyName>CommuniCare Health Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Indianapolis, IN, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN | Surgical Unit | SEASONAL at Logan Health</title>
-      <link>https://loganhealth.wd1.myworkdayjobs.com/en-US/Logan_Careers/job/Kalispell-Montana/RN---Surgical-Unit---SEASONAL_Req13784</link>
-      <guid isPermaLink="false">Logan Health-RN | Surgical Unit | SEASONAL-Kalispell, MT, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Kalispell, MT, US
-💼 Type: Parttime
-🏠 Work: On-site
-
-📝 Description: This position provides primary care to patients, including assessment, treatment, care planning, and medical care evaluation.  
+As a family owned and operated company, family and heart are woven into every aspect of our continuum of care. Our mission, to serve with pride, is evident and is a quality residents, families and community partners have come to expect and trust. Dedicated to improving the lives of seniors, we put extraordinary service above all else. We continue to raise the bar and innovate wherever possible to deliver a higher quality of life for those far beyond our facilities. Because of this, our facilities are a better place for residents to live, patients to stay, employees to work and families to heal.","","https://www.indeed.com/cmp/Communicare-Health-Services","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/009c0d2f8d0d4de8e3498f54a5313dc3","https://communicarehealth.com/","Cincinnati, OH","10,000+","$25M to $100M (USD)","CommuniCare Health Services is one of the nation's largest providers of long-term care with over 150 facilities across seven states.","","","","","","",""
+"in-a480fa8064792cfb","indeed","https://www.indeed.com/viewjob?jk=a480fa8064792cfb","https://loganhealth.wd1.myworkdayjobs.com/en-US/Logan_Careers/job/Kalispell-Montana/RN---Surgical-Unit---SEASONAL_Req13784","RN | Surgical Unit | SEASONAL","Logan Health","Kalispell, MT, US","2026-02-10","parttime","","","","","",False,"","","","","This position provides primary care to patients, including assessment, treatment, care planning, and medical care evaluation.  
 
 Our Mission: Quality, compassionate care for all.
 Our Vision: Reimagine health care through connection, service and innovation.
@@ -2522,25 +2069,9 @@ If you receive a job offer, please note all offers are contingent upon passing a
 
 
 Equal Opportunity Employer
-Logan Health is an Equal Opportunity Employer (EOE/AA/M\\-F/Vet/Disability). We encourage all qualified individuals to apply for employment. We do not discriminate against any applicant or employee based on protected veteran status, race, color, gender, sexual orientation, religion, national origin, age, disability or any other basis protected by applicable law. If you require accommodation to complete the application, testing or interview process, please notify Human Resources.
-🔗 Apply Direct: https://loganhealth.wd1.myworkdayjobs.com/en-US/Logan_Careers/job/Kalispell-Montana/RN---Surgical-Unit---SEASONAL_Req13784
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a480fa8064792cfb</description>
-      <companyName>Logan Health</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Kalispell, MT, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Pediatric Services Supervisor | Outpatient Clinics at Logan Health</title>
-      <link>https://loganhealth.wd1.myworkdayjobs.com/en-US/Logan_Careers/job/Kalispell-Montana/RN-Pediatric-Services-Supervisor---Outpatient-Clinics_Req16550</link>
-      <guid isPermaLink="false">Logan Health-RN Pediatric Services Supervisor | Outpatient Clinics-Kalispell, MT, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Kalispell, MT, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: This position works closely with leadership regarding strategic planning, program development, continuous quality improvement and financial/budget reporting and monitoring. Responsible for supervising and coordinating staff and activities to ensure optimum patient service. Responsible for workflow optimization, performance, regulatory compliance, and the overall supervision of assigned area(s) operations to achieve exceptional care, superb service, and maximal physician/staff productivity. In collaboration with leadership, meets practice financial and quality benchmarks and operational oversight of the assigned outpatient programs.  
+Logan Health is an Equal Opportunity Employer (EOE/AA/M\\-F/Vet/Disability). We encourage all qualified individuals to apply for employment. We do not discriminate against any applicant or employee based on protected veteran status, race, color, gender, sexual orientation, religion, national origin, age, disability or any other basis protected by applicable law. If you require accommodation to complete the application, testing or interview process, please notify Human Resources.","Health Care","https://www.indeed.com/cmp/Logan-Health-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/31b70aa8f4b1b2aa9dcc28d963266a80","http://www.Logan.org","310 Sunnyview Lane
+Kalispell, MT 59901","1,001 to 5,000","","Together, we're connecting our community to trusted, quality care and helping to improve lives every day.","","","","","","",""
+"in-4d7aad3bfcdd2c0a","indeed","https://www.indeed.com/viewjob?jk=4d7aad3bfcdd2c0a","https://loganhealth.wd1.myworkdayjobs.com/en-US/Logan_Careers/job/Kalispell-Montana/RN-Pediatric-Services-Supervisor---Outpatient-Clinics_Req16550","RN Pediatric Services Supervisor | Outpatient Clinics","Logan Health","Kalispell, MT, US","2026-02-10","fulltime","","","","","",False,"","","","","This position works closely with leadership regarding strategic planning, program development, continuous quality improvement and financial/budget reporting and monitoring. Responsible for supervising and coordinating staff and activities to ensure optimum patient service. Responsible for workflow optimization, performance, regulatory compliance, and the overall supervision of assigned area(s) operations to achieve exceptional care, superb service, and maximal physician/staff productivity. In collaboration with leadership, meets practice financial and quality benchmarks and operational oversight of the assigned outpatient programs.  
 
 Our Mission: Quality, compassionate care for all.
 Our Vision: Reimagine health care through connection, service and innovation.
@@ -2586,25 +2117,9 @@ If you receive a job offer, please note all offers are contingent upon passing a
 
 
 Equal Opportunity Employer
-Logan Health is an Equal Opportunity Employer (EOE/AA/M\\-F/Vet/Disability). We encourage all qualified individuals to apply for employment. We do not discriminate against any applicant or employee based on protected veteran status, race, color, gender, sexual orientation, religion, national origin, age, disability or any other basis protected by applicable law. If you require accommodation to complete the application, testing or interview process, please notify Human Resources.
-🔗 Apply Direct: https://loganhealth.wd1.myworkdayjobs.com/en-US/Logan_Careers/job/Kalispell-Montana/RN-Pediatric-Services-Supervisor---Outpatient-Clinics_Req16550
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4d7aad3bfcdd2c0a</description>
-      <companyName>Logan Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Kalispell, MT, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Certified Nurse Midwife - CNM Required at Saint Francis Health System</title>
-      <link>https://saintfrancis.wd1.myworkdayjobs.com/en-US/External/job/South-Campus---Bishop-Building/Certified-Nurse-Midwife---CNM-Required_JR27188</link>
-      <guid isPermaLink="false">Saint Francis Health System-Certified Nurse Midwife - CNM Required-Tulsa, OK, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Tulsa, OK, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Full Time
+Logan Health is an Equal Opportunity Employer (EOE/AA/M\\-F/Vet/Disability). We encourage all qualified individuals to apply for employment. We do not discriminate against any applicant or employee based on protected veteran status, race, color, gender, sexual orientation, religion, national origin, age, disability or any other basis protected by applicable law. If you require accommodation to complete the application, testing or interview process, please notify Human Resources.","Health Care","https://www.indeed.com/cmp/Logan-Health-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/31b70aa8f4b1b2aa9dcc28d963266a80","http://www.Logan.org","310 Sunnyview Lane
+Kalispell, MT 59901","1,001 to 5,000","","Together, we're connecting our community to trusted, quality care and helping to improve lives every day.","","","","","","",""
+"in-e98889541c700cc9","indeed","https://www.indeed.com/viewjob?jk=e98889541c700cc9","https://saintfrancis.wd1.myworkdayjobs.com/en-US/External/job/South-Campus---Bishop-Building/Certified-Nurse-Midwife---CNM-Required_JR27188","Certified Nurse Midwife - CNM Required","Saint Francis Health System","Tulsa, OK, US","2026-02-10","fulltime","","","","","",False,"","","","","Full Time
 Job Summary: Serves as a provider of clinical services within the scope and practice guidelines of the State Nurse Practice Act and SFHS policies.  
 
   
@@ -2643,27 +2158,12 @@ OB/GYN \\- Bishops Building 250 \\- Providers \\- Warren Clinic
 Location:
 Tulsa, Oklahoma 74133
 Under the Oklahoma Medical Marijuana Use and Patient Protection Act (OMMA), a safety sensitive position is defined as any job that includes tasks or duties that the employer believes could affect the safety and health of the employee performing the task or others. This position has been identified as a safety sensitive position. This statute allows employers to lawfully refuse to hire applicants for safety\\-sensitive jobs or to discipline or discharge employees who work in safety\\-sensitive jobs if they test positive for marijuana, even if they have a valid license to use medical marijuana.
-EOE Protected Veterans/Disability
-🔗 Apply Direct: https://saintfrancis.wd1.myworkdayjobs.com/en-US/External/job/South-Campus---Bishop-Building/Certified-Nurse-Midwife---CNM-Required_JR27188
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e98889541c700cc9</description>
-      <companyName>Saint Francis Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Tulsa, OK, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>CRNA Waco Hillcrest at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=25019759_rxr-1&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F25019759%2FCRNA-Waco-Hillcrest%3Frx_a%3D1%26rx_c%3D29-advanced-practice-provider%26rx_ch%3Djobp4p%26rx_group%3D341567%26rx_id%3Dc568e948-0616-11f1-99c2-d9baf40b272d%26rx_job%3D25019759_rxr-1%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260210T060340Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-CRNA Waco Hillcrest-Temple, TX, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Temple, TX, US
-🏠 Work: On-site
-
-📝 Description: Are you ready to embark on an exciting journey in anesthesia care? Baylor Scott \\&amp; White Medical Center – Hillcrest in Waco, TX, invites skilled Certified Registered Nurse Anesthetists (CRNAs) to join our recognized team. With a **$75,000 sign\\-on bonus**, cutting\\-edge facilities, and a commitment to excellence, this opportunity promises both professional fulfillment and personal growth.
+EOE Protected Veterans/Disability","Health Care","https://www.indeed.com/cmp/Saint-Francis-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ab13193431f7dcc6aa0d6ce731ffc78f","http://www.saintfrancis.com","6161 S. Yale Avenue
+Tulsa, Oklahoma","10,000+","$500M to $1B (USD)","Saint Francis Health System is Oklahoma’s largest healthcare provider with one mission: to extend the presence and healing ministry of Christ in all we do.","","","","","","",""
+"in-ae5c84165f1444ea","indeed","https://www.indeed.com/viewjob?jk=ae5c84165f1444ea","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=25019759_rxr-1&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F25019759%2FCRNA-Waco-Hillcrest%3Frx_a%3D1%26rx_c%3D29-advanced-practice-provider%26rx_ch%3Djobp4p%26rx_group%3D341567%26rx_id%3Dc568e948-0616-11f1-99c2-d9baf40b272d%26rx_job%3D25019759_rxr-1%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260210T060340Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","CRNA Waco Hillcrest","Baylor Scott & White Health","Temple, TX, US","2026-02-10","","","","","","",False,"","","","","Are you ready to embark on an exciting journey in anesthesia care? Baylor Scott \\& White Medical Center – Hillcrest in Waco, TX, invites skilled Certified Registered Nurse Anesthetists (CRNAs) to join our recognized team. With a **$75,000 sign\\-on bonus**, cutting\\-edge facilities, and a commitment to excellence, this opportunity promises both professional fulfillment and personal growth.
 
 
-Baylor Scott \\&amp; White Medical Center – Hillcrest stands as a beacon of exceptional healthcare in the region. As a 236\\-bed acute\\-care Level II Trauma hospital, we provide unparalleled medical services to our community. Our facility boasts the only Level III neonatal intensive care unit in the area and hosts the largest network of primary care physicians on our medical staff. Recognized with Magnet® status, the highest national accolade for nursing excellence, we take pride in delivering superior patient care across various specialties including neurosurgery, urology, sports medicine and orthopedics, and plastic and reconstructive surgery.
+Baylor Scott \\& White Medical Center – Hillcrest stands as a beacon of exceptional healthcare in the region. As a 236\\-bed acute\\-care Level II Trauma hospital, we provide unparalleled medical services to our community. Our facility boasts the only Level III neonatal intensive care unit in the area and hosts the largest network of primary care physicians on our medical staff. Recognized with Magnet® status, the highest national accolade for nursing excellence, we take pride in delivering superior patient care across various specialties including neurosurgery, urology, sports medicine and orthopedics, and plastic and reconstructive surgery.
 
 
 Why Choose BSWH Hillcrest?
@@ -2683,10 +2183,10 @@ Why Choose BSWH Hillcrest?
 **Employment Perks** – Enjoy the benefits of an employed position in Texas, a state with no income tax, along with 4k CME coupled with five days per year to keep you at the forefront of advancements in anesthesia. Additionally, we value your commitment to ongoing learning \\- benefit from our tuition reimbursement program, assisting you in furthering your education and advancing your career.
 
 
-At Baylor Scott \\&amp; White Medical Center, we are committed to providing our CRNAs with a comprehensive and competitive benefits package to support their well\\-being and professional growth. Benefits begin immediately, meaning you can access health and welfare benefits from day one, ensuring your and your family’s health are a top priority. You can also secure your financial future with a 401(K) savings plan. Take advantage of a dollar\\-for\\-dollar match up to 5%, providing a solid foundation for your retirement.
+At Baylor Scott \\& White Medical Center, we are committed to providing our CRNAs with a comprehensive and competitive benefits package to support their well\\-being and professional growth. Benefits begin immediately, meaning you can access health and welfare benefits from day one, ensuring your and your family’s health are a top priority. You can also secure your financial future with a 401(K) savings plan. Take advantage of a dollar\\-for\\-dollar match up to 5%, providing a solid foundation for your retirement.
 
 
-Join us at Baylor Scott \\&amp; White Medical Center in Waco, TX, and experience a workplace that values your skills, supports your growth, and prioritizes your well\\-being. Apply now and become a vital part of our exceptional team!
+Join us at Baylor Scott \\& White Medical Center in Waco, TX, and experience a workplace that values your skills, supports your growth, and prioritizes your well\\-being. Apply now and become a vital part of our exceptional team!
 
 **QUALIFICATIONS**  
 
@@ -2711,24 +2211,8 @@ Join us at Baylor Scott \\&amp; White Medical Center in Waco, TX, and experience
 
   
 
- Basic Life Support (BLS): BLS in 30 days of hire or transfer.
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=25019759_rxr-1&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F25019759%2FCRNA-Waco-Hillcrest%3Frx_a%3D1%26rx_c%3D29-advanced-practice-provider%26rx_ch%3Djobp4p%26rx_group%3D341567%26rx_id%3Dc568e948-0616-11f1-99c2-d9baf40b272d%26rx_job%3D25019759_rxr-1%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260210T060340Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ae5c84165f1444ea</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobLocation>Temple, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Bone Marrow FT Nights at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=25019834_rxr-1&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F25019834%2FRN-Bone-Marrow-FT-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Dbf8cf851-0616-11f1-99c2-c5b509b5b0d2%26rx_job%3D25019834_rxr-1%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260210T060340Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-RN Bone Marrow FT Nights-Dallas, TX, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Dallas, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **External Description**
+ Basic Life Support (BLS): BLS in 30 days of hire or transfer.","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
+"in-ae34923c622d6dce","indeed","https://www.indeed.com/viewjob?jk=ae34923c622d6dce","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=25019834_rxr-1&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F25019834%2FRN-Bone-Marrow-FT-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Dbf8cf851-0616-11f1-99c2-c5b509b5b0d2%26rx_job%3D25019834_rxr-1%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260210T060340Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","RN Bone Marrow FT Nights","Baylor Scott & White Health","Dallas, TX, US","2026-02-10","fulltime","","","","","",False,"","","","","**External Description**
 ------------------------
 
 
@@ -2736,7 +2220,7 @@ Join us at Baylor Scott \\&amp; White Medical Center in Waco, TX, and experience
 Description \\- External**About Us**
 
 
-Here at Baylor Scott \\&amp; White Health we promote the well\\-being of all individuals, families, and communities. Baylor Scott and White is the largest not\\-for\\-profit healthcare system in Texas that empowers you to live well.
+Here at Baylor Scott \\& White Health we promote the well\\-being of all individuals, families, and communities. Baylor Scott and White is the largest not\\-for\\-profit healthcare system in Texas that empowers you to live well.
 
 
 Our Core Values are:
@@ -2749,7 +2233,7 @@ Our Core Values are:
 **Benefits**
 
 
-Our benefits are designed to help you live well no matter where you are on your journey. For full details on coverage and eligibility, visit the Baylor Scott \\&amp; White Benefits Hub to explore our offerings, which may include:* Immediate eligibility for health and welfare benefits
+Our benefits are designed to help you live well no matter where you are on your journey. For full details on coverage and eligibility, visit the Baylor Scott \\& White Benefits Hub to explore our offerings, which may include:* Immediate eligibility for health and welfare benefits
 * 401 (k) savings plan with dollar\\-for\\-dollar match up to 5%
 * Tuition Reimbursement
 * PTO accrual beginning Day 1
@@ -2824,25 +2308,8 @@ Qualifications \\- External**Qualifications**
 
   
 
- Basic Life Support (BLS): BLS or BLS within 30 days of hire or transfer.
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=25019834_rxr-1&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F25019834%2FRN-Bone-Marrow-FT-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Dbf8cf851-0616-11f1-99c2-c5b509b5b0d2%26rx_job%3D25019834_rxr-1%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260210T060340Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ae34923c622d6dce</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Dallas, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN GI at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26002613&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26002613%2FRN-GI%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3D4fbf3c8d-0627-11f1-9382-213856ae9592%26rx_job%3D26002613%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260210T060340Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-RN GI-McKinney, TX, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: McKinney, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Shift:** FT days Mon\\-Fri, 7\\-3:30 \\-2 weekdays a week (typically 1\\) and 1 weekend a month. Call is from 15:30\\-7am and weekend call is from 15:30 on Friday to 0700 Monday. The call window is 30 minutes
+ Basic Life Support (BLS): BLS or BLS within 30 days of hire or transfer.","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
+"in-896c5bb6295209f9","indeed","https://www.indeed.com/viewjob?jk=896c5bb6295209f9","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=26002613&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26002613%2FRN-GI%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3D4fbf3c8d-0627-11f1-9382-213856ae9592%26rx_job%3D26002613%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260210T060340Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","RN GI","Baylor Scott & White Health","McKinney, TX, US","2026-02-10","fulltime","","","","","",False,"","","","","**Shift:** FT days Mon\\-Fri, 7\\-3:30 \\-2 weekdays a week (typically 1\\) and 1 weekend a month. Call is from 15:30\\-7am and weekend call is from 15:30 on Friday to 0700 Monday. The call window is 30 minutes
 
 **Requirement:** Min. of 2yrs of RN experience. Prior GI or procedural experience preferred
 
@@ -2869,10 +2336,10 @@ Patient Ratios: 1:1
 Number of Beds: 3 rooms
 
 
-Why Baylor Scott \\&amp; White Medical Center– McKinney
+Why Baylor Scott \\& White Medical Center– McKinney
 
 
-A Magnet® Recognized Facility, Baylor Scott and White Medical Center – McKinney is a 191 bed, fully accredited not for profit hospital providing a broad spectrum of healthcare services to families in McKinney and the surrounding communities. Part of Baylor Scott \\&amp; White Health, the largest not for profit healthcare system in the state of Texas, the hospital offers personalized care and advanced technology on a beautiful with hotel\\-like amenities and all private rooms. Services include emergency care, heart and vascular services, orthopedics, oncology, primary care, women’s services, and a Level III Neonatal IC with private suites.
+A Magnet® Recognized Facility, Baylor Scott and White Medical Center – McKinney is a 191 bed, fully accredited not for profit hospital providing a broad spectrum of healthcare services to families in McKinney and the surrounding communities. Part of Baylor Scott \\& White Health, the largest not for profit healthcare system in the state of Texas, the hospital offers personalized care and advanced technology on a beautiful with hotel\\-like amenities and all private rooms. Services include emergency care, heart and vascular services, orthopedics, oncology, primary care, women’s services, and a Level III Neonatal IC with private suites.
 
 
 As part of the medical center’s long\\-term plans, the hospital structure can add additional floors, increasing the number of beds to 400 as community growth warrants.
@@ -2881,25 +2348,25 @@ As part of the medical center’s long\\-term plans, the hospital structure can 
  We welcome applicants who will serve faithfully, act honestly, never settle, and recognize that we are in it together to deliver world\\-class healthcare.
 
 
-**Why Baylor Scott \\&amp; White Health**
+**Why Baylor Scott \\& White Health**
 
 
-At Baylor Scott \\&amp; White Health, we empower each other to create healthier communities and deliver safe and high\\-quality care across the state of Texas. With more than 52 hospitals, 800 access points, a quality health plan and an award\\-winning research institute, you’ll enjoy endless opportunities to make your mark on the future of healthcare. At Baylor Scott and White Health, you’ll be joining a team that’s committed to better. Because better never settles. And neither should you.
+At Baylor Scott \\& White Health, we empower each other to create healthier communities and deliver safe and high\\-quality care across the state of Texas. With more than 52 hospitals, 800 access points, a quality health plan and an award\\-winning research institute, you’ll enjoy endless opportunities to make your mark on the future of healthcare. At Baylor Scott and White Health, you’ll be joining a team that’s committed to better. Because better never settles. And neither should you.
 
 
-As the largest not\\-for\\-profit healthcare system in Texas and one of the largest in the United States, Baylor Scott \\&amp; White Health has the resources to offer a variety of career opportunities to meet your personal and professional goals.
+As the largest not\\-for\\-profit healthcare system in Texas and one of the largest in the United States, Baylor Scott \\& White Health has the resources to offer a variety of career opportunities to meet your personal and professional goals.
  
 
-The Baylor Scott \\&amp; White Health nursing team challenges each other to innovate, to constantly raise the bar and to never settle. Every day, our diverse group of team members bring unique talents, a passion for innovation and a deep Commitment to those we serve.
+The Baylor Scott \\& White Health nursing team challenges each other to innovate, to constantly raise the bar and to never settle. Every day, our diverse group of team members bring unique talents, a passion for innovation and a deep Commitment to those we serve.
 
-**Baylor Scott \\&amp; White Health Registered Nurses Enjoy**
+**Baylor Scott \\& White Health Registered Nurses Enjoy**
 
 * Competitive pay including an RN Bonus Program rewarding nurses for providing exceptional care and improving patient outcomes.
 * Attractive Relocation Assistance for full\\-time candidates.
 * Excellent benefits including a generous 401(k) program with company match, vacation and paid time off (PTO), tuition assistance, immediate eligibility for health and welfare benefits and wellness programs to keep you and your family healthy. (Note: benefits may vary based on position type and/or level).
 * A strong shared governance model featuring unit\\-based councils that empower nurses and improve patient outcomes.
 * Access to more than 4,000 hours of online continuing education for professional development.
-* A strong system Nurse Practice Council that uses autonomy, authority and accountability in collaboration with transformational nursing leadership to drive nursing practice throughout Baylor Scott \\&amp; White Health.
+* A strong system Nurse Practice Council that uses autonomy, authority and accountability in collaboration with transformational nursing leadership to drive nursing practice throughout Baylor Scott \\& White Health.
 * A spirit of inquiry and innovation that promotes Evidence\\-based practice, research and innovations in nursing practice.
 * A healthy work environment and culture of safety using inter\\-professional collaboration and professional competencies to meet the needs of patients to provide safe passage and quality outcomes at every encounter.
 
@@ -2930,24 +2397,8 @@ We believe that all people should feel welcomed, valued and supported.
 * A major focus or specialization in Nursing.
 * Ideally, some relevant professional experience, though less than a (1\\) one year would suffice.
 * Registered Nurse (RN)
-* Basic Life Support (BLS) or obtain within (30\\) thirty days of hire or transfer.
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26002613&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26002613%2FRN-GI%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3D4fbf3c8d-0627-11f1-9382-213856ae9592%26rx_job%3D26002613%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260210T060340Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=896c5bb6295209f9</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>McKinney, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Acute Care at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=25019806_rxr-1&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F25019806%2FRN-Acute-Care%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Dc439911e-0616-11f1-99c2-33b63c9c67a8%26rx_job%3D25019806_rxr-1%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260210T060340Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-RN Acute Care-Waco, TX, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Waco, TX, US
-🏠 Work: On-site
-
-📝 Description: **JOB SUMMARY**  
+* Basic Life Support (BLS) or obtain within (30\\) thirty days of hire or transfer.","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
+"in-8c91767e79473be9","indeed","https://www.indeed.com/viewjob?jk=8c91767e79473be9","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=25019806_rxr-1&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F25019806%2FRN-Acute-Care%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Dc439911e-0616-11f1-99c2-33b63c9c67a8%26rx_job%3D25019806_rxr-1%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260210T060340Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","RN Acute Care","Baylor Scott & White Health","Waco, TX, US","2026-02-10","","","","","","",False,"","","","","**JOB SUMMARY**  
 
   
 
@@ -3090,24 +2541,8 @@ Note: Benefits may vary based upon position type and/or level
 
   
 
- Basic Life Support (BLS): BLS or BLS within 30 days of hire or transfer.
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=25019806_rxr-1&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F25019806%2FRN-Acute-Care%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Dc439911e-0616-11f1-99c2-33b63c9c67a8%26rx_job%3D25019806_rxr-1%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260210T060340Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=8c91767e79473be9</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobLocation>Waco, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Program Manager Vascular Frisco at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=25019784_rxr-1&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F25019784%2FRN-Program-Manager-Vascular-Frisco%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Dbf92ebdf-0616-11f1-99c2-899d426407da%26rx_job%3D25019784_rxr-1%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260210T060340Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-RN Program Manager Vascular Frisco-Dallas, TX, US</guid>
-      <pubDate>Tue, 10 Feb 2026 09:58:28 +0000</pubDate>
-      <description>📍 Location: Dallas, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **LOCATION/FACILITY:** The Heart Hospital Baylor, Frisco, Texas
+ Basic Life Support (BLS): BLS or BLS within 30 days of hire or transfer.","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
+"in-b5f946bfe273f667","indeed","https://www.indeed.com/viewjob?jk=b5f946bfe273f667","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=25019784_rxr-1&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F25019784%2FRN-Program-Manager-Vascular-Frisco%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Dbf92ebdf-0616-11f1-99c2-899d426407da%26rx_job%3D25019784_rxr-1%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260210T060340Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","RN Program Manager Vascular Frisco","Baylor Scott & White Health","Dallas, TX, US","2026-02-10","fulltime","","","","","",False,"","","","","**LOCATION/FACILITY:** The Heart Hospital Baylor, Frisco, Texas
 
 
 This role will be located in Dallas for training and until The Heart Hospital Baylor in Frisco, Texas is opened in March 2026\\.
@@ -3157,14 +2592,4 @@ Qualifications \\- External* Bachelor's degree for this role.
 * Your major field of study should be Nursing.
 * At least (3\\) years of relevant experience to the position.
 * Registered Nurse license (RN)
-* Basic Life Support (BLS) or BLS within 30 days of hire or transfer.
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=25019784_rxr-1&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F25019784%2FRN-Program-Manager-Vascular-Frisco%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Dbf92ebdf-0616-11f1-99c2-899d426407da%26rx_job%3D25019784_rxr-1%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260210T060340Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b5f946bfe273f667</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Dallas, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-  </channel>
-</rss>
+* Basic Life Support (BLS) or BLS within 30 days of hire or transfer.","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
