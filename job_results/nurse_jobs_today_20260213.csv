@@ -1,22 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Daily Nurse Jobs Feed</title>
-    <description>Daily feed of nursing jobs with direct company application links</description>
-    <link>https://github.com/your-username/your-repo</link>
-    <lastBuildDate>Fri, 13 Feb 2026 09:40:29 +0000</lastBuildDate>
-    <generator>Nurse Job Search Bot</generator>
-    <language>en-us</language>
-    <item>
-      <title>RN - Registered Nurse - Cardiac Recovery - Full Time at UAB Medicine</title>
-      <link>https://careers-uabmedicine.icims.com/jobs/5619/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">UAB Medicine-RN - Registered Nurse - Cardiac Recovery - Full Time-Birmingham, AL, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Birmingham, AL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Position Overview:
+"id","site","job_board_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type","job_url"
+"in-30b34cfd8f366dab","indeed","https://www.indeed.com/viewjob?jk=30b34cfd8f366dab","https://careers-uabmedicine.icims.com/jobs/5619/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN - Registered Nurse - Cardiac Recovery - Full Time","UAB Medicine","Birmingham, AL, US","2026-02-13","fulltime","","","","","",False,"","","","","Position Overview:
 * **Department:** Vascular Care Unit
 * **Schedule:** 3\\- 12 hour shifts per week\\- No weekend, no on\\- call shifts, no major holidays
 * **Work Location:** UAB St. Vincents East
@@ -46,25 +29,8 @@ Additional Preferences:
 No Additional Preferences
 About UAB St. Vincent’s:
 
-UAB St. Vincent’s, a proud part of UAB Medicine, is a trusted provider of health care, serving Alabama for more than 125 years. With five hospitals and numerous clinics, we're a health care community deeply rooted in compassion, service, and respect for all, guided by the rich legacy of the St. Vincent’s name. We're committed to extending kindness and personalized care to patients, their families, and each other. We address the physical, psychological, social, and spiritual needs of our patients. We believe in the power of teamwork and unity, and foster a collaborative spirit among our more than 4,800 employees. As one of Alabama’s best hospitals as recognized by U.S. News \\&amp; World Report, improving the health and lives of those we serve is at the heart of our mission. Join us in continuing our legacy of service and healing in central Alabama, where we can make a lasting impact together.
-🔗 Apply Direct: https://careers-uabmedicine.icims.com/jobs/5619/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=30b34cfd8f366dab</description>
-      <companyName>UAB Medicine</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Birmingham, AL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Registered Nurse - Cardiac Cath Lab - Full Time at UAB Medicine</title>
-      <link>https://careers-uabmedicine.icims.com/jobs/5703/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">UAB Medicine-RN - Registered Nurse - Cardiac Cath Lab - Full Time-Birmingham, AL, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Birmingham, AL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Position Overview:
+UAB St. Vincent’s, a proud part of UAB Medicine, is a trusted provider of health care, serving Alabama for more than 125 years. With five hospitals and numerous clinics, we're a health care community deeply rooted in compassion, service, and respect for all, guided by the rich legacy of the St. Vincent’s name. We're committed to extending kindness and personalized care to patients, their families, and each other. We address the physical, psychological, social, and spiritual needs of our patients. We believe in the power of teamwork and unity, and foster a collaborative spirit among our more than 4,800 employees. As one of Alabama’s best hospitals as recognized by U.S. News \\& World Report, improving the health and lives of those we serve is at the heart of our mission. Join us in continuing our legacy of service and healing in central Alabama, where we can make a lasting impact together.","","https://www.indeed.com/cmp/Uab-Medicine","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/faa44d4d59a7260023c8e19bf4bfbfd2","http://www.uabmedicine.org/careers","","10,000+","Decline to state","UAB Medicine has been named one of U.S. News & World Report's Best Hospitals and is consistently ranked #1 in Alabama, as well as the No. 1 Best Large Employer for 2021 by Forbes magazine.","","","","","","",""
+"in-2ff2c1ebe1e1579f","indeed","https://www.indeed.com/viewjob?jk=2ff2c1ebe1e1579f","https://careers-uabmedicine.icims.com/jobs/5703/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN - Registered Nurse - Cardiac Cath Lab - Full Time","UAB Medicine","Birmingham, AL, US","2026-02-13","fulltime","","","","","",False,"","","","","Position Overview:
 * **Department:** Cardiac Cath Lab
 * **Schedule:** Monday\\-Friday 8am\\-3:30p
 * **Work Location:** UAB St Vincents East
@@ -93,26 +59,8 @@ Additional Preferences:
 No additional preferences.
 About UAB St. Vincent’s:
 
-UAB St. Vincent’s, a proud part of UAB Medicine, is a trusted provider of health care, serving Alabama for more than 125 years. With five hospitals and numerous clinics, we're a health care community deeply rooted in compassion, service, and respect for all, guided by the rich legacy of the St. Vincent’s name. We're committed to extending kindness and personalized care to patients, their families, and each other. We address the physical, psychological, social, and spiritual needs of our patients. We believe in the power of teamwork and unity, and foster a collaborative spirit among our more than 4,800 employees. As one of Alabama’s best hospitals as recognized by U.S. News \\&amp; World Report, improving the health and lives of those we serve is at the heart of our mission. Join us in continuing our legacy of service and healing in central Alabama, where we can make a lasting impact together.
-🔗 Apply Direct: https://careers-uabmedicine.icims.com/jobs/5703/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=2ff2c1ebe1e1579f</description>
-      <companyName>UAB Medicine</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Birmingham, AL, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse LTE, King Veterans Home - Limited-term Employment at State of Wisconsin</title>
-      <link>https://wj.wi.gov/psc/wisjobs/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=20042&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">State of Wisconsin-Licensed Practical Nurse LTE, King Veterans Home - Limited-term Employment-King, WI, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: King, WI, US
-💼 Type: Temporary, Parttime
-🏠 Work: On-site
-💰 Salary: USD 29 - 37 (hourly)
-
-📝 Description: **Introduction**
+UAB St. Vincent’s, a proud part of UAB Medicine, is a trusted provider of health care, serving Alabama for more than 125 years. With five hospitals and numerous clinics, we're a health care community deeply rooted in compassion, service, and respect for all, guided by the rich legacy of the St. Vincent’s name. We're committed to extending kindness and personalized care to patients, their families, and each other. We address the physical, psychological, social, and spiritual needs of our patients. We believe in the power of teamwork and unity, and foster a collaborative spirit among our more than 4,800 employees. As one of Alabama’s best hospitals as recognized by U.S. News \\& World Report, improving the health and lives of those we serve is at the heart of our mission. Join us in continuing our legacy of service and healing in central Alabama, where we can make a lasting impact together.","","https://www.indeed.com/cmp/Uab-Medicine","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/faa44d4d59a7260023c8e19bf4bfbfd2","http://www.uabmedicine.org/careers","","10,000+","Decline to state","UAB Medicine has been named one of U.S. News & World Report's Best Hospitals and is consistently ranked #1 in Alabama, as well as the No. 1 Best Large Employer for 2021 by Forbes magazine.","","","","","","",""
+"in-a2ca678d2d4c957f","indeed","https://www.indeed.com/viewjob?jk=a2ca678d2d4c957f","https://wj.wi.gov/psc/wisjobs/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=20042&PostingSeq=1","Licensed Practical Nurse LTE, King Veterans Home - Limited-term Employment","State of Wisconsin","King, WI, US","2026-02-13","temporary, parttime","direct_data","hourly",29.0,37.0,"USD",False,"","","","JenniferM.Anderson@wisconsin.gov, JenniferM.Anderson@wisconsin.gov","**Introduction**
 ----------------
 
   
@@ -124,7 +72,7 @@ UAB St. Vincent’s, a proud part of UAB Medicine, is a trusted provider of heal
 
  **Wisconsin Department of Veterans Affairs**  
 
-"Join our team and honor Wisconsin's veterans.”
+""Join our team and honor Wisconsin's veterans.”
 
 
 The Wisconsin Veterans Home at King (WVHK) is recruiting for mulitiple Licensed Practical Nurses., to join our dedicated Nursing team. The Home is a 24/7/365 long\\-term care facility that specializes in providing comfort, support, and professional healthcare services to elderly or disabled veterans and spouses of veterans. Our facility is on the picturesque shoreline of the Chain O'Lakes, off Highway 10, between Stevens Point and Appleton, Wisconsin.
@@ -203,7 +151,7 @@ In addition to the LPN requirement, **minimally qualified** applicants will have
 
 * Providing basic nursing care; and
 * Administering medications and basic treatments; and
-* Working independently \\&amp; collaboratively; and
+* Working independently \\& collaboratively; and
 * Using professional communication; and
 * Using computers and applications
 
@@ -256,30 +204,8 @@ The State of Wisconsin is an Equal Opportunity and Affirmative Action employer s
   
 
 
-Application materials will be accepted until the needs of the Home are met.
-🔗 Apply Direct: https://wj.wi.gov/psc/wisjobs/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=20042&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a2ca678d2d4c957f</description>
-      <companyName>State of Wisconsin</companyName>
-      <jobType>Temporary, Parttime</jobType>
-      <jobLocation>King, WI, US</jobLocation>
-      <salaryMin>29</salaryMin>
-      <salaryMax>37</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Reg Nurse / Emergency Room at Children's Hospital Los Angeles</title>
-      <link>https://jobs.chla.org/jobs/55518/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Children's Hospital Los Angeles-Reg Nurse / Emergency Room-Los Angeles, CA, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Los Angeles, CA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 104,395 - 171,506 (yearly)
-
-📝 Description: Location/Org Data : Introduction:
+Application materials will be accepted until the needs of the Home are met.","Government","https://www.indeed.com/cmp/State-of-Wisconsin","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6f3d7779a5fc18fc609b1202b64e2aa1","https://wisc.jobs","Madison Wisconsin, United States","10,000+","","","","","","","","",""
+"in-0385988afa8408c8","indeed","https://www.indeed.com/viewjob?jk=0385988afa8408c8","https://jobs.chla.org/jobs/55518/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Reg Nurse / Emergency Room","Children's Hospital Los Angeles","Los Angeles, CA, US","2026-02-13","fulltime","direct_data","yearly",104395.0,171506.0,"USD",False,"","","","","Location/Org Data : Introduction:
 **NATIONAL LEADERS IN PEDIATRIC CARE**  
 
 Ranked among the top 10 pediatric hospitals in the nation, Children’s Hospital Los Angeles (CHLA) provides the best care for kids in California.  
@@ -317,30 +243,8 @@ At Children’s Hospital Los Angeles, our work matters. And so do each and every
 
 Qualified Applicants with disabilities are entitled to reasonable accommodation under the California Fair Employment and Housing Act and the Americans with Disabilities Act. Please contact CHLA Human Resources if you need assistance completing the application process.  
 
-Our various experiences, perspectives and backgrounds allow us to better serve our patients and create a strong community at CHLA.
-🔗 Apply Direct: https://jobs.chla.org/jobs/55518/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=0385988afa8408c8</description>
-      <companyName>Children's Hospital Los Angeles</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Los Angeles, CA, US</jobLocation>
-      <salaryMin>104395</salaryMin>
-      <salaryMax>171506</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - 2 North Progressive Care at ECU Health</title>
-      <link>https://careers.vidanthealth.com/en/jobs/17043033-registered-nurse-rn-2-north-progressive-care?tm_job=979440-1A&amp;tm_event=view&amp;tm_company=2362</link>
-      <guid isPermaLink="false">ECU Health-Registered Nurse (RN) - 2 North Progressive Care-Greenville, NC, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Greenville, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 33 - 41 (hourly)
-
-📝 Description: **Position Summary**
+Our various experiences, perspectives and backgrounds allow us to better serve our patients and create a strong community at CHLA.","Health Care","https://www.indeed.com/cmp/Children's-Hospital-Los-Angeles","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2ec6c487d77d7998f52dfaa15acd3039","http://www.chla.org","4650 Sunset Blvd, Los Angeles, CA 90027","1,001 to 5,000","$500M to $1B (USD)","","","","","","","",""
+"in-27f83dd6b1a74621","indeed","https://www.indeed.com/viewjob?jk=27f83dd6b1a74621","https://careers.vidanthealth.com/en/jobs/17043033-registered-nurse-rn-2-north-progressive-care?tm_job=979440-1A&tm_event=view&tm_company=2362","Registered Nurse (RN) - 2 North Progressive Care","ECU Health","Greenville, NC, US","2026-02-13","fulltime","direct_data","hourly",33.0,41.0,"USD",False,"","","","","**Position Summary**
 
 
 **Starting Hourly Rate 33\\.00 \\- Eligible for a 30K Commitment Bonus**
@@ -398,28 +302,8 @@ It is the goal of ECU Health and its entities to employ the most qualified indiv
 Offers of employment are subject to successful completion of all pre\\-employment screenings, which may include an occupational health screening, criminal record check, education, reference, and licensure verification.
 
 
-We value diversity and are proud to be an equal opportunity employer. Decisions of employment are made based on business needs, job requirements and applicant's qualifications without regard to race, color, religion, gender, national origin, disability status, protected veteran status, genetic information and testing, family and medical leave, sexual orientation, gender identity or expression or any other status protected by law. We prohibit retaliation against individuals who bring forth any complaint, orally or in writing, to the employer, or against any individuals who assist or participate in the investigation of any complaint.
-🔗 Apply Direct: https://careers.vidanthealth.com/en/jobs/17043033-registered-nurse-rn-2-north-progressive-care?tm_job=979440-1A&amp;tm_event=view&amp;tm_company=2362
-🔗 Job Board: https://www.indeed.com/viewjob?jk=27f83dd6b1a74621</description>
-      <companyName>ECU Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Greenville, NC, US</jobLocation>
-      <salaryMin>33</salaryMin>
-      <salaryMax>41</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinical Nurse (RN) - Surgical Oncology/Intermediate Care Unit (R4) at MaineHealth</title>
-      <link>https://www.careersatmainehealth.org/jobs/17043725-clinical-nurse-rn-surgical-oncology-slash-intermediate-care-unit-r4?tm_job=10-INFOR-57066&amp;tm_event=view&amp;tm_company=89083</link>
-      <guid isPermaLink="false">MaineHealth-Clinical Nurse (RN) - Surgical Oncology/Intermediate Care Unit (R4)-Portland, ME, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Portland, ME, US
-🏠 Work: On-site
-
-📝 Description: **Description**  
+We value diversity and are proud to be an equal opportunity employer. Decisions of employment are made based on business needs, job requirements and applicant's qualifications without regard to race, color, religion, gender, national origin, disability status, protected veteran status, genetic information and testing, family and medical leave, sexual orientation, gender identity or expression or any other status protected by law. We prohibit retaliation against individuals who bring forth any complaint, orally or in writing, to the employer, or against any individuals who assist or participate in the investigation of any complaint.","","https://www.indeed.com/cmp/Ecu-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f87b2967dbbefaa3c6033b3e4a578594","https://careers.ecuhealth.org/","Greenville, NC","1,001 to 5,000","Decline to state","ECU Health’s mission is to improve the health and well-being of eastern North Carolina.","","","","","","",""
+"in-fb8e0aee03c4a9f2","indeed","https://www.indeed.com/viewjob?jk=fb8e0aee03c4a9f2","https://www.careersatmainehealth.org/jobs/17043725-clinical-nurse-rn-surgical-oncology-slash-intermediate-care-unit-r4?tm_job=10-INFOR-57066&tm_event=view&tm_company=89083","Clinical Nurse (RN) - Surgical Oncology/Intermediate Care Unit (R4)","MaineHealth","Portland, ME, US","2026-02-13","","","","","","",False,"","","","nicole.chapman@mainehealth.org","**Description**  
 
 
 
@@ -482,24 +366,9 @@ We offer benefits that support an individual's needs for today and flexibility t
 
 MaineHealth remains focused on investing in our care team and developing an inclusive environment where you can thrive and feel supported to realize your full potential. If you’re looking to build a career in a place where people help one another deliver best\\-in\\-class care, apply today.  
 
-If you have questions about this role, please contact nicole.chapman@mainehealth.org
-🔗 Apply Direct: https://www.careersatmainehealth.org/jobs/17043725-clinical-nurse-rn-surgical-oncology-slash-intermediate-care-unit-r4?tm_job=10-INFOR-57066&amp;tm_event=view&amp;tm_company=89083
-🔗 Job Board: https://www.indeed.com/viewjob?jk=fb8e0aee03c4a9f2</description>
-      <companyName>MaineHealth</companyName>
-      <jobLocation>Portland, ME, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse - Long Term Care-MH PD at MaineHealth</title>
-      <link>https://www.careersatmainehealth.org/jobs/17041759-registered-nurse-rn-st-andrews-village?tm_job=10-INFOR-47056&amp;tm_event=view&amp;tm_company=89083</link>
-      <guid isPermaLink="false">MaineHealth-Registered Nurse - Long Term Care-MH PD-Boothbay Harbor, ME, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Boothbay Harbor, ME, US
-💼 Type: Perdiem
-🏠 Work: On-site
-
-📝 Description: **Description**
+If you have questions about this role, please contact nicole.chapman@mainehealth.org","Health Care","https://www.indeed.com/cmp/Mainehealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4e0fdd6a4c8d67de00116af370947529","http://careersatmainehealth.org","110 Free Street
+Portland, ME 04102","10,000+","$25M to $100M (USD)","The MaineHealth system offers outstanding opportunities to work and live in one of the most spectacular areas of our nation.","","","","","","",""
+"in-5bf8aca1930c6841","indeed","https://www.indeed.com/viewjob?jk=5bf8aca1930c6841","https://www.careersatmainehealth.org/jobs/17041759-registered-nurse-rn-st-andrews-village?tm_job=10-INFOR-47056&tm_event=view&tm_company=89083","Registered Nurse - Long Term Care-MH PD","MaineHealth","Boothbay Harbor, ME, US","2026-02-13","perdiem","","","","","",False,"","","","lisa.bickford@mainehealth.org","**Description**
 
 
 St. Andrews Village
@@ -544,37 +413,20 @@ We offer benefits that support an individual's needs for today and flexibility t
 
 MaineHealth remains focused on investing in our care team and developing an inclusive environment where you can thrive and feel supported to realize your full potential. If you’re looking to build a career in a place where people help one another deliver best\\-in\\-class care, apply today.  
 
-If you have questions about this role, please contact lisa.bickford@mainehealth.org
-🔗 Apply Direct: https://www.careersatmainehealth.org/jobs/17041759-registered-nurse-rn-st-andrews-village?tm_job=10-INFOR-47056&amp;tm_event=view&amp;tm_company=89083
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5bf8aca1930c6841</description>
-      <companyName>MaineHealth</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Boothbay Harbor, ME, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Case Manager Hospice at Alpha Omega Hospice</title>
-      <link>https://careers-alphaomegahospice.icims.com/jobs/26045/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Alpha Omega Hospice-RN Case Manager Hospice-Abilene, TX, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Abilene, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 76,000 - 87,000 (yearly)
-
-📝 Description: Overview:
+If you have questions about this role, please contact lisa.bickford@mainehealth.org","Health Care","https://www.indeed.com/cmp/Mainehealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4e0fdd6a4c8d67de00116af370947529","http://careersatmainehealth.org","110 Free Street
+Portland, ME 04102","10,000+","$25M to $100M (USD)","The MaineHealth system offers outstanding opportunities to work and live in one of the most spectacular areas of our nation.","","","","","","",""
+"in-3ffb958b265c62a8","indeed","https://www.indeed.com/viewjob?jk=3ffb958b265c62a8","https://careers-alphaomegahospice.icims.com/jobs/26045/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN Case Manager Hospice","Alpha Omega Hospice","Abilene, TX, US","2026-02-13","fulltime","direct_data","yearly",76000.0,87000.0,"USD",False,"","","","","Overview:
 **Make a Lasting Difference as a Hospice Registered Nurse Case Manager (RNCM)!**  
 
 Are you a compassionate Registered Nurse (RN) who finds purpose in supporting patients and families through meaningful moments of care? Alpha Omega Hospice is seeking a Full\\-time Hospice RN Case Manager (RNCM) to join our dedicated nursing team providing exceptional end\\-of\\-life care throughout the community. **Schedule:****Territory:**  
 
 In this rewarding role, you’ll deliver hands\\-on hospice nursing care, coordinate services, and guide patients and families through every step of their hospice journey. As a valued member of our interdisciplinary care team, you’ll help ensure every patient receives The Best Care Possible — care grounded in compassion, clinical excellence, and connection. **Who we are:**
-At Alpha Omega Hospice, we take immense pride in being a mission\\-driven, patient\\-centered leader in end\\-of\\-life care. Guided by our vision to be the most trusted partner in hospice care, we surround our patients and their loved ones with unwavering support, comfort, and compassion. At Alpha Omega, we look for dedicated professionals who share our belief that true hospice care extends beyond medical needs—it’s about bringing dignity, peace, and human connection to every life we touch. **We offer a supportive, growth\\-oriented environment along with a comprehensive benefits package that includes:*** ***Comprehensive Health, Dental, \\&amp; Vision Insurance***
+At Alpha Omega Hospice, we take immense pride in being a mission\\-driven, patient\\-centered leader in end\\-of\\-life care. Guided by our vision to be the most trusted partner in hospice care, we surround our patients and their loved ones with unwavering support, comfort, and compassion. At Alpha Omega, we look for dedicated professionals who share our belief that true hospice care extends beyond medical needs—it’s about bringing dignity, peace, and human connection to every life we touch. **We offer a supportive, growth\\-oriented environment along with a comprehensive benefits package that includes:*** ***Comprehensive Health, Dental, \\& Vision Insurance***
 * ***Career Path Program that supports internal growth, advancement, and increased pay***
-* ***A generous time\\-off package with 15 days of PTO \\&amp; 10 Holidays to rest and recharge***
-* ***Tuition Reimbursement \\&amp; Certification Assistance to support your professional growth***
-* ***Wellness \\&amp; Discount Programs to help you lead a healthy and balanced life***
-* ***Cell Phone, Mileage, \\&amp; Gym Membership Reimbursement for your convenience***
+* ***A generous time\\-off package with 15 days of PTO \\& 10 Holidays to rest and recharge***
+* ***Tuition Reimbursement \\& Certification Assistance to support your professional growth***
+* ***Wellness \\& Discount Programs to help you lead a healthy and balanced life***
+* ***Cell Phone, Mileage, \\& Gym Membership Reimbursement for your convenience***
 * ***Company matching 401(k) to secure your future***
 * ***Hands\\-on Clinical Onboarding Program to ensure you have a smooth transition into our team***
 
@@ -595,41 +447,19 @@ Qualifications:
 * Possess and maintains current CPR certification if required by state.
 * Current driver's license, vehicle insurance, and access to dependable transportation.
 
-**$76,000 \\- $87,000 per year (Average Pay Range). The pay range listed represents a general posting guideline for the role and is not a fixed offer. Final compensation will be determined based on the candidate’s relevant experience, qualifications, and the specific responsibilities of the position. The exact compensation rate will be discussed and confirmed at the conclusion of the interview process.**
-🔗 Apply Direct: https://careers-alphaomegahospice.icims.com/jobs/26045/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=3ffb958b265c62a8</description>
-      <companyName>Alpha Omega Hospice</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Abilene, TX, US</jobLocation>
-      <salaryMin>76000</salaryMin>
-      <salaryMax>87000</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Case Manager at Hospice of Chattanooga, Inc.</title>
-      <link>https://careers-hospiceofchattanooga.icims.com/jobs/26064/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Hospice of Chattanooga, Inc.-RN Case Manager-Chattanooga, TN, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Chattanooga, TN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 65,000 - 77,000 (yearly)
-
-📝 Description: Overview:
+**$76,000 \\- $87,000 per year (Average Pay Range). The pay range listed represents a general posting guideline for the role and is not a fixed offer. Final compensation will be determined based on the candidate’s relevant experience, qualifications, and the specific responsibilities of the position. The exact compensation rate will be discussed and confirmed at the conclusion of the interview process.**","","https://www.indeed.com/cmp/Alpha-Omega-Hospice","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/040efdcafda8be13006cbdd52435c486","https://alphaomegahospice.com/","Texas: Abilene, Brownwood, Carrollton, Denton, Fort Worth, Waxahachie, & Weatherford","1,001 to 5,000","$25M to $100M (USD)","Alpha Omega Hospice is a premier provider of end-of-life care.","","","","","","",""
+"in-66c35b1e8d49b85a","indeed","https://www.indeed.com/viewjob?jk=66c35b1e8d49b85a","https://careers-hospiceofchattanooga.icims.com/jobs/26064/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN Case Manager","Hospice of Chattanooga, Inc.","Chattanooga, TN, US","2026-02-13","fulltime","direct_data","yearly",65000.0,77000.0,"USD",False,"","","","","Overview:
 **Make a Lasting Difference as a Hospice Registered Nurse Case Manager (RNCM)!**  
 
 Are you a compassionate Registered Nurse (RN) who finds purpose in supporting patients and families through meaningful moments of care? Hospice of Chattanooga is seeking a Full Time Hospice RN Case Manager (RNCM) to join our dedicated nursing team providing exceptional end\\-of\\-life care throughout the community. **Schedule:** Monday\\-Friday 8a\\-4:30p**Territory:** Hamilton County  
 
 In this rewarding role, you’ll deliver hands\\-on hospice nursing care, coordinate services, and guide patients and families through every step of their hospice journey. As a valued member of our interdisciplinary care team, you’ll help ensure every patient receives The Best Care Possible — care grounded in compassion, clinical excellence, and connection. **Who we are:**
-At Hospice of Chattanooga, we take immense pride in being a mission\\-driven, patient\\-centered leader in end\\-of\\-life care. Guided by our vision to be the most trusted partner in hospice care, we surround our patients and their loved ones with unwavering support, comfort, and compassion. At Hospice of Chattanooga, we look for dedicated professionals who share our belief that true hospice care extends beyond medical needs—it’s about bringing dignity, peace, and human connection to every life we touch. **We offer a supportive, growth\\-oriented environment along with a comprehensive benefits package that includes:*** ***Comprehensive Health, Dental, \\&amp; Vision Insurance***
+At Hospice of Chattanooga, we take immense pride in being a mission\\-driven, patient\\-centered leader in end\\-of\\-life care. Guided by our vision to be the most trusted partner in hospice care, we surround our patients and their loved ones with unwavering support, comfort, and compassion. At Hospice of Chattanooga, we look for dedicated professionals who share our belief that true hospice care extends beyond medical needs—it’s about bringing dignity, peace, and human connection to every life we touch. **We offer a supportive, growth\\-oriented environment along with a comprehensive benefits package that includes:*** ***Comprehensive Health, Dental, \\& Vision Insurance***
 * ***Career Path Program that supports internal growth, advancement, and increased pay***
-* ***A generous time\\-off package with 15 days of PTO \\&amp; 10 Holidays to rest and recharge***
-* ***Tuition Reimbursement \\&amp; Certification Assistance to support your professional growth***
-* ***Wellness \\&amp; Discount Programs to help you lead a healthy and balanced life***
-* ***Cell Phone, Mileage, \\&amp; Gym Membership Reimbursement for your convenience***
+* ***A generous time\\-off package with 15 days of PTO \\& 10 Holidays to rest and recharge***
+* ***Tuition Reimbursement \\& Certification Assistance to support your professional growth***
+* ***Wellness \\& Discount Programs to help you lead a healthy and balanced life***
+* ***Cell Phone, Mileage, \\& Gym Membership Reimbursement for your convenience***
 * ***Company matching 401(k) to secure your future***
 * ***Hands\\-on Clinical Onboarding Program to ensure you have a smooth transition into our team***
 
@@ -650,30 +480,8 @@ Qualifications:
 * Possess and maintains current CPR certification if required by state.
 * Current driver's license, vehicle insurance, and access to dependable transportation.
 
-**$65,000 \\- $77,000 per year (Average Pay Range). The pay range listed represents a general posting guideline for the role and is not a fixed offer. Final compensation will be determined based on the candidate’s relevant experience, qualifications, and the specific responsibilities of the position. The exact compensation rate will be discussed and confirmed at the conclusion of the interview process.**
-🔗 Apply Direct: https://careers-hospiceofchattanooga.icims.com/jobs/26064/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=66c35b1e8d49b85a</description>
-      <companyName>Hospice of Chattanooga, Inc.</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Chattanooga, TN, US</jobLocation>
-      <salaryMin>65000</salaryMin>
-      <salaryMax>77000</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Clinic - General Surgery at PeaceHealth</title>
-      <link>https://careers.peacehealth.org/jobs/17342547-rn-clinic-general-surgery?tm_job=PH-INFOR-124970&amp;tm_event=view&amp;tm_company=12800</link>
-      <guid isPermaLink="false">PeaceHealth-RN Clinic - General Surgery-Bellingham, WA, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Bellingham, WA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 46 - 69 (hourly)
-
-📝 Description: **Description**
+**$65,000 \\- $77,000 per year (Average Pay Range). The pay range listed represents a general posting guideline for the role and is not a fixed offer. Final compensation will be determined based on the candidate’s relevant experience, qualifications, and the specific responsibilities of the position. The exact compensation rate will be discussed and confirmed at the conclusion of the interview process.**","Health Care","https://www.indeed.com/cmp/Hospice-of-Chattanooga,-Inc.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5d522c9476ba49841d511c296426e2d3","http://www.hospiceofchattanooga.org","Chattanooga","1,001 to 5,000","$25M to $100M (USD)","Hospice of Chattanooga is a premier provider of end-of-life care.","","","","","","",""
+"in-e0ec10f5e1d9d87b","indeed","https://www.indeed.com/viewjob?jk=e0ec10f5e1d9d87b","https://careers.peacehealth.org/jobs/17342547-rn-clinic-general-surgery?tm_job=PH-INFOR-124970&tm_event=view&tm_company=12800","RN Clinic - General Surgery","PeaceHealth","Bellingham, WA, US","2026-02-13","fulltime","direct_data","hourly",46.0,69.0,"USD",False,"","","","","**Description**
 
 
 **PeaceHealth is seeking a RN Clinic \\- General Surgery for a Full Time, 1\\.00 FTE, Day position. The salary range for this job opening at PeaceHealth is $46\\.27 – $69\\.41\\.** The hiring rate is dependent upon several factors, including but not limited to education, training, work experience, terms of any applicable collective bargaining agreement, seniority, etc.
@@ -718,7 +526,7 @@ Provides professional nursing care to patients in the clinic/outpatient setting 
 * Basic computer skills including MS Office applications (Required)
 * Effective prioritization skills (Required)
 * Ability to provide health education to patients, staff and community (Required)
-* Knowledge of Medicare, JCAHO, DNV \\&amp; HCFA regulations pertaining to ambulatory care (Required)
+* Knowledge of Medicare, JCAHO, DNV \\& HCFA regulations pertaining to ambulatory care (Required)
 * Demonstrated knowledge of and ability to apply age specific principles of growth and development and life stages to meet each patient’s needs (Required)
 
 **Working Conditions**
@@ -753,30 +561,9 @@ PeaceHealth is committed to the overall wellbeing of our caregivers: physical, e
 See how PeaceHealth is committed to Inclusivity, Respect for Diversity and Cultural Humility.
 
 
-For full consideration of your skills and abilities, please attach a current resume with your application. EEO Affirmative Action Employer/Vets/Disabled in accordance with applicable local, state or federal laws.
-🔗 Apply Direct: https://careers.peacehealth.org/jobs/17342547-rn-clinic-general-surgery?tm_job=PH-INFOR-124970&amp;tm_event=view&amp;tm_company=12800
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e0ec10f5e1d9d87b</description>
-      <companyName>PeaceHealth</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Bellingham, WA, US</jobLocation>
-      <salaryMin>46</salaryMin>
-      <salaryMax>69</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) – Atrium Health Lincoln Telemetry /PCU – FT Days at Atrium Health</title>
-      <link>https://jobs.talemetry.com/atriumhelath/jobs/apply?job_list_id=6629&amp;returnUrl=https%3A%2F%2Faah.wd5.myworkdayjobs.com%2FExternal%2Fjob%2FAtrium-Health-Lincoln---433-McAlister-Rd-Lincolnton-NC%2FRegistered-Nurse--RN----Atrium-Health-Lincoln-Telemetry--PCU---FT-Days_R215256%2Fapply&amp;tm_job=R215256&amp;tm_event=view&amp;tm_company=13027</link>
-      <guid isPermaLink="false">Atrium Health-Registered Nurse (RN) – Atrium Health Lincoln Telemetry /PCU – FT Days-Lincolnton, NC, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Lincolnton, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 38 - 57 (hourly)
-
-📝 Description: **Department:**
+For full consideration of your skills and abilities, please attach a current resume with your application. EEO Affirmative Action Employer/Vets/Disabled in accordance with applicable local, state or federal laws.","Health Care","https://www.indeed.com/cmp/Peacehealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7f6bb7fc1fe5c0e64d4b90ed9a1ddab7","http://careers.peacehealth.org","1115  SE 164th Avenue
+Vancouver, WA 98683","10,000+","$1B to $5B (USD)","PeaceHealth offers exceptional and compassionate care to both rural and urban communities across Washington, Oregon & Alaska.","","","","","","",""
+"in-6df35a9f002f1c80","indeed","https://www.indeed.com/viewjob?jk=6df35a9f002f1c80","https://jobs.talemetry.com/atriumhelath/jobs/apply?job_list_id=6629&returnUrl=https%3A%2F%2Faah.wd5.myworkdayjobs.com%2FExternal%2Fjob%2FAtrium-Health-Lincoln---433-McAlister-Rd-Lincolnton-NC%2FRegistered-Nurse--RN----Atrium-Health-Lincoln-Telemetry--PCU---FT-Days_R215256%2Fapply&tm_job=R215256&tm_event=view&tm_company=13027","Registered Nurse (RN) – Atrium Health Lincoln Telemetry /PCU – FT Days","Atrium Health","Lincolnton, NC, US","2026-02-13","fulltime","direct_data","hourly",38.0,57.0,"USD",False,"","","","","**Department:**
 
 
 35203 Atrium Health Lincoln \\- Nursing: Telemetry/Progressive **Status:**
@@ -857,30 +644,8 @@ Advocate Health is the third\\-largest nonprofit, integrated health system in th
 
 
 
-The Registered Nurse (RN), a member of Advocate Health Nursing Professional Governance community, provides high\\- quality, patient\\-centered care through evidence\\-based practice, clinical expertise, and compassionate care delivery in an acute care setting. The RN collaborates with interdisciplinary teams, advocates for patient needs, and upholds professional practice standards to promote optimal health outcomes.
-🔗 Apply Direct: https://jobs.talemetry.com/atriumhelath/jobs/apply?job_list_id=6629&amp;returnUrl=https%3A%2F%2Faah.wd5.myworkdayjobs.com%2FExternal%2Fjob%2FAtrium-Health-Lincoln---433-McAlister-Rd-Lincolnton-NC%2FRegistered-Nurse--RN----Atrium-Health-Lincoln-Telemetry--PCU---FT-Days_R215256%2Fapply&amp;tm_job=R215256&amp;tm_event=view&amp;tm_company=13027
-🔗 Job Board: https://www.indeed.com/viewjob?jk=6df35a9f002f1c80</description>
-      <companyName>Atrium Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Lincolnton, NC, US</jobLocation>
-      <salaryMin>38</salaryMin>
-      <salaryMax>57</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Clinic - Cardiology at PeaceHealth</title>
-      <link>https://careers.peacehealth.org/jobs/17342546-rn-clinic-cardiology?tm_job=PH-INFOR-125260&amp;tm_event=view&amp;tm_company=12800</link>
-      <guid isPermaLink="false">PeaceHealth-RN Clinic - Cardiology-Bellingham, WA, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Bellingham, WA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 46 - 69 (hourly)
-
-📝 Description: **Description**
+The Registered Nurse (RN), a member of Advocate Health Nursing Professional Governance community, provides high\\- quality, patient\\-centered care through evidence\\-based practice, clinical expertise, and compassionate care delivery in an acute care setting. The RN collaborates with interdisciplinary teams, advocates for patient needs, and upholds professional practice standards to promote optimal health outcomes.","","https://www.indeed.com/cmp/Atrium-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8fb3a5adb25799fb8534eafd689450f2","http://www.careers.atriumhealth.org","Charlotte, NC","10,000+","$1B to $5B (USD)","Atrium Health is a nationally recognized leader in shaping health outcomes through innovative research, education and compassionate patient care.","","","","","","",""
+"in-7e27733f295745c9","indeed","https://www.indeed.com/viewjob?jk=7e27733f295745c9","https://careers.peacehealth.org/jobs/17342546-rn-clinic-cardiology?tm_job=PH-INFOR-125260&tm_event=view&tm_company=12800","RN Clinic - Cardiology","PeaceHealth","Bellingham, WA, US","2026-02-13","fulltime","direct_data","hourly",46.0,69.0,"USD",False,"","","","","**Description**
 
 
 **PeaceHealth is seeking a RN Clinic \\- Cardiology for a Full Time, 1\\.00 FTE, Day position. The salary range for this job opening at PeaceHealth is $46\\.27 – $69\\.41\\.** The hiring rate is dependent upon several factors, including but not limited to education, training, work experience, terms of any applicable collective bargaining agreement, seniority, etc.
@@ -925,7 +690,7 @@ Provides professional nursing care to patients in the clinic/outpatient setting 
 * Basic computer skills including MS Office applications (Required)
 * Effective prioritization skills (Required)
 * Ability to provide health education to patients, staff and community (Required)
-* Knowledge of Medicare, JCAHO, DNV \\&amp; HCFA regulations pertaining to ambulatory care (Required)
+* Knowledge of Medicare, JCAHO, DNV \\& HCFA regulations pertaining to ambulatory care (Required)
 * Demonstrated knowledge of and ability to apply age specific principles of growth and development and life stages to meet each patient’s needs (Required)
 
 **Working Conditions**
@@ -960,29 +725,9 @@ PeaceHealth is committed to the overall wellbeing of our caregivers: physical, e
 See how PeaceHealth is committed to Inclusivity, Respect for Diversity and Cultural Humility.
 
 
-For full consideration of your skills and abilities, please attach a current resume with your application. EEO Affirmative Action Employer/Vets/Disabled in accordance with applicable local, state or federal laws.
-🔗 Apply Direct: https://careers.peacehealth.org/jobs/17342546-rn-clinic-cardiology?tm_job=PH-INFOR-125260&amp;tm_event=view&amp;tm_company=12800
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7e27733f295745c9</description>
-      <companyName>PeaceHealth</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Bellingham, WA, US</jobLocation>
-      <salaryMin>46</salaryMin>
-      <salaryMax>69</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Educator Patient Care Services - Education-Clinical at McLaren Health Care</title>
-      <link>https://careers.mclaren.org/jobs/educator-patient-care-services-education-clinical-33838</link>
-      <guid isPermaLink="false">McLaren Health Care-Educator Patient Care Services - Education-Clinical-Lansing, MI, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Lansing, MI, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: About Us
+For full consideration of your skills and abilities, please attach a current resume with your application. EEO Affirmative Action Employer/Vets/Disabled in accordance with applicable local, state or federal laws.","Health Care","https://www.indeed.com/cmp/Peacehealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7f6bb7fc1fe5c0e64d4b90ed9a1ddab7","http://careers.peacehealth.org","1115  SE 164th Avenue
+Vancouver, WA 98683","10,000+","$1B to $5B (USD)","PeaceHealth offers exceptional and compassionate care to both rural and urban communities across Washington, Oregon & Alaska.","","","","","","",""
+"in-5849bd68d7238f77","indeed","https://www.indeed.com/viewjob?jk=5849bd68d7238f77","https://careers.mclaren.org/jobs/educator-patient-care-services-education-clinical-33838","Educator Patient Care Services - Education-Clinical","McLaren Health Care","Lansing, MI, US","2026-02-13","fulltime","","","","","",False,"","","","","About Us
 
 
 
@@ -1061,25 +806,8 @@ Additional Information
 * Hours Per Pay Period: 80
 * On Call: No
 * Weekends: No
-McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.
-🔗 Apply Direct: https://careers.mclaren.org/jobs/educator-patient-care-services-education-clinical-33838
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5849bd68d7238f77</description>
-      <companyName>McLaren Health Care</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Lansing, MI, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse - Emergency Department - Grand Ledge at McLaren Health Care</title>
-      <link>https://careers.mclaren.org/jobs/registered-nurse-emergency-department-grand-ledge-33835</link>
-      <guid isPermaLink="false">McLaren Health Care-Registered Nurse - Emergency Department - Grand Ledge-Grand Ledge, MI, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Grand Ledge, MI, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: About Us
+McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.","Health Care","https://www.indeed.com/cmp/Mclaren-Health-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/28532a7a1265e65cbdee4a32ef445cff","https://www.mclaren.org","One McLaren Parkway Grand Blanc, MI 48439","10,000+","$100M to $500M (USD)","McLaren - Doing What's Best.","","","","","","",""
+"in-e6561a77d3e5558d","indeed","https://www.indeed.com/viewjob?jk=e6561a77d3e5558d","https://careers.mclaren.org/jobs/registered-nurse-emergency-department-grand-ledge-33835","Registered Nurse - Emergency Department - Grand Ledge","McLaren Health Care","Grand Ledge, MI, US","2026-02-13","fulltime","","","","","",False,"","","","","About Us
 
 
 
@@ -1134,24 +862,8 @@ Additional Information
 * Hours Per Pay Period: 72
 * On Call: Yes
 * Weekends: Yes
-McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.
-🔗 Apply Direct: https://careers.mclaren.org/jobs/registered-nurse-emergency-department-grand-ledge-33835
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e6561a77d3e5558d</description>
-      <companyName>McLaren Health Care</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Grand Ledge, MI, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Intensive Care Stepdown Unit (ICU SD) - Springfield Regional Medical Center at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR266493EXTERNALENUS/Registered-Nurse-RN-Intensive-Care-Stepdown-Unit-ICU-SD-Springfield-Regional-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Registered Nurse (RN) - Intensive Care Stepdown Unit (ICU SD) - Springfield Regional Medical Center-Springfield, OH, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Springfield, OH, US
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Summary of Primary Function/General Purpose of Position**  
+McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.","Health Care","https://www.indeed.com/cmp/Mclaren-Health-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/28532a7a1265e65cbdee4a32ef445cff","https://www.mclaren.org","One McLaren Parkway Grand Blanc, MI 48439","10,000+","$100M to $500M (USD)","McLaren - Doing What's Best.","","","","","","",""
+"in-d5d56c05c724edee","indeed","https://www.indeed.com/viewjob?jk=d5d56c05c724edee","https://careers.mercy.com/us/en/job/BSMMHPUSR266493EXTERNALENUS/Registered-Nurse-RN-Intensive-Care-Stepdown-Unit-ICU-SD-Springfield-Regional-Medical-Center?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse (RN) - Intensive Care Stepdown Unit (ICU SD) - Springfield Regional Medical Center","Mercy Health","Springfield, OH, US","2026-02-13","","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Summary of Primary Function/General Purpose of Position**  
 
 The Stepdown Registered Nurse (RN) delivers patient care utilizing the nursing process through data collection and assessment, identifying and determining the priority of patient’s problems/needs, and evaluating the process and outcome of nursing care, all in collaboration with the interdisciplinary care team. The RN coordinates, provides, and directs patient teaching activities and coordinates the care provided by health team members.  
 
@@ -1357,23 +1069,8 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR266493EXTERNALENUS/Registered-Nurse-RN-Intensive-Care-Stepdown-Unit-ICU-SD-Springfield-Regional-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d5d56c05c724edee</description>
-      <companyName>Mercy Health</companyName>
-      <jobLocation>Springfield, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse (LPN) - Neurology - Medical Surgical - Springfield Regional Medical Center at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR266491EXTERNALENUS/Licensed-Practical-Nurse-LPN-Neurology-Medical-Surgical-Springfield-Regional-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Licensed Practical Nurse (LPN) - Neurology - Medical Surgical - Springfield Regional Medical Center-Springfield, OH, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Springfield, OH, US
-🏠 Work: Remote
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**UP TO $2,500 SIGN ON BONUS!!!!**
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-2fa67b6f3b2f6604","indeed","https://www.indeed.com/viewjob?jk=2fa67b6f3b2f6604","https://careers.mercy.com/us/en/job/BSMMHPUSR266491EXTERNALENUS/Licensed-Practical-Nurse-LPN-Neurology-Medical-Surgical-Springfield-Regional-Medical-Center?utm_source=indeed&utm_medium=phenom-feeds","Licensed Practical Nurse (LPN) - Neurology - Medical Surgical - Springfield Regional Medical Center","Mercy Health","Springfield, OH, US","2026-02-13","","","","","","",True,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**UP TO $2,500 SIGN ON BONUS!!!!**
 
 **Mercy Health**
 
@@ -1432,25 +1129,10 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR266491EXTERNALENUS/Licensed-Practical-Nurse-LPN-Neurology-Medical-Surgical-Springfield-Regional-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=2fa67b6f3b2f6604</description>
-      <companyName>Mercy Health</companyName>
-      <jobLocation>Springfield, OH, US</jobLocation>
-      <isRemote>true</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Progressive Care Stroke Unit - St. Elizabeth Youngstown Hospital - 8se at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR266498EXTERNALENUS/Registered-Nurse-RN-Progressive-Care-Stroke-Unit-St-Elizabeth-Youngstown-Hospital-8se?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Registered Nurse (RN) - Progressive Care Stroke Unit - St. Elizabeth Youngstown Hospital - 8se-Youngstown, OH, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Youngstown, OH, US
-🏠 Work: On-site
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-40343e0bd0295a96","indeed","https://www.indeed.com/viewjob?jk=40343e0bd0295a96","https://careers.mercy.com/us/en/job/BSMMHPUSR266498EXTERNALENUS/Registered-Nurse-RN-Progressive-Care-Stroke-Unit-St-Elizabeth-Youngstown-Hospital-8se?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse (RN) - Progressive Care Stroke Unit - St. Elizabeth Youngstown Hospital - 8se","Mercy Health","Youngstown, OH, US","2026-02-13","","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Join our team today!**
 
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Join our team today!**
-
-* **$7,500 Sign on Bonus for nights with 1y exp \\&amp; a** **2 year commitment**
+* **$7,500 Sign on Bonus for nights with 1y exp \\& a** **2 year commitment**
 * **Higher Pay Scales and Sign\\-On Incentives**
 * **Flexible Schedule to live the life you deserve**
 * **Referral Bonus programs**
@@ -1594,24 +1276,8 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR266498EXTERNALENUS/Registered-Nurse-RN-Progressive-Care-Stroke-Unit-St-Elizabeth-Youngstown-Hospital-8se?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=40343e0bd0295a96</description>
-      <companyName>Mercy Health</companyName>
-      <jobLocation>Youngstown, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Pediatrics - Med Surg - St. Rita's Medical Center at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR266505EXTERNALENUS/Registered-Nurse-RN-Pediatrics-Med-Surg-St-Rita-s-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Registered Nurse (RN) - Pediatrics - Med Surg - St. Rita's Medical Center-Lima, OH, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Lima, OH, US
-💼 Type: Parttime, Fulltime
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Mercy Health St. Rita's Medical Center**
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-aea0aba562343dbc","indeed","https://www.indeed.com/viewjob?jk=aea0aba562343dbc","https://careers.mercy.com/us/en/job/BSMMHPUSR266505EXTERNALENUS/Registered-Nurse-RN-Pediatrics-Med-Surg-St-Rita-s-Medical-Center?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse (RN) - Pediatrics - Med Surg - St. Rita's Medical Center","Mercy Health","Lima, OH, US","2026-02-13","parttime, fulltime","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Mercy Health St. Rita's Medical Center**
 ------------------------------------------
 
 
@@ -1676,25 +1342,8 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR266505EXTERNALENUS/Registered-Nurse-RN-Pediatrics-Med-Surg-St-Rita-s-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=aea0aba562343dbc</description>
-      <companyName>Mercy Health</companyName>
-      <jobType>Parttime, Fulltime</jobType>
-      <jobLocation>Lima, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Stepdown - Float Pool - St. Rita's Medical Center at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR266488EXTERNALENUS/Registered-Nurse-RN-Stepdown-Float-Pool-St-Rita-s-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Registered Nurse (RN) - Stepdown - Float Pool - St. Rita's Medical Center-Lima, OH, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Lima, OH, US
-💼 Type: Parttime, Fulltime
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Full Time, Part Time, PRN availability**
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-c7dea7264bf2b574","indeed","https://www.indeed.com/viewjob?jk=c7dea7264bf2b574","https://careers.mercy.com/us/en/job/BSMMHPUSR266488EXTERNALENUS/Registered-Nurse-RN-Stepdown-Float-Pool-St-Rita-s-Medical-Center?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse (RN) - Stepdown - Float Pool - St. Rita's Medical Center","Mercy Health","Lima, OH, US","2026-02-13","parttime, fulltime","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Full Time, Part Time, PRN availability**
 ==========================================
 
 **All Shifts Available**
@@ -1763,25 +1412,8 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR266488EXTERNALENUS/Registered-Nurse-RN-Stepdown-Float-Pool-St-Rita-s-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c7dea7264bf2b574</description>
-      <companyName>Mercy Health</companyName>
-      <jobType>Parttime, Fulltime</jobType>
-      <jobLocation>Lima, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse Casual - Emergency Department - Grand Ledge at McLaren Health Care</title>
-      <link>https://careers.mclaren.org/jobs/registered-nurse-casual-emergency-department-grand-ledge-33832</link>
-      <guid isPermaLink="false">McLaren Health Care-Registered Nurse Casual - Emergency Department - Grand Ledge-Grand Ledge, MI, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Grand Ledge, MI, US
-💼 Type: Perdiem
-🏠 Work: On-site
-
-📝 Description: About Us
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-48d9f783cfd93bf9","indeed","https://www.indeed.com/viewjob?jk=48d9f783cfd93bf9","https://careers.mclaren.org/jobs/registered-nurse-casual-emergency-department-grand-ledge-33832","Registered Nurse Casual - Emergency Department - Grand Ledge","McLaren Health Care","Grand Ledge, MI, US","2026-02-13","perdiem","","","","","",False,"","","","","About Us
 
 
 
@@ -1838,25 +1470,8 @@ Additional Information
 * Hours Per Pay Period: 0
 * On Call: Yes
 * Weekends: Yes
-McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.
-🔗 Apply Direct: https://careers.mclaren.org/jobs/registered-nurse-casual-emergency-department-grand-ledge-33832
-🔗 Job Board: https://www.indeed.com/viewjob?jk=48d9f783cfd93bf9</description>
-      <companyName>McLaren Health Care</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Grand Ledge, MI, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Educator Patient Care Services - Education-Clinical at McLaren Health Care</title>
-      <link>https://careers.mclaren.org/jobs/educator-patient-care-services-education-clinical-33843</link>
-      <guid isPermaLink="false">McLaren Health Care-Educator Patient Care Services - Education-Clinical-Lansing, MI, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Lansing, MI, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: About Us
+McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.","Health Care","https://www.indeed.com/cmp/Mclaren-Health-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/28532a7a1265e65cbdee4a32ef445cff","https://www.mclaren.org","One McLaren Parkway Grand Blanc, MI 48439","10,000+","$100M to $500M (USD)","McLaren - Doing What's Best.","","","","","","",""
+"in-a3c3798b306c70f7","indeed","https://www.indeed.com/viewjob?jk=a3c3798b306c70f7","https://careers.mclaren.org/jobs/educator-patient-care-services-education-clinical-33843","Educator Patient Care Services - Education-Clinical","McLaren Health Care","Lansing, MI, US","2026-02-13","fulltime","","","","","",False,"","","","","About Us
 
 
 
@@ -1934,26 +1549,8 @@ Additional Information
 * Hours Per Pay Period: 80
 * On Call: No
 * Weekends: Yes
-McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.
-🔗 Apply Direct: https://careers.mclaren.org/jobs/educator-patient-care-services-education-clinical-33843
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a3c3798b306c70f7</description>
-      <companyName>McLaren Health Care</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Lansing, MI, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Coordinator Resident Services RN - Part Time at Pinnacle Living</title>
-      <link>https://jobs.keldair.com/jobs/97151?token=qlysHIo9dECQErfYWpSApQ</link>
-      <guid isPermaLink="false">Pinnacle Living-Coordinator Resident Services RN - Part Time-Richmond, VA, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Richmond, VA, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 35 - 42 (hourly)
-
-📝 Description: **Coordinator Resident Services RN \\- Part Time**
+McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.","Health Care","https://www.indeed.com/cmp/Mclaren-Health-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/28532a7a1265e65cbdee4a32ef445cff","https://www.mclaren.org","One McLaren Parkway Grand Blanc, MI 48439","10,000+","$100M to $500M (USD)","McLaren - Doing What's Best.","","","","","","",""
+"in-f9b2058661d83c1b","indeed","https://www.indeed.com/viewjob?jk=f9b2058661d83c1b","https://jobs.keldair.com/jobs/97151?token=qlysHIo9dECQErfYWpSApQ","Coordinator Resident Services RN - Part Time","Pinnacle Living","Richmond, VA, US","2026-02-13","parttime","direct_data","hourly",35.0,42.0,"USD",False,"","","","","**Coordinator Resident Services RN \\- Part Time**
 -------------------------------------------------
 
 * Part time, 24 hours weekly. 8:30am \\- 5pm shift on Tuesday, Wednesday, Thursday each week.
@@ -2020,29 +1617,8 @@ INDRNS
 **Vaccination Requirement**
 
 
-Employees hired for this position will be required to follow Pinnacle Living’s company\\-wide policies of being or becoming fully vaccinated against the annual flu, each subject to potential accommodation for medical reasons or religious beliefs.
-🔗 Apply Direct: https://jobs.keldair.com/jobs/97151?token=qlysHIo9dECQErfYWpSApQ
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f9b2058661d83c1b</description>
-      <companyName>Pinnacle Living</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Richmond, VA, US</jobLocation>
-      <salaryMin>35</salaryMin>
-      <salaryMax>42</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse, Behavioral Health (Days) at woodland springs</title>
-      <link>https://ibnjjb.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/331167</link>
-      <guid isPermaLink="false">woodland springs-Registered Nurse, Behavioral Health (Days)-Conroe, TX, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Conroe, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Woodland Springs\\-Behavioral Health Hospital, Conroe, Texas**
+Employees hired for this position will be required to follow Pinnacle Living’s company\\-wide policies of being or becoming fully vaccinated against the annual flu, each subject to potential accommodation for medical reasons or religious beliefs.","","https://www.indeed.com/cmp/Pinnacle-Living-5cbfc15d","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5aa7e9fe60e5b7993701bb35a2be346b","https://www.pinnacleliving.org/","Glen Allen, VA","501 to 1,000","Decline to state","Pinnacle Living, a not-for-profit founded 70 years ago, has grown to serve thousands of lives through our seven communities.","","","","","","",""
+"in-513820f1b6317425","indeed","https://www.indeed.com/viewjob?jk=513820f1b6317425","https://ibnjjb.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/331167","Registered Nurse, Behavioral Health (Days)","woodland springs","Conroe, TX, US","2026-02-13","fulltime","","","","","",False,"","","","","**Woodland Springs\\-Behavioral Health Hospital, Conroe, Texas**
 
 **Registered Nurse (RN), Behavioral Health**  
 
@@ -2083,8 +1659,8 @@ Essential Functions:
 We believe that investing in our employees is the first step to providing excellent patient care. In addition to your base compensation, this position also offers:
 
 * Comprehensive Benefits: Multiple levels of medical, dental and vision coverage — tailored benefit options for part\\-time and PRN employees, and more.
-* Financial Protection \\&amp; PTO: Life, accident, critical illness, hospital indemnity insurance, short\\- and long\\-term disability, paid family leave and paid time off.
-* Financial \\&amp; Career Growth: Higher education and certification tuition assistance, loan assistance and 401(k) retirement package and company match.
+* Financial Protection \\& PTO: Life, accident, critical illness, hospital indemnity insurance, short\\- and long\\-term disability, paid family leave and paid time off.
+* Financial \\& Career Growth: Higher education and certification tuition assistance, loan assistance and 401(k) retirement package and company match.
 * Employee Well\\-being: Mental, physical, and financial wellness programs (free gym memberships, virtual care appointments, mental health services and discount programs).
 * Professional Development: Ongoing learning and career advancement opportunities.
 * $Shift differential
@@ -2115,26 +1691,8 @@ Woodland Springs is an Equal Opportunity Employer. Woodland Springs committed to
   
 
 
-We employ and provide care to people from all walks of life. We are committed to promoting healing, providing hope, preserving dignity and producing value with an inclusive workforce in which diversity is leveraged, respected, and reflective of the patients, family members, customers and team members we serve.Lifepoint Health is a leader in community\\-based care and driven by a mission of Making Communities Healthier. Our diversified healthcare delivery network spans 29 states and includes 63 community hospital campuses, 32 rehabilitation and behavioral health hospitals, and more than 170 additional sites of care across the healthcare continuum, such as acute rehabilitation units, outpatient centers and post\\-acute care facilities. We believe that success is achieved through talented people. We want to create places where employees want to work, with opportunities to pursue meaningful and satisfying careers that truly make a difference in communities across the country.
-🔗 Apply Direct: https://ibnjjb.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/en/job/331167
-🔗 Job Board: https://www.indeed.com/viewjob?jk=513820f1b6317425</description>
-      <companyName>woodland springs</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Conroe, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse, intermittent at nan</title>
-      <link>https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=92213&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">nan-Registered Nurse, intermittent-Anoka, MN, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Anoka, MN, US
-💼 Type: Temporary, Fulltime
-🏠 Work: On-site
-💰 Salary: USD 39 - 58 (hourly)
-
-📝 Description: **Job Details**
+We employ and provide care to people from all walks of life. We are committed to promoting healing, providing hope, preserving dignity and producing value with an inclusive workforce in which diversity is leveraged, respected, and reflective of the patients, family members, customers and team members we serve.Lifepoint Health is a leader in community\\-based care and driven by a mission of Making Communities Healthier. Our diversified healthcare delivery network spans 29 states and includes 63 community hospital campuses, 32 rehabilitation and behavioral health hospitals, and more than 170 additional sites of care across the healthcare continuum, such as acute rehabilitation units, outpatient centers and post\\-acute care facilities. We believe that success is achieved through talented people. We want to create places where employees want to work, with opportunities to pursue meaningful and satisfying careers that truly make a difference in communities across the country.","","https://www.indeed.com/cmp/Woodland-Springs","","","","","","","","","","","","",""
+"in-7e870bce8d0f4513","indeed","https://www.indeed.com/viewjob?jk=7e870bce8d0f4513","https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=92213&PostingSeq=1","Registered Nurse, intermittent","","Anoka, MN, US","2026-02-13","temporary, fulltime","direct_data","hourly",39.0,58.0,"USD",False,"","","","careers@state.mn.us, kayla.evenson@state.mn.us, kayla.evenson@state.mn.us, Accommodations.DCT@state.mn.us, kayla.evenson@state.mn.us, careers@state.mn.us","**Job Details**
 ---------------
 
 **Working Title: Registered Nurse**  
@@ -2164,7 +1722,7 @@ We employ and provide care to people from all walks of life. We are committed to
 * Designated in Connect 700 Program for Applicants with Disabilities: Yes
 
 
-Direct Care \\&amp; Treatment (DCT) is unable to provide sponsorship for work visas. Applicants must be eligible to work in the United States at the start of employment. DCT does not participate in E\\-Verify.
+Direct Care \\& Treatment (DCT) is unable to provide sponsorship for work visas. Applicants must be eligible to work in the United States at the start of employment. DCT does not participate in E\\-Verify.
 
 ### **The work you'll do is more than just a job.**
 
@@ -2211,7 +1769,7 @@ To facilitate proper crediting, please ensure that your resume clearly describes
 REFERENCE/BACKGROUND CHECKS \\- The Department of Human Services will conduct reference checks to verify job\\-related credentials and criminal background check prior to appointment.
 
 
-Direct Care \\&amp; Treatment (DCT) healthcare facilities require employees to provide documentation that they are free from tuberculosis (TB) through a blood test prior to employment. DCT does not accept TB skin testing.
+Direct Care \\& Treatment (DCT) healthcare facilities require employees to provide documentation that they are free from tuberculosis (TB) through a blood test prior to employment. DCT does not accept TB skin testing.
 
 
 **Application Details**
@@ -2291,29 +1849,8 @@ All qualified applicants will receive consideration for employment without regar
 **APPLICANTS WITH DISABILITIES**
 
 
-Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the Careers Help Desk at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.
-🔗 Apply Direct: https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=92213&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7e870bce8d0f4513</description>
-      <jobType>Temporary, Fulltime</jobType>
-      <jobLocation>Anoka, MN, US</jobLocation>
-      <salaryMin>39</salaryMin>
-      <salaryMax>58</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Registered Nurse/Intermittent-PRN at nan</title>
-      <link>https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=91506&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">nan-RN - Registered Nurse/Intermittent-PRN-Luverne, MN, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Luverne, MN, US
-💼 Type: Temporary, Fulltime
-🏠 Work: On-site
-💰 Salary: USD 39 - 58 (hourly)
-
-📝 Description: **Job Details**
+Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the Careers Help Desk at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.","","","","","","","","","","","","","","",""
+"in-7db66709ad882c65","indeed","https://www.indeed.com/viewjob?jk=7db66709ad882c65","https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=91506&PostingSeq=1","RN - Registered Nurse/Intermittent-PRN","","Luverne, MN, US","2026-02-13","temporary, fulltime","direct_data","hourly",39.0,58.0,"USD",False,"","","","careers@state.mn.us, sandra.kelm@state.mn.us, sandra.kelm@state.mn.us, sandra.kelm@state.mn.us, careers@state.mn.us","**Job Details**
 ---------------
 
 **Job Class: Registered Nurse (RN)**  
@@ -2453,39 +1990,19 @@ All qualified applicants will receive consideration for employment without regar
 **APPLICANTS WITH DISABILITIES**
 
 
-Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the Careers Help Desk at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.
-🔗 Apply Direct: https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=91506&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7db66709ad882c65</description>
-      <jobType>Temporary, Fulltime</jobType>
-      <jobLocation>Luverne, MN, US</jobLocation>
-      <salaryMin>39</salaryMin>
-      <salaryMax>58</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Mother Baby Nights at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26002800&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26002800%2FRN-Mother-Baby-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3D87282387-0870-11f1-8eb7-e39efddce552%26rx_job%3D26002800%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260213T060135Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-RN Mother Baby Nights-Fort Worth, TX, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Fort Worth, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Join Baylor Scott \\&amp; White All Saints Medical Center – Fort Worth as a Registered Nurse and be part of something better!  
+Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the Careers Help Desk at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.","","","","","","","","","","","","","","",""
+"in-4db9ca742b974857","indeed","https://www.indeed.com/viewjob?jk=4db9ca742b974857","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=26002800&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26002800%2FRN-Mother-Baby-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3D87282387-0870-11f1-8eb7-e39efddce552%26rx_job%3D26002800%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260213T060135Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","RN Mother Baby Nights","Baylor Scott & White Health","Fort Worth, TX, US","2026-02-13","fulltime","","","","","",False,"","","","","Join Baylor Scott \\& White All Saints Medical Center – Fort Worth as a Registered Nurse and be part of something better!  
 
 Our Mother/Baby Unit is a fast\\-paced environment that includes high acuity patients. Are you looking to increase your knowledge base? Our Mother Baby leadership team fosters an environment that supports learning, mentoring, and building every team member. **Mother Baby****Patient Population:** Postpartum and Normal Newborn**Patient Ratios:** 1:3 Couplets (typically could have a mix of 6 patients, i.e. 4 moms, 2 babies)**Number of Beds:** 50 beds**Department Specifics:** Largest number of deliveries in Tarrant County and growing, Maternal Designation Level IV, Magnet, Texas Ten Step.**Shift:** Full Time Nights; 7p\\-7a**Experience Required:** 1 year of recent Mother/Baby experience  
 
-Baylor Scott \\&amp; White All Saints Medical Center – Fort Worth, located near downtown Fort Worth, is an award\\-winning full\\-service hospital dedicated to providing for the health care needs of the Fort Worth community. Baylor Scott \\&amp; White – Fort Worth is among Tarrant County’s oldest not\\-for\\-profit hospitals and celebrated 100 years of service in 2006\\. The medical center has 538 licensed beds and offers a broad range of medical services including programs of excellence in cardiology, transplantation. Oncology, and women’s services. Baylor All Saints has achieved many awards and accolades including accreditation in the Magnet Recognition Program by the American Nurses Credentialing Center (ANCC) and in 2022 US News \\&amp; World Report rankings – was ranked \\#22 in Texas and \\#7 in the Dallas\\-Ft Worth metropolitan area for high performing in heart failure, colon cancer, COPD, Heart Attack, kidney failure and pneumonia. **AWH Information**
-Currently the only dedicated women’s hospital in Fort Worth, Andrews Women’s Hospital delivers almost 6,000 babies annually – more than any other facility in Tarrant County and in the Baylor Scott \\&amp; White Health System. Andrew’s Women’s Hospital offers a variety of labor and delivery services, including maternity, high\\-risk pregnancy care, a level III neonatal intensive care unit among others. Our 63 – bed neonatal intensive care unit (NICU) is designed to care for the tiniest infants dealing with the most serious medical challenges. It is one of the largest NICUs in North Texas with a highly skilled team of neonatologists on our medical staff, neonatal nurse practitioners, respiratory and occupational therapists, dietitians, pharmacists, social workers, chaplains, and registered nurses working together to care you your whole family. Andrew’s Women’s Hospital has recently been designated as a Level IV maternal care center, the top designation from the Texas Department of State Health Services. A Level IV designation is awarded to hospitals that proved the highest possible comprehensive care and underscores the facility’s ability to treat even the most complex cases.
-Today, Baylor Scott \\&amp; White Fort Worth employs 2400 team members, 1400 physicians and is designated by US News \\&amp; World Report as one of the best regional hospitals in DFW.#### 
+Baylor Scott \\& White All Saints Medical Center – Fort Worth, located near downtown Fort Worth, is an award\\-winning full\\-service hospital dedicated to providing for the health care needs of the Fort Worth community. Baylor Scott \\& White – Fort Worth is among Tarrant County’s oldest not\\-for\\-profit hospitals and celebrated 100 years of service in 2006\\. The medical center has 538 licensed beds and offers a broad range of medical services including programs of excellence in cardiology, transplantation. Oncology, and women’s services. Baylor All Saints has achieved many awards and accolades including accreditation in the Magnet Recognition Program by the American Nurses Credentialing Center (ANCC) and in 2022 US News \\& World Report rankings – was ranked \\#22 in Texas and \\#7 in the Dallas\\-Ft Worth metropolitan area for high performing in heart failure, colon cancer, COPD, Heart Attack, kidney failure and pneumonia. **AWH Information**
+Currently the only dedicated women’s hospital in Fort Worth, Andrews Women’s Hospital delivers almost 6,000 babies annually – more than any other facility in Tarrant County and in the Baylor Scott \\& White Health System. Andrew’s Women’s Hospital offers a variety of labor and delivery services, including maternity, high\\-risk pregnancy care, a level III neonatal intensive care unit among others. Our 63 – bed neonatal intensive care unit (NICU) is designed to care for the tiniest infants dealing with the most serious medical challenges. It is one of the largest NICUs in North Texas with a highly skilled team of neonatologists on our medical staff, neonatal nurse practitioners, respiratory and occupational therapists, dietitians, pharmacists, social workers, chaplains, and registered nurses working together to care you your whole family. Andrew’s Women’s Hospital has recently been designated as a Level IV maternal care center, the top designation from the Texas Department of State Health Services. A Level IV designation is awarded to hospitals that proved the highest possible comprehensive care and underscores the facility’s ability to treat even the most complex cases.
+Today, Baylor Scott \\& White Fort Worth employs 2400 team members, 1400 physicians and is designated by US News \\& World Report as one of the best regional hospitals in DFW.#### 
 
 #### **About Us**
 
 
-Here at Baylor Scott \\&amp; White Health we promote the well\\-being of all individuals, families, and communities. Baylor Scott and White is the largest not\\-for\\-profit healthcare system in Texas that empowers you to live well.
+Here at Baylor Scott \\& White Health we promote the well\\-being of all individuals, families, and communities. Baylor Scott and White is the largest not\\-for\\-profit healthcare system in Texas that empowers you to live well.
 
 
 Our Core Values are:
@@ -2498,7 +2015,7 @@ Our Core Values are:
 #### **Benefits**
 
 
-Our benefits are designed to help you live well no matter where you are on your journey. For full details on coverage and eligibility, visit the Baylor Scott \\&amp; White Benefits Hub to explore our offerings, which may include:
+Our benefits are designed to help you live well no matter where you are on your journey. For full details on coverage and eligibility, visit the Baylor Scott \\& White Benefits Hub to explore our offerings, which may include:
 
 * Immediate eligibility for health and welfare benefits
 * 401(k) savings plan with dollar\\-for\\-dollar match up to 5%
@@ -2544,25 +2061,8 @@ We believe that all people should feel welcomed, valued and supported.
 * Specialized field of study should be nursing.
 * RN license.
 * Must have BLS certification or get it within 30 days of starting in this role.
-* **Experience Required:** 1 year of recent Mother/Baby experience
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26002800&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26002800%2FRN-Mother-Baby-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3D87282387-0870-11f1-8eb7-e39efddce552%26rx_job%3D26002800%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260213T060135Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4db9ca742b974857</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Fort Worth, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>OR RN ENT at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26002965&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26002965%2FOR-RN-ENT%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3D83e09a27-0870-11f1-8eb7-4b60d3961994%26rx_job%3D26002965%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260213T060135Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-OR RN ENT-Dallas, TX, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Dallas, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: * Baylor University Medical Center\\- Dallas
+* **Experience Required:** 1 year of recent Mother/Baby experience","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
+"in-94d19459a572f643","indeed","https://www.indeed.com/viewjob?jk=94d19459a572f643","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=26002965&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26002965%2FOR-RN-ENT%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3D83e09a27-0870-11f1-8eb7-4b60d3961994%26rx_job%3D26002965%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260213T060135Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","OR RN ENT","Baylor Scott & White Health","Dallas, TX, US","2026-02-13","fulltime","","","","","",False,"","","","","* Baylor University Medical Center\\- Dallas
 * Department: Surgery
 * Shift: Full Time Day
 * On Call: 30 min arrival time
@@ -2570,7 +2070,7 @@ We believe that all people should feel welcomed, valued and supported.
 **About Us**
 
 
-Here at Baylor Scott \\&amp; White Health we promote the well\\-being of all individuals, families, and communities. Baylor Scott and White is the largest not\\-for\\-profit healthcare system in Texas that empowers you to live well.
+Here at Baylor Scott \\& White Health we promote the well\\-being of all individuals, families, and communities. Baylor Scott and White is the largest not\\-for\\-profit healthcare system in Texas that empowers you to live well.
 
 
 Our Core Values are:
@@ -2583,7 +2083,7 @@ Our Core Values are:
 **Benefits**
 
 
-Our benefits are designed to help you live well no matter where you are on your journey. For full details on coverage and eligibility, visit the Baylor Scott \\&amp; White Benefits Hub to explore our offerings, which may include:
+Our benefits are designed to help you live well no matter where you are on your journey. For full details on coverage and eligibility, visit the Baylor Scott \\& White Benefits Hub to explore our offerings, which may include:
 
 * Immediate eligibility for health and welfare benefits
 * 401 (k) savings plan with dollar\\-for\\-dollar match up to 5%
@@ -2631,25 +2131,8 @@ We believe that all people should feel welcomed, valued and supported.
 * EDUCATION: BSN
 * MAJOR: Nursing
 * EXPERIENCE: 1 years of OR experience in the US
-* Must have experience with Da Vinci Xi robotics (please highlight in your CV/RESUME)
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26002965&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26002965%2FOR-RN-ENT%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3D83e09a27-0870-11f1-8eb7-4b60d3961994%26rx_job%3D26002965%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260213T060135Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=94d19459a572f643</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Dallas, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN NICU Nights at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26002843&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26002843%2FRN-NICU-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3D86748b97-0870-11f1-8eb7-5be67547a2e9%26rx_job%3D26002843%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260213T060135Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-RN NICU Nights-Fort Worth, TX, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Fort Worth, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Join Baylor Scott \\&amp; White All Saints Medical Center – Fort Worth as a Registered Nurse and be part of something better!**
+* Must have experience with Da Vinci Xi robotics (please highlight in your CV/RESUME)","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
+"in-7622e906eb5d7039","indeed","https://www.indeed.com/viewjob?jk=7622e906eb5d7039","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=26002843&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26002843%2FRN-NICU-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3D86748b97-0870-11f1-8eb7-5be67547a2e9%26rx_job%3D26002843%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260213T060135Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","RN NICU Nights","Baylor Scott & White Health","Fort Worth, TX, US","2026-02-13","fulltime","","","","","",False,"","","","","**Join Baylor Scott \\& White All Saints Medical Center – Fort Worth as a Registered Nurse and be part of something better!**
 
 **NICU Opportunities**
 
@@ -2658,22 +2141,22 @@ Our NICU is a fast\\-paced environment that includes high\\-acuity patients. Are
 
 **NICU****Patient Population:** Micro preemies to Full Term Infants (22 weeks to term gestation)**Patient Ratios:** 1:1\\-3**Number of Beds:** 63 beds**Department Specifics:** Neonatologist and NNP in\\-house 24/7, Multidisciplinary Team Approach, Multidisciplinary Respiratory Modalities, Daily Multidisciplinary Patient Care Rounds, Electronic Self\\-Scheduling, No Float to Adult Care, Active Unit Based Council, NICU Parent Advocacy Group**Shift:** FT Nights; 7pm\\-7am**Experience:** 2 years of recent **Level 3 NICU** experience  
 
-Baylor Scott \\&amp; White All Saints Medical Center – Fort Worth, located near downtown Fort Worth, is an award\\-winning full\\-service hospital dedicated to providing for the health care needs of the Fort Worth community. Baylor Scott \\&amp; White – Fort Worth is among Tarrant County’s oldest not\\-for\\-profit hospitals and celebrated 100 years of service in 2006\\. The medical center has 538 licensed beds and offers a broad range of medical services including programs of excellence in cardiology, transplantation. Oncology, and women’s services. Baylor All Saints has achieved many awards and accolades including accreditation in the Magnet Recognition Program by the American Nurses Credentialing Center (ANCC) and in 2022 US News \\&amp; World Report rankings – was ranked \\#22 in Texas and \\#7 in the Dallas\\-Ft Worth metropolitan area for high performing in heart failure, colon cancer, COPD, Heart Attack, kidney failure and pneumonia.
+Baylor Scott \\& White All Saints Medical Center – Fort Worth, located near downtown Fort Worth, is an award\\-winning full\\-service hospital dedicated to providing for the health care needs of the Fort Worth community. Baylor Scott \\& White – Fort Worth is among Tarrant County’s oldest not\\-for\\-profit hospitals and celebrated 100 years of service in 2006\\. The medical center has 538 licensed beds and offers a broad range of medical services including programs of excellence in cardiology, transplantation. Oncology, and women’s services. Baylor All Saints has achieved many awards and accolades including accreditation in the Magnet Recognition Program by the American Nurses Credentialing Center (ANCC) and in 2022 US News \\& World Report rankings – was ranked \\#22 in Texas and \\#7 in the Dallas\\-Ft Worth metropolitan area for high performing in heart failure, colon cancer, COPD, Heart Attack, kidney failure and pneumonia.
 
 **AWH Information**
 
 
-Currently the only dedicated women’s hospital in Fort Worth, Andrews Women’s Hospital delivers almost 6,000 babies annually – more than any other facility in Tarrant County and in the Baylor Scott \\&amp; White Health System. Andrew’s Women’s Hospital offers a variety of labor and delivery services, including maternity, high\\-risk pregnancy care, a level III neonatal intensive care unit among others. Our 63 – bed neonatal intensive care unit (NICU) is designed to care for the tiniest infants dealing with the most serious medical challenges. It is one of the largest NICUs in North Texas with a highly skilled team of neonatologists on our medical staff, neonatal nurse practitioners, respiratory and occupational therapists, dietitians, pharmacists, social workers, chaplains, and registered nurses working together to care you your whole family. Andrew’s Women’s Hospital has recently been designated as a Level IV maternal care center, the top designation from the Texas Department of State Health Services. A Level IV designation is awarded to hospitals that proved the highest possible comprehensive care and underscores the facility’s ability to treat even the most complex cases.
+Currently the only dedicated women’s hospital in Fort Worth, Andrews Women’s Hospital delivers almost 6,000 babies annually – more than any other facility in Tarrant County and in the Baylor Scott \\& White Health System. Andrew’s Women’s Hospital offers a variety of labor and delivery services, including maternity, high\\-risk pregnancy care, a level III neonatal intensive care unit among others. Our 63 – bed neonatal intensive care unit (NICU) is designed to care for the tiniest infants dealing with the most serious medical challenges. It is one of the largest NICUs in North Texas with a highly skilled team of neonatologists on our medical staff, neonatal nurse practitioners, respiratory and occupational therapists, dietitians, pharmacists, social workers, chaplains, and registered nurses working together to care you your whole family. Andrew’s Women’s Hospital has recently been designated as a Level IV maternal care center, the top designation from the Texas Department of State Health Services. A Level IV designation is awarded to hospitals that proved the highest possible comprehensive care and underscores the facility’s ability to treat even the most complex cases.
 
 
-Today, Baylor Scott \\&amp; White Fort Worth employs 2400 team members, 1400 physicians and is designated by US News \\&amp; World Report as one of the best regional hospitals in DFW.
+Today, Baylor Scott \\& White Fort Worth employs 2400 team members, 1400 physicians and is designated by US News \\& World Report as one of the best regional hospitals in DFW.
 
 #### 
 
 #### **About Us**
 
 
-Here at Baylor Scott \\&amp; White Health we promote the well\\-being of all individuals, families, and communities. Baylor Scott and White is the largest not\\-for\\-profit healthcare system in Texas that empowers you to live well.
+Here at Baylor Scott \\& White Health we promote the well\\-being of all individuals, families, and communities. Baylor Scott and White is the largest not\\-for\\-profit healthcare system in Texas that empowers you to live well.
 
 
 Our Core Values are:
@@ -2686,7 +2169,7 @@ Our Core Values are:
 #### **Benefits**
 
 
-Our benefits are designed to help you live well no matter where you are on your journey. For full details on coverage and eligibility, visit the Baylor Scott \\&amp; White Benefits Hub to explore our offerings, which may include:
+Our benefits are designed to help you live well no matter where you are on your journey. For full details on coverage and eligibility, visit the Baylor Scott \\& White Benefits Hub to explore our offerings, which may include:
 
 * Immediate eligibility for health and welfare benefits
 * 401(k) savings plan with dollar\\-for\\-dollar match up to 5%
@@ -2732,25 +2215,8 @@ We believe that all people should feel welcomed, valued and supported.
 * Specialized field of study should be nursing.
 * RN license.
 * Must have BLS certification or get it within 30 days of starting in this role.
-* **Experience:** 2 years of recent **Level 3 NICU** experience
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26002843&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26002843%2FRN-NICU-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3D86748b97-0870-11f1-8eb7-5be67547a2e9%26rx_job%3D26002843%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260213T060135Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7622e906eb5d7039</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Fort Worth, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>OR RN General Surgery at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26002966&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26002966%2FOR-RN-General-Surgery%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3D86088307-0870-11f1-8eb7-03593eb0da13%26rx_job%3D26002966%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260213T060135Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-OR RN General Surgery-Dallas, TX, US</guid>
-      <pubDate>Fri, 13 Feb 2026 09:40:29 +0000</pubDate>
-      <description>📍 Location: Dallas, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: * Baylor University Medical Center\\- Dallas
+* **Experience:** 2 years of recent **Level 3 NICU** experience","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
+"in-1360a8427671e1c2","indeed","https://www.indeed.com/viewjob?jk=1360a8427671e1c2","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=26002966&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26002966%2FOR-RN-General-Surgery%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3D86088307-0870-11f1-8eb7-03593eb0da13%26rx_job%3D26002966%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260213T060135Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","OR RN General Surgery","Baylor Scott & White Health","Dallas, TX, US","2026-02-13","fulltime","","","","","",False,"","","","","* Baylor University Medical Center\\- Dallas
 * Department: Surgery
 * Shift: Full Time Day, 3\\-12 Hour shifts
 * On Call: 30 min arrival time
@@ -2758,7 +2224,7 @@ We believe that all people should feel welcomed, valued and supported.
 **About Us**
 
 
-Here at Baylor Scott \\&amp; White Health we promote the well\\-being of all individuals, families, and communities. Baylor Scott and White is the largest not\\-for\\-profit healthcare system in Texas that empowers you to live well.
+Here at Baylor Scott \\& White Health we promote the well\\-being of all individuals, families, and communities. Baylor Scott and White is the largest not\\-for\\-profit healthcare system in Texas that empowers you to live well.
 
 
 Our Core Values are:
@@ -2771,7 +2237,7 @@ Our Core Values are:
 **Benefits**
 
 
-Our benefits are designed to help you live well no matter where you are on your journey. For full details on coverage and eligibility, visit the Baylor Scott \\&amp; White Benefits Hub to explore our offerings, which may include:
+Our benefits are designed to help you live well no matter where you are on your journey. For full details on coverage and eligibility, visit the Baylor Scott \\& White Benefits Hub to explore our offerings, which may include:
 
 * Immediate eligibility for health and welfare benefits
 * 401 (k) savings plan with dollar\\-for\\-dollar match up to 5%
@@ -2819,14 +2285,4 @@ We believe that all people should feel welcomed, valued and supported.
 * EDUCATION: BSN
 * MAJOR: Nursing
 * EXPERIENCE: 1 years of OR experience in the US
-* Must have experience with Da Vinci Xi robotics (please highlight in your CV/RESUME)
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26002966&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26002966%2FOR-RN-General-Surgery%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3D86088307-0870-11f1-8eb7-03593eb0da13%26rx_job%3D26002966%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260213T060135Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1360a8427671e1c2</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Dallas, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-  </channel>
-</rss>
+* Must have experience with Da Vinci Xi robotics (please highlight in your CV/RESUME)","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
