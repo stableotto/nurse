@@ -1,28 +1,11 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Daily Nurse Jobs Feed</title>
-    <description>Daily feed of nursing jobs with direct company application links</description>
-    <link>https://github.com/your-username/your-repo</link>
-    <lastBuildDate>Sat, 14 Feb 2026 09:27:53 +0000</lastBuildDate>
-    <generator>Nurse Job Search Bot</generator>
-    <language>en-us</language>
-    <item>
-      <title>Licensed Practical Nurse (LPN) at Signature HealthCARE LLC</title>
-      <link>https://signaturehealthcarejobs.com/jobs/25020/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Signature HealthCARE LLC-Licensed Practical Nurse (LPN)-Horse Cave, KY, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Horse Cave, KY, US
-💼 Type: Fulltime
-🏠 Work: On-site
+"id","site","job_board_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type","job_url"
+"in-91a02aa56da28951","indeed","https://www.indeed.com/viewjob?jk=91a02aa56da28951","https://signaturehealthcarejobs.com/jobs/25020/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Licensed Practical Nurse (LPN)","Signature HealthCARE LLC","Horse Cave, KY, US","2026-02-14","fulltime","","hourly","","","USD",False,"","","","","About Us :
 
-📝 Description: About Us :
-
-Signature HealthCARE of Hart County Rehab \\&amp; Wellness Center is a 104\\-bed facility that offers a wide array of from short\\-term rehabilitation to traditional long\\-term care. It is our mission as a family\\-based organization to revolutionize the healthcare industry through a culture of resident centered healthcare services, personalized spirituality, and real quality of life initiatives.
+Signature HealthCARE of Hart County Rehab \\& Wellness Center is a 104\\-bed facility that offers a wide array of from short\\-term rehabilitation to traditional long\\-term care. It is our mission as a family\\-based organization to revolutionize the healthcare industry through a culture of resident centered healthcare services, personalized spirituality, and real quality of life initiatives.
 About Signature :
 **Signature HealthCARE** is a family\\-based healthcare company offering integrated services across multiple states. Our continuum of care includes skilled nursing, rehabilitation, assisted and memory care, and home\\-based services supported by innovative technologies like telehealth and Care.ai\\-enabled solutions.  
 
-We are committed to advancing person\\-directed care and quality outcomes. Many of our facilities continue to receive high performance ratings and accreditations. As an award\\-winning organization recognized over the years by national outlets such as *U.S. News \\&amp; World Report*, we take pride in fostering compassionate care environments and being an employer of choice in the healthcare industry.
+We are committed to advancing person\\-directed care and quality outcomes. Many of our facilities continue to receive high performance ratings and accreditations. As an award\\-winning organization recognized over the years by national outlets such as *U.S. News \\& World Report*, we take pride in fostering compassionate care environments and being an employer of choice in the healthcare industry.
 Overview:
 **Are you a caring LPN looking to make strong connections and an impact on patients?**  
 
@@ -41,7 +24,7 @@ We’re excited to announce NEW, HIGHER PAY RATES for all positions. Whether you
 ✅ Competitive NEW wages
 ✅ Full\\-time LPN Sign on Bonus $7,500  
 
-✅ Full\\-time \\&amp; part\\-time opportunities  
+✅ Full\\-time \\& part\\-time opportunities  
 
 ✅ Supportive team environment  
 
@@ -68,7 +51,7 @@ Our exceptional Benefits Package and Signature Perks include the following and m
 * Uniform Allowance (Seventy\\-Five Dollars) for first\\-time newly hired stakeholders and continuous allotment
 * Pay Advance and Next Day Pay!
 * Paid Time Off (PTO)
-* Reward \\&amp; Recognition Program (HEART)
+* Reward \\& Recognition Program (HEART)
 * VitalLinks
 * Signature Inspire Foundation – providing a safety net for our stakeholders
 
@@ -88,32 +71,14 @@ Each pillar has its own staff and initiatives, ensuring that our unique culture 
 Signature HealthCARE is an Equal Opportunity\\-Affirmative Action Employer – Minority / Female / Disability / Veteran and other protected categories
 
 
-Pay Range: Up to USD $27\\.75/Hr. Hashtag : \\#LI\\-JC2
-🔗 Apply Direct: https://signaturehealthcarejobs.com/jobs/25020/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=91a02aa56da28951</description>
-      <companyName>Signature HealthCARE LLC</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Horse Cave, KY, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse (LPN) at Signature HealthCARE LLC</title>
-      <link>https://signaturehealthcarejobs.com/jobs/25026/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Signature HealthCARE LLC-Licensed Practical Nurse (LPN)-Tompkinsville, KY, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Tompkinsville, KY, US
-🏠 Work: On-site
+Pay Range: Up to USD $27\\.75/Hr. Hashtag : \\#LI\\-JC2","","https://www.indeed.com/cmp/Signature-Healthcare-LLC-6","","http://ltcrevolution.com/","","5,001 to 10,000","Decline to state","Signature HealthCARE has a vision to radically change the landscape of health care to transform lives.","","","","","","",""
+"in-6a78ba1b00c6a1b7","indeed","https://www.indeed.com/viewjob?jk=6a78ba1b00c6a1b7","https://signaturehealthcarejobs.com/jobs/25026/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Licensed Practical Nurse (LPN)","Signature HealthCARE LLC","Tompkinsville, KY, US","2026-02-14","","","hourly","","","USD",False,"","","","","About Us :
 
-📝 Description: About Us :
-
-Signature HealthCARE of Monroe County Rehab \\&amp; Wellness Center is a 108\\-bed facility that offers a wide array of services from short\\-term rehabilitation to traditional long\\-term care. It is our mission as a family\\-based organization to revolutionize the healthcare industry through a culture of resident centered healthcare services, personalized spirituality, and real quality of life initiatives.
+Signature HealthCARE of Monroe County Rehab \\& Wellness Center is a 108\\-bed facility that offers a wide array of services from short\\-term rehabilitation to traditional long\\-term care. It is our mission as a family\\-based organization to revolutionize the healthcare industry through a culture of resident centered healthcare services, personalized spirituality, and real quality of life initiatives.
 About Signature :
 **Signature HealthCARE** is a family\\-based healthcare company offering integrated services across multiple states. Our continuum of care includes skilled nursing, rehabilitation, assisted and memory care, and home\\-based services supported by innovative technologies like telehealth and Care.ai\\-enabled solutions.  
 
-We are committed to advancing person\\-directed care and quality outcomes. Many of our facilities continue to receive high performance ratings and accreditations. As an award\\-winning organization recognized over the years by national outlets such as *U.S. News \\&amp; World Report*, we take pride in fostering compassionate care environments and being an employer of choice in the healthcare industry.
+We are committed to advancing person\\-directed care and quality outcomes. Many of our facilities continue to receive high performance ratings and accreditations. As an award\\-winning organization recognized over the years by national outlets such as *U.S. News \\& World Report*, we take pride in fostering compassionate care environments and being an employer of choice in the healthcare industry.
 Overview:
 **Are you a caring LPN looking to make strong connections and an impact on patients?**  
 
@@ -144,7 +109,7 @@ Our exceptional Benefits Package and Signature Perks include the following and m
 * Uniform Allowance (Seventy\\-Five Dollars) for first\\-time newly hired stakeholders and continuous allotment
 * Pay Advance and Next Day Pay!
 * Paid Time Off (PTO)
-* Reward \\&amp; Recognition Program (HEART)
+* Reward \\& Recognition Program (HEART)
 * VitalLinks
 * Signature Inspire Foundation – providing a safety net for our stakeholders
 
@@ -164,27 +129,8 @@ Each pillar has its own staff and initiatives, ensuring that our unique culture 
 Signature HealthCARE is an Equal Opportunity\\-Affirmative Action Employer – Minority / Female / Disability / Veteran and other protected categories
 
 
-Pay Range: Up to USD $27\\.75/Hr. Hashtag : \\#LI\\-JC2
-🔗 Apply Direct: https://signaturehealthcarejobs.com/jobs/25026/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=6a78ba1b00c6a1b7</description>
-      <companyName>Signature HealthCARE LLC</companyName>
-      <jobLocation>Tompkinsville, KY, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (Overnights) at Monte Nido &amp; Affiliates</title>
-      <link>https://careers.montenidoaffiliates.com/jobs/8339/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Monte Nido &amp; Affiliates-Registered Nurse (Overnights)-Winfield, IL, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Winfield, IL, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 36 - 43 (hourly)
-
-📝 Description: We save lives while providing the opportunity for people to realize their healthy selves.:
+Pay Range: Up to USD $27\\.75/Hr. Hashtag : \\#LI\\-JC2","","https://www.indeed.com/cmp/Signature-Healthcare-LLC-6","","http://ltcrevolution.com/","","5,001 to 10,000","Decline to state","Signature HealthCARE has a vision to radically change the landscape of health care to transform lives.","","","","","","",""
+"in-a1506fe9406179c4","indeed","https://www.indeed.com/viewjob?jk=a1506fe9406179c4","https://careers.montenidoaffiliates.com/jobs/8339/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse (Overnights)","Monte Nido & Affiliates","Winfield, IL, US","2026-02-14","perdiem","direct_data","hourly",36.0,43.0,"USD",False,"","","","","We save lives while providing the opportunity for people to realize their healthy selves.:
 **Registered Nurse (PRN\\- NOC)****Monte Nido Chicago****Winfield, IL** **Monte Nido Chicago,** located in **Winfield, IL** is a residential treatment program exclusively for adults seeking treatment for Anorexia Nervosa, Bulimia Nervosa, Binge Eating Disorder, or Exercise Addiction. Monte Nido’s treatment approach focuses on the restoration of physiological and nutritional balance, implementation of healthy eating and exercise routines, elimination of harmful behaviors, and development of motivation and treatment engagement. Our objective is to help each client achieve a clear understanding of their eating and/or exercise disorder and its effect on their life, as well as an individualized appreciation of what is necessary for their personal recovery.  
 
 We are seeking a per diem **Registered Nurse (RN)** to join the **Monte Nido** team.  
@@ -213,30 +159,8 @@ Qualifications::
 
   
 
-\\#montenido
-🔗 Apply Direct: https://careers.montenidoaffiliates.com/jobs/8339/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a1506fe9406179c4</description>
-      <companyName>Monte Nido &amp; Affiliates</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Winfield, IL, US</jobLocation>
-      <salaryMin>36</salaryMin>
-      <salaryMax>43</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (Overnights) at Monte Nido &amp; Affiliates</title>
-      <link>https://careers.montenidoaffiliates.com/jobs/8339/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Monte Nido &amp; Affiliates-Registered Nurse (Overnights)-Winfield, IL, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Winfield, IL, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 36 - 43 (hourly)
-
-📝 Description: Grow with us!:
+\\#montenido","","https://www.indeed.com/cmp/Monte-Nido-&-Affiliates","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/084fa43e643ec52576871f20c5f43d4e","http://www.montenido.com","Miami, FL","501 to 1,000","","Our Mission: Guided by empathy and unwavering support, we challenge harmful norms and work to eradicate eating disorders.","","","","","","",""
+"in-f67fef5ed0edaed2","indeed","https://www.indeed.com/viewjob?jk=f67fef5ed0edaed2","https://careers.montenidoaffiliates.com/jobs/8339/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse (Overnights)","Monte Nido & Affiliates","Winfield, IL, US","2026-02-14","perdiem","direct_data","hourly",36.0,43.0,"USD",False,"","","","","Grow with us!:
 **Registered Nurse (PRN\\- NOC)****Monte Nido Chicago****Winfield, IL** **Monte Nido Chicago,** located in **Winfield, IL** is a residential treatment program exclusively for adults seeking treatment for Anorexia Nervosa, Bulimia Nervosa, Binge Eating Disorder, or Exercise Addiction. Monte Nido’s treatment approach focuses on the restoration of physiological and nutritional balance, implementation of healthy eating and exercise routines, elimination of harmful behaviors, and development of motivation and treatment engagement. Our objective is to help each client achieve a clear understanding of their eating and/or exercise disorder and its effect on their life, as well as an individualized appreciation of what is necessary for their personal recovery.  
 
 We are seeking a per diem **Registered Nurse (RN)** to join the **Monte Nido** team.  
@@ -265,28 +189,8 @@ Qualifications::
 
   
 
-\\#montenido
-🔗 Apply Direct: https://careers.montenidoaffiliates.com/jobs/8339/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f67fef5ed0edaed2</description>
-      <companyName>Monte Nido &amp; Affiliates</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Winfield, IL, US</jobLocation>
-      <salaryMin>36</salaryMin>
-      <salaryMax>43</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>PRN Licensed Dosing Nurse (LPN) at New Season</title>
-      <link>https://careers.newseason.com/jobs/15640567-prn-licensed-dosing-nurse-lpn?tm_job=456&amp;tm_event=view&amp;tm_company=93152</link>
-      <guid isPermaLink="false">New Season-PRN Licensed Dosing Nurse (LPN)-Savannah, GA, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Savannah, GA, US
-🏠 Work: On-site
-
-📝 Description: **Description**  
+\\#montenido","","https://www.indeed.com/cmp/Monte-Nido-&-Affiliates","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/084fa43e643ec52576871f20c5f43d4e","http://www.montenido.com","Miami, FL","501 to 1,000","","Our Mission: Guided by empathy and unwavering support, we challenge harmful norms and work to eradicate eating disorders.","","","","","","",""
+"in-78bdca809a679e36","indeed","https://www.indeed.com/viewjob?jk=78bdca809a679e36","https://careers.newseason.com/jobs/15640567-prn-licensed-dosing-nurse-lpn?tm_job=456&tm_event=view&tm_company=93152","PRN Licensed Dosing Nurse (LPN)","New Season","Savannah, GA, US","2026-02-14","","","","","","",False,"","","","","**Description**  
 
 
 
@@ -304,7 +208,7 @@ Ready to get started? Here’s what we’re looking for in our newest team membe
 In this role you will have the opportunity to work under the direction and supervision of our Medical Director or Registered Nurse and our Program Director in a collaborative effort to ensure we are providing the best care and support to our patients in this clinic. You’ll have a wonderful opportunity to engage directly with patients and provide them with stellar service as they are going through some of the most difficult times in their lives!  
 
 
-For over 30 years, New Season Treatment Centers have been a leading national health care service provider of outpatient treatment centers that specialize in providing safe, quality and best in class care for individuals living with Opioid Use Disorder ("OUD").  
+For over 30 years, New Season Treatment Centers have been a leading national health care service provider of outpatient treatment centers that specialize in providing safe, quality and best in class care for individuals living with Opioid Use Disorder (""OUD"").  
 
 Curious what your day\\-to\\-day may look like and how you’ll be making a big positive impact on your local community??  
 
@@ -339,25 +243,9 @@ New Season provides equal employment opportunities to all employees and applican
 
   
 
-Licensed Practical Nurse in GA or compact license
-🔗 Apply Direct: https://careers.newseason.com/jobs/15640567-prn-licensed-dosing-nurse-lpn?tm_job=456&amp;tm_event=view&amp;tm_company=93152
-🔗 Job Board: https://www.indeed.com/viewjob?jk=78bdca809a679e36</description>
-      <companyName>New Season</companyName>
-      <jobLocation>Savannah, GA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Employee Health at PeaceHealth</title>
-      <link>https://careers.peacehealth.org/jobs/17346887-rn-employee-health?tm_job=PH-INFOR-125477&amp;tm_event=view&amp;tm_company=12800</link>
-      <guid isPermaLink="false">PeaceHealth-RN - Employee Health-Ketchikan, AK, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Ketchikan, AK, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 51 - 77 (hourly)
-
-📝 Description: **Description**
+Licensed Practical Nurse in GA or compact license","","https://www.indeed.com/cmp/New-Season","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/36d31d278c1b46d7ccecee844daf559f","http://www.methadonetreatment.com","2500 Maitland Center Pkwy, Suite 250
+Maitland, Florida 32751","1,001 to 5,000","","Since 1986, New Season has helped thousands of patients recover from their dependency on addictive opiates. If you’re ready to make an impact in your community, New Season is the place for you!","","","","","","",""
+"in-ab7cc35c55720624","indeed","https://www.indeed.com/viewjob?jk=ab7cc35c55720624","https://careers.peacehealth.org/jobs/17346887-rn-employee-health?tm_job=PH-INFOR-125477&tm_event=view&tm_company=12800","RN - Employee Health","PeaceHealth","Ketchikan, AK, US","2026-02-14","fulltime","direct_data","hourly",51.0,77.0,"USD",False,"","","","","**Description**
 
 
 **Registered Nurse – Employee Health (Part\\-Time, 0\\.50 FTE)**
@@ -481,29 +369,9 @@ At PeaceHealth, we value diversity, equity, inclusion, and belonging. We are an 
 **Ready to Apply?**
 
 
-For full consideration, please attach your current resume when submitting your application. We look forward to learning more about your passion for caregiver safety and occupational health.
-🔗 Apply Direct: https://careers.peacehealth.org/jobs/17346887-rn-employee-health?tm_job=PH-INFOR-125477&amp;tm_event=view&amp;tm_company=12800
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ab7cc35c55720624</description>
-      <companyName>PeaceHealth</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Ketchikan, AK, US</jobLocation>
-      <salaryMin>51</salaryMin>
-      <salaryMax>77</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse - Surgical Intensive Care Unit at McLaren Health Care</title>
-      <link>https://careers.mclaren.org/jobs/registered-nurse-surgical-intensive-care-unit-33878</link>
-      <guid isPermaLink="false">McLaren Health Care-Registered Nurse - Surgical Intensive Care Unit-Bay City, MI, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Bay City, MI, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: About Us
+For full consideration, please attach your current resume when submitting your application. We look forward to learning more about your passion for caregiver safety and occupational health.","Health Care","https://www.indeed.com/cmp/Peacehealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7f6bb7fc1fe5c0e64d4b90ed9a1ddab7","http://careers.peacehealth.org","1115  SE 164th Avenue
+Vancouver, WA 98683","10,000+","$1B to $5B (USD)","PeaceHealth offers exceptional and compassionate care to both rural and urban communities across Washington, Oregon & Alaska.","","","","","","",""
+"in-5ad2ca898116149d","indeed","https://www.indeed.com/viewjob?jk=5ad2ca898116149d","https://careers.mclaren.org/jobs/registered-nurse-surgical-intensive-care-unit-33878","Registered Nurse - Surgical Intensive Care Unit","McLaren Health Care","Bay City, MI, US","2026-02-14","fulltime","","","","","",False,"","","","","About Us
 
 
 
@@ -570,25 +438,8 @@ Additional Information
 * Hours Per Pay Period: 72
 * On Call: No
 * Weekends: Yes
-McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.
-🔗 Apply Direct: https://careers.mclaren.org/jobs/registered-nurse-surgical-intensive-care-unit-33878
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5ad2ca898116149d</description>
-      <companyName>McLaren Health Care</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Bay City, MI, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse - Medical Intensive Care Unit at McLaren Health Care</title>
-      <link>https://careers.mclaren.org/jobs/registered-nurse-medical-intensive-care-unit-33879</link>
-      <guid isPermaLink="false">McLaren Health Care-Registered Nurse - Medical Intensive Care Unit-Bay City, MI, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Bay City, MI, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: About Us
+McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.","Health Care","https://www.indeed.com/cmp/Mclaren-Health-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/28532a7a1265e65cbdee4a32ef445cff","https://www.mclaren.org","One McLaren Parkway Grand Blanc, MI 48439","10,000+","$100M to $500M (USD)","McLaren - Doing What's Best.","","","","","","",""
+"in-91f6c144840d470d","indeed","https://www.indeed.com/viewjob?jk=91f6c144840d470d","https://careers.mclaren.org/jobs/registered-nurse-medical-intensive-care-unit-33879","Registered Nurse - Medical Intensive Care Unit","McLaren Health Care","Bay City, MI, US","2026-02-14","fulltime","","","","","",False,"","","","","About Us
 
 
 
@@ -657,25 +508,8 @@ Additional Information
 * Hours Per Pay Period: 72
 * On Call: No
 * Weekends: Yes
-McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.
-🔗 Apply Direct: https://careers.mclaren.org/jobs/registered-nurse-medical-intensive-care-unit-33879
-🔗 Job Board: https://www.indeed.com/viewjob?jk=91f6c144840d470d</description>
-      <companyName>McLaren Health Care</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Bay City, MI, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>REGISTERED NURSE (RN):Days (12-hour shifts) at Roxbury Treatment Center</title>
-      <link>https://uhs.jibeapply.com/careers/jobs/341744/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Roxbury Treatment Center-REGISTERED NURSE (RN):Days (12-hour shifts)-Shippensburg, PA, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Shippensburg, PA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Responsibilities:
+McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.","Health Care","https://www.indeed.com/cmp/Mclaren-Health-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/28532a7a1265e65cbdee4a32ef445cff","https://www.mclaren.org","One McLaren Parkway Grand Blanc, MI 48439","10,000+","$100M to $500M (USD)","McLaren - Doing What's Best.","","","","","","",""
+"in-148cf927d4d8acd4","indeed","https://www.indeed.com/viewjob?jk=148cf927d4d8acd4","https://uhs.jibeapply.com/careers/jobs/341744/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","REGISTERED NURSE (RN):Days (12-hour shifts)","Roxbury Treatment Center","Shippensburg, PA, US","2026-02-14","fulltime","","","","","",False,"","","","","Responsibilities:
 
 This opportunity is full\\-time, offers full benefits, and a convenient dayshift (6:30am\\-7:00pm) schedule and rotates every other weekend and holiday  
 
@@ -720,30 +554,13 @@ All UHS subsidiaries are committed to providing an environment of mutual respect
 
 We are aware of a scam whereby imposters are posing as Recruiters from UHS, and our subsidiary hospitals and facilities. Beware of anyone requesting financial or personal information. At UHS and all our subsidiaries, our Human Resources departments and recruiters are here to help prospective candidates by matching skill set and experience with the best possible career path at UHS and our subsidiaries. During the recruitment process, no recruiter or employee will request financial or personal information (e.g., Social Security Number, credit card or bank information, etc.) from you via email.
 Our recruiters will not email you from a public webmail client like Hotmail, Gmail, Yahoo Mail, etc. If you suspect a fraudulent job posting or job\\-related email mentioning UHS or its subsidiaries, we encourage you to report such concerns to appropriate law enforcement.
-We encourage you to refer to legitimate UHS and UHS subsidiary career websites to verify job opportunities and not rely on unsolicited calls from recruiters.
-🔗 Apply Direct: https://uhs.jibeapply.com/careers/jobs/341744/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=148cf927d4d8acd4</description>
-      <companyName>Roxbury Treatment Center</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Shippensburg, PA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>REGISTERED NURSE ICU (NIGHTS) at Spring Valley Hospital Medical Center</title>
-      <link>https://uhs.jibeapply.com/careers/jobs/339835/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Spring Valley Hospital Medical Center-REGISTERED NURSE ICU (NIGHTS)-Las Vegas, NV, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Las Vegas, NV, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 41 - 62 (hourly)
-
-📝 Description: Responsibilities:
-**Spring Valley Hospital** is a member of **The Valley Health System**, a network of six acute care hospitals that provide care for patients throughout Southern Nevada and nearby communities. **Located in southwest Las Vegas, the** **366\\-bed hospital** offers emergency care, advanced cardiovascular and neurological surgeries and procedures, surgical services, women’s health, comprehensive maternity services, and a level III neonatal intensive care unit. Spring Valley Hospital is accredited by The Joint Commission (“TJC”) and has achieved TJC Advanced Certifications in Primary Heart Attack, Thrombectomy\\-Capable Stroke, and Hip and Knee Total Joint Replacement. **Spring Valley Hospital has garnered recognition by US News \\&amp; World** **Report** for its outstanding achievements in several specialty programs, such as Heart Failure, Heart Attack, Kidney Failure, COPD, and Stroke. Additionally, the Advanced Wound Care and Hyperbaric Center is a distinguished Center of Excellence and President’s Circle award winning clinic, providing the highest quality in care and patient satisfaction. The hospital received the prestigious “**Best Place to Have a Baby Gold Award,**” highlighting its exceptional maternity services, which includes a dedicated entrance open 24/7 to the Birthplace Center. **ER at Blue Diamond**, an Extension of Spring Valley Medical Center, is a freestanding emergency department providing 24/7 emergency care to infants, children and adults. ER at Blue Diamond has achieved TJC Advanced Certifications in Acute Stroke Ready and Acute Heart Attack Ready.  
+We encourage you to refer to legitimate UHS and UHS subsidiary career websites to verify job opportunities and not rely on unsolicited calls from recruiters.","Health Care","https://www.indeed.com/cmp/Roxbury-Treatment-Center","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fe7f876644d0f3f21f9bc69ed56e0a44","https://roxburyhospital.com/","601 Roxbury Road
+Shippensburg, PA 17257","51 to 200","","Roxbury has been the source of hope and healing for those suffering from substance abuse and mental illness since 1984.","","","","","","",""
+"in-eae968c65fb0470d","indeed","https://www.indeed.com/viewjob?jk=eae968c65fb0470d","https://uhs.jibeapply.com/careers/jobs/339835/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","REGISTERED NURSE ICU (NIGHTS)","Spring Valley Hospital Medical Center","Las Vegas, NV, US","2026-02-14","fulltime","direct_data","hourly",41.0,62.0,"USD",False,"","","","","Responsibilities:
+**Spring Valley Hospital** is a member of **The Valley Health System**, a network of six acute care hospitals that provide care for patients throughout Southern Nevada and nearby communities. **Located in southwest Las Vegas, the** **366\\-bed hospital** offers emergency care, advanced cardiovascular and neurological surgeries and procedures, surgical services, women’s health, comprehensive maternity services, and a level III neonatal intensive care unit. Spring Valley Hospital is accredited by The Joint Commission (“TJC”) and has achieved TJC Advanced Certifications in Primary Heart Attack, Thrombectomy\\-Capable Stroke, and Hip and Knee Total Joint Replacement. **Spring Valley Hospital has garnered recognition by US News \\& World** **Report** for its outstanding achievements in several specialty programs, such as Heart Failure, Heart Attack, Kidney Failure, COPD, and Stroke. Additionally, the Advanced Wound Care and Hyperbaric Center is a distinguished Center of Excellence and President’s Circle award winning clinic, providing the highest quality in care and patient satisfaction. The hospital received the prestigious “**Best Place to Have a Baby Gold Award,**” highlighting its exceptional maternity services, which includes a dedicated entrance open 24/7 to the Birthplace Center. **ER at Blue Diamond**, an Extension of Spring Valley Medical Center, is a freestanding emergency department providing 24/7 emergency care to infants, children and adults. ER at Blue Diamond has achieved TJC Advanced Certifications in Acute Stroke Ready and Acute Heart Attack Ready.  
 
 www.springvalleyhospital.com**The Valley Health System** (“VHS”) is an integrated system of care in Las Vegas and Southern Nevada comprised of acute care hospitals, physician practices and a variety of outpatient services. We focus on clearly defined goals designed to bring about exemplary patient care. Since 1979, we have been providing care to the more than two million people living in Southern Nevada and its surrounding communities. VHS is committed to training the next generation of healthcare providers including physicians, nurses, therapists and others in the allied health support services. The talent and dedication of the over 9,000 employees of VHS is what makes the company unique. VHS is owned and operated by a subsidiary of Universal Health Services, Inc. (“UHS”).**Benefit Highlights:*** A rewarding and engaging work environment
-* Competitive compensation \\&amp; generous paid time off
+* Competitive compensation \\& generous paid time off
 * Tuition Reimbursement
 * Employee Referral Bonus
 * RN Clinical Ladder and career and growth opportunities within VHS and its 300\\+ UHS Subsidiaries
@@ -765,34 +582,12 @@ At UHS and all our subsidiaries, our Human Resources departments and recruiters 
 If you suspect a fraudulent job posting or job\\-related email mentioning UHS or its subsidiaries, we encourage you to report such concerns to appropriate law enforcement. We encourage you to refer to legitimate UHS and UHS subsidiary career websites to verify job opportunities and not rely on unsolicited calls from recruiters.  
 
 
-Salary: Starting from $41\\.90 to $62\\.76 an hour
-🔗 Apply Direct: https://uhs.jibeapply.com/careers/jobs/339835/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=eae968c65fb0470d</description>
-      <companyName>Spring Valley Hospital Medical Center</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Las Vegas, NV, US</jobLocation>
-      <salaryMin>41</salaryMin>
-      <salaryMax>62</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Shift Supervisor - Weekend Rotation at Sumter Health and Rehabilitation</title>
-      <link>https://jobs.chattr.ai/nhsmanagement/13ab10f5-7e07-4230-a655-18ebbba9fe8e?utm_source=Indeed</link>
-      <guid isPermaLink="false">Sumter Health and Rehabilitation-RN Shift Supervisor - Weekend Rotation-York, AL, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: York, AL, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 32 - 42 (hourly)
-
-📝 Description: **RN Shift Supervisor \\- Weekend Rotation**
+Salary: Starting from $41\\.90 to $62\\.76 an hour","","https://www.indeed.com/cmp/Spring-Valley-Hospital-Medical-Center","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/49aac20e8990a632d091b23a492999e4","https://www.springvalleyhospital.com/","Las Vegas, NV","1,001 to 5,000","Decline to state","","","","","","","",""
+"in-ed58cd26cce3942b","indeed","https://www.indeed.com/viewjob?jk=ed58cd26cce3942b","https://jobs.chattr.ai/nhsmanagement/13ab10f5-7e07-4230-a655-18ebbba9fe8e?utm_source=Indeed","RN Shift Supervisor - Weekend Rotation","Sumter Health and Rehabilitation","York, AL, US","2026-02-14","parttime","direct_data","hourly",32.0,42.0,"USD",False,"","","","","**RN Shift Supervisor \\- Weekend Rotation**
 
   
 
-At **Sumter Health \\&amp; Rehabilitation** in York, AL, our RN Shift Supervisors are essential leaders in a community\\-centered environment where quality care meets genuine connection. In this key role, especially during weekends, you’ll guide and mentor clinical staff, ensure smooth operations, and directly impact residents’ recovery and well‑being. Our facility offers competitive wages, elite BCBS Gold health coverage with low premiums, plus dental, vision, life insurance, 401(k) with company match, and paid holidays and vacation—so you can lead with confidence and care.
+At **Sumter Health \\& Rehabilitation** in York, AL, our RN Shift Supervisors are essential leaders in a community\\-centered environment where quality care meets genuine connection. In this key role, especially during weekends, you’ll guide and mentor clinical staff, ensure smooth operations, and directly impact residents’ recovery and well‑being. Our facility offers competitive wages, elite BCBS Gold health coverage with low premiums, plus dental, vision, life insurance, 401(k) with company match, and paid holidays and vacation—so you can lead with confidence and care.
 
  **General Purpose**
 
@@ -826,30 +621,9 @@ To plan, organize, develop and direct the overall operation of the Nursing Servi
 * Ensure schedules and work assignments, including vacation and holiday schedules, are implemented to ensure adequate staffing, including replacing call\\-ins.
 * Other duties as assigned or that may become necessary
 
- **We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.**
-🔗 Apply Direct: https://jobs.chattr.ai/nhsmanagement/13ab10f5-7e07-4230-a655-18ebbba9fe8e?utm_source=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ed58cd26cce3942b</description>
-      <companyName>Sumter Health and Rehabilitation</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>York, AL, US</jobLocation>
-      <salaryMin>32</salaryMin>
-      <salaryMax>42</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Nursing Supervisor at Elderly Savior Homecare</title>
-      <link>https://elderlysaviorhc.betterteam.com/nursing-supervisor-2?utm_source=indeed&amp;utm_medium=web_xmlfeed&amp;utm_campaign=indeed_organic</link>
-      <guid isPermaLink="false">Elderly Savior Homecare-Nursing Supervisor-Orange, NJ, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Orange, NJ, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 55 - 60 (hourly)
-
-📝 Description: ELDERLY SAVIOR HOMECARE looking for a Registered Nurse to join our nursing staff in providing excellent health care to our patients. Your duty of caring for the patients coming into our facility includes tasks like creating and maintaining accurate patient records, administering medication and monitoring for side effects, recording vital signs, and reporting symptoms and changes in patient conditions.  
+ **We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.**","","https://www.indeed.com/cmp/Sumter-Health-and-Rehabilitation","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fa1dc786a868c90cb04202e03481ce9d","https://sumterhealthandrehab.com","1505 East 4th Avenue
+York, AL 36925","","","","","","","","","",""
+"in-5852e0d156257ff1","indeed","https://www.indeed.com/viewjob?jk=5852e0d156257ff1","https://elderlysaviorhc.betterteam.com/nursing-supervisor-2?utm_source=indeed&utm_medium=web_xmlfeed&utm_campaign=indeed_organic","Nursing Supervisor","Elderly Savior Homecare","Orange, NJ, US","2026-02-14","parttime","direct_data","hourly",55.0,60.0,"USD",False,"","","","","ELDERLY SAVIOR HOMECARE looking for a Registered Nurse to join our nursing staff in providing excellent health care to our patients. Your duty of caring for the patients coming into our facility includes tasks like creating and maintaining accurate patient records, administering medication and monitoring for side effects, recording vital signs, and reporting symptoms and changes in patient conditions.  
 
 
 A Bachelor's degree in nursing and a state license are essential requirements for consideration. You will also need to be trained in BLS/CPR and be ACLS\\-certified. A professional, friendly attitude and effective communication skills are keys to becoming successful in this role.  
@@ -887,30 +661,8 @@ To continue to keep our employees and patients as safe as possible during these 
 
 **About Elderly Savior Homecare:**  
 
-ELDERLY SAVIOR HOMECARE operates in the Essex County area and also provides services in Union, Passaic, Bergen, Hudson and Morris counties. We are licensed, insured, bonded, accredited and a Medicaid and VA provider. If you are interested in a career as a caregiver, RN, LPN, contract physical and occupational therapist please submit your application along with your resume and cover letter and someone from our HR Department will contact you when a position opens. We employ competent, caring, well\\-trained and compassionate individuals whose is compassionate in helping others. In turn, our home health care agency provides additional training, opportunities for enhancing knowledge, competitive compensation, and trustworthy management.
-🔗 Apply Direct: https://elderlysaviorhc.betterteam.com/nursing-supervisor-2?utm_source=indeed&amp;utm_medium=web_xmlfeed&amp;utm_campaign=indeed_organic
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5852e0d156257ff1</description>
-      <companyName>Elderly Savior Homecare</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Orange, NJ, US</jobLocation>
-      <salaryMin>55</salaryMin>
-      <salaryMax>60</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LPN at Elderly Savior Homecare</title>
-      <link>https://elderlysaviorhc.betterteam.com/lpn-1?utm_source=indeed&amp;utm_medium=web_xmlfeed&amp;utm_campaign=indeed_organic</link>
-      <guid isPermaLink="false">Elderly Savior Homecare-LPN-Orange, NJ, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Orange, NJ, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 30 - 35 (hourly)
-
-📝 Description: Home Health Agency (Elderly Savior Homecare) looking for empathetic and patience home health Licensed Practical Nurses (LPNs) to administer medication and create an ongoing report on the patient's progress. A home health nurse's responsibilities include working with other healthcare professionals to create treatment plans, ensuring that patients stick to treatment plans, and monitoring patients' vital signs.  
+ELDERLY SAVIOR HOMECARE operates in the Essex County area and also provides services in Union, Passaic, Bergen, Hudson and Morris counties. We are licensed, insured, bonded, accredited and a Medicaid and VA provider. If you are interested in a career as a caregiver, RN, LPN, contract physical and occupational therapist please submit your application along with your resume and cover letter and someone from our HR Department will contact you when a position opens. We employ competent, caring, well\\-trained and compassionate individuals whose is compassionate in helping others. In turn, our home health care agency provides additional training, opportunities for enhancing knowledge, competitive compensation, and trustworthy management.","","https://www.indeed.com/cmp/Elderly-Savior-Homecare","","http://www.elderlysaviorhc.com","","","","","","","","","","",""
+"in-5e46f3297d25b697","indeed","https://www.indeed.com/viewjob?jk=5e46f3297d25b697","https://elderlysaviorhc.betterteam.com/lpn-1?utm_source=indeed&utm_medium=web_xmlfeed&utm_campaign=indeed_organic","LPN","Elderly Savior Homecare","Orange, NJ, US","2026-02-14","parttime","direct_data","hourly",30.0,35.0,"USD",False,"","","","info@elderlysaviorhc.com","Home Health Agency (Elderly Savior Homecare) looking for empathetic and patience home health Licensed Practical Nurses (LPNs) to administer medication and create an ongoing report on the patient's progress. A home health nurse's responsibilities include working with other healthcare professionals to create treatment plans, ensuring that patients stick to treatment plans, and monitoring patients' vital signs.  
 
   
 
@@ -942,30 +694,8 @@ ELDERLY SAVIOR HOMECARE operates in the Essex County area and also provides serv
 
 **About Elderly Savior Homecare:**  
 
-ELDERLY SAVIOR HOMECARE operates in the Essex County area and also provides services in Union, Passaic, Bergen, Hudson and Morris counties. We are licensed, insured, bonded, accredited and a Medicaid and VA provider. If you are interested in a career as a caregiver, RN, LPN, contract physical and occupational therapist please submit your application along with your resume and cover letter and someone from our HR Department will contact you when a position opens. We employ competent, caring, well\\-trained and compassionate individuals whose is compassionate in helping others. In turn, our home health care agency provides additional training, opportunities for enhancing knowledge, competitive compensation, and trustworthy management.
-🔗 Apply Direct: https://elderlysaviorhc.betterteam.com/lpn-1?utm_source=indeed&amp;utm_medium=web_xmlfeed&amp;utm_campaign=indeed_organic
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5e46f3297d25b697</description>
-      <companyName>Elderly Savior Homecare</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Orange, NJ, US</jobLocation>
-      <salaryMin>30</salaryMin>
-      <salaryMax>35</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinic RN - Radiation Oncology at Kadlec Medical Center</title>
-      <link>https://rr.jobsyn.org/C5854821BEB74EE7BF7F49482ED3CC341554</link>
-      <guid isPermaLink="false">Kadlec Medical Center-Clinic RN - Radiation Oncology-Kennewick, WA, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Kennewick, WA, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 39 - 60 (hourly)
-
-📝 Description: **Description**
+ELDERLY SAVIOR HOMECARE operates in the Essex County area and also provides services in Union, Passaic, Bergen, Hudson and Morris counties. We are licensed, insured, bonded, accredited and a Medicaid and VA provider. If you are interested in a career as a caregiver, RN, LPN, contract physical and occupational therapist please submit your application along with your resume and cover letter and someone from our HR Department will contact you when a position opens. We employ competent, caring, well\\-trained and compassionate individuals whose is compassionate in helping others. In turn, our home health care agency provides additional training, opportunities for enhancing knowledge, competitive compensation, and trustworthy management.","","https://www.indeed.com/cmp/Elderly-Savior-Homecare","","http://www.elderlysaviorhc.com","","","","","","","","","","",""
+"in-8e580030ba774151","indeed","https://www.indeed.com/viewjob?jk=8e580030ba774151","https://rr.jobsyn.org/C5854821BEB74EE7BF7F49482ED3CC341554","Clinic RN - Radiation Oncology","Kadlec Medical Center","Kennewick, WA, US","2026-02-14","perdiem","direct_data","hourly",39.0,60.0,"USD",False,"","","","","**Description**
 
 
 Under the general direction of the Supervisor/Manager of Clinic Operations with clinical oversight from the Director of Clinical Operations, RN: The Journey Clinic RN provides comprehensive nursing care for patients in an ambulatory care environment based on individual physical, emotional, spiritual needs, and appropriate care strategies throughout the lifespan. This position facilitates care coordination by using the nursing process to assess, identify, plan, implement, and evaluate all aspects of care and teaching needs via direct and telephonic/telehealth or electronic encounters. This role works in collaboration with other members of the health care team. The Clinic RN maintains compliance with professional nursing standards and regulatory requirements and supports clinicians in delivering quality health care to patients. Actions will reflect the organization's core values.
@@ -1052,30 +782,8 @@ Providence is proud to be an Equal Opportunity Employer. We are committed to the
 **Pay Range:** $39\\.19 \\- $60\\.84
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/C5854821BEB74EE7BF7F49482ED3CC341554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=8e580030ba774151</description>
-      <companyName>Kadlec Medical Center</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Kennewick, WA, US</jobLocation>
-      <salaryMin>39</salaryMin>
-      <salaryMax>60</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Resident - Operating Room at Kadlec Medical Center</title>
-      <link>https://rr.jobsyn.org/6E83F36641E141EAABC70013CAAA1BB51554</link>
-      <guid isPermaLink="false">Kadlec Medical Center-RN Resident - Operating Room-Richland, WA, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Richland, WA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 39 - 79 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Kadlec-Medical-Center","","http://www.kadlec.org","Richland, WA","1,001 to 5,000","$100M to $500M (USD)","","","","","","","",""
+"in-bef98f430f7222a7","indeed","https://www.indeed.com/viewjob?jk=bef98f430f7222a7","https://rr.jobsyn.org/6E83F36641E141EAABC70013CAAA1BB51554","RN Resident - Operating Room","Kadlec Medical Center","Richland, WA, US","2026-02-14","fulltime","direct_data","hourly",39.0,79.0,"USD",False,"","","","","**Description**
 
 
 **Registered Nurse (RN) Resident \\- Operating Room (OR) at Kadlec Regional Medical Center**
@@ -1178,30 +886,8 @@ For any concerns with this posting relating to the posting requirements in RCW 4
 **Pay Range:** $39\\.62 \\- $79\\.20
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/6E83F36641E141EAABC70013CAAA1BB51554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=bef98f430f7222a7</description>
-      <companyName>Kadlec Medical Center</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Richland, WA, US</jobLocation>
-      <salaryMin>39</salaryMin>
-      <salaryMax>79</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Infusion RN at Providence</title>
-      <link>https://rr.jobsyn.org/EB772FF8A07F4E54B2A5145C2D9352ED1554</link>
-      <guid isPermaLink="false">Providence-Infusion RN-Tukwila, WA, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Tukwila, WA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 49 - 76 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Kadlec-Medical-Center","","http://www.kadlec.org","Richland, WA","1,001 to 5,000","$100M to $500M (USD)","","","","","","","",""
+"in-4d88ecc6cc10b65b","indeed","https://www.indeed.com/viewjob?jk=4d88ecc6cc10b65b","https://rr.jobsyn.org/EB772FF8A07F4E54B2A5145C2D9352ED1554","Infusion RN","Providence","Tukwila, WA, US","2026-02-14","fulltime","direct_data","hourly",49.0,76.0,"USD",False,"","","","","**Description**
 
 
 The RN Clinician provides direct nursing services and case management related to infusion therapy for patients in the home, clinic or an alternate living site. This is accomplished through collaboration with the patient and/or caregiver, the physician, other health care providers and the payer. This position functions as a professional role model by demonstrating competency in all phases of the nursing process, collaborating with other health care workers to promote quality patient care, and acting as a resource for home care nursing staff for patients with infusion home care needs.
@@ -1281,29 +967,8 @@ Applicants in the Unincorporated County of Los Angeles: Qualified applications w
 **Pay Range:** $49\\.31 \\- $76\\.56
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/EB772FF8A07F4E54B2A5145C2D9352ED1554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4d88ecc6cc10b65b</description>
-      <companyName>Providence</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Tukwila, WA, US</jobLocation>
-      <salaryMin>49</salaryMin>
-      <salaryMax>76</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Charge RN - Emergency Services 0.75 FTE Night at Providence</title>
-      <link>https://rr.jobsyn.org/EEE601B8F9874927A9C162E066D6849D1554</link>
-      <guid isPermaLink="false">Providence-Charge RN - Emergency Services 0.75 FTE Night-Portland, OR, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Portland, OR, US
-🏠 Work: On-site
-💰 Salary: USD 64 - 88 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-959155fe","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fb09f5772b2f0fa41003ed27a771303","http://www.providence.jobs","Renton, WA","10,000+","$100M to $500M (USD)","Providence is a not-for-profit network of hospitals, care centers, health plans, clinics, home health care and services continuing a more than 100-year tradition of serving the poor and vulnerable.","","","","","","",""
+"in-a4da5128ad54f7f7","indeed","https://www.indeed.com/viewjob?jk=a4da5128ad54f7f7","https://rr.jobsyn.org/EEE601B8F9874927A9C162E066D6849D1554","Charge RN - Emergency Services 0.75 FTE Night","Providence","Portland, OR, US","2026-02-14","","direct_data","hourly",64.0,88.0,"USD",False,"","","","","**Description**
 
 
 **Charge RN \\- Emergency Services at Providence Portland Medical Center is 0\\.75 FTE part time position working during weekdays and weekends on a night shift.**
@@ -1412,29 +1077,8 @@ Providence is proud to be an Equal Opportunity Employer. We are committed to the
 **Pay Range:** $64\\.39 \\- $88\\.50
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/EEE601B8F9874927A9C162E066D6849D1554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a4da5128ad54f7f7</description>
-      <companyName>Providence</companyName>
-      <jobLocation>Portland, OR, US</jobLocation>
-      <salaryMin>64</salaryMin>
-      <salaryMax>88</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Infusion RN at Providence Swedish</title>
-      <link>https://rr.jobsyn.org/F4999EB695BA44A7BBC29381F64A9A361554</link>
-      <guid isPermaLink="false">Providence Swedish-Infusion RN-Olympia, WA, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Olympia, WA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 49 - 76 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-959155fe","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fb09f5772b2f0fa41003ed27a771303","http://www.providence.jobs","Renton, WA","10,000+","$100M to $500M (USD)","Providence is a not-for-profit network of hospitals, care centers, health plans, clinics, home health care and services continuing a more than 100-year tradition of serving the poor and vulnerable.","","","","","","",""
+"in-d5ddf3f245e20fb7","indeed","https://www.indeed.com/viewjob?jk=d5ddf3f245e20fb7","https://rr.jobsyn.org/F4999EB695BA44A7BBC29381F64A9A361554","Infusion RN","Providence Swedish","Olympia, WA, US","2026-02-14","fulltime","direct_data","hourly",49.0,76.0,"USD",False,"","","","","**Description**
 
 
 The RN Clinician provides direct nursing services and case management related to infusion therapy for patients in the home, clinic or an alternate living site. This is accomplished through collaboration with the patient and/or caregiver, the physician, other health care providers and the payer. This position functions as a professional role model by demonstrating competency in all phases of the nursing process, collaborating with other health care workers to promote quality patient care, and acting as a resource for home care nursing staff for patients with infusion home care needs.
@@ -1514,30 +1158,8 @@ Applicants in the Unincorporated County of Los Angeles: Qualified applications w
 **Pay Range:** $49\\.31 \\- $76\\.56
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/F4999EB695BA44A7BBC29381F64A9A361554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d5ddf3f245e20fb7</description>
-      <companyName>Providence Swedish</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Olympia, WA, US</jobLocation>
-      <salaryMin>49</salaryMin>
-      <salaryMax>76</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Ambulatory Surgery Center RN - Orthopedic Surgery at Kadlec Medical Center</title>
-      <link>https://rr.jobsyn.org/35E25188EED3422B883BC559D6EECB171554</link>
-      <guid isPermaLink="false">Kadlec Medical Center-Ambulatory Surgery Center RN - Orthopedic Surgery-Richland, WA, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Richland, WA, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 41 - 64 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-Swedish-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0ad90541ef685d41ceee18942d911e9b","http://www.swedish.org","Seattle, WA","10,000+","$1B to $5B (USD)","With our wide range of specialties and support opportunities, Providence Swedish caregivers bring their best to work every day to help our greater Puget Sound communities flourish for years to come.","","","","","","",""
+"in-11d84c6741d0b4fd","indeed","https://www.indeed.com/viewjob?jk=11d84c6741d0b4fd","https://rr.jobsyn.org/35E25188EED3422B883BC559D6EECB171554","Ambulatory Surgery Center RN - Orthopedic Surgery","Kadlec Medical Center","Richland, WA, US","2026-02-14","perdiem","direct_data","hourly",41.0,64.0,"USD",False,"","","","","**Description**
 
 
 Under the direction of the ASC Manager, has direct responsibility and accountability for the care of the patient during the intraoperative phase of surgery and endoscopic procedures; Utilizes the nursing process to provide comprehensive nursing care Peri\\-Operative phase; Coordinates total patient care in coordination with other health care team members; Functions as a patient advocate utilizing the Patient's Rights; Demonstrates professional growth and development by accepting responsibility and accountability for one's nursing practice; Serves as a liaison between physicians, staff, patients and their families to facilitate safe and effective flow of patient care in a manner consistent with the Mission, Vision and Values of Kadlec Regional Medical Center; and assists in providing direction of support staff.
@@ -1631,30 +1253,8 @@ For any concerns with this posting relating to the posting requirements in RCW 4
 **Pay Range:** $41\\.56 \\- $64\\.52
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/35E25188EED3422B883BC559D6EECB171554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=11d84c6741d0b4fd</description>
-      <companyName>Kadlec Medical Center</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Richland, WA, US</jobLocation>
-      <salaryMin>41</salaryMin>
-      <salaryMax>64</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinic RN - RADIATION ONCOLOGY at Kadlec Medical Center</title>
-      <link>https://rr.jobsyn.org/AEAA4CD3427A4AD4856B5E151DD791681554</link>
-      <guid isPermaLink="false">Kadlec Medical Center-Clinic RN - RADIATION ONCOLOGY-Kennewick, WA, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Kennewick, WA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 39 - 60 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Kadlec-Medical-Center","","http://www.kadlec.org","Richland, WA","1,001 to 5,000","$100M to $500M (USD)","","","","","","","",""
+"in-7ef48267b838de55","indeed","https://www.indeed.com/viewjob?jk=7ef48267b838de55","https://rr.jobsyn.org/AEAA4CD3427A4AD4856B5E151DD791681554","Clinic RN - RADIATION ONCOLOGY","Kadlec Medical Center","Kennewick, WA, US","2026-02-14","fulltime","direct_data","hourly",39.0,60.0,"USD",False,"","","","","**Description**
 
 
 The Radiation Oncology nurse is responsible for the direct and indirect nursing care of patients in the radiation oncology department. The ability to retrieve, communicate or otherwise present information in a written, auditory or visual fashion is essential. The radiation oncology nurse is responsible for patient education, physical assessment, nutrition counseling and assisting physicians with exams and procedures.
@@ -1746,30 +1346,8 @@ Providence is proud to be an Equal Opportunity Employer. We are committed to the
 **Pay Range:** $39\\.19 \\- $60\\.84
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/AEAA4CD3427A4AD4856B5E151DD791681554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7ef48267b838de55</description>
-      <companyName>Kadlec Medical Center</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Kennewick, WA, US</jobLocation>
-      <salaryMin>39</salaryMin>
-      <salaryMax>60</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN- Home Health at Providence</title>
-      <link>https://rr.jobsyn.org/C3C70019FAE94B85B27D1F3D7C08DF661554</link>
-      <guid isPermaLink="false">Providence-RN- Home Health-Salem, OR, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Salem, OR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 50 - 70 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Kadlec-Medical-Center","","http://www.kadlec.org","Richland, WA","1,001 to 5,000","$100M to $500M (USD)","","","","","","","",""
+"in-273a00efea35dacd","indeed","https://www.indeed.com/viewjob?jk=273a00efea35dacd","https://rr.jobsyn.org/C3C70019FAE94B85B27D1F3D7C08DF661554","RN- Home Health","Providence","Salem, OR, US","2026-02-14","fulltime","direct_data","hourly",50.0,70.0,"USD",False,"","","","","**Description**
 
 
 RN\\- Home Health
@@ -1793,14 +1371,14 @@ Working in Home Health provides the unique opportunity to care for your patients
 **Benefits and perks:**
 
 
-* Competitive pay (including holiday pay \\&amp; shift pay differentials)
+* Competitive pay (including holiday pay \\& shift pay differentials)
 * Best\\-in\\-class benefits – full medical, dental and vision coverage from your first day
-* 401(k) plan with employer matching \\&amp; complementary retirement planner
+* 401(k) plan with employer matching \\& complementary retirement planner
 * Generous paid time off for vacation, sick days and holidays
 * Mileage reimbursement for roles traveling to patient homes
-* Tuition reimbursement \\&amp; student loan forgiveness programs
-* Wellness \\&amp; mental health assistance programs
-* Back\\-up child \\&amp; elder care to help with care disruptions for your family
+* Tuition reimbursement \\& student loan forgiveness programs
+* Wellness \\& mental health assistance programs
+* Back\\-up child \\& elder care to help with care disruptions for your family
 * Voluntary benefits, like pet, auto and home insurance, and more!
 
 **Required Qualifications:**
@@ -1876,30 +1454,8 @@ Applicants in the Unincorporated County of Los Angeles: Qualified applications w
 **Pay Range:** $50\\.21 \\- $70\\.04
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/C3C70019FAE94B85B27D1F3D7C08DF661554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=273a00efea35dacd</description>
-      <companyName>Providence</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Salem, OR, US</jobLocation>
-      <salaryMin>50</salaryMin>
-      <salaryMax>70</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Intensive Care Unit at Providence</title>
-      <link>https://rr.jobsyn.org/6985B27666EF404BB70FC0A2AB558F851554</link>
-      <guid isPermaLink="false">Providence-RN - Intensive Care Unit-Hood River, OR, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Hood River, OR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 56 - 81 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-959155fe","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fb09f5772b2f0fa41003ed27a771303","http://www.providence.jobs","Renton, WA","10,000+","$100M to $500M (USD)","Providence is a not-for-profit network of hospitals, care centers, health plans, clinics, home health care and services continuing a more than 100-year tradition of serving the poor and vulnerable.","","","","","","",""
+"in-50c7e023d6024970","indeed","https://www.indeed.com/viewjob?jk=50c7e023d6024970","https://rr.jobsyn.org/6985B27666EF404BB70FC0A2AB558F851554","RN - Intensive Care Unit","Providence","Hood River, OR, US","2026-02-14","fulltime","direct_data","hourly",56.0,81.0,"USD",False,"","","","","**Description**
 
 
 **RN – Medical Surgical Unit at Providence Hood River Memorial Center.** **This posting represents a .9 FTE, night shift opening (7pm\\-7:30am, variable schedule, 3, 12\\-hour shifts per week) with rotating weekends and holidays.**
@@ -2014,30 +1570,8 @@ Providence is proud to be an Equal Opportunity Employer. We are committed to the
 **Pay Range:** $56\\.74 \\- $81\\.20
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/6985B27666EF404BB70FC0A2AB558F851554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=50c7e023d6024970</description>
-      <companyName>Providence</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Hood River, OR, US</jobLocation>
-      <salaryMin>56</salaryMin>
-      <salaryMax>81</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Senior Manager Nursing - Alaska PMG at Providence</title>
-      <link>https://rr.jobsyn.org/6C7F38A24F2D4762A7A80CC4C3023CF61554</link>
-      <guid isPermaLink="false">Providence-Senior Manager Nursing - Alaska PMG-Anchorage, AK, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Anchorage, AK, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 76 - 120 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-959155fe","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fb09f5772b2f0fa41003ed27a771303","http://www.providence.jobs","Renton, WA","10,000+","$100M to $500M (USD)","Providence is a not-for-profit network of hospitals, care centers, health plans, clinics, home health care and services continuing a more than 100-year tradition of serving the poor and vulnerable.","","","","","","",""
+"in-f2361da6975b636c","indeed","https://www.indeed.com/viewjob?jk=f2361da6975b636c","https://rr.jobsyn.org/6C7F38A24F2D4762A7A80CC4C3023CF61554","Senior Manager Nursing - Alaska PMG","Providence","Anchorage, AK, US","2026-02-14","fulltime","direct_data","hourly",76.0,120.0,"USD",False,"","","","","**Description**
 
 
 The PMG Alaska Senior Manager of Nursing collaborates with the PMG Alaska Chief Medical Officer and PCN North Chief Nursing Officer to oversee and enhance the practice of ambulatory nursing and nursing support roles, including Medical Assistants. This individual provides clinic support and guidance to improve clinical care delivery, offering counsel to clinic leadership on nursing and MA roles, procedures, staff competency, and scope of practice. Leading the organization's commitment to safety and reliability, the Senior Manager implements standardized clinical processes and procedures while supporting quality improvement initiatives.
@@ -2131,36 +1665,14 @@ Providence is proud to be an Equal Opportunity Employer. We are committed to the
 **Pay Range:** $76\\.16 \\- $120\\.23
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/6C7F38A24F2D4762A7A80CC4C3023CF61554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f2361da6975b636c</description>
-      <companyName>Providence</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Anchorage, AK, US</jobLocation>
-      <salaryMin>76</salaryMin>
-      <salaryMax>120</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Resident - Cardiac Medical at Providence</title>
-      <link>https://rr.jobsyn.org/772472B063BA4B60A2ADA4F78A9F0A1D1554</link>
-      <guid isPermaLink="false">Providence-RN Resident - Cardiac Medical-Spokane, WA, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Spokane, WA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 41 - 77 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-959155fe","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fb09f5772b2f0fa41003ed27a771303","http://www.providence.jobs","Renton, WA","10,000+","$100M to $500M (USD)","Providence is a not-for-profit network of hospitals, care centers, health plans, clinics, home health care and services continuing a more than 100-year tradition of serving the poor and vulnerable.","","","","","","",""
+"in-2665a447a3251d10","indeed","https://www.indeed.com/viewjob?jk=2665a447a3251d10","https://rr.jobsyn.org/772472B063BA4B60A2ADA4F78A9F0A1D1554","RN Resident - Cardiac Medical","Providence","Spokane, WA, US","2026-02-14","fulltime","direct_data","hourly",41.0,77.0,"USD",False,"","","","","**Description**
 
 
 Providence nurses are not simply valued – they’re invaluable. You will thrive in our culture of patient\\-focused, whole\\-person care built on understanding, commitment, and mutual respect. Your voice matters here, because we know that to inspire and retain the best nurses, we must empower them. Learn why nurses choose to work at Providence by visiting our Nursing Institute page.
 
 
-Join our team at Providence Sacred Heart Medical Center \\&amp; Children's Hospital As a Providence caregiver, you’ll apply your specialized training to deliver world\\-class health with human connection and make a difference every day through your extraordinary care.
+Join our team at Providence Sacred Heart Medical Center \\& Children's Hospital As a Providence caregiver, you’ll apply your specialized training to deliver world\\-class health with human connection and make a difference every day through your extraordinary care.
 
 
 **Required Qualifications:**
@@ -2243,30 +1755,8 @@ For any concerns with this posting relating to the posting requirements in RCW 4
 **Pay Range:** $41\\.74 \\- $77\\.17
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/772472B063BA4B60A2ADA4F78A9F0A1D1554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=2665a447a3251d10</description>
-      <companyName>Providence</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Spokane, WA, US</jobLocation>
-      <salaryMin>41</salaryMin>
-      <salaryMax>77</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Infusion RN at Providence</title>
-      <link>https://rr.jobsyn.org/78C6CE62E2684A64ACAC5E4DBC4A13DC1554</link>
-      <guid isPermaLink="false">Providence-Infusion RN-Tacoma, WA, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Tacoma, WA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 49 - 76 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-959155fe","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fb09f5772b2f0fa41003ed27a771303","http://www.providence.jobs","Renton, WA","10,000+","$100M to $500M (USD)","Providence is a not-for-profit network of hospitals, care centers, health plans, clinics, home health care and services continuing a more than 100-year tradition of serving the poor and vulnerable.","","","","","","",""
+"in-fb280d7826d06d2b","indeed","https://www.indeed.com/viewjob?jk=fb280d7826d06d2b","https://rr.jobsyn.org/78C6CE62E2684A64ACAC5E4DBC4A13DC1554","Infusion RN","Providence","Tacoma, WA, US","2026-02-14","fulltime","direct_data","hourly",49.0,76.0,"USD",False,"","","","","**Description**
 
 
 The RN Clinician provides direct nursing services and case management related to infusion therapy for patients in the home, clinic or an alternate living site. This is accomplished through collaboration with the patient and/or caregiver, the physician, other health care providers and the payer. This position functions as a professional role model by demonstrating competency in all phases of the nursing process, collaborating with other health care workers to promote quality patient care, and acting as a resource for home care nursing staff for patients with infusion home care needs.
@@ -2346,30 +1836,8 @@ Applicants in the Unincorporated County of Los Angeles: Qualified applications w
 **Pay Range:** $49\\.31 \\- $76\\.56
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/78C6CE62E2684A64ACAC5E4DBC4A13DC1554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=fb280d7826d06d2b</description>
-      <companyName>Providence</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Tacoma, WA, US</jobLocation>
-      <salaryMin>49</salaryMin>
-      <salaryMax>76</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Charge RN - Surgical at Providence</title>
-      <link>https://rr.jobsyn.org/55751B4521B94CECA5AA34CE9F9B4E3D1554</link>
-      <guid isPermaLink="false">Providence-Charge RN - Surgical-Walla Walla, WA, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Walla Walla, WA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 40 - 73 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-959155fe","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fb09f5772b2f0fa41003ed27a771303","http://www.providence.jobs","Renton, WA","10,000+","$100M to $500M (USD)","Providence is a not-for-profit network of hospitals, care centers, health plans, clinics, home health care and services continuing a more than 100-year tradition of serving the poor and vulnerable.","","","","","","",""
+"in-b0221fb00cbb0414","indeed","https://www.indeed.com/viewjob?jk=b0221fb00cbb0414","https://rr.jobsyn.org/55751B4521B94CECA5AA34CE9F9B4E3D1554","Charge RN - Surgical","Providence","Walla Walla, WA, US","2026-02-14","fulltime","direct_data","hourly",40.0,73.0,"USD",False,"","","","","**Description**
 
 
 Providence nurses are not simply valued – they’re invaluable. You will thrive in our culture of patient\\-focused, whole\\-person care built on understanding, commitment, and mutual respect. Your voice matters here, because we know that to inspire and retain the best nurses, we must empower them. Learn why nurses choose to work at Providence by visiting our Nursing Institute page.
@@ -2458,30 +1926,8 @@ For any concerns with this posting relating to the posting requirements in RCW 4
 **Pay Range:** $40\\.18 \\- $73\\.78
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/55751B4521B94CECA5AA34CE9F9B4E3D1554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b0221fb00cbb0414</description>
-      <companyName>Providence</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Walla Walla, WA, US</jobLocation>
-      <salaryMin>40</salaryMin>
-      <salaryMax>73</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Neuro ICU, 0.9 FTE Day at Providence</title>
-      <link>https://rr.jobsyn.org/31710ED7434243E1A3C98EF5B58111691554</link>
-      <guid isPermaLink="false">Providence-RN - Neuro ICU, 0.9 FTE Day-Portland, OR, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Portland, OR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 57 - 82 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-959155fe","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fb09f5772b2f0fa41003ed27a771303","http://www.providence.jobs","Renton, WA","10,000+","$100M to $500M (USD)","Providence is a not-for-profit network of hospitals, care centers, health plans, clinics, home health care and services continuing a more than 100-year tradition of serving the poor and vulnerable.","","","","","","",""
+"in-de1171af543abf35","indeed","https://www.indeed.com/viewjob?jk=de1171af543abf35","https://rr.jobsyn.org/31710ED7434243E1A3C98EF5B58111691554","RN - Neuro ICU, 0.9 FTE Day","Providence","Portland, OR, US","2026-02-14","fulltime","direct_data","hourly",57.0,82.0,"USD",False,"","","","","**Description**
 
 
 **RN \\- Neuro ICU at Providence St Vincent Medical Center. This position is Full\\-Time (0\\.9 FTE) and Day Shift.**
@@ -2586,30 +2032,8 @@ Providence is proud to be an Equal Opportunity Employer. We are committed to the
 **Pay Range:** $57\\.30 \\- $82\\.60
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/31710ED7434243E1A3C98EF5B58111691554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=de1171af543abf35</description>
-      <companyName>Providence</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Portland, OR, US</jobLocation>
-      <salaryMin>57</salaryMin>
-      <salaryMax>82</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Infusion RN at Providence</title>
-      <link>https://rr.jobsyn.org/4D6EEFBFF6E24B248CD33D5745355EC11554</link>
-      <guid isPermaLink="false">Providence-Infusion RN-Portland, OR, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Portland, OR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 47 - 73 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-959155fe","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fb09f5772b2f0fa41003ed27a771303","http://www.providence.jobs","Renton, WA","10,000+","$100M to $500M (USD)","Providence is a not-for-profit network of hospitals, care centers, health plans, clinics, home health care and services continuing a more than 100-year tradition of serving the poor and vulnerable.","","","","","","",""
+"in-726c669f761686f8","indeed","https://www.indeed.com/viewjob?jk=726c669f761686f8","https://rr.jobsyn.org/4D6EEFBFF6E24B248CD33D5745355EC11554","Infusion RN","Providence","Portland, OR, US","2026-02-14","fulltime","direct_data","hourly",47.0,73.0,"USD",False,"","","","","**Description**
 
 
 Under the general direction of a Registered Nurse, the NAC performs basic nursing procedures in providing direct and indirect assistance to patients of all ages and facilitates communication of patient needs to registered nursing personnel.
@@ -2689,30 +2113,8 @@ Applicants in the Unincorporated County of Los Angeles: Qualified applications w
 **Pay Range:** $47\\.31 \\- $73\\.44
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/4D6EEFBFF6E24B248CD33D5745355EC11554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=726c669f761686f8</description>
-      <companyName>Providence</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Portland, OR, US</jobLocation>
-      <salaryMin>47</salaryMin>
-      <salaryMax>73</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Resident - Medical Surgical at Providence</title>
-      <link>https://rr.jobsyn.org/0E91B2C0C6134E0EABEFCCE92ABA78781554</link>
-      <guid isPermaLink="false">Providence-RN Resident - Medical Surgical-Spokane, WA, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Spokane, WA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 41 - 77 (hourly)
-
-📝 Description: **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-959155fe","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fb09f5772b2f0fa41003ed27a771303","http://www.providence.jobs","Renton, WA","10,000+","$100M to $500M (USD)","Providence is a not-for-profit network of hospitals, care centers, health plans, clinics, home health care and services continuing a more than 100-year tradition of serving the poor and vulnerable.","","","","","","",""
+"in-c2bb9410ffaf5b30","indeed","https://www.indeed.com/viewjob?jk=c2bb9410ffaf5b30","https://rr.jobsyn.org/0E91B2C0C6134E0EABEFCCE92ABA78781554","RN Resident - Medical Surgical","Providence","Spokane, WA, US","2026-02-14","fulltime","direct_data","hourly",41.0,77.0,"USD",False,"","","","","**Description**
 
 
 The Registered Nurse (RN) provides professional, comprehensive nursing care for patients in an acute care environment. Working with a preceptor and assuming increasing responsibility during the residency, the RN Resident is accountable for the delivery of coordinated, safe, compassionate, therapeutic, evidence\\-based quality care to patients and families, based on individual physical, emotional, and spiritual needs, and appropriate care strategies throughout the lifespan. Practices in accordance with the Nurse Practice Act in the state of employment, the American Nurses Association (ANA) Code of Ethics for Nurses, and the ANA scope and standards of practice. Key functions and specific skills for the job are found in the unit specific onboarding checklist and in standards that are applicable to the specialty.
@@ -2721,7 +2123,7 @@ The Registered Nurse (RN) provides professional, comprehensive nursing care for 
 Providence nurses are not simply valued – they’re invaluable. You will thrive in our culture of patient\\-focused, whole\\-person care built on understanding, commitment, and mutual respect. Your voice matters here, because we know that to inspire and retain the best nurses, we must empower them. Learn why nurses choose to work at Providence by visiting our Nursing Institute page.
 
 
-Join our team at Providence Sacred Heart Medical Center \\&amp; Children's Hospital. As a Providence caregiver, you’ll apply your specialized training to deliver world\\-class health with human connection and make a difference every day through your extraordinary care.
+Join our team at Providence Sacred Heart Medical Center \\& Children's Hospital. As a Providence caregiver, you’ll apply your specialized training to deliver world\\-class health with human connection and make a difference every day through your extraordinary care.
 
 
 **Required Qualifications:**
@@ -2804,30 +2206,8 @@ For any concerns with this posting relating to the posting requirements in RCW 4
 **Pay Range:** $41\\.74 \\- $77\\.17
 
 
-The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.
-🔗 Apply Direct: https://rr.jobsyn.org/0E91B2C0C6134E0EABEFCCE92ABA78781554
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c2bb9410ffaf5b30</description>
-      <companyName>Providence</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Spokane, WA, US</jobLocation>
-      <salaryMin>41</salaryMin>
-      <salaryMax>77</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN, Nursing Manager at Desert Oasis Healthcare</title>
-      <link>https://careers.mydohc.com/spa/listing/342</link>
-      <guid isPermaLink="false">Desert Oasis Healthcare-RN, Nursing Manager-Palm Springs, CA, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Palm Springs, CA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 48 - 59 (hourly)
-
-📝 Description: ##### **Description**
+The amounts listed are the base pay range; additional compensation may be available for this role, such as shift differentials, standby/on\\-call, overtime, premiums, extra shift incentives, or bonus opportunities.","","https://www.indeed.com/cmp/Providence-959155fe","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3fb09f5772b2f0fa41003ed27a771303","http://www.providence.jobs","Renton, WA","10,000+","$100M to $500M (USD)","Providence is a not-for-profit network of hospitals, care centers, health plans, clinics, home health care and services continuing a more than 100-year tradition of serving the poor and vulnerable.","","","","","","",""
+"in-09a8a47da8f84320","indeed","https://www.indeed.com/viewjob?jk=09a8a47da8f84320","https://careers.mydohc.com/spa/listing/342","RN, Nursing Manager","Desert Oasis Healthcare","Palm Springs, CA, US","2026-02-14","fulltime","direct_data","hourly",48.0,59.0,"USD",False,"","","","","##### **Description**
 
 
 The Nursing Manager is responsible for the oversight and leadership of assigned Nursing areas. The Nursing Manager ensures that the department is adequately staffed and has adequate resources available in order to provide quality patient care.
@@ -2836,7 +2216,7 @@ The Nursing Manager is responsible for the oversight and leadership of assigned 
 * Collaborate with department management team to establish departmental financial and operational goals and actively contributes to the achievement of assigned goals.
 * Provide leadership and oversight to assigned staff. Ensure that the department is adequately staffed and that employees have appropriate resources available.
 * Oversee and manage the departmental training and orientation of new employees.
-* Ensure that departmental processes and procedures are effective and efficient to support the facilitation of quality care \\&amp; services.
+* Ensure that departmental processes and procedures are effective and efficient to support the facilitation of quality care \\& services.
 * Monitor employee performance, identify opportunities for improvement and/or professional development and facilitate resources and/or training.
 * Demonstrates personal and professional responsibility.
 * Perform other duties as assigned.
@@ -2874,7 +2254,7 @@ Walking Approximately 30% of day.
 Lifting 0 \\- 20 lbs. approximately 10% of day.  
 
 
-Bending Approximately \\&lt; 10% of day. Kneeling \\&lt; 10%.  
+Bending Approximately \\< 10% of day. Kneeling \\< 10%.  
 
 
 Hearing/Visual Acuity Adequate for use with computers, telephone and other office equipment approximately 50% of day.  
@@ -2886,28 +2266,8 @@ Computer Highly technical work environment \\- Must be able to work 5 hours per 
 Reaching Above head 75 degrees \\- approximately 15%.  
 
 
-Hand grip dexterity Approximately 40% of day
-🔗 Apply Direct: https://careers.mydohc.com/spa/listing/342
-🔗 Job Board: https://www.indeed.com/viewjob?jk=09a8a47da8f84320</description>
-      <companyName>Desert Oasis Healthcare</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Palm Springs, CA, US</jobLocation>
-      <salaryMin>48</salaryMin>
-      <salaryMax>59</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse I-III at State of Delaware</title>
-      <link>https://www.jobapscloud.com/DE/sup/bulpreview.asp?b=&amp;R1=021326&amp;R2=UDGA21&amp;R3=351100</link>
-      <guid isPermaLink="false">State of Delaware-Licensed Practical Nurse I-III-Georgetown, DE, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Georgetown, DE, US
-🏠 Work: On-site
-
-📝 Description: **Introduction**
+Hand grip dexterity Approximately 40% of day","Health Care","https://www.indeed.com/cmp/Desert-Oasis-Healthcare","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/97ba0be173c9a6a41ee054874704c560","http://www.mydohc.com","Palm Springs","201 to 500","$25M to $100M (USD)","DOHC was designated a Great Place to Work for the third consecutive year in 2020 and ranked Best of Desert 2020 for its Immediate Care Clinics. Both employee and patient satisfaction are tops at DOHC.","","","","","","",""
+"in-fbd0479e8db968d0","indeed","https://www.indeed.com/viewjob?jk=fbd0479e8db968d0","https://www.jobapscloud.com/DE/sup/bulpreview.asp?b=&R1=021326&R2=UDGA21&R3=351100","Licensed Practical Nurse I-III","State of Delaware","Georgetown, DE, US","2026-02-14","","","","","","",False,"","","","_ADAConcerns@delaware.gov","**Introduction**
 ----------------
 
 
@@ -3096,25 +2456,8 @@ Accommodations are available for applicants with disabilities in all phases of t
 
 
 
-The State of Delaware is an Equal Opportunity employer and values a diverse workforce. We strongly encourage and seek out a workforce representative of Delaware including race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression.
-🔗 Apply Direct: https://www.jobapscloud.com/DE/sup/bulpreview.asp?b=&amp;R1=021326&amp;R2=UDGA21&amp;R3=351100
-🔗 Job Board: https://www.indeed.com/viewjob?jk=fbd0479e8db968d0</description>
-      <companyName>State of Delaware</companyName>
-      <jobLocation>Georgetown, DE, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Triage - Registered Nurse - 69th &amp; Minnesota Family Medicine Clinic - FT Days at Sanford Health</title>
-      <link>https://click.appcast.io/t/A-Yke2-5BWJ0-NKeeiPhQ8FTW1ZeR3gT7H9lVTq10X4=</link>
-      <guid isPermaLink="false">Sanford Health-RN Triage - Registered Nurse - 69th &amp; Minnesota Family Medicine Clinic - FT Days-Sioux Falls, SD, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Sioux Falls, SD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 29 - 44 (hourly)
-
-📝 Description: **Careers With Purpose**  
+The State of Delaware is an Equal Opportunity employer and values a diverse workforce. We strongly encourage and seek out a workforce representative of Delaware including race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression.","Government","https://www.indeed.com/cmp/State-of-Delaware","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/52c8d6900134641b4d3f76e9033429df","https://delaware.gov","Dover","1,001 to 5,000","","","","","","","","",""
+"in-a3b9f3ceb456fe5d","indeed","https://www.indeed.com/viewjob?jk=a3b9f3ceb456fe5d","https://click.appcast.io/t/A-Yke2-5BWJ0-NKeeiPhQ8FTW1ZeR3gT7H9lVTq10X4=","RN Triage - Registered Nurse - 69th & Minnesota Family Medicine Clinic - FT Days","Sanford Health","Sioux Falls, SD, US","2026-02-14","fulltime","direct_data","hourly",29.0,44.0,"USD",False,"","","","talent@sanfordhealth.org","**Careers With Purpose**  
 
   
 
@@ -3122,7 +2465,7 @@ The State of Delaware is an Equal Opportunity employer and values a diverse work
 
   
 
-**Facility:** 69th \\&amp; Minnesota Clinic
+**Facility:** 69th \\& Minnesota Clinic
   
 
 **Location:** Sioux Falls, SD
@@ -3198,29 +2541,8 @@ Sanford Health has a Drug Free Workplace Policy. An accepted offer will require 
 **Job Function:** Nursing
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/A-Yke2-5BWJ0-NKeeiPhQ8FTW1ZeR3gT7H9lVTq10X4=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a3b9f3ceb456fe5d</description>
-      <companyName>Sanford Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Sioux Falls, SD, US</jobLocation>
-      <salaryMin>29</salaryMin>
-      <salaryMax>44</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Triage - Registered Nurse - Internal Medicine Clinic - PRN at Sanford Health</title>
-      <link>https://click.appcast.io/t/ac1RKU1su6-5seCCESqxTx5H5U2qvdMgam-qUIGSg0k=</link>
-      <guid isPermaLink="false">Sanford Health-RN Triage - Registered Nurse - Internal Medicine Clinic - PRN-Sioux Falls, SD, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Sioux Falls, SD, US
-🏠 Work: On-site
-💰 Salary: USD 29 - 44 (hourly)
-
-📝 Description: **Careers With Purpose**  
+**Featured:** No","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
+"in-b9aa0d1d502d68a8","indeed","https://www.indeed.com/viewjob?jk=b9aa0d1d502d68a8","https://click.appcast.io/t/ac1RKU1su6-5seCCESqxTx5H5U2qvdMgam-qUIGSg0k=","RN Triage - Registered Nurse - Internal Medicine Clinic - PRN","Sanford Health","Sioux Falls, SD, US","2026-02-14","","direct_data","hourly",29.0,44.0,"USD",False,"","","","talent@sanfordhealth.org","**Careers With Purpose**  
 
   
 
@@ -3296,29 +2618,8 @@ Sanford Health has a Drug Free Workplace Policy. An accepted offer will require 
 **Job Function:** Nursing
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/ac1RKU1su6-5seCCESqxTx5H5U2qvdMgam-qUIGSg0k=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b9aa0d1d502d68a8</description>
-      <companyName>Sanford Health</companyName>
-      <jobLocation>Sioux Falls, SD, US</jobLocation>
-      <salaryMin>29</salaryMin>
-      <salaryMax>44</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Traveler - Solutions By Sanford - Webster ER/Med Surge - FT Rotating at Sanford Health</title>
-      <link>https://click.appcast.io/t/xnf51gugwydLEh522KZdzhAtFCZaT0ybsZRnB-pH4EM=</link>
-      <guid isPermaLink="false">Sanford Health-RN Traveler - Solutions By Sanford - Webster ER/Med Surge - FT Rotating-Webster, SD, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Webster, SD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 2,866 - 3,586 (weekly)
-
-📝 Description: **Create Your Career With Us!**  
+**Featured:** No","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
+"in-10cc3ded7ff40d3a","indeed","https://www.indeed.com/viewjob?jk=10cc3ded7ff40d3a","https://click.appcast.io/t/xnf51gugwydLEh522KZdzhAtFCZaT0ybsZRnB-pH4EM=","RN Traveler - Solutions By Sanford - Webster ER/Med Surge - FT Rotating","Sanford Health","Webster, SD, US","2026-02-14","fulltime","direct_data","weekly",2866.0,3586.0,"USD",False,"","","","talent@sanfordhealth.org","**Create Your Career With Us!**  
 
   
 
@@ -3433,29 +2734,8 @@ Sanford Health has a Drug Free Workplace Policy. An accepted offer will require 
 **Req Number:** R\\-0249736
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/xnf51gugwydLEh522KZdzhAtFCZaT0ybsZRnB-pH4EM=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=10cc3ded7ff40d3a</description>
-      <companyName>Sanford Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Webster, SD, US</jobLocation>
-      <salaryMin>2866</salaryMin>
-      <salaryMax>3586</salaryMax>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Traveler - Solutions By Sanford - OR- FT Days at Sanford Health</title>
-      <link>https://click.appcast.io/t/60GxUF3duJceCXU37cCY7I5zL__a8b-hzcI3az-pRNo=</link>
-      <guid isPermaLink="false">Sanford Health-RN Traveler - Solutions By Sanford - OR- FT Days-Fargo, ND, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Fargo, ND, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Create Your Career With Us!**  
+**Featured:** No","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
+"in-fdb131073d3247e4","indeed","https://www.indeed.com/viewjob?jk=fdb131073d3247e4","https://click.appcast.io/t/60GxUF3duJceCXU37cCY7I5zL__a8b-hzcI3az-pRNo=","RN Traveler - Solutions By Sanford - OR- FT Days","Sanford Health","Fargo, ND, US","2026-02-14","fulltime","","weekly","","","USD",False,"","","","talent@sanfordhealth.org","**Create Your Career With Us!**  
 
   
 
@@ -3570,27 +2850,8 @@ Sanford Health has a Drug Free Workplace Policy. An accepted offer will require 
 **Req Number:** R\\-0249761
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/60GxUF3duJceCXU37cCY7I5zL__a8b-hzcI3az-pRNo=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=fdb131073d3247e4</description>
-      <companyName>Sanford Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Fargo, ND, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LPN - Hospice - PRN at Sanford Health</title>
-      <link>https://click.appcast.io/t/5uoGvPdOnO3XTLMrPiYvwBr0h5_iCcFa8a_2Ynbg9ZI=</link>
-      <guid isPermaLink="false">Sanford Health-LPN - Hospice - PRN-Worthington, MN, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Worthington, MN, US
-🏠 Work: On-site
-💰 Salary: USD 24 - 36 (hourly)
-
-📝 Description: **Careers With Purpose**  
+**Featured:** No","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
+"in-d333c85079ab1fbe","indeed","https://www.indeed.com/viewjob?jk=d333c85079ab1fbe","https://click.appcast.io/t/5uoGvPdOnO3XTLMrPiYvwBr0h5_iCcFa8a_2Ynbg9ZI=","LPN - Hospice - PRN","Sanford Health","Worthington, MN, US","2026-02-14","","direct_data","hourly",24.0,36.0,"USD",False,"","","","talent@sanfordhealth.org","**Careers With Purpose**  
 
   
 
@@ -3715,28 +2976,8 @@ Sanford Health has a Drug Free Workplace Policy. An accepted offer will require 
 **Job Function:** Nursing
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/5uoGvPdOnO3XTLMrPiYvwBr0h5_iCcFa8a_2Ynbg9ZI=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d333c85079ab1fbe</description>
-      <companyName>Sanford Health</companyName>
-      <jobLocation>Worthington, MN, US</jobLocation>
-      <salaryMin>24</salaryMin>
-      <salaryMax>36</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Worthington Clinic - Oncology - PRN at Sanford Health</title>
-      <link>https://click.appcast.io/t/oGcqAM50BkiEQNtcEJMwUgKZ3f0KX_E0DSpDJqXak9A=</link>
-      <guid isPermaLink="false">Sanford Health-RN - Worthington Clinic - Oncology - PRN-Worthington, MN, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Worthington, MN, US
-🏠 Work: On-site
-💰 Salary: USD 29 - 44 (hourly)
-
-📝 Description: **Careers With Purpose**  
+**Featured:** No","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
+"in-4d10fed09765e910","indeed","https://www.indeed.com/viewjob?jk=4d10fed09765e910","https://click.appcast.io/t/oGcqAM50BkiEQNtcEJMwUgKZ3f0KX_E0DSpDJqXak9A=","RN - Worthington Clinic - Oncology - PRN","Sanford Health","Worthington, MN, US","2026-02-14","","direct_data","hourly",29.0,44.0,"USD",False,"","","","talent@sanfordhealth.org","**Careers With Purpose**  
 
   
 
@@ -3808,29 +3049,8 @@ Sanford Health has a Drug Free Workplace Policy. An accepted offer will require 
 **Job Function:** Nursing
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/oGcqAM50BkiEQNtcEJMwUgKZ3f0KX_E0DSpDJqXak9A=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4d10fed09765e910</description>
-      <companyName>Sanford Health</companyName>
-      <jobLocation>Worthington, MN, US</jobLocation>
-      <salaryMin>29</salaryMin>
-      <salaryMax>44</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Registered Nurse - Med Surge &amp; Ortho/ Women's Float- FT Varied at Sanford Health</title>
-      <link>https://click.appcast.io/t/QhFnJyf2whMBP0VRVsUDlS2YOIgfkFDmRTqPTH1Cyn0=</link>
-      <guid isPermaLink="false">Sanford Health-RN - Registered Nurse - Med Surge &amp; Ortho/ Women's Float- FT Varied-Bemidji, MN, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Bemidji, MN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 38 - 58 (hourly)
-
-📝 Description: **Careers With Purpose**  
+**Featured:** No","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
+"in-d955582fcfb13db6","indeed","https://www.indeed.com/viewjob?jk=d955582fcfb13db6","https://click.appcast.io/t/QhFnJyf2whMBP0VRVsUDlS2YOIgfkFDmRTqPTH1Cyn0=","RN - Registered Nurse - Med Surge & Ortho/ Women's Float- FT Varied","Sanford Health","Bemidji, MN, US","2026-02-14","fulltime","direct_data","hourly",38.0,58.0,"USD",False,"","","","talent@sanfordhealth.org","**Careers With Purpose**  
 
   
 
@@ -3936,30 +3156,8 @@ Sanford Health has a Drug Free Workplace Policy. An accepted offer will require 
 **Job Function:** Nursing
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/QhFnJyf2whMBP0VRVsUDlS2YOIgfkFDmRTqPTH1Cyn0=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d955582fcfb13db6</description>
-      <companyName>Sanford Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Bemidji, MN, US</jobLocation>
-      <salaryMin>38</salaryMin>
-      <salaryMax>58</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Registered Nurse - Emergency Department - FT Varied at Sanford Health</title>
-      <link>https://click.appcast.io/t/TvqVra_gGgPMWUQA4MXdtB50QtYZFC5ip1efZW3nsa4=</link>
-      <guid isPermaLink="false">Sanford Health-RN - Registered Nurse - Emergency Department - FT Varied-Bemidji, MN, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Bemidji, MN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 38 - 58 (hourly)
-
-📝 Description: **Careers With Purpose**  
+**Featured:** No","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
+"in-e13a9c8ca9ae5a1e","indeed","https://www.indeed.com/viewjob?jk=e13a9c8ca9ae5a1e","https://click.appcast.io/t/TvqVra_gGgPMWUQA4MXdtB50QtYZFC5ip1efZW3nsa4=","RN - Registered Nurse - Emergency Department - FT Varied","Sanford Health","Bemidji, MN, US","2026-02-14","fulltime","direct_data","hourly",38.0,58.0,"USD",False,"","","","talent@sanfordhealth.org","**Careers With Purpose**  
 
   
 
@@ -4065,30 +3263,8 @@ Sanford Health has a Drug Free Workplace Policy. An accepted offer will require 
 **Job Function:** Nursing
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/TvqVra_gGgPMWUQA4MXdtB50QtYZFC5ip1efZW3nsa4=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e13a9c8ca9ae5a1e</description>
-      <companyName>Sanford Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Bemidji, MN, US</jobLocation>
-      <salaryMin>38</salaryMin>
-      <salaryMax>58</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Navigator - Breast Center - FT at Sanford Health</title>
-      <link>https://click.appcast.io/t/uTLaLxP5G8WRhMoS8x7iMJj4C_BOPbm4KWhRVZ3vqBY=</link>
-      <guid isPermaLink="false">Sanford Health-RN Navigator - Breast Center - FT-Bemidji, MN, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Bemidji, MN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 34 - 51 (hourly)
-
-📝 Description: **Careers With Purpose**  
+**Featured:** No","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
+"in-685a3f441f5d7a95","indeed","https://www.indeed.com/viewjob?jk=685a3f441f5d7a95","https://click.appcast.io/t/uTLaLxP5G8WRhMoS8x7iMJj4C_BOPbm4KWhRVZ3vqBY=","RN Navigator - Breast Center - FT","Sanford Health","Bemidji, MN, US","2026-02-14","fulltime","direct_data","hourly",34.0,51.0,"USD",False,"","","","talent@sanfordhealth.org","**Careers With Purpose**  
 
   
 
@@ -4256,30 +3432,8 @@ Sanford Health has a Drug Free Workplace Policy. An accepted offer will require 
 **Job Function:** Care Coordination
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/uTLaLxP5G8WRhMoS8x7iMJj4C_BOPbm4KWhRVZ3vqBY=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=685a3f441f5d7a95</description>
-      <companyName>Sanford Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Bemidji, MN, US</jobLocation>
-      <salaryMin>34</salaryMin>
-      <salaryMax>51</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Navigator - Pediatric Infectious Disease Clinic at Sanford Health</title>
-      <link>https://click.appcast.io/t/_5NPC6o-26QFrrufS4qKBu1NRc7IOJbj0YZRNyf2BSc=</link>
-      <guid isPermaLink="false">Sanford Health-RN Navigator - Pediatric Infectious Disease Clinic-Fargo, ND, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Fargo, ND, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 34 - 51 (hourly)
-
-📝 Description: **Careers With Purpose**  
+**Featured:** No","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
+"in-3f5db055fc38b02d","indeed","https://www.indeed.com/viewjob?jk=3f5db055fc38b02d","https://click.appcast.io/t/_5NPC6o-26QFrrufS4qKBu1NRc7IOJbj0YZRNyf2BSc=","RN Navigator - Pediatric Infectious Disease Clinic","Sanford Health","Fargo, ND, US","2026-02-14","fulltime","direct_data","hourly",34.0,51.0,"USD",False,"","","","talent@sanfordhealth.org","**Careers With Purpose**  
 
   
 
@@ -4394,30 +3548,8 @@ Sanford Health has a Drug Free Workplace Policy. An accepted offer will require 
 **Job Function:** Care Coordination
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/_5NPC6o-26QFrrufS4qKBu1NRc7IOJbj0YZRNyf2BSc=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=3f5db055fc38b02d</description>
-      <companyName>Sanford Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Fargo, ND, US</jobLocation>
-      <salaryMin>34</salaryMin>
-      <salaryMax>51</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse - RN - Trauma ICU - Straight Nights at Sanford Health</title>
-      <link>https://click.appcast.io/t/x_XGsGt06DJTKRgaXr2nGOaZa8EFUx2crXYziXxY7bs=</link>
-      <guid isPermaLink="false">Sanford Health-Registered Nurse - RN - Trauma ICU - Straight Nights-Fargo, ND, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Fargo, ND, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 32 - 48 (hourly)
-
-📝 Description: **Careers With Purpose**  
+**Featured:** No","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
+"in-a8fc5b6287c3ee72","indeed","https://www.indeed.com/viewjob?jk=a8fc5b6287c3ee72","https://click.appcast.io/t/x_XGsGt06DJTKRgaXr2nGOaZa8EFUx2crXYziXxY7bs=","Registered Nurse - RN - Trauma ICU - Straight Nights","Sanford Health","Fargo, ND, US","2026-02-14","fulltime","direct_data","hourly",32.0,48.0,"USD",False,"","","","talent@sanfordhealth.org","**Careers With Purpose**  
 
   
 
@@ -4492,30 +3624,8 @@ Sanford Health has a Drug Free Workplace Policy. An accepted offer will require 
 **Job Function:** Nursing
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/x_XGsGt06DJTKRgaXr2nGOaZa8EFUx2crXYziXxY7bs=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a8fc5b6287c3ee72</description>
-      <companyName>Sanford Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Fargo, ND, US</jobLocation>
-      <salaryMin>32</salaryMin>
-      <salaryMax>48</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse - RN - Neuro ICU - Straight Nights at Sanford Health</title>
-      <link>https://click.appcast.io/t/qjdbjwq431EbYFe9h3yiqBdtSorb7Z8Me3ym1CcYQcY=</link>
-      <guid isPermaLink="false">Sanford Health-Registered Nurse - RN - Neuro ICU - Straight Nights-Fargo, ND, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Fargo, ND, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 32 - 48 (hourly)
-
-📝 Description: **Careers With Purpose**  
+**Featured:** No","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
+"in-5b60f2af234201f7","indeed","https://www.indeed.com/viewjob?jk=5b60f2af234201f7","https://click.appcast.io/t/qjdbjwq431EbYFe9h3yiqBdtSorb7Z8Me3ym1CcYQcY=","Registered Nurse - RN - Neuro ICU - Straight Nights","Sanford Health","Fargo, ND, US","2026-02-14","fulltime","direct_data","hourly",32.0,48.0,"USD",False,"","","","talent@sanfordhealth.org","**Careers With Purpose**  
 
   
 
@@ -4590,29 +3700,8 @@ Sanford Health has a Drug Free Workplace Policy. An accepted offer will require 
 **Job Function:** Nursing
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/qjdbjwq431EbYFe9h3yiqBdtSorb7Z8Me3ym1CcYQcY=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5b60f2af234201f7</description>
-      <companyName>Sanford Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Fargo, ND, US</jobLocation>
-      <salaryMin>32</salaryMin>
-      <salaryMax>48</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Program Specialist at Sanford Health</title>
-      <link>https://click.appcast.io/t/7dW4tOlucbFnDmqsW1DMZ2XBODxH5x3hxUTE6QcC8dI=</link>
-      <guid isPermaLink="false">Sanford Health-RN Program Specialist-Fargo, ND, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Fargo, ND, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Careers With Purpose**  
+**Featured:** No","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
+"in-28b88caa19ec6aa9","indeed","https://www.indeed.com/viewjob?jk=28b88caa19ec6aa9","https://click.appcast.io/t/7dW4tOlucbFnDmqsW1DMZ2XBODxH5x3hxUTE6QcC8dI=","RN Program Specialist","Sanford Health","Fargo, ND, US","2026-02-14","fulltime","","","","","",False,"","","","talent@sanfordhealth.org","**Careers With Purpose**  
 
   
 
@@ -4716,26 +3805,8 @@ Sanford Health has a Drug Free Workplace Policy. An accepted offer will require 
 **Job Function:** Nursing
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/7dW4tOlucbFnDmqsW1DMZ2XBODxH5x3hxUTE6QcC8dI=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=28b88caa19ec6aa9</description>
-      <companyName>Sanford Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Fargo, ND, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN/LPN - Millard - FT Straight Nights at Good Samaritan</title>
-      <link>https://click.appcast.io/t/HViaj_9x32rwmk8lx7VsEbVvPTRLqMdup1aemeRMpwE=</link>
-      <guid isPermaLink="false">Good Samaritan-RN/LPN - Millard - FT Straight Nights-Omaha, NE, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Omaha, NE, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 24 - 48 (hourly)
-
-📝 Description: **Careers With Purpose**  
+**Featured:** No","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
+"in-971285566a56152a","indeed","https://www.indeed.com/viewjob?jk=971285566a56152a","https://click.appcast.io/t/HViaj_9x32rwmk8lx7VsEbVvPTRLqMdup1aemeRMpwE=","RN/LPN - Millard - FT Straight Nights","Good Samaritan","Omaha, NE, US","2026-02-14","fulltime","direct_data","hourly",24.0,48.0,"USD",False,"","","","talent@sanfordhealth.org","**Careers With Purpose**  
 
   
 
@@ -4811,29 +3882,8 @@ The Good Samaritan has a Drug Free Workplace Policy. An accepted offer will requ
 **Job Function:** Nursing
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/HViaj_9x32rwmk8lx7VsEbVvPTRLqMdup1aemeRMpwE=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=971285566a56152a</description>
-      <companyName>Good Samaritan</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Omaha, NE, US</jobLocation>
-      <salaryMin>24</salaryMin>
-      <salaryMax>48</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Inpatient - Heart Stress Tests at Sanford Health</title>
-      <link>https://click.appcast.io/t/34pcFLa5imBLHLuVp8I0QsaMCwpqrGX_CI0SJ8hk-bQ=</link>
-      <guid isPermaLink="false">Sanford Health-RN Inpatient - Heart Stress Tests-Fargo, ND, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Fargo, ND, US
-🏠 Work: On-site
-💰 Salary: USD 32 - 48 (hourly)
-
-📝 Description: Careers With Purpose  
+**Featured:** No","","https://www.indeed.com/cmp/Good-Samaritan-8","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/07d11fd4f466ed8ba30adaefc29faccb","http://www.sanfordcareers.com/good-samaritan-society","Sioux Falls, SD","10,000+","$1B to $5B (USD)","Good Samaritan, one of the nation’s largest nonprofit providers of senior care and services, is committed to transforming the aging experience through innovation, compassion and personalized care. ","","","","","","",""
+"in-38891eb1ac57898b","indeed","https://www.indeed.com/viewjob?jk=38891eb1ac57898b","https://click.appcast.io/t/34pcFLa5imBLHLuVp8I0QsaMCwpqrGX_CI0SJ8hk-bQ=","RN Inpatient - Heart Stress Tests","Sanford Health","Fargo, ND, US","2026-02-14","","direct_data","hourly",32.0,48.0,"USD",False,"","","","talent@sanfordhealth.org","Careers With Purpose  
 
   
 
@@ -4949,28 +3999,8 @@ Sanford Health has a Drug Free Workplace Policy. An accepted offer will require 
 **Job Function:** Nursing
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/34pcFLa5imBLHLuVp8I0QsaMCwpqrGX_CI0SJ8hk-bQ=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=38891eb1ac57898b</description>
-      <companyName>Sanford Health</companyName>
-      <jobLocation>Fargo, ND, US</jobLocation>
-      <salaryMin>32</salaryMin>
-      <salaryMax>48</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Director of Nursing - RN - Long Term Care at Good Samaritan</title>
-      <link>https://click.appcast.io/t/O9Wa_tBWUoX5XRYtbFzHfJzqZ6-4Eas3ucGf4youPDA=</link>
-      <guid isPermaLink="false">Good Samaritan-Director of Nursing - RN - Long Term Care-Bottineau, ND, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Bottineau, ND, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Careers With Purpose**  
+**Featured:** No","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
+"in-b3c2872fe71fd3c5","indeed","https://www.indeed.com/viewjob?jk=b3c2872fe71fd3c5","https://click.appcast.io/t/O9Wa_tBWUoX5XRYtbFzHfJzqZ6-4Eas3ucGf4youPDA=","Director of Nursing - RN - Long Term Care","Good Samaritan","Bottineau, ND, US","2026-02-14","fulltime","","","","","",False,"","","","talent@sanfordhealth.org","**Careers With Purpose**  
 
   
 
@@ -5075,26 +4105,8 @@ The Good Samaritan has a Drug Free Workplace Policy. An accepted offer will requ
 **Job Function:** Nursing
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/O9Wa_tBWUoX5XRYtbFzHfJzqZ6-4Eas3ucGf4youPDA=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b3c2872fe71fd3c5</description>
-      <companyName>Good Samaritan</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Bottineau, ND, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LPN - Licensed Practical Nurse - Acute Care - PT at Sanford Health</title>
-      <link>https://click.appcast.io/t/6Vrnl_h8kG42q1PTrIXCPdMtaA_Pl_4WHUGq_XJ04so=</link>
-      <guid isPermaLink="false">Sanford Health-LPN - Licensed Practical Nurse - Acute Care - PT-Brandon, SD, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Brandon, SD, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 21 - 29 (hourly)
-
-📝 Description: Careers With Purpose  
+**Featured:** No","","https://www.indeed.com/cmp/Good-Samaritan-8","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/07d11fd4f466ed8ba30adaefc29faccb","http://www.sanfordcareers.com/good-samaritan-society","Sioux Falls, SD","10,000+","$1B to $5B (USD)","Good Samaritan, one of the nation’s largest nonprofit providers of senior care and services, is committed to transforming the aging experience through innovation, compassion and personalized care. ","","","","","","",""
+"in-fc7d2255e0aecc9f","indeed","https://www.indeed.com/viewjob?jk=fc7d2255e0aecc9f","https://click.appcast.io/t/6Vrnl_h8kG42q1PTrIXCPdMtaA_Pl_4WHUGq_XJ04so=","LPN - Licensed Practical Nurse - Acute Care - PT","Sanford Health","Brandon, SD, US","2026-02-14","parttime","direct_data","hourly",21.0,29.0,"USD",False,"","","","talent@sanfordhealth.org","Careers With Purpose  
 
   
 
@@ -5206,30 +4218,8 @@ Sanford Health has a Drug Free Workplace Policy. An accepted offer will require 
 **Job Function:** Nursing
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/6Vrnl_h8kG42q1PTrIXCPdMtaA_Pl_4WHUGq_XJ04so=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=fc7d2255e0aecc9f</description>
-      <companyName>Sanford Health</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Brandon, SD, US</jobLocation>
-      <salaryMin>21</salaryMin>
-      <salaryMax>29</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN/LPN - Millard - FT Days at Good Samaritan</title>
-      <link>https://click.appcast.io/t/Z-ok6jPpMyXs84Ym1j-x4hiiJXuxC9mLI3EODOrNnkc=</link>
-      <guid isPermaLink="false">Good Samaritan-RN/LPN - Millard - FT Days-Omaha, NE, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Omaha, NE, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 24 - 48 (hourly)
-
-📝 Description: **Careers With Purpose**  
+**Featured:** No","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
+"in-9b2737f70f61205d","indeed","https://www.indeed.com/viewjob?jk=9b2737f70f61205d","https://click.appcast.io/t/Z-ok6jPpMyXs84Ym1j-x4hiiJXuxC9mLI3EODOrNnkc=","RN/LPN - Millard - FT Days","Good Samaritan","Omaha, NE, US","2026-02-14","fulltime","direct_data","hourly",24.0,48.0,"USD",False,"","","","talent@sanfordhealth.org","**Careers With Purpose**  
 
   
 
@@ -5305,30 +4295,8 @@ The Good Samaritan has a Drug Free Workplace Policy. An accepted offer will requ
 **Job Function:** Nursing
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/Z-ok6jPpMyXs84Ym1j-x4hiiJXuxC9mLI3EODOrNnkc=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=9b2737f70f61205d</description>
-      <companyName>Good Samaritan</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Omaha, NE, US</jobLocation>
-      <salaryMin>24</salaryMin>
-      <salaryMax>48</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Triage - Endoscopy Education at Sanford Health</title>
-      <link>https://click.appcast.io/t/9X6vZk-PuBID1cVvUhCpfr3rTgx9SKcvzqi6yg0031w=</link>
-      <guid isPermaLink="false">Sanford Health-RN Triage - Endoscopy Education-Fargo, ND, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Fargo, ND, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 29 - 44 (hourly)
-
-📝 Description: **Careers With Purpose**  
+**Featured:** No","","https://www.indeed.com/cmp/Good-Samaritan-8","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/07d11fd4f466ed8ba30adaefc29faccb","http://www.sanfordcareers.com/good-samaritan-society","Sioux Falls, SD","10,000+","$1B to $5B (USD)","Good Samaritan, one of the nation’s largest nonprofit providers of senior care and services, is committed to transforming the aging experience through innovation, compassion and personalized care. ","","","","","","",""
+"in-c352bdc486ccd64e","indeed","https://www.indeed.com/viewjob?jk=c352bdc486ccd64e","https://click.appcast.io/t/9X6vZk-PuBID1cVvUhCpfr3rTgx9SKcvzqi6yg0031w=","RN Triage - Endoscopy Education","Sanford Health","Fargo, ND, US","2026-02-14","fulltime","direct_data","hourly",29.0,44.0,"USD",False,"","","","talent@sanfordhealth.org","**Careers With Purpose**  
 
   
 
@@ -5441,30 +4409,8 @@ Req Number: **R\\-0249711**
 
 Job Function: **Nursing**  
 
-Featured: **No**
-🔗 Apply Direct: https://click.appcast.io/t/9X6vZk-PuBID1cVvUhCpfr3rTgx9SKcvzqi6yg0031w=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c352bdc486ccd64e</description>
-      <companyName>Sanford Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Fargo, ND, US</jobLocation>
-      <salaryMin>29</salaryMin>
-      <salaryMax>44</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN/LPN - Millard - PT Days at Good Samaritan</title>
-      <link>https://click.appcast.io/t/nXsNjZNUjQvV_mlSjcI-SJXRddUa9kpkyNiLRQDN5dA=</link>
-      <guid isPermaLink="false">Good Samaritan-RN/LPN - Millard - PT Days-Omaha, NE, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Omaha, NE, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 24 - 48 (hourly)
-
-📝 Description: **Careers With Purpose**  
+Featured: **No**","","https://www.indeed.com/cmp/Sanford-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ee0304431d4553ccbd1905fb6bfe45","http://www.sanfordhealth.org/","","10,000+","$5B to $10B (USD)","Sanford Health, the largest rural health system in the United States, is dedicated to transforming the health care experience and providing access to world-class health care in America’s heartland.","","","","","","",""
+"in-5062dc5baeb6c775","indeed","https://www.indeed.com/viewjob?jk=5062dc5baeb6c775","https://click.appcast.io/t/nXsNjZNUjQvV_mlSjcI-SJXRddUa9kpkyNiLRQDN5dA=","RN/LPN - Millard - PT Days","Good Samaritan","Omaha, NE, US","2026-02-14","parttime","direct_data","hourly",24.0,48.0,"USD",False,"","","","talent@sanfordhealth.org","**Careers With Purpose**  
 
   
 
@@ -5540,37 +4486,15 @@ The Good Samaritan has a Drug Free Workplace Policy. An accepted offer will requ
 **Job Function:** Nursing
   
 
-**Featured:** No
-🔗 Apply Direct: https://click.appcast.io/t/nXsNjZNUjQvV_mlSjcI-SJXRddUa9kpkyNiLRQDN5dA=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5062dc5baeb6c775</description>
-      <companyName>Good Samaritan</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Omaha, NE, US</jobLocation>
-      <salaryMin>24</salaryMin>
-      <salaryMax>48</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Travel RN-ER-Emergency Department in Viroqua, Wisconsin at Voyage Health</title>
-      <link>https://app.workwolf.com/pipelineLink/ORN3V3RM?utm_source=indeed</link>
-      <guid isPermaLink="false">Voyage Health-Travel RN-ER-Emergency Department in Viroqua, Wisconsin-Viroqua, WI, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Viroqua, WI, US
-💼 Type: Fulltime, Contract
-🏠 Work: On-site
-💰 Salary: USD 1,978 - 2,082 (weekly)
-
-📝 Description: Looking to level up your career and boost your income? At Voyage Healthcare, we help connect nurses, therapists, and allied health pros with high\\-paying travel jobs at top\\-rated facilities across the U.S. With thousands of openings nationwide, you can earn up to $3,500\\+ per week (depending on your specialty, location, housing, and benefits)—all while making a real impact on the communities that need you most. Let your next adventure start with us!
+**Featured:** No","","https://www.indeed.com/cmp/Good-Samaritan-8","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/07d11fd4f466ed8ba30adaefc29faccb","http://www.sanfordcareers.com/good-samaritan-society","Sioux Falls, SD","10,000+","$1B to $5B (USD)","Good Samaritan, one of the nation’s largest nonprofit providers of senior care and services, is committed to transforming the aging experience through innovation, compassion and personalized care. ","","","","","","",""
+"in-679009f85a915500","indeed","https://www.indeed.com/viewjob?jk=679009f85a915500","https://app.workwolf.com/pipelineLink/ORN3V3RM?utm_source=indeed","Travel RN-ER-Emergency Department in Viroqua, Wisconsin","Voyage Health","Viroqua, WI, US","2026-02-14","fulltime, contract","direct_data","weekly",1978.0,2082.0,"USD",False,"","","","","Looking to level up your career and boost your income? At Voyage Healthcare, we help connect nurses, therapists, and allied health pros with high\\-paying travel jobs at top\\-rated facilities across the U.S. With thousands of openings nationwide, you can earn up to $3,500\\+ per week (depending on your specialty, location, housing, and benefits)—all while making a real impact on the communities that need you most. Let your next adventure start with us!
 
 **Position:** RN\\-ER\\-Emergency Department (Travel/Contract)
 
 
 We're hiring experienced RN\\-ER\\-Emergency Department for a 12\\-week contract in Viroqua, Wisconsin — earn up to ($1978 \\- $2082 per week) while providing essential care at a leading facility. Most candidates will need to have at least 2 years of recent experience in the specialty.
 
-**Apply \\&amp; Call us today at 800\\-798\\-6035** for details on this opportunity.
+**Apply \\& Call us today at 800\\-798\\-6035** for details on this opportunity.
 
 **Position Details**
 
@@ -5589,37 +4513,15 @@ We're hiring experienced RN\\-ER\\-Emergency Department for a 12\\-week contract
 **Contract Length:** 12\\-week
 
 
-\\#Workwolf
-🔗 Apply Direct: https://app.workwolf.com/pipelineLink/ORN3V3RM?utm_source=indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=679009f85a915500</description>
-      <companyName>Voyage Health</companyName>
-      <jobType>Fulltime, Contract</jobType>
-      <jobLocation>Viroqua, WI, US</jobLocation>
-      <salaryMin>1978</salaryMin>
-      <salaryMax>2082</salaryMax>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Travel RN-ICU-Intensive Care Unit in Scottsbluff, Nebraska at Voyage Health</title>
-      <link>https://app.workwolf.com/pipelineLink/O2FECE39?utm_source=indeed</link>
-      <guid isPermaLink="false">Voyage Health-Travel RN-ICU-Intensive Care Unit in Scottsbluff, Nebraska-Scottsbluff, NE, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Scottsbluff, NE, US
-💼 Type: Fulltime, Contract
-🏠 Work: On-site
-💰 Salary: USD 2,178 - 2,293 (weekly)
-
-📝 Description: Looking to level up your career and boost your income? At Voyage Healthcare, we help connect nurses, therapists, and allied health pros with high\\-paying travel jobs at top\\-rated facilities across the U.S. With thousands of openings nationwide, you can earn up to $3,500\\+ per week (depending on your specialty, location, housing, and benefits)—all while making a real impact on the communities that need you most. Let your next adventure start with us!
+\\#Workwolf","","https://www.indeed.com/cmp/Voyage-Health","","","","","","","","","","","","",""
+"in-285f465b21f7ead9","indeed","https://www.indeed.com/viewjob?jk=285f465b21f7ead9","https://app.workwolf.com/pipelineLink/O2FECE39?utm_source=indeed","Travel RN-ICU-Intensive Care Unit in Scottsbluff, Nebraska","Voyage Health","Scottsbluff, NE, US","2026-02-14","fulltime, contract","direct_data","weekly",2178.0,2293.0,"USD",False,"","","","","Looking to level up your career and boost your income? At Voyage Healthcare, we help connect nurses, therapists, and allied health pros with high\\-paying travel jobs at top\\-rated facilities across the U.S. With thousands of openings nationwide, you can earn up to $3,500\\+ per week (depending on your specialty, location, housing, and benefits)—all while making a real impact on the communities that need you most. Let your next adventure start with us!
 
 **Position:** RN\\-ICU\\-Intensive Care Unit (Travel/Contract)
 
 
 We're hiring experienced RN\\-ICU\\-Intensive Care Unit for a 13\\-week contract in Scottsbluff, Nebraska — earn up to ($2178 \\- $2293 per week) while providing essential care at a leading facility. Most candidates will need to have at least 2 years of recent experience in the specialty.
 
-**Apply \\&amp; Call us today at 800\\-798\\-6035** for details on this opportunity.
+**Apply \\& Call us today at 800\\-798\\-6035** for details on this opportunity.
 
 **Position Details**
 
@@ -5638,37 +4540,15 @@ We're hiring experienced RN\\-ICU\\-Intensive Care Unit for a 13\\-week contract
 **Contract Length:** 13\\-week
 
 
-\\#Workwolf
-🔗 Apply Direct: https://app.workwolf.com/pipelineLink/O2FECE39?utm_source=indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=285f465b21f7ead9</description>
-      <companyName>Voyage Health</companyName>
-      <jobType>Fulltime, Contract</jobType>
-      <jobLocation>Scottsbluff, NE, US</jobLocation>
-      <salaryMin>2178</salaryMin>
-      <salaryMax>2293</salaryMax>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Travel RN-PCU-Progressive Care Unit in Lancaster, New Hampshire at Voyage Health</title>
-      <link>https://app.workwolf.com/pipelineLink/P3NXNEY9?utm_source=indeed</link>
-      <guid isPermaLink="false">Voyage Health-Travel RN-PCU-Progressive Care Unit in Lancaster, New Hampshire-Lancaster, NH, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Lancaster, NH, US
-💼 Type: Fulltime, Contract
-🏠 Work: On-site
-💰 Salary: USD 2,158 - 2,272 (weekly)
-
-📝 Description: Looking to level up your career and boost your income? At Voyage Healthcare, we help connect nurses, therapists, and allied health pros with high\\-paying travel jobs at top\\-rated facilities across the U.S. With thousands of openings nationwide, you can earn up to $3,500\\+ per week (depending on your specialty, location, housing, and benefits)—all while making a real impact on the communities that need you most. Let your next adventure start with us!
+\\#Workwolf","","https://www.indeed.com/cmp/Voyage-Health","","","","","","","","","","","","",""
+"in-344c5e6f51aae5eb","indeed","https://www.indeed.com/viewjob?jk=344c5e6f51aae5eb","https://app.workwolf.com/pipelineLink/P3NXNEY9?utm_source=indeed","Travel RN-PCU-Progressive Care Unit in Lancaster, New Hampshire","Voyage Health","Lancaster, NH, US","2026-02-14","fulltime, contract","direct_data","weekly",2158.0,2272.0,"USD",False,"","","","","Looking to level up your career and boost your income? At Voyage Healthcare, we help connect nurses, therapists, and allied health pros with high\\-paying travel jobs at top\\-rated facilities across the U.S. With thousands of openings nationwide, you can earn up to $3,500\\+ per week (depending on your specialty, location, housing, and benefits)—all while making a real impact on the communities that need you most. Let your next adventure start with us!
 
 **Position:** RN\\-PCU\\-Progressive Care Unit (Travel/Contract)
 
 
 We're hiring experienced RN\\-PCU\\-Progressive Care Unit for a 13\\-week contract in Lancaster, New Hampshire — earn up to ($2158 \\- $2272 per week) while providing essential care at a leading facility. Most candidates will need to have at least 2 years of recent experience in the specialty.
 
-**Apply \\&amp; Call us today at 800\\-798\\-6035** for details on this opportunity.
+**Apply \\& Call us today at 800\\-798\\-6035** for details on this opportunity.
 
 **Position Details**
 
@@ -5687,37 +4567,15 @@ We're hiring experienced RN\\-PCU\\-Progressive Care Unit for a 13\\-week contra
 **Contract Length:** 13\\-week
 
 
-\\#Workwolf
-🔗 Apply Direct: https://app.workwolf.com/pipelineLink/P3NXNEY9?utm_source=indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=344c5e6f51aae5eb</description>
-      <companyName>Voyage Health</companyName>
-      <jobType>Fulltime, Contract</jobType>
-      <jobLocation>Lancaster, NH, US</jobLocation>
-      <salaryMin>2158</salaryMin>
-      <salaryMax>2272</salaryMax>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Travel RN-ER-Emergency Department in Salinas, California at Voyage Health</title>
-      <link>https://app.workwolf.com/pipelineLink/36VWDTSJ?utm_source=indeed</link>
-      <guid isPermaLink="false">Voyage Health-Travel RN-ER-Emergency Department in Salinas, California-Salinas, CA, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Salinas, CA, US
-💼 Type: Fulltime, Contract
-🏠 Work: On-site
-💰 Salary: USD 2,457 - 2,587 (weekly)
-
-📝 Description: Looking to level up your career and boost your income? At Voyage Healthcare, we help connect nurses, therapists, and allied health pros with high\\-paying travel jobs at top\\-rated facilities across the U.S. With thousands of openings nationwide, you can earn up to $3,500\\+ per week (depending on your specialty, location, housing, and benefits)—all while making a real impact on the communities that need you most. Let your next adventure start with us!
+\\#Workwolf","","https://www.indeed.com/cmp/Voyage-Health","","","","","","","","","","","","",""
+"in-2b4f02628cff7800","indeed","https://www.indeed.com/viewjob?jk=2b4f02628cff7800","https://app.workwolf.com/pipelineLink/36VWDTSJ?utm_source=indeed","Travel RN-ER-Emergency Department in Salinas, California","Voyage Health","Salinas, CA, US","2026-02-14","fulltime, contract","direct_data","weekly",2457.0,2587.0,"USD",False,"","","","","Looking to level up your career and boost your income? At Voyage Healthcare, we help connect nurses, therapists, and allied health pros with high\\-paying travel jobs at top\\-rated facilities across the U.S. With thousands of openings nationwide, you can earn up to $3,500\\+ per week (depending on your specialty, location, housing, and benefits)—all while making a real impact on the communities that need you most. Let your next adventure start with us!
 
 **Position:** RN\\-ER\\-Emergency Department (Travel/Contract)
 
 
 We're hiring experienced RN\\-ER\\-Emergency Department for a 13\\-week contract in Salinas, California — earn up to ($2457 \\- $2587 per week) while providing essential care at a leading facility. Most candidates will need to have at least 2 years of recent experience in the specialty.
 
-**Apply \\&amp; Call us today at 800\\-798\\-6035** for details on this opportunity.
+**Apply \\& Call us today at 800\\-798\\-6035** for details on this opportunity.
 
 **Position Details**
 
@@ -5736,37 +4594,15 @@ We're hiring experienced RN\\-ER\\-Emergency Department for a 13\\-week contract
 **Contract Length:** 13\\-week
 
 
-\\#Workwolf
-🔗 Apply Direct: https://app.workwolf.com/pipelineLink/36VWDTSJ?utm_source=indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=2b4f02628cff7800</description>
-      <companyName>Voyage Health</companyName>
-      <jobType>Fulltime, Contract</jobType>
-      <jobLocation>Salinas, CA, US</jobLocation>
-      <salaryMin>2457</salaryMin>
-      <salaryMax>2587</salaryMax>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Travel RN-Cardiac Cath Lab in Eureka, California at Voyage Health</title>
-      <link>https://app.workwolf.com/pipelineLink/DT6YZCUD?utm_source=indeed</link>
-      <guid isPermaLink="false">Voyage Health-Travel RN-Cardiac Cath Lab in Eureka, California-Eureka, CA, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Eureka, CA, US
-💼 Type: Fulltime, Contract
-🏠 Work: On-site
-💰 Salary: USD 2,787 - 2,933 (weekly)
-
-📝 Description: Looking to level up your career and boost your income? At Voyage Healthcare, we help connect nurses, therapists, and allied health pros with high\\-paying travel jobs at top\\-rated facilities across the U.S. With thousands of openings nationwide, you can earn up to $3,500\\+ per week (depending on your specialty, location, housing, and benefits)—all while making a real impact on the communities that need you most. Let your next adventure start with us!
+\\#Workwolf","","https://www.indeed.com/cmp/Voyage-Health","","","","","","","","","","","","",""
+"in-98b77a15d319fa26","indeed","https://www.indeed.com/viewjob?jk=98b77a15d319fa26","https://app.workwolf.com/pipelineLink/DT6YZCUD?utm_source=indeed","Travel RN-Cardiac Cath Lab in Eureka, California","Voyage Health","Eureka, CA, US","2026-02-14","fulltime, contract","direct_data","weekly",2787.0,2933.0,"USD",False,"","","","","Looking to level up your career and boost your income? At Voyage Healthcare, we help connect nurses, therapists, and allied health pros with high\\-paying travel jobs at top\\-rated facilities across the U.S. With thousands of openings nationwide, you can earn up to $3,500\\+ per week (depending on your specialty, location, housing, and benefits)—all while making a real impact on the communities that need you most. Let your next adventure start with us!
 
 **Position:** RN\\-Cardiac Cath Lab (Travel/Contract)
 
 
 We're hiring experienced RN\\-Cardiac Cath Lab for a 13\\-week contract in Eureka, California — earn up to ($2787 \\- $2933 per week) while providing essential care at a leading facility. Most candidates will need to have at least 2 years of recent experience in the specialty.
 
-**Apply \\&amp; Call us today at 800\\-798\\-6035** for details on this opportunity.
+**Apply \\& Call us today at 800\\-798\\-6035** for details on this opportunity.
 
 **Position Details**
 
@@ -5785,29 +4621,8 @@ We're hiring experienced RN\\-Cardiac Cath Lab for a 13\\-week contract in Eurek
 **Contract Length:** 13\\-week
 
 
-\\#Workwolf
-🔗 Apply Direct: https://app.workwolf.com/pipelineLink/DT6YZCUD?utm_source=indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=98b77a15d319fa26</description>
-      <companyName>Voyage Health</companyName>
-      <jobType>Fulltime, Contract</jobType>
-      <jobLocation>Eureka, CA, US</jobLocation>
-      <salaryMin>2787</salaryMin>
-      <salaryMax>2933</salaryMax>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Patient Care Navigator - Congenital Heart Clinic at Inova Health System</title>
-      <link>https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/678710</link>
-      <guid isPermaLink="false">Inova Health System-RN Patient Care Navigator - Congenital Heart Clinic-Fairfax, VA, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Fairfax, VA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Inova Health \\- Congenital Heart Disease Clinic is looking for a dedicated RN Patient Care Navigator to join the team. This role will be full\\-time day shift from Monday – Friday, with the hours varying.
+\\#Workwolf","","https://www.indeed.com/cmp/Voyage-Health","","","","","","","","","","","","",""
+"in-899171151c2639f6","indeed","https://www.indeed.com/viewjob?jk=899171151c2639f6","https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/678710","RN Patient Care Navigator - Congenital Heart Clinic","Inova Health System","Fairfax, VA, US","2026-02-14","fulltime","","","","","",False,"","","","","Inova Health \\- Congenital Heart Disease Clinic is looking for a dedicated RN Patient Care Navigator to join the team. This role will be full\\-time day shift from Monday – Friday, with the hours varying.
 
 
 **Job Location** : 8260 Willow Oaks Corp Drive Fairfax, VA with travel to 8100 Innovation Park Dr, Fairfax, VA.
@@ -5835,24 +4650,8 @@ We're hiring experienced RN\\-Cardiac Cath Lab for a 13\\-week contract in Eurek
 * **Education:** Bachelors Degree in Nursing
 * **Licensure** : Licensed in the Commonwealth of Virginia as a Registered Nurse
 * **Experience** : 3 years of nursing experience
-* **Certification:** BLS from the American Heart Association.
-🔗 Apply Direct: https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/678710
-🔗 Job Board: https://www.indeed.com/viewjob?jk=899171151c2639f6</description>
-      <companyName>Inova Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Fairfax, VA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Behavioral Health - Maryview Medical Center at Bon Secours</title>
-      <link>https://careers.bonsecours.com/us/en/job/BSMBSZUSR266617EXTERNALENUS/Registered-Nurse-RN-Behavioral-Health-Maryview-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Bon Secours-Registered Nurse (RN) - Behavioral Health - Maryview Medical Center-Portsmouth, VA, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Portsmouth, VA, US
-🏠 Work: On-site
-
-📝 Description: As a Bon Secours associate, you're part of a Mission that matters. We support your well\\-being—personally and professionally. Our benefits are built to grow with you and meet your unique needs, every step of the way.
+* **Certification:** BLS from the American Heart Association.","","https://www.indeed.com/cmp/Inova-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5cff3247b0511d876a62078f24aefb43","http://www.inova.org","Falls Church, VA","10,000+","$1B to $5B (USD)","At Inova, we seek every opportunity to meet the unique needs of each person we are privileged to serve – every time, every touch.","","","","","","",""
+"in-819f38c2a943df95","indeed","https://www.indeed.com/viewjob?jk=819f38c2a943df95","https://careers.bonsecours.com/us/en/job/BSMBSZUSR266617EXTERNALENUS/Registered-Nurse-RN-Behavioral-Health-Maryview-Medical-Center?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse (RN) - Behavioral Health - Maryview Medical Center","Bon Secours","Portsmouth, VA, US","2026-02-14","","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","As a Bon Secours associate, you're part of a Mission that matters. We support your well\\-being—personally and professionally. Our benefits are built to grow with you and meet your unique needs, every step of the way.
 
 
 **What we offer**
@@ -6105,24 +4904,9 @@ The Psychiatric Registered Nurse (RN) position is responsible for delivering exc
 **Training:**
 
 * EPIC Electronic Health Record training (preferred, not required)
-* De\\-Escalation Training (preferred, not required)
-🔗 Apply Direct: https://careers.bonsecours.com/us/en/job/BSMBSZUSR266617EXTERNALENUS/Registered-Nurse-RN-Behavioral-Health-Maryview-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=819f38c2a943df95</description>
-      <companyName>Bon Secours</companyName>
-      <jobLocation>Portsmouth, VA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Locum CNM (Certified Nurse Midwife) Ob/Gyn at 77 Consultants</title>
-      <link>https://careerspage.io/rinvio-recruitment/locum-cnm-certified-nurse-midwife-obgyn-77151?src=17</link>
-      <guid isPermaLink="false">77 Consultants-Locum CNM (Certified Nurse Midwife) Ob/Gyn-Bend, OR, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Bend, OR, US
-💼 Type: Contract
-🏠 Work: On-site
-
-📝 Description: **Description**
+* De\\-Escalation Training (preferred, not required)","Health Care","https://www.indeed.com/cmp/Bon-Secours","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/da204300b08391e1dd11b6948c9ddff4","https://careers.bonsecours.com/","1505 Marriottsville Road
+Marriottsville, MD 21104","10,000+","$1B to $5B (USD)","Bon Secours is a compassionate health ministry serving Virginia, South Carolina and beyond. Join us to grow your gifts, serve others and help communities thrive through purpose-driven care.","","","","","","",""
+"in-d75e9939cda6d1f3","indeed","https://www.indeed.com/viewjob?jk=d75e9939cda6d1f3","https://careerspage.io/rinvio-recruitment/locum-cnm-certified-nurse-midwife-obgyn-77151?src=17","Locum CNM (Certified Nurse Midwife) Ob/Gyn","77 Consultants","Bend, OR, US","2026-02-14","contract","","","","","",False,"","","","","**Description**
 ---------------
 
 
@@ -6178,25 +4962,8 @@ EMR: Epic
 **Must be board\\-certified**
 
 
-Paid travel \\&amp; expenses
-🔗 Apply Direct: https://careerspage.io/rinvio-recruitment/locum-cnm-certified-nurse-midwife-obgyn-77151?src=17
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d75e9939cda6d1f3</description>
-      <companyName>77 Consultants</companyName>
-      <jobType>Contract</jobType>
-      <jobLocation>Bend, OR, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Clinical Care Manager/Case Manager - Virginia at Healthmap Solutions</title>
-      <link>https://app.jobvite.com/CompanyJobs/Job.aspx?j=oHXBzfwy&amp;loc=CbWCYfwr&amp;s=Indeed</link>
-      <guid isPermaLink="false">Healthmap Solutions-RN Clinical Care Manager/Case Manager - Virginia-Richmond, VA, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Richmond, VA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: ***Position Summary***
+Paid travel \\& expenses","","https://www.indeed.com/cmp/77-Consultants","","","","","","","","","","","","",""
+"in-2ebbab34409929bf","indeed","https://www.indeed.com/viewjob?jk=2ebbab34409929bf","https://app.jobvite.com/CompanyJobs/Job.aspx?j=oHXBzfwy&loc=CbWCYfwr&s=Indeed","RN Clinical Care Manager/Case Manager - Virginia","Healthmap Solutions","Richmond, VA, US","2026-02-14","fulltime","","","","","",False,"","","","","***Position Summary***
 
 
 The Registered Nurse, Clinical Care Manager/Case Manager is responsible for developing and maintaining long\\-term relationships with physicians, physician office staff, and Healthmap members that are engaged in Healthmap’s Kidney Management Program through coordinating performance improvement activities and care management to improve health outcomes.
@@ -6247,25 +5014,10 @@ Must comply with organization policies for health screening and immunizations, i
 Heavy Travel, greater than 50%, across your assigned region.
 
 
-\\#LI\\-HYBRID
-🔗 Apply Direct: https://app.jobvite.com/CompanyJobs/Job.aspx?j=oHXBzfwy&amp;loc=CbWCYfwr&amp;s=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=2ebbab34409929bf</description>
-      <companyName>Healthmap Solutions</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Richmond, VA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Clinical Care Manager/Case Manager - Virginia at Healthmap Solutions</title>
-      <link>https://app.jobvite.com/CompanyJobs/Job.aspx?j=oHXBzfwy&amp;loc=CcWCYfws&amp;s=Indeed</link>
-      <guid isPermaLink="false">Healthmap Solutions-RN Clinical Care Manager/Case Manager - Virginia-Norfolk, VA, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Norfolk, VA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: ***Position Summary***
+\\#LI\\-HYBRID","","https://www.indeed.com/cmp/Healthmap-Solutions","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7b7bea5420f6b68744fca6f31285cae3","http://www.healthmapsolutions.com","4631 Woodland Corporate Boulevard
+Suite 201
+Tampa, FL 33614","201 to 500","$25M to $100M (USD)","Healthmap is a specialty health management company focused on progressive diseases, with a particular expertise in kidney health populations.","","","","","","",""
+"in-b41ef735e4c35984","indeed","https://www.indeed.com/viewjob?jk=b41ef735e4c35984","https://app.jobvite.com/CompanyJobs/Job.aspx?j=oHXBzfwy&loc=CcWCYfws&s=Indeed","RN Clinical Care Manager/Case Manager - Virginia","Healthmap Solutions","Norfolk, VA, US","2026-02-14","fulltime","","","","","",False,"","","","","***Position Summary***
 
 
 The Registered Nurse, Clinical Care Manager/Case Manager is responsible for developing and maintaining long\\-term relationships with physicians, physician office staff, and Healthmap members that are engaged in Healthmap’s Kidney Management Program through coordinating performance improvement activities and care management to improve health outcomes.
@@ -6316,24 +5068,10 @@ Must comply with organization policies for health screening and immunizations, i
 Heavy Travel, greater than 50%, across your assigned region.
 
 
-\\#LI\\-HYBRID
-🔗 Apply Direct: https://app.jobvite.com/CompanyJobs/Job.aspx?j=oHXBzfwy&amp;loc=CcWCYfws&amp;s=Indeed
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b41ef735e4c35984</description>
-      <companyName>Healthmap Solutions</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Norfolk, VA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at Trusted Health</title>
-      <link>https://www.trustedhealth.com/jobs/fb9969bf-ab83-4e7c-946d-ee8b4de38ca9</link>
-      <guid isPermaLink="false">Trusted Health-Registered Nurse-Viroqua, WI, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Viroqua, WI, US
-🏠 Work: On-site
-
-📝 Description: Viroqua, WI
+\\#LI\\-HYBRID","","https://www.indeed.com/cmp/Healthmap-Solutions","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7b7bea5420f6b68744fca6f31285cae3","http://www.healthmapsolutions.com","4631 Woodland Corporate Boulevard
+Suite 201
+Tampa, FL 33614","201 to 500","$25M to $100M (USD)","Healthmap is a specialty health management company focused on progressive diseases, with a particular expertise in kidney health populations.","","","","","","",""
+"in-959752b375444a78","indeed","https://www.indeed.com/viewjob?jk=959752b375444a78","https://www.trustedhealth.com/jobs/fb9969bf-ab83-4e7c-946d-ee8b4de38ca9","Registered Nurse","Trusted Health","Viroqua, WI, US","2026-02-14","","","weekly","","","USD",False,"","","","","Viroqua, WI
 Night
 3 shifts x 12 hours
 Start February 23rd · 12 wks
@@ -6373,7 +5111,7 @@ Pre\\-employment modules may be required for this role. Please upload any certif
 **Additional Details:**
 
 
-**Shift \\&amp; Scheduling:** 7:00 PM to 7:00 AM \\- 2 out of every 3 weekends (Friday, Saturday, Sunday) with Holiday rotation. This position will be 2 weekends on 1 weekend off, along with other shifts to fill in FTE during the week.
+**Shift \\& Scheduling:** 7:00 PM to 7:00 AM \\- 2 out of every 3 weekends (Friday, Saturday, Sunday) with Holiday rotation. This position will be 2 weekends on 1 weekend off, along with other shifts to fill in FTE during the week.
 
 
 
@@ -6393,25 +5131,10 @@ Vision
 401k
 
 
-(opt in)
-🔗 Apply Direct: https://www.trustedhealth.com/jobs/fb9969bf-ab83-4e7c-946d-ee8b4de38ca9
-🔗 Job Board: https://www.indeed.com/viewjob?jk=959752b375444a78</description>
-      <companyName>Trusted Health</companyName>
-      <jobLocation>Viroqua, WI, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at Trusted Health</title>
-      <link>https://www.trustedhealth.com/jobs/769e7b17-9f0a-4832-8ba6-8635f6335f0a</link>
-      <guid isPermaLink="false">Trusted Health-Registered Nurse-Sylva, NC, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Sylva, NC, US
-🏠 Work: On-site
-
-📝 Description: Sylva, NC
+(opt in)","","https://www.indeed.com/cmp/Trusted-Health-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3250c17ab41c2ed66a258941f9af7027","http://trustedhealth.com","201 California St.
+Suite 950
+San Francisco, CA 94111","201 to 500","","Trusted is a new marketplace for nurses to connect with job opportunities. Trusted has used technology to remove recruiters from the equation meaning more money in your pocket. Join trustedhealth.com.","","","","","","",""
+"in-865e29c875a9b1bd","indeed","https://www.indeed.com/viewjob?jk=865e29c875a9b1bd","https://www.trustedhealth.com/jobs/769e7b17-9f0a-4832-8ba6-8635f6335f0a","Registered Nurse","Trusted Health","Sylva, NC, US","2026-02-14","","","weekly","","","USD",False,"","","","","Sylva, NC
 Night
 3 shifts x 12 hours
 Start March 2nd · 13 wks
@@ -6458,7 +5181,7 @@ Pre\\-employment modules may be required for this role. Please upload any certif
 **Required Skills/Experience:** • Must Have Skills/Experience: Medical Surgical competencies
 
 
-**Shift \\&amp; Scheduling:** • Weekend Hours: Varies – every other or every 3rd
+**Shift \\& Scheduling:** • Weekend Hours: Varies – every other or every 3rd
 
 
 **Floating Requirements:** • Float Requirements: Float based off of rotation
@@ -6481,27 +5204,10 @@ Vision
 401k
 
 
-(opt in)
-🔗 Apply Direct: https://www.trustedhealth.com/jobs/769e7b17-9f0a-4832-8ba6-8635f6335f0a
-🔗 Job Board: https://www.indeed.com/viewjob?jk=865e29c875a9b1bd</description>
-      <companyName>Trusted Health</companyName>
-      <jobLocation>Sylva, NC, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Hospice RN Case Manager at TRU Community Care</title>
-      <link>https://jobs.dayforcehcm.com/en-US/myspss/TRUEXTERNALCAREERS/jobs/18094</link>
-      <guid isPermaLink="false">TRU Community Care-Hospice RN Case Manager-Thornton, CO, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Thornton, CO, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 88,067 - 105,680 (yearly)
-
-📝 Description: Founded as Boulder Hospice in 1976, TRU Community Care is a nonprofit healthcare organization serving Boulder, Denver, and surrounding counties. With a mission to affirm life at every step of the journey with illness and loss, TRU provides a continuum of care through TRU Hospice, TRU PACE (Program of All\\-Inclusive Care for the Elderly), TRU Palliative Care, TRU Grief Services, and Landmark Memory Care.
+(opt in)","","https://www.indeed.com/cmp/Trusted-Health-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3250c17ab41c2ed66a258941f9af7027","http://trustedhealth.com","201 California St.
+Suite 950
+San Francisco, CA 94111","201 to 500","","Trusted is a new marketplace for nurses to connect with job opportunities. Trusted has used technology to remove recruiters from the equation meaning more money in your pocket. Join trustedhealth.com.","","","","","","",""
+"in-cf21c8576009449e","indeed","https://www.indeed.com/viewjob?jk=cf21c8576009449e","https://jobs.dayforcehcm.com/en-US/myspss/TRUEXTERNALCAREERS/jobs/18094","Hospice RN Case Manager","TRU Community Care","Thornton, CO, US","2026-02-14","fulltime","direct_data","yearly",88067.0,105680.0,"USD",False,"","","","","Founded as Boulder Hospice in 1976, TRU Community Care is a nonprofit healthcare organization serving Boulder, Denver, and surrounding counties. With a mission to affirm life at every step of the journey with illness and loss, TRU provides a continuum of care through TRU Hospice, TRU PACE (Program of All\\-Inclusive Care for the Elderly), TRU Palliative Care, TRU Grief Services, and Landmark Memory Care.
   
   
 
@@ -6528,7 +5234,7 @@ The RN Case Manager offers professional care with a personal touch by focusing o
 * Must possess a current RN license in the state of Colorado.
 * 2\\+ years as an RN, highly preferred
 * Prior experience working in hospice, highly preferred
-* Must possess a valid driver’s license, provide proof of insurance indicating you have both Bodily Injury \\&amp; Property Damage coverage, and have reliable transportation.
+* Must possess a valid driver’s license, provide proof of insurance indicating you have both Bodily Injury \\& Property Damage coverage, and have reliable transportation.
 * Requires local travel to multiple work locations.
 * Must comply with agency health screening and immunization requirements.
 * Must possess CPR certification or be able to obtain within 60 days of hire.
@@ -6547,42 +5253,20 @@ The RN Case Manager offers professional care with a personal touch by focusing o
 
 * Paid Vacation time
 * 401(k) with match
-* Health, dental, vision \\&amp; life insurance
-* FSA \\&amp; HSA available
+* Health, dental, vision \\& life insurance
+* FSA \\& HSA available
 * Paid orientation
 * Paid training
 * PSLF Eligible Employer
-* Referral \\&amp; signing bonuses (if applicable)
+* Referral \\& signing bonuses (if applicable)
 
 
 To learn more about TRU Community Care, please visit www.trucare.org.
   
   
 
-TRU Community Care is an Equal Opportunity Employer
-🔗 Apply Direct: https://jobs.dayforcehcm.com/en-US/myspss/TRUEXTERNALCAREERS/jobs/18094
-🔗 Job Board: https://www.indeed.com/viewjob?jk=cf21c8576009449e</description>
-      <companyName>TRU Community Care</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Thornton, CO, US</jobLocation>
-      <salaryMin>88067</salaryMin>
-      <salaryMax>105680</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Travel Registered Nurse PCU Job at nan</title>
-      <link>https://tlcnursing.applytojob.com/apply/4d5x83RUUI/Travel-Registered-Nurse-PCU-Job?source=INDE&amp;~</link>
-      <guid isPermaLink="false">nan-Travel Registered Nurse PCU Job-Lancaster, NH, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Lancaster, NH, US
-💼 Type: Contract
-🏠 Work: On-site
-💰 Salary: USD 2,230 - 2,331 (monthly)
-
-📝 Description: Embark on a meaningful journey as a Travel Registered Nurse specializing in PCU in Lancaster, New Hampshire, where your clinical skillset will guide patients through complex recovery in a high‑touch progressive care environment. In this pivotal role, you’ll blend vigilant assessment with compassionate care, ensuring safe transitions from acute care to step‑down settings, while contributing to a cohesive, patient‑centered team. The assignment starts 03/16/2026 and will run for several weeks, with schedule and length coordinated to meet unit needs and your professional goals. Picture yourself making a tangible impact while exploring the quaint charm of Lancaster and the broader Granite State—the perfect mix of outdoor beauty, seasonal recreation, and small‑town hospitality.  
+TRU Community Care is an Equal Opportunity Employer","Health Care","https://www.indeed.com/cmp/Tru-Community-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ff7f33bfdd7407f5128d7d3183aba916","http://www.trucare.org","2594 Trailridge Drive East Lafayette, CO 80026","201 to 500","$25M to $100M (USD)","Providing hospice services, home health, and grief support, TRU encompasses a continuum of care for those with advanced illnesses.","","","","","","",""
+"in-942e1459fbf53008","indeed","https://www.indeed.com/viewjob?jk=942e1459fbf53008","https://tlcnursing.applytojob.com/apply/4d5x83RUUI/Travel-Registered-Nurse-PCU-Job?source=INDE&~","Travel Registered Nurse PCU Job","","Lancaster, NH, US","2026-02-14","contract","direct_data","monthly",2230.0,2331.0,"USD",False,"","","","","Embark on a meaningful journey as a Travel Registered Nurse specializing in PCU in Lancaster, New Hampshire, where your clinical skillset will guide patients through complex recovery in a high‑touch progressive care environment. In this pivotal role, you’ll blend vigilant assessment with compassionate care, ensuring safe transitions from acute care to step‑down settings, while contributing to a cohesive, patient‑centered team. The assignment starts 03/16/2026 and will run for several weeks, with schedule and length coordinated to meet unit needs and your professional goals. Picture yourself making a tangible impact while exploring the quaint charm of Lancaster and the broader Granite State—the perfect mix of outdoor beauty, seasonal recreation, and small‑town hospitality.  
 
   
 
@@ -6598,7 +5282,7 @@ Our partner organization is grounded in empowering its nursing staff—championi
 
   
 
-Ready to embark on a dynamic PCU travel nursing experience that blends clinical challenge with geographic discovery? Apply today to join a company that prioritizes your growth, compensates your expertise, and stands beside you as you care for patients and families across the country. This is your opportunity to shape patient outcomes while exploring new places and expanding your professional network in the vibrant landscape of New Hampshire and beyond.**Privacy \\&amp; Consent**  
+Ready to embark on a dynamic PCU travel nursing experience that blends clinical challenge with geographic discovery? Apply today to join a company that prioritizes your growth, compensates your expertise, and stands beside you as you care for patients and families across the country. This is your opportunity to shape patient outcomes while exploring new places and expanding your professional network in the vibrant landscape of New Hampshire and beyond.**Privacy \\& Consent**  
 
 By applying, you agree to TLC Healthforce's Privacy Policy and consent to receive job\\-related text messages; message/data rates may apply. Reply STOP to opt out.
 
@@ -6618,7 +5302,7 @@ Why Travelers Choose TLC
 
 * Competitive weekly pay
 * Fast credentialing
-* 24/7 recruiter \\&amp; clinical support
+* 24/7 recruiter \\& clinical support
 * Nationwide assignments
 
 
@@ -6634,28 +5318,8 @@ TLC Healthforce is an Equal Opportunity Employer.
 
 
 
-4d5x83RUUI
-🔗 Apply Direct: https://tlcnursing.applytojob.com/apply/4d5x83RUUI/Travel-Registered-Nurse-PCU-Job?source=INDE&amp;~
-🔗 Job Board: https://www.indeed.com/viewjob?jk=942e1459fbf53008</description>
-      <jobType>Contract</jobType>
-      <jobLocation>Lancaster, NH, US</jobLocation>
-      <salaryMin>2230</salaryMin>
-      <salaryMax>2331</salaryMax>
-      <salarySchedule>monthly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Travel Registered Nurse CCU Job at nan</title>
-      <link>https://tlcnursing.applytojob.com/apply/RA8ghsZUDI/Travel-Registered-Nurse-CCU-Job?source=INDE&amp;~</link>
-      <guid isPermaLink="false">nan-Travel Registered Nurse CCU Job-Scottsbluff, NE, US</guid>
-      <pubDate>Sat, 14 Feb 2026 09:27:53 +0000</pubDate>
-      <description>📍 Location: Scottsbluff, NE, US
-🏠 Work: On-site
-💰 Salary: USD 2,100 - 2,201 (weekly)
-
-📝 Description: Embrace a pivotal role as a Registered Nurse in the Cardiac Care Unit (CCU) in Scottsbluff, Nebraska, where your clinical expertise will guide critically ill patients through some of their most challenging moments. In this high\\-acuity setting, you’ll partner with an experienced interdisciplinary team, applying advanced monitoring, therapeutic interventions, and evidence\\-based practices that make a meaningful difference for patients and families. The impact you can have goes beyond the bedside: you’ll contribute to outcomes that matter, mentor teammates, and model compassionate, patient\\-centered care. Nebraska’s vast skies frame a region rich in history and natural beauty. From the dramatic bluffs and scenic vistas of Scotts Bluff National Monument and Chimney Rock to tranquil afternoons by Lake Minatare and the rolling trails of Wildcat Hills, the state offers a balance of outdoor exploration and a welcoming, small‑town sense of community. The beauty of Nebraska is not just in its landscapes but in the people who call it home—neighbors who cheer your successes and colleagues who share your commitment to exceptional cardiac care.  
+4d5x83RUUI","","","","","","","","","","","","","","",""
+"in-2e50a8ac9a4c5002","indeed","https://www.indeed.com/viewjob?jk=2e50a8ac9a4c5002","https://tlcnursing.applytojob.com/apply/RA8ghsZUDI/Travel-Registered-Nurse-CCU-Job?source=INDE&~","Travel Registered Nurse CCU Job","","Scottsbluff, NE, US","2026-02-14","","direct_data","weekly",2100.0,2201.0,"USD",False,"","","","","Embrace a pivotal role as a Registered Nurse in the Cardiac Care Unit (CCU) in Scottsbluff, Nebraska, where your clinical expertise will guide critically ill patients through some of their most challenging moments. In this high\\-acuity setting, you’ll partner with an experienced interdisciplinary team, applying advanced monitoring, therapeutic interventions, and evidence\\-based practices that make a meaningful difference for patients and families. The impact you can have goes beyond the bedside: you’ll contribute to outcomes that matter, mentor teammates, and model compassionate, patient\\-centered care. Nebraska’s vast skies frame a region rich in history and natural beauty. From the dramatic bluffs and scenic vistas of Scotts Bluff National Monument and Chimney Rock to tranquil afternoons by Lake Minatare and the rolling trails of Wildcat Hills, the state offers a balance of outdoor exploration and a welcoming, small‑town sense of community. The beauty of Nebraska is not just in its landscapes but in the people who call it home—neighbors who cheer your successes and colleagues who share your commitment to exceptional cardiac care.  
 
   
 
@@ -6671,7 +5335,7 @@ Company Values: Our organization is dedicated to empowering every nurse who join
 
   
 
-Call to Action: If you’re ready to apply your CCU expertise in a setting that values precision, compassion, and growth, seize this chance to begin on 02/13/2026\\. Join a team that supports your development, respects your experience, and offers diverse opportunities across Nebraska and beyond. This is your invitation to impact lives, expand your horizons, and advance your nursing career in a community that feels like home. Apply now to start an exciting chapter in your CCU journey, with a partner dedicated to your success, every step of the way.**Privacy \\&amp; Consent**  
+Call to Action: If you’re ready to apply your CCU expertise in a setting that values precision, compassion, and growth, seize this chance to begin on 02/13/2026\\. Join a team that supports your development, respects your experience, and offers diverse opportunities across Nebraska and beyond. This is your invitation to impact lives, expand your horizons, and advance your nursing career in a community that feels like home. Apply now to start an exciting chapter in your CCU journey, with a partner dedicated to your success, every step of the way.**Privacy \\& Consent**  
 
 By applying, you agree to TLC Healthforce's Privacy Policy and consent to receive job\\-related text messages; message/data rates may apply. Reply STOP to opt out.
 
@@ -6691,7 +5355,7 @@ Why Travelers Choose TLC
 
 * Competitive weekly pay
 * Fast credentialing
-* 24/7 recruiter \\&amp; clinical support
+* 24/7 recruiter \\& clinical support
 * Nationwide assignments
 
 
@@ -6707,16 +5371,4 @@ TLC Healthforce is an Equal Opportunity Employer.
 
 
 
-RA8ghsZUDI
-🔗 Apply Direct: https://tlcnursing.applytojob.com/apply/RA8ghsZUDI/Travel-Registered-Nurse-CCU-Job?source=INDE&amp;~
-🔗 Job Board: https://www.indeed.com/viewjob?jk=2e50a8ac9a4c5002</description>
-      <jobLocation>Scottsbluff, NE, US</jobLocation>
-      <salaryMin>2100</salaryMin>
-      <salaryMax>2201</salaryMax>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-  </channel>
-</rss>
+RA8ghsZUDI","","","","","","","","","","","","","","",""
