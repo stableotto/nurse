@@ -1,22 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Daily Nurse Jobs Feed</title>
-    <description>Daily feed of nursing jobs with direct company application links</description>
-    <link>https://github.com/your-username/your-repo</link>
-    <lastBuildDate>Tue, 24 Feb 2026 09:48:36 +0000</lastBuildDate>
-    <generator>Nurse Job Search Bot</generator>
-    <language>en-us</language>
-    <item>
-      <title>RN Behavioral Health at nan</title>
-      <link>https://careers-acadiahealthcare.icims.com/jobs/90016/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">nan-RN Behavioral Health-Austin, TX, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Austin, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+"id","site","job_board_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type","job_url"
+"in-111275f0cf31d4ea","indeed","https://www.indeed.com/viewjob?jk=111275f0cf31d4ea","https://careers-acadiahealthcare.icims.com/jobs/90016/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN Behavioral Health","","Austin, TX, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **FT Night shift available \\- 12 hour shifts \\- Behavioral Health****Cross Creek Hospital \\- Austin, TX**  
 
 We are looking for individuals who are passionate about behavioral health. If you are interested in growth opportunities that are second to none in the industry and making a difference in the lives of people in our community, this position is right for you!  
@@ -57,24 +40,8 @@ Qualifications:
 
 AHRN
 \\#LI\\-CCRK
-\\#LI\\-MG2
-🔗 Apply Direct: https://careers-acadiahealthcare.icims.com/jobs/90016/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=111275f0cf31d4ea</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Austin, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>House Supervisor (RN) - Night shift at nan</title>
-      <link>https://careers-acadiahealthcare.icims.com/jobs/90021/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">nan-House Supervisor (RN) - Night shift-Austin, TX, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Austin, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+\\#LI\\-MG2","","","","","","","","","","","","","","",""
+"in-877852411e36a74c","indeed","https://www.indeed.com/viewjob?jk=877852411e36a74c","https://careers-acadiahealthcare.icims.com/jobs/90021/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","House Supervisor (RN) - Night shift","","Austin, TX, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **Cross Creek Hospital in Austin, TX is looking to add a RN House Supervisor to our nursing leadership team!**  
 
 Cross Creek Hospital is an acute inpatient psychiatric hospital that is highly accredited and provides services to Adolescent, Adult, Geriatric, Detox and Partial Hospitalization patients. We specialize in providing comprehensive and compassionate treatment for individuals who are struggling with mental health issues and substance use disorder (SUD) concerns. **POSITION DETAILS**
@@ -142,24 +109,8 @@ We are committed to providing equal employment opportunities to all applicants f
 
 AHRN
 \\#LI\\-CCRK
-\\#LI\\-MG2
-🔗 Apply Direct: https://careers-acadiahealthcare.icims.com/jobs/90021/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=877852411e36a74c</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Austin, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Nurse Manager (RN) at nan</title>
-      <link>https://careers-acadiahealthcare.icims.com/jobs/90022/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">nan-Nurse Manager (RN)-Austin, TX, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Austin, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+\\#LI\\-MG2","","","","","","","","","","","","","","",""
+"in-a3227d8f2606b9e7","indeed","https://www.indeed.com/viewjob?jk=a3227d8f2606b9e7","https://careers-acadiahealthcare.icims.com/jobs/90022/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Nurse Manager (RN)","","Austin, TX, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **Cross Creek Hospital in Austin, TX is looking to add a Nurse Manager to our nursing leadership team!** **Cross Creek Hospital** is a respected provider of mental health services for adolescents, adults, and seniors of all genders. Our hospital, which is located in the Walnut Creek area of north Austin, serves individuals who are struggling with depression, bipolar disorder, posttraumatic stress disorder (PTSD), and other mental health concerns. We also treat individuals who have a primary mental health diagnosis and a co\\-occurring substance use disorder. Our inpatient options include age\\-appropriate programs for adults, and seniors. At the outpatient level, we offer separate programs for adolescents and adults. **POSITION DETAILS**
 Full Time Nurse Manager
 Day shift or Night shift* One weekend per month on call
@@ -215,23 +166,8 @@ We are committed to providing equal employment opportunities to all applicants f
 
 AHRN
 \\#LI\\-CCRK
-\\#LI\\-MG2
-🔗 Apply Direct: https://careers-acadiahealthcare.icims.com/jobs/90022/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a3227d8f2606b9e7</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Austin, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinical Revenue Management Specialist (RN License Required) at Yale New Haven Health</title>
-      <link>https://jobs.ynhhs.org/jobs/85822/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Yale New Haven Health-Clinical Revenue Management Specialist (RN License Required)-New Haven, CT, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: New Haven, CT, US
-🏠 Work: On-site
-
-📝 Description: Overview:
+\\#LI\\-MG2","","","","","","","","","","","","","","",""
+"in-5622413502f3a473","indeed","https://www.indeed.com/viewjob?jk=5622413502f3a473","https://jobs.ynhhs.org/jobs/85822/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Clinical Revenue Management Specialist (RN License Required)","Yale New Haven Health","New Haven, CT, US","2026-02-24","","","","","","",False,"","","","","Overview:
 
 To be part of our organization, every employee should understand and share in the YNHHS Vision, support our Mission, and live our Values. These values \\- integrity, patient\\-centered, respect, accountability, and compassion \\- must guide what we do, as individuals and professionals, every day.  
 
@@ -271,25 +207,8 @@ Strongly preferred a minimum of five years of relevant clinical experience in ho
 
 Current licensure in the State of Connecticut as Registered Nurse. **SPECIAL SKILLS**  
 
-Excellent communication, negotiation and organizational skills. Adaptability to a wide variety of interpersonal encounters with the entire hospital team. Comprehensive understanding in use of medical record to extract data. Working knowledge of third party and prospective payment systems. Computer/PC literacy required. Proficient in Microsoft Office including but not limited to Word, Outlook and Excel. Knowledge of EPIC strongly preferred. Will be trained in use of professionally recognized criteria, ICD10\\-CM Coding, Diagnostic Related Grouping (DRG). Must be able to work collaboratively and independently. Must be flexible with responsibilities in order to meet departmental needs.
-🔗 Apply Direct: https://jobs.ynhhs.org/jobs/85822/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=5622413502f3a473</description>
-      <companyName>Yale New Haven Health</companyName>
-      <jobLocation>New Haven, CT, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse (LPN) at Wellpath</title>
-      <link>https://careers-wellpath.icims.com/jobs/184819/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Wellpath-Licensed Practical Nurse (LPN)-Greeley, CO, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Greeley, CO, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 34 - 38 (hourly)
-
-📝 Description: **You Matter**:
+Excellent communication, negotiation and organizational skills. Adaptability to a wide variety of interpersonal encounters with the entire hospital team. Comprehensive understanding in use of medical record to extract data. Working knowledge of third party and prospective payment systems. Computer/PC literacy required. Proficient in Microsoft Office including but not limited to Word, Outlook and Excel. Knowledge of EPIC strongly preferred. Will be trained in use of professionally recognized criteria, ICD10\\-CM Coding, Diagnostic Related Grouping (DRG). Must be able to work collaboratively and independently. Must be flexible with responsibilities in order to meet departmental needs.","Health Care","https://www.indeed.com/cmp/Yale-New-Haven-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2f87252241dcfa1553d8438c929ec06c","https://www.ynhhs.org/","789 Howard Avenue New Haven, CT 06519","10,000+","$100M to $500M (USD)","Yale New Haven Health enhances the lives of the people we serve by providing access to high value, patient-centered care in collaboration with those who share our values.","","","","","","",""
+"in-02ef914e9b1810f0","indeed","https://www.indeed.com/viewjob?jk=02ef914e9b1810f0","https://careers-wellpath.icims.com/jobs/184819/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Licensed Practical Nurse (LPN)","Wellpath","Greeley, CO, US","2026-02-24","fulltime","direct_data","hourly",34.0,38.0,"USD",False,"","","","","**You Matter**:
 * Make a difference every day in the lives of the underserved
 * Join a mission driven organization with a people first culture
 * Excellent career growth opportunities
@@ -355,7 +274,7 @@ The Licensed Practical Nurse (LPN) plays a vital role in patient care by contrib
 
   
 
-**Qualifications \\&amp; Requirements**:
+**Qualifications \\& Requirements**:
 
 Education* Graduate from an accredited school of nursing.
 
@@ -380,29 +299,8 @@ We celebrate a variety of backgrounds and are committed to creating an inclusive
 
 Deadline to apply to this position is contingent upon applicant volume. Those positions located in Colorado will have a specific deadline posted in the job description.  
 
-We are an Affirmative Action Employer in accordance with applicable state and local laws.
-🔗 Apply Direct: https://careers-wellpath.icims.com/jobs/184819/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=02ef914e9b1810f0</description>
-      <companyName>Wellpath</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Greeley, CO, US</jobLocation>
-      <salaryMin>34</salaryMin>
-      <salaryMax>38</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Assistant Director of Nursing RN ADNS at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65712/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-Assistant Director of Nursing RN ADNS-Jackson, MS, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Jackson, MS, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+We are an Affirmative Action Employer in accordance with applicable state and local laws.","","https://www.indeed.com/cmp/Wellpath","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2d8512ddf2f5899483194a9e0efb0a88","http://www.wellpathcare.com","Nashville, TN","10,000+","$1B to $5B (USD)","We are Wellpath. We are the right people, striving to do the right thing. We will continue to create healthier communities—wherever we go, wherever we grow—one patient at a time.","","","","","","",""
+"in-66ce50817be277af","indeed","https://www.indeed.com/viewjob?jk=66ce50817be277af","https://healthcare-diversicare.icims.com/jobs/65712/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Assistant Director of Nursing RN ADNS","Diversicare Healthcare Services","Jackson, MS, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **Advance Your Nursing Leadership Career as an Assistant Director of Nursing (RN) at Diversicare Southaven!**  
 
 Are you an experienced RN with a passion for leadership and a drive for excellence in healthcare? Diversicare, a leading provider of post\\-acute care services, invites you to take the next step in your nursing career as our Assistant Director of Nursing. **Why Choose Diversicare as an Assistant Director of Nursing (RN)?*** **Leadership Opportunity:** As our Assistant Director of Nursing, you'll play a pivotal role in shaping the quality of care and the future of our nursing department. Lead by example, inspire your team, and make a lasting impact on patient outcomes.
@@ -428,25 +326,8 @@ Qualifications:
 * Experience in long\\-term care or skilled nursing facilities preferred
 
 
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65712/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=66ce50817be277af</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Jackson, MS, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Clinical Educator at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65716/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-RN Clinical Educator-Moss Point, MS, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Moss Point, MS, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-88e537e21cf5c592","indeed","https://www.indeed.com/viewjob?jk=88e537e21cf5c592","https://healthcare-diversicare.icims.com/jobs/65716/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN Clinical Educator","Diversicare Healthcare Services","Moss Point, MS, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **Join Diversicare as an RN Clinical Educator and Elevate Patient Care!**  
 
 At Diversicare, we're more than just a company – we're a passionate community dedicated to caregiving excellence. If you're driven by a desire to make a difference in the lives of patients and residents, then we invite you to be part of our extraordinary team. **Why Choose Diversicare:*** **We're Proudly Agency\\-Free**: Unlike other companies, we believe in building a direct connection with our team members, fostering trust, respect, and collaboration.
@@ -455,7 +336,7 @@ At Diversicare, we're more than just a company – we're a passionate community 
 * **Comprehensive Benefits:** Enjoy a competitive benefits package, including medical/dental/vision coverage, an excellent 401k plan, tuition reimbursement, vacation, holiday, and sick time, long and short\\-term disability, and more.
 * **Impactful Role:** Your responsibilities will encompass orienting new staff members, scheduling comprehensive training programs, supervising online education compliance, developing innovative recruitment strategies, and ensuring a safe working environment.
 * **Room for Growth:** Join a dynamic environment where you can grow in your career and make a lasting impact on the healthcare industry.
-* **Meaningful Mission:** Our mission is to "Improve every life we touch by providing exceptional healthcare and exceeding expectations."
+* **Meaningful Mission:** Our mission is to ""Improve every life we touch by providing exceptional healthcare and exceeding expectations.""
 Core Values: We are guided by five core values \\- Integrity, Excellence, Compassion, Teamwork, and Stewardship, as well as 12 Service Standards.
 
 
@@ -493,25 +374,8 @@ Qualifications:
 * Teaching/instructional experience preferred.
 
 
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65716/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=88e537e21cf5c592</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Moss Point, MS, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Assistant Director of Nursing at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65698/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-Assistant Director of Nursing-Oak Ridge, TN, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Oak Ridge, TN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-b00400d73eb52a3a","indeed","https://www.indeed.com/viewjob?jk=b00400d73eb52a3a","https://healthcare-diversicare.icims.com/jobs/65698/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Assistant Director of Nursing","Diversicare Healthcare Services","Oak Ridge, TN, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **Advance Your Nursing Leadership Career as an Assistant Director of Nursing (RN) at Diversicare of Oak Ridge.**  
 
 **\\~ BONUS INCENTIVE PLAN an ongoing incentive plan for our valued ADNS's \\~**  
@@ -539,25 +403,8 @@ Qualifications:
 * Experience in long\\-term care or skilled nursing facilities preferred
 
 
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65698/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b00400d73eb52a3a</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Oak Ridge, TN, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Assistant Director of Nursing RN ADNS at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65694/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-Assistant Director of Nursing RN ADNS-Brookhaven, MS, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Brookhaven, MS, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-caf6aaa0a0b2d07c","indeed","https://www.indeed.com/viewjob?jk=caf6aaa0a0b2d07c","https://healthcare-diversicare.icims.com/jobs/65694/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Assistant Director of Nursing RN ADNS","Diversicare Healthcare Services","Brookhaven, MS, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **Advance Your Nursing Leadership Career as an Assistant Director of Nursing (RN) at Diversicare!**  
 
 Are you an experienced RN with a passion for leadership and a drive for excellence in healthcare? Diversicare, a leading provider of post\\-acute care services, invites you to take the next step in your nursing career as our Assistant Director of Nursing. **Why Choose Diversicare as an Assistant Director of Nursing (RN)?*** **Leadership Opportunity:** As our Assistant Director of Nursing, you'll play a pivotal role in shaping the quality of care and the future of our nursing department. Lead by example, inspire your team, and make a lasting impact on patient outcomes.
@@ -583,25 +430,8 @@ Qualifications:
 * Experience in long\\-term care or skilled nursing facilities preferred
 
 
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65694/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=caf6aaa0a0b2d07c</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Brookhaven, MS, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Clinical Educator at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65703/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-RN Clinical Educator-Franklin, NC, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Franklin, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-69ed39d34270cdc1","indeed","https://www.indeed.com/viewjob?jk=69ed39d34270cdc1","https://healthcare-diversicare.icims.com/jobs/65703/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN Clinical Educator","Diversicare Healthcare Services","Franklin, NC, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **We're thrilled to announce that Mountain View of Bryson City is now under new management! As of April 1st, our center has joined the Diversicare family, bringing a renewed commitment to exceptional care and a vibrant community for our residents.**  
 
 **Join Diversicare as a Director Clinical Educator and Elevate Patient Care!**  
@@ -612,7 +442,7 @@ At Diversicare, we're more than just a company – we're a passionate community 
 * **Comprehensive Benefits:** Enjoy a competitive benefits package, including medical/dental/vision coverage, an excellent 401k plan, tuition reimbursement, vacation, holiday, and sick time, long and short\\-term disability, and more.
 * **Impactful Role:** Your responsibilities will encompass orienting new staff members, scheduling comprehensive training programs, supervising online education compliance, developing innovative recruitment strategies, and ensuring a safe working environment.
 * **Room for Growth:** Join a dynamic environment where you can grow in your career and make a lasting impact on the healthcare industry.
-* **Meaningful Mission:** Our mission is to "Improve every life we touch by providing exceptional healthcare and exceeding expectations."
+* **Meaningful Mission:** Our mission is to ""Improve every life we touch by providing exceptional healthcare and exceeding expectations.""
 Core Values: We are guided by five core values \\- Integrity, Excellence, Compassion, Teamwork, and Stewardship, as well as 12 Service Standards.
 
 
@@ -650,25 +480,8 @@ Qualifications:
 * Teaching/instructional experience preferred.
 
 
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65703/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=69ed39d34270cdc1</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Franklin, NC, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Clinical Educator at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65706/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-RN Clinical Educator-Asheville, NC, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Asheville, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-7e772ac490d133fc","indeed","https://www.indeed.com/viewjob?jk=7e772ac490d133fc","https://healthcare-diversicare.icims.com/jobs/65706/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN Clinical Educator","Diversicare Healthcare Services","Asheville, NC, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **We're thrilled to announce that Mountain View of Bryson City is now under new management! As of April 1st, our center has joined the Diversicare family, bringing a renewed commitment to exceptional care and a vibrant community for our residents.**  
 
 **Join Diversicare as a Director Clinical Educator and Elevate Patient Care!**  
@@ -679,7 +492,7 @@ At Diversicare, we're more than just a company – we're a passionate community 
 * **Comprehensive Benefits:** Enjoy a competitive benefits package, including medical/dental/vision coverage, an excellent 401k plan, tuition reimbursement, vacation, holiday, and sick time, long and short\\-term disability, and more.
 * **Impactful Role:** Your responsibilities will encompass orienting new staff members, scheduling comprehensive training programs, supervising online education compliance, developing innovative recruitment strategies, and ensuring a safe working environment.
 * **Room for Growth:** Join a dynamic environment where you can grow in your career and make a lasting impact on the healthcare industry.
-* **Meaningful Mission:** Our mission is to "Improve every life we touch by providing exceptional healthcare and exceeding expectations."
+* **Meaningful Mission:** Our mission is to ""Improve every life we touch by providing exceptional healthcare and exceeding expectations.""
 Core Values: We are guided by five core values \\- Integrity, Excellence, Compassion, Teamwork, and Stewardship, as well as 12 Service Standards.
 
 
@@ -717,25 +530,8 @@ Qualifications:
 * Teaching/instructional experience preferred.
 
 
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65706/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7e772ac490d133fc</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Asheville, NC, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Director of Nursing Services Exempt at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65714/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-Director of Nursing Services Exempt-Knoxville, TN, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Knoxville, TN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-90f22f9a8e9e1100","indeed","https://www.indeed.com/viewjob?jk=90f22f9a8e9e1100","https://healthcare-diversicare.icims.com/jobs/65714/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Director of Nursing Services Exempt","Diversicare Healthcare Services","Knoxville, TN, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **Lead with Excellence as the Director of Nursing\\- RN at Diversicare!**  
 
 Are you ready to take the helm of the nursing department and make a profound impact on the lives of patients and residents? Diversicare is seeking a passionate Director of Nursing to join our exceptional team, driving excellence in care and leadership. **Why Choose Diversicare:*** **Leadership Opportunity:** As our Director of Nursing (RN), you'll shape the quality of care and life for our residents, driving the nursing department forward while contributing to our facility's overarching mission.
@@ -758,25 +554,8 @@ Qualifications:
 
 
 Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65714/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=90f22f9a8e9e1100</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Knoxville, TN, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>MDS Coordinator /Dir of Care Coordination - RN at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65708/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-MDS Coordinator /Dir of Care Coordination - RN-Franklin, NC, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Franklin, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-4e2ff5f4cf0adef8","indeed","https://www.indeed.com/viewjob?jk=4e2ff5f4cf0adef8","https://healthcare-diversicare.icims.com/jobs/65708/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","MDS Coordinator /Dir of Care Coordination - RN","Diversicare Healthcare Services","Franklin, NC, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **Exciting Opportunity: Join Mountain View \\- Bryson City as an MDS Coordinator\\- RNAC!**  
 
 Diversicare is seeking a dedicated MDS Coordinator (RNAC) to join our exceptional team and make a difference in the lives of our patients and residents. If you're passionate about ensuring accuracy and compliance in MDS assessments, this is the perfect opportunity for you. **Why Choose Diversicare:*** **Leadership Opportunity:** As our MDS Coordinator (RNAC), you'll play a pivotal role in ensuring exceptional patient care by overseeing the accuracy and compliance of MDS assessments.
@@ -802,25 +581,8 @@ Qualifications:
 
 
 Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65708/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4e2ff5f4cf0adef8</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Franklin, NC, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Assistant Director of Nursing at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65713/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-Assistant Director of Nursing-Knoxville, TN, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Knoxville, TN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-762ccc426214bc0c","indeed","https://www.indeed.com/viewjob?jk=762ccc426214bc0c","https://healthcare-diversicare.icims.com/jobs/65713/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Assistant Director of Nursing","Diversicare Healthcare Services","Knoxville, TN, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **Advance Your Nursing Leadership Career as an Assistant Director of Nursing (RN) at Diversicare of Oak Ridge.**  
 
 **\\~ BONUS INCENTIVE PLAN an ongoing incentive plan for our valued ADNS's \\~**  
@@ -848,26 +610,9 @@ Qualifications:
 * Experience in long\\-term care or skilled nursing facilities preferred
 
 
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65713/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=762ccc426214bc0c</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Knoxville, TN, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Regional LPN - Premium pay $35/hr! at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65688/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-Regional LPN - Premium pay $35/hr!-Larned, KS, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Larned, KS, US
-💼 Type: Temporary, Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
-**Offering Premium Pay $35/hr. for 60 days!****Day Shift Available!****Full time Conversion Bonus \\&amp; Great Benefits after 60 days!**  
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-988afc3c2b953003","indeed","https://www.indeed.com/viewjob?jk=988afc3c2b953003","https://healthcare-diversicare.icims.com/jobs/65688/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Regional LPN - Premium pay $35/hr!","Diversicare Healthcare Services","Larned, KS, US","2026-02-24","temporary, fulltime","","","","","",False,"","","","","Overview:
+**Offering Premium Pay $35/hr. for 60 days!****Day Shift Available!****Full time Conversion Bonus \\& Great Benefits after 60 days!**  
 
 **Discover What’s Possible!**  
 
@@ -962,25 +707,8 @@ Qualifications:
 
 6\\. Good interpersonal and communication skills; has an interest to perform a service.  
 
-7\\. Valid driver’s license and current auto insurance required. *Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.*
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65688/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=988afc3c2b953003</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Temporary, Fulltime</jobType>
-      <jobLocation>Larned, KS, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>MDS Coordinator /Dir of Care Coordination - RN at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65707/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-MDS Coordinator /Dir of Care Coordination - RN-Waynesville, NC, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Waynesville, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+7\\. Valid driver’s license and current auto insurance required. *Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.*","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-eae24e86a202e0f8","indeed","https://www.indeed.com/viewjob?jk=eae24e86a202e0f8","https://healthcare-diversicare.icims.com/jobs/65707/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","MDS Coordinator /Dir of Care Coordination - RN","Diversicare Healthcare Services","Waynesville, NC, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **Exciting Opportunity: Join Mountain View \\- Bryson City as an MDS Coordinator\\- RNAC!**  
 
 Diversicare is seeking a dedicated MDS Coordinator (RNAC) to join our exceptional team and make a difference in the lives of our patients and residents. If you're passionate about ensuring accuracy and compliance in MDS assessments, this is the perfect opportunity for you. **Why Choose Diversicare:*** **Leadership Opportunity:** As our MDS Coordinator (RNAC), you'll play a pivotal role in ensuring exceptional patient care by overseeing the accuracy and compliance of MDS assessments.
@@ -1006,25 +734,8 @@ Qualifications:
 
 
 Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65707/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=eae24e86a202e0f8</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Waynesville, NC, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>MDS Coordinator /Dir of Care Coordination - RN at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65710/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-MDS Coordinator /Dir of Care Coordination - RN-Murphy, NC, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Murphy, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-125ca0ecd008891f","indeed","https://www.indeed.com/viewjob?jk=125ca0ecd008891f","https://healthcare-diversicare.icims.com/jobs/65710/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","MDS Coordinator /Dir of Care Coordination - RN","Diversicare Healthcare Services","Murphy, NC, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **Exciting Opportunity: Join Mountain View \\- Bryson City as an MDS Coordinator\\- RNAC!**  
 
 Diversicare is seeking a dedicated MDS Coordinator (RNAC) to join our exceptional team and make a difference in the lives of our patients and residents. If you're passionate about ensuring accuracy and compliance in MDS assessments, this is the perfect opportunity for you. **Why Choose Diversicare:*** **Leadership Opportunity:** As our MDS Coordinator (RNAC), you'll play a pivotal role in ensuring exceptional patient care by overseeing the accuracy and compliance of MDS assessments.
@@ -1050,25 +761,8 @@ Qualifications:
 
 
 Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65710/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=125ca0ecd008891f</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Murphy, NC, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Clinical Educator at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65702/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-RN Clinical Educator-Waynesville, NC, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Waynesville, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-d390e9cf1b70de78","indeed","https://www.indeed.com/viewjob?jk=d390e9cf1b70de78","https://healthcare-diversicare.icims.com/jobs/65702/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN Clinical Educator","Diversicare Healthcare Services","Waynesville, NC, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **We're thrilled to announce that Mountain View of Bryson City is now under new management! As of April 1st, our center has joined the Diversicare family, bringing a renewed commitment to exceptional care and a vibrant community for our residents.**  
 
 **Join Diversicare as a Director Clinical Educator and Elevate Patient Care!**  
@@ -1079,7 +773,7 @@ At Diversicare, we're more than just a company – we're a passionate community 
 * **Comprehensive Benefits:** Enjoy a competitive benefits package, including medical/dental/vision coverage, an excellent 401k plan, tuition reimbursement, vacation, holiday, and sick time, long and short\\-term disability, and more.
 * **Impactful Role:** Your responsibilities will encompass orienting new staff members, scheduling comprehensive training programs, supervising online education compliance, developing innovative recruitment strategies, and ensuring a safe working environment.
 * **Room for Growth:** Join a dynamic environment where you can grow in your career and make a lasting impact on the healthcare industry.
-* **Meaningful Mission:** Our mission is to "Improve every life we touch by providing exceptional healthcare and exceeding expectations."
+* **Meaningful Mission:** Our mission is to ""Improve every life we touch by providing exceptional healthcare and exceeding expectations.""
 Core Values: We are guided by five core values \\- Integrity, Excellence, Compassion, Teamwork, and Stewardship, as well as 12 Service Standards.
 
 
@@ -1117,26 +811,9 @@ Qualifications:
 * Teaching/instructional experience preferred.
 
 
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65702/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d390e9cf1b70de78</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Waynesville, NC, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Regional LPN - Premium pay $35/hr! at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65686/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-Regional LPN - Premium pay $35/hr!-Bryson City, NC, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Bryson City, NC, US
-💼 Type: Temporary, Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
-**Offering Premium Pay $35/hr. for 60 days!****Night Shift available!****Full time Conversion Bonus \\&amp; Great Benefits after 60 days!**  
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-d8bb7bee70f6dc9b","indeed","https://www.indeed.com/viewjob?jk=d8bb7bee70f6dc9b","https://healthcare-diversicare.icims.com/jobs/65686/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Regional LPN - Premium pay $35/hr!","Diversicare Healthcare Services","Bryson City, NC, US","2026-02-24","temporary, fulltime","","","","","",False,"","","","","Overview:
+**Offering Premium Pay $35/hr. for 60 days!****Night Shift available!****Full time Conversion Bonus \\& Great Benefits after 60 days!**  
 
 **Discover What’s Possible!**  
 
@@ -1231,26 +908,9 @@ Qualifications:
 
 6\\. Good interpersonal and communication skills; has an interest to perform a service.  
 
-7\\. Valid driver’s license and current auto insurance required. *Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.*
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65686/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d8bb7bee70f6dc9b</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Temporary, Fulltime</jobType>
-      <jobLocation>Bryson City, NC, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Regional RN - Premium Pay $42/hr. at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65687/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-Regional RN - Premium Pay $42/hr.-Bryson City, NC, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Bryson City, NC, US
-💼 Type: Temporary, Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
-**Offering Premium Pay $42/hr. for 60 days!****Night Shift****Full time Conversion Bonus \\&amp; Great Benefits after 60 days!** **Discover What’s Possible!**  
+7\\. Valid driver’s license and current auto insurance required. *Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.*","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-df7c20403a7fd7a0","indeed","https://www.indeed.com/viewjob?jk=df7c20403a7fd7a0","https://healthcare-diversicare.icims.com/jobs/65687/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Regional RN - Premium Pay $42/hr.","Diversicare Healthcare Services","Bryson City, NC, US","2026-02-24","temporary, fulltime","","","","","",False,"","","","","Overview:
+**Offering Premium Pay $42/hr. for 60 days!****Night Shift****Full time Conversion Bonus \\& Great Benefits after 60 days!** **Discover What’s Possible!**  
 
 At Diversicare, we understand the contributions of every team member are the parts that make up the whole. We appreciate them for the work they do each day to showcase their talents and gifts.  
 
@@ -1326,25 +986,8 @@ Qualifications:
 * Capable of working to prescribed nursing standards.
 * Good interpersonal and communication skills; has an interest to perform a service.
 
- *Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.*
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65687/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=df7c20403a7fd7a0</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Temporary, Fulltime</jobType>
-      <jobLocation>Bryson City, NC, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Clinical Educator at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65705/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-RN Clinical Educator-Murphy, NC, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Murphy, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+ *Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.*","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-eddced409db76e33","indeed","https://www.indeed.com/viewjob?jk=eddced409db76e33","https://healthcare-diversicare.icims.com/jobs/65705/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN Clinical Educator","Diversicare Healthcare Services","Murphy, NC, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **We're thrilled to announce that Mountain View of Bryson City is now under new management! As of April 1st, our center has joined the Diversicare family, bringing a renewed commitment to exceptional care and a vibrant community for our residents.**  
 
 **Join Diversicare as a Director Clinical Educator and Elevate Patient Care!**  
@@ -1355,7 +998,7 @@ At Diversicare, we're more than just a company – we're a passionate community 
 * **Comprehensive Benefits:** Enjoy a competitive benefits package, including medical/dental/vision coverage, an excellent 401k plan, tuition reimbursement, vacation, holiday, and sick time, long and short\\-term disability, and more.
 * **Impactful Role:** Your responsibilities will encompass orienting new staff members, scheduling comprehensive training programs, supervising online education compliance, developing innovative recruitment strategies, and ensuring a safe working environment.
 * **Room for Growth:** Join a dynamic environment where you can grow in your career and make a lasting impact on the healthcare industry.
-* **Meaningful Mission:** Our mission is to "Improve every life we touch by providing exceptional healthcare and exceeding expectations."
+* **Meaningful Mission:** Our mission is to ""Improve every life we touch by providing exceptional healthcare and exceeding expectations.""
 Core Values: We are guided by five core values \\- Integrity, Excellence, Compassion, Teamwork, and Stewardship, as well as 12 Service Standards.
 
 
@@ -1393,25 +1036,8 @@ Qualifications:
 * Teaching/instructional experience preferred.
 
 
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65705/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=eddced409db76e33</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Murphy, NC, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Clinical Educator at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65691/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-RN Clinical Educator-Bryson City, NC, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Bryson City, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-d15205099c12e056","indeed","https://www.indeed.com/viewjob?jk=d15205099c12e056","https://healthcare-diversicare.icims.com/jobs/65691/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN Clinical Educator","Diversicare Healthcare Services","Bryson City, NC, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **We're thrilled to announce that Mountain View of Bryson City is now under new management! As of April 1st, our center has joined the Diversicare family, bringing a renewed commitment to exceptional care and a vibrant community for our residents.**  
 
 **Join Diversicare as a Director Clinical Educator and Elevate Patient Care!**  
@@ -1422,7 +1048,7 @@ At Diversicare, we're more than just a company – we're a passionate community 
 * **Comprehensive Benefits:** Enjoy a competitive benefits package, including medical/dental/vision coverage, an excellent 401k plan, tuition reimbursement, vacation, holiday, and sick time, long and short\\-term disability, and more.
 * **Impactful Role:** Your responsibilities will encompass orienting new staff members, scheduling comprehensive training programs, supervising online education compliance, developing innovative recruitment strategies, and ensuring a safe working environment.
 * **Room for Growth:** Join a dynamic environment where you can grow in your career and make a lasting impact on the healthcare industry.
-* **Meaningful Mission:** Our mission is to "Improve every life we touch by providing exceptional healthcare and exceeding expectations."
+* **Meaningful Mission:** Our mission is to ""Improve every life we touch by providing exceptional healthcare and exceeding expectations.""
 Core Values: We are guided by five core values \\- Integrity, Excellence, Compassion, Teamwork, and Stewardship, as well as 12 Service Standards.
 
 
@@ -1460,25 +1086,8 @@ Qualifications:
 * Teaching/instructional experience preferred.
 
 
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65691/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d15205099c12e056</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Bryson City, NC, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>MDS Coordinator- RNAC at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65695/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-MDS Coordinator- RNAC-Knoxville, TN, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Knoxville, TN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-da5593787f601dd0","indeed","https://www.indeed.com/viewjob?jk=da5593787f601dd0","https://healthcare-diversicare.icims.com/jobs/65695/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","MDS Coordinator- RNAC","Diversicare Healthcare Services","Knoxville, TN, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **Exciting Opportunity: Join Diversicare as an MDS Coordinator\\- RN**  
 
 Diversicare is seeking a dedicated MDS Coordinator (RNAC) to join our exceptional team and make a difference in the lives of our patients and residents. If you're passionate about ensuring accuracy and compliance in MDS assessments, this is the perfect opportunity for you. **Why Choose Diversicare:*** **Leadership Opportunity:** As our MDS Coordinator (RNAC), you'll play a pivotal role in ensuring exceptional patient care by overseeing the accuracy and compliance of MDS assessments.
@@ -1504,26 +1113,9 @@ Qualifications:
 
 
 Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65695/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=da5593787f601dd0</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Knoxville, TN, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Regional RN - Premium Pay $42/hr. at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65689/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-Regional RN - Premium Pay $42/hr.-Larned, KS, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Larned, KS, US
-💼 Type: Temporary, Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
-**Offering Premium Pay $42/hr. for 60 days!****Day Shift available.****Full time Conversion Bonus \\&amp; Great Benefits after 60 days!** **Discover What’s Possible!**  
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-1c98518bd39361a1","indeed","https://www.indeed.com/viewjob?jk=1c98518bd39361a1","https://healthcare-diversicare.icims.com/jobs/65689/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Regional RN - Premium Pay $42/hr.","Diversicare Healthcare Services","Larned, KS, US","2026-02-24","temporary, fulltime","","","","","",False,"","","","","Overview:
+**Offering Premium Pay $42/hr. for 60 days!****Day Shift available.****Full time Conversion Bonus \\& Great Benefits after 60 days!** **Discover What’s Possible!**  
 
 At Diversicare, we understand the contributions of every team member are the parts that make up the whole. We appreciate them for the work they do each day to showcase their talents and gifts.  
 
@@ -1599,25 +1191,8 @@ Qualifications:
 * Capable of working to prescribed nursing standards.
 * Good interpersonal and communication skills; has an interest to perform a service.
 
- *Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.*
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65689/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1c98518bd39361a1</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Temporary, Fulltime</jobType>
-      <jobLocation>Larned, KS, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Unit Manager LPN at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65719/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-Unit Manager LPN-Oak Ridge, TN, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Oak Ridge, TN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+ *Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.*","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-914e4e3e3a8160a9","indeed","https://www.indeed.com/viewjob?jk=914e4e3e3a8160a9","https://healthcare-diversicare.icims.com/jobs/65719/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Unit Manager LPN","Diversicare Healthcare Services","Oak Ridge, TN, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **Join our team at Diversicare as a Unit Manager and take the next step in growing your clinical leadership career.**  
 
 At Diversicare, we value our employees and provide opportunities for growth and career advancement. Our Unit Managers have the opportunity to advance their clinical leadership skills through our Clinical Career Ladder. We also offer tuition reimbursement for continuing education and professional development, as well as opportunities for cross\\-training and job shadowing to expand your skillset. Join our team and discover what's possible for your career at Diversicare!  
@@ -1640,25 +1215,8 @@ Qualifications:
 3\\. Experience in triaging tasks, supervision of nursing team members and coordination of services to provide the optimum resident and patient experience.  
 
 Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65719/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=914e4e3e3a8160a9</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Oak Ridge, TN, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Weekend Unit Manager - RN at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65696/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-Weekend Unit Manager - RN-Eupora, MS, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Eupora, MS, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-a005b03211eb04fb","indeed","https://www.indeed.com/viewjob?jk=a005b03211eb04fb","https://healthcare-diversicare.icims.com/jobs/65696/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Weekend Unit Manager - RN","Diversicare Healthcare Services","Eupora, MS, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **Weekend shift; 16\\-hour shifts \\- Full time hours!** **At Diversicare, we value our employees and provide opportunities for growth and career advancement.**  
 
 Our Unit Managers have the opportunity to advance their clinical leadership skills through our Clinical Career Ladder, including growth into, but not limited to, Clinical Educator, RNAC, and Assistant Director of Nursing roles.
@@ -1682,25 +1240,8 @@ Qualifications:
 3\\. Experience in triaging tasks, supervision of nursing team members and coordination of services to provide the optimum resident and patient experience.  
 
 Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65696/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a005b03211eb04fb</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Eupora, MS, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>MDS Coordinator /Dir of Care Coordination - RN at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65681/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-MDS Coordinator /Dir of Care Coordination - RN-Bryson City, NC, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Bryson City, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-bb7fa3c4a15ac1f9","indeed","https://www.indeed.com/viewjob?jk=bb7fa3c4a15ac1f9","https://healthcare-diversicare.icims.com/jobs/65681/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","MDS Coordinator /Dir of Care Coordination - RN","Diversicare Healthcare Services","Bryson City, NC, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **Exciting Opportunity: Join Diversicare as an MDS Coordinator\\- RNAC!**  
 
 Diversicare is seeking a dedicated MDS Coordinator (RNAC) to join our exceptional team and make a difference in the lives of our patients and residents. If you're passionate about ensuring accuracy and compliance in MDS assessments, this is the perfect opportunity for you. **Why Choose Diversicare:*** **Leadership Opportunity:** As our MDS Coordinator (RNAC), you'll play a pivotal role in ensuring exceptional patient care by overseeing the accuracy and compliance of MDS assessments.
@@ -1726,26 +1267,9 @@ Qualifications:
 
 
 Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65681/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=bb7fa3c4a15ac1f9</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Bryson City, NC, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Regional LPN - Premium pay $35/hr! at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65692/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-Regional LPN - Premium pay $35/hr!-Ducktown, TN, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Ducktown, TN, US
-💼 Type: Temporary, Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
-**Offering Premium Pay $35/hr. for 60 days!****Night Shift available!****Full time Conversion Bonus \\&amp; Great Benefits after 60 days!**  
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-d9284035af75f6f0","indeed","https://www.indeed.com/viewjob?jk=d9284035af75f6f0","https://healthcare-diversicare.icims.com/jobs/65692/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Regional LPN - Premium pay $35/hr!","Diversicare Healthcare Services","Ducktown, TN, US","2026-02-24","temporary, fulltime","","","","","",False,"","","","","Overview:
+**Offering Premium Pay $35/hr. for 60 days!****Night Shift available!****Full time Conversion Bonus \\& Great Benefits after 60 days!**  
 
 **Discover What’s Possible!**  
 
@@ -1840,25 +1364,8 @@ Qualifications:
 
 6\\. Good interpersonal and communication skills; has an interest to perform a service.  
 
-7\\. Valid driver’s license and current auto insurance required. *Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.*
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65692/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d9284035af75f6f0</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Temporary, Fulltime</jobType>
-      <jobLocation>Ducktown, TN, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>MDS Coordinator /Dir of Care Coordination - RN at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65711/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-MDS Coordinator /Dir of Care Coordination - RN-Asheville, NC, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Asheville, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+7\\. Valid driver’s license and current auto insurance required. *Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.*","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-32a1c516a99fc0f7","indeed","https://www.indeed.com/viewjob?jk=32a1c516a99fc0f7","https://healthcare-diversicare.icims.com/jobs/65711/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","MDS Coordinator /Dir of Care Coordination - RN","Diversicare Healthcare Services","Asheville, NC, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **Exciting Opportunity: Join Mountain View \\- Bryson City as an MDS Coordinator\\- RNAC!**  
 
 Diversicare is seeking a dedicated MDS Coordinator (RNAC) to join our exceptional team and make a difference in the lives of our patients and residents. If you're passionate about ensuring accuracy and compliance in MDS assessments, this is the perfect opportunity for you. **Why Choose Diversicare:*** **Leadership Opportunity:** As our MDS Coordinator (RNAC), you'll play a pivotal role in ensuring exceptional patient care by overseeing the accuracy and compliance of MDS assessments.
@@ -1884,25 +1391,8 @@ Qualifications:
 
 
 Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65711/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=32a1c516a99fc0f7</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Asheville, NC, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>MDS Coordinator - RN - RNAC at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65715/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-MDS Coordinator - RN - RNAC-Wichita, KS, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Wichita, KS, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-2151567594c8038d","indeed","https://www.indeed.com/viewjob?jk=2151567594c8038d","https://healthcare-diversicare.icims.com/jobs/65715/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","MDS Coordinator - RN - RNAC","Diversicare Healthcare Services","Wichita, KS, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **Exciting Opportunity: Join Diversicare as an MDS Coordinator\\- RNAC!**  
 
 Diversicare is seeking a dedicated MDS Coordinator (RNAC) to join our exceptional team and make a difference in the lives of our patients and residents. If you're passionate about ensuring accuracy and compliance in MDS assessments, this is the perfect opportunity for you. **Why Choose Diversicare:*** **Leadership Opportunity:** As our MDS Coordinator (RNAC), you'll play a pivotal role in ensuring exceptional patient care by overseeing the accuracy and compliance of MDS assessments.
@@ -1928,26 +1418,9 @@ Qualifications:
 
 
 Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65715/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=2151567594c8038d</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Wichita, KS, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Director of Care Coordination - MDS Coordinator at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65683/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-Director of Care Coordination - MDS Coordinator-Sedgwick, KS, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Sedgwick, KS, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
-**$2,000 Sign on Bonus available!** **Lead the Way as Director of Care Coordination \\&amp; MDS at Diversicare!**  
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-d09ce43d3981e66a","indeed","https://www.indeed.com/viewjob?jk=d09ce43d3981e66a","https://healthcare-diversicare.icims.com/jobs/65683/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Director of Care Coordination - MDS Coordinator","Diversicare Healthcare Services","Sedgwick, KS, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
+**$2,000 Sign on Bonus available!** **Lead the Way as Director of Care Coordination \\& MDS at Diversicare!**  
 
 At Diversicare, we're looking for a passionate Director of Care Coordination and MDS to join our exceptional team. If you're dedicated to making a difference in the lives of our patients and residents, we invite you to apply. **Why Lead at Diversicare:*** **Leadership Opportunity:** As the Director of Care Coordination, you will play a pivotal role in ensuring that our care resources are aligned with patient needs, benefits, and exceptional service.
 * **Ownership and Excellence:** We take pride in our culture of trust, respect, customer focus, compassion, diplomacy, appreciation, and strong communication skills. As a leader, you will embody these values and shape our culture.
@@ -1982,25 +1455,8 @@ Qualifications:
 * MDS experience, required
 
 
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65683/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d09ce43d3981e66a</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Sedgwick, KS, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>MDS Coordinator /Dir of Care Coordination - RN at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65709/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-MDS Coordinator /Dir of Care Coordination - RN-Sylva, NC, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Sylva, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-d92cf5d54cbe2ddc","indeed","https://www.indeed.com/viewjob?jk=d92cf5d54cbe2ddc","https://healthcare-diversicare.icims.com/jobs/65709/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","MDS Coordinator /Dir of Care Coordination - RN","Diversicare Healthcare Services","Sylva, NC, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **Exciting Opportunity: Join Mountain View \\- Bryson City as an MDS Coordinator\\- RNAC!**  
 
 Diversicare is seeking a dedicated MDS Coordinator (RNAC) to join our exceptional team and make a difference in the lives of our patients and residents. If you're passionate about ensuring accuracy and compliance in MDS assessments, this is the perfect opportunity for you. **Why Choose Diversicare:*** **Leadership Opportunity:** As our MDS Coordinator (RNAC), you'll play a pivotal role in ensuring exceptional patient care by overseeing the accuracy and compliance of MDS assessments.
@@ -2026,25 +1482,8 @@ Qualifications:
 
 
 Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65709/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d92cf5d54cbe2ddc</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Sylva, NC, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Clinical Educator at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65704/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-RN Clinical Educator-Sylva, NC, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Sylva, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-db02c205f16e24ed","indeed","https://www.indeed.com/viewjob?jk=db02c205f16e24ed","https://healthcare-diversicare.icims.com/jobs/65704/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN Clinical Educator","Diversicare Healthcare Services","Sylva, NC, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **We're thrilled to announce that Mountain View of Bryson City is now under new management! As of April 1st, our center has joined the Diversicare family, bringing a renewed commitment to exceptional care and a vibrant community for our residents.**  
 
 **Join Diversicare as a Director Clinical Educator and Elevate Patient Care!**  
@@ -2055,7 +1494,7 @@ At Diversicare, we're more than just a company – we're a passionate community 
 * **Comprehensive Benefits:** Enjoy a competitive benefits package, including medical/dental/vision coverage, an excellent 401k plan, tuition reimbursement, vacation, holiday, and sick time, long and short\\-term disability, and more.
 * **Impactful Role:** Your responsibilities will encompass orienting new staff members, scheduling comprehensive training programs, supervising online education compliance, developing innovative recruitment strategies, and ensuring a safe working environment.
 * **Room for Growth:** Join a dynamic environment where you can grow in your career and make a lasting impact on the healthcare industry.
-* **Meaningful Mission:** Our mission is to "Improve every life we touch by providing exceptional healthcare and exceeding expectations."
+* **Meaningful Mission:** Our mission is to ""Improve every life we touch by providing exceptional healthcare and exceeding expectations.""
 Core Values: We are guided by five core values \\- Integrity, Excellence, Compassion, Teamwork, and Stewardship, as well as 12 Service Standards.
 
 
@@ -2093,25 +1532,8 @@ Qualifications:
 * Teaching/instructional experience preferred.
 
 
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65704/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=db02c205f16e24ed</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Sylva, NC, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Unit Manager - Rehab Unit at Diversicare Healthcare Services</title>
-      <link>https://healthcare-diversicare.icims.com/jobs/65699/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Diversicare Healthcare Services-RN Unit Manager - Rehab Unit-Southaven, MS, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Southaven, MS, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-ee7c7d3975110366","indeed","https://www.indeed.com/viewjob?jk=ee7c7d3975110366","https://healthcare-diversicare.icims.com/jobs/65699/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN Unit Manager - Rehab Unit","Diversicare Healthcare Services","Southaven, MS, US","2026-02-24","fulltime","","","","","",False,"","","","","Overview:
 **At Diversicare, we value our employees and provide opportunities for growth and career advancement.**  
 
 Our Unit Managers have the opportunity to advance their clinical leadership skills through our Clinical Career Ladder, including growth into, but not limited to, Clinical Educator, RNAC, and Assistant Director of Nursing roles.
@@ -2139,26 +1561,8 @@ Qualifications:
 3\\. Experience in triaging tasks, supervision of nursing team members and coordination of services to provide the optimum resident and patient experience.  
 
 Diversicare is committed to being an equal opportunity employer. Diversicare does not discriminate in employment opportunities or practices on the basis of race, color, religion, sex (including gender identity), national origin, age, or disability, sexual orientation, citizenship, marital status, veteran status, genetic information, or any other characteristic protected by law.
-(EOE)
-🔗 Apply Direct: https://healthcare-diversicare.icims.com/jobs/65699/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ee7c7d3975110366</description>
-      <companyName>Diversicare Healthcare Services</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Southaven, MS, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>House Supervisor (RN) at Select Specialty Hospital</title>
-      <link>https://jobs-selectmedicalcorp.icims.com/jobs/359180/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Select Specialty Hospital-House Supervisor (RN)-Newport News, VA, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Newport News, VA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 90,000 - 115,000 (yearly)
-
-📝 Description: Overview:
+(EOE)","Health Care","https://www.indeed.com/cmp/Diversicare-Healthcare-Services-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ae413732aff918258d8df3843e7f84a3","http://dvcr.com/","1621 Galleria Blvd, Brentwood, TN 37027","5,001 to 10,000","$100M to $500M (USD)","Making a career out of making a difference. Diversicare is looking for professionals who want to make a difference in the lives of others while working in a rewarding environment.","","","","","","",""
+"in-90a65d8fb63a602b","indeed","https://www.indeed.com/viewjob?jk=90a65d8fb63a602b","https://jobs-selectmedicalcorp.icims.com/jobs/359180/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","House Supervisor (RN)","Select Specialty Hospital","Newport News, VA, US","2026-02-24","fulltime","direct_data","yearly",90000.0,115000.0,"USD",False,"","","","","Overview:
 **Position:** House Supervisor\\- Registered Nurse (RN)
 
 **Location: Newport News, VA**
@@ -2175,7 +1579,7 @@ Diversicare is committed to being an equal opportunity employer. Diversicare doe
 * **Advance Your Career**: 100% company\\-paid scholarship (BSN), tuition reimbursement, and continuing education
 * **Elevate Your Skills**: Clinical ladder programs and certifications such as PCCN and CCRN
 * **Ease the Burden**: Student debt benefit program
-* **Recharge \\&amp; Refresh**: Generous PTO to maintain a healthy work\\-life balance
+* **Recharge \\& Refresh**: Generous PTO to maintain a healthy work\\-life balance
 * **Your Health Matters**: Comprehensive medical/RX, health, vision, and dental plan offerings
 * **Invest in Your Future:** Company\\-matching 401(k) retirement plan, as well as life and disability protection
 * **Your Impact Matters:** Join a team of over 44,000 committed to providing exceptional patient care
@@ -2203,30 +1607,8 @@ Qualifications:
 
 
 Additional Data:
-*Equal Opportunity Employer/including Disabled/Veterans*
-🔗 Apply Direct: https://jobs-selectmedicalcorp.icims.com/jobs/359180/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=90a65d8fb63a602b</description>
-      <companyName>Select Specialty Hospital</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Newport News, VA, US</jobLocation>
-      <salaryMin>90000</salaryMin>
-      <salaryMax>115000</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse, RN at Genesis Healthcare</title>
-      <link>https://www.genesiscareers.jobs/genesishcc/jobs/42405/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Genesis Healthcare-Registered Nurse, RN-Baltimore, MD, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Baltimore, MD, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 40 - 43 (hourly)
-
-📝 Description: Overview:
+*Equal Opportunity Employer/including Disabled/Veterans*","","https://www.indeed.com/cmp/Select-Specialty-Hospital","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/be78b0d99ed4560a7f81d31535d1d46c","https://careers.selectmedical.com/discover-our-brands/critical-illness-recovery-hospitals/select-specialty-hospitals/","Mechanicsburg, PA","10,000+","$1B to $5B (USD)","At Select Specialty Hospital, our goal is to help patients with medically complex conditions continue their recovery so they can regain their quality of life.  ","","","","","","",""
+"in-3c49ca85325774fb","indeed","https://www.indeed.com/viewjob?jk=3c49ca85325774fb","https://www.genesiscareers.jobs/genesishcc/jobs/42405/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse, RN","Genesis Healthcare","Baltimore, MD, US","2026-02-24","parttime","direct_data","hourly",40.0,43.0,"USD",False,"","","","","Overview:
 **\\*\\*\\*Exciting new wages are here — come join our team!\\*\\*\\***  
 
 
@@ -2273,30 +1655,8 @@ We also offer several voluntary insurances such as:
   
 
 Restrictions apply based on collective bargaining agreements, applicable state law and factors such as pay classification, job grade, location, and length of service.
-Posted Salary Range: USD $40\\.00 \\- USD $43\\.00 /Hr.
-🔗 Apply Direct: https://www.genesiscareers.jobs/genesishcc/jobs/42405/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=3c49ca85325774fb</description>
-      <companyName>Genesis Healthcare</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Baltimore, MD, US</jobLocation>
-      <salaryMin>40</salaryMin>
-      <salaryMax>43</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse - LPN at Genesis Healthcare</title>
-      <link>https://www.genesiscareers.jobs/genesishcc/jobs/42407/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Genesis Healthcare-Licensed Practical Nurse - LPN-Lanham, MD, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Lanham, MD, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 32 - 35 (hourly)
-
-📝 Description: Overview:
+Posted Salary Range: USD $40\\.00 \\- USD $43\\.00 /Hr.","Health Care","https://www.indeed.com/cmp/Genesis-Healthcare-6","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26754bcd7f4553315c065858e0744ed5","http://www.genesishcc.com/","101 E. State St., Kennett Square, PA","10,000+","","Our mission is to improve the lives we touch through the delivery of high quality healthcare and everyday compassion.","","","","","","",""
+"in-4233463e1b851050","indeed","https://www.indeed.com/viewjob?jk=4233463e1b851050","https://www.genesiscareers.jobs/genesishcc/jobs/42407/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Licensed Practical Nurse - LPN","Genesis Healthcare","Lanham, MD, US","2026-02-24","parttime","direct_data","hourly",32.0,35.0,"USD",False,"","","","","Overview:
 **\\*\\*\\*Exciting new wages are here — come join our team!\\*\\*\\***  
 
 At Genesis Healthcare, we are dedicated to improving the lives we touch through the delivery of high\\-quality care and exceptional service. As a leading provider in the long\\-term care industry, we believe in fostering a collaborative, inclusive and supportive work environment where every team member is valued and empowered to make a difference. Whether you're an experienced professional or just starting your career, we offer opportunities for growth, development, and advancement in a range of roles. Join us in our mission to enhance the well\\-being of our patients and residents while making a meaningful impact in the communities we serve.
@@ -2336,30 +1696,8 @@ We also offer several voluntary insurances such as:
   
 
 Restrictions apply based on collective bargaining agreements, applicable state law and factors such as pay classification, job grade, location, and length of service.
-Posted Salary Range: USD $32\\.00 \\- USD $35\\.00 /Hr.
-🔗 Apply Direct: https://www.genesiscareers.jobs/genesishcc/jobs/42407/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4233463e1b851050</description>
-      <companyName>Genesis Healthcare</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Lanham, MD, US</jobLocation>
-      <salaryMin>32</salaryMin>
-      <salaryMax>35</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse Supervisor, RN at Genesis Healthcare</title>
-      <link>https://www.genesiscareers.jobs/genesishcc/jobs/42406/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Genesis Healthcare-Registered Nurse Supervisor, RN-Brooklyn Park, MD, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Brooklyn Park, MD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 41 - 45 (hourly)
-
-📝 Description: Overview:
+Posted Salary Range: USD $32\\.00 \\- USD $35\\.00 /Hr.","Health Care","https://www.indeed.com/cmp/Genesis-Healthcare-6","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26754bcd7f4553315c065858e0744ed5","http://www.genesishcc.com/","101 E. State St., Kennett Square, PA","10,000+","","Our mission is to improve the lives we touch through the delivery of high quality healthcare and everyday compassion.","","","","","","",""
+"in-306480f857a305ed","indeed","https://www.indeed.com/viewjob?jk=306480f857a305ed","https://www.genesiscareers.jobs/genesishcc/jobs/42406/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse Supervisor, RN","Genesis Healthcare","Brooklyn Park, MD, US","2026-02-24","fulltime","direct_data","hourly",41.0,45.0,"USD",False,"","","","","Overview:
  **RN Supervisor FT 3\\-11\\.** **\\*\\*\\*Exciting new wages are here — come join our team!\\*\\*\\***  
 
 
@@ -2401,30 +1739,8 @@ We also offer several voluntary insurances such as:
   
 
 Restrictions apply based on collective bargaining agreements, applicable state law and factors such as pay classification, job grade, location, and length of service.
-Posted Salary Range: USD $41\\.00 \\- USD $45\\.00 /Hr.
-🔗 Apply Direct: https://www.genesiscareers.jobs/genesishcc/jobs/42406/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=306480f857a305ed</description>
-      <companyName>Genesis Healthcare</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Brooklyn Park, MD, US</jobLocation>
-      <salaryMin>41</salaryMin>
-      <salaryMax>45</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Assistant Director of Nursing (ADON) at Naphcare, Inc.</title>
-      <link>https://careers-naphcare.icims.com/jobs/27400/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Naphcare, Inc.-Assistant Director of Nursing (ADON)-Tucson, AZ, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Tucson, AZ, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 45 - 49 (hourly)
-
-📝 Description: Overview:
+Posted Salary Range: USD $41\\.00 \\- USD $45\\.00 /Hr.","Health Care","https://www.indeed.com/cmp/Genesis-Healthcare-6","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26754bcd7f4553315c065858e0744ed5","http://www.genesishcc.com/","101 E. State St., Kennett Square, PA","10,000+","","Our mission is to improve the lives we touch through the delivery of high quality healthcare and everyday compassion.","","","","","","",""
+"in-941225d5e34ab140","indeed","https://www.indeed.com/viewjob?jk=941225d5e34ab140","https://careers-naphcare.icims.com/jobs/27400/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Assistant Director of Nursing (ADON)","Naphcare, Inc.","Tucson, AZ, US","2026-02-24","fulltime","direct_data","hourly",45.0,49.0,"USD",False,"","","","","Overview:
 
 NaphCare is hiring an **Assistant Director of Nursing (ADON**) to join our team of medical professionals in **Tucson, AZ** where we manage all aspects of healthcare for the individuals who are currently incarcerated in the **ASPC\\- Tucson.**  
 
@@ -2471,7 +1787,7 @@ Qualifications:
 Must have the ability to stand for long periods, lift and move patients (up to 50 pounds), bend, squat, reach, push, pull, walk significant distances, and perform physically demanding tasks like CPR, all while maintaining good balance and endurance throughout a shift. **Why Join NaphCare?**
 NaphCare is one of the largest providers of healthcare services to correctional facilities throughout the US, and we are growing. If you have never considered a career in correctional healthcare, now may be the time. In addition to competitive salaries and generous employee benefits, we strongly support career advancement within the company.  
 
-**NaphCare Benefits for Full\\-Time Employees Include:*** Health, dental \\&amp; vision insurance that starts day one!
+**NaphCare Benefits for Full\\-Time Employees Include:*** Health, dental \\& vision insurance that starts day one!
 * Prescriptions free of charge through our health plan, beginning day one
 * Lowest Cost Benefits!
 * Employee Assistance Program (EAP) services
@@ -2479,36 +1795,14 @@ NaphCare is one of the largest providers of healthcare services to correctional 
 * Tuition Assistance
 * Referral bonuses
 * Term life insurance at no cost to the employee
-* Generous paid time off \\&amp; paid holidays
+* Generous paid time off \\& paid holidays
 * Free continuing education and CMEs
 
  **Want a better idea of what it’s like to work in a jail?** **See what our RNs do:**
 NaphCare \\- Life as an RN \\- YouTube  
 
-If you would like to speak with me to learn more about this position and NaphCare, **apply directly to the position to initiate the application process**, and I’ll be in touch. **Follow Us:** Instagram **\\|** Facebook **\\|** LinkedIn **\\|** Advancing Correctional Healthcare \\| NaphCare
-🔗 Apply Direct: https://careers-naphcare.icims.com/jobs/27400/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=941225d5e34ab140</description>
-      <companyName>Naphcare, Inc.</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Tucson, AZ, US</jobLocation>
-      <salaryMin>45</salaryMin>
-      <salaryMax>49</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Care Director at Aegis Living</title>
-      <link>https://careers2-aegisliving.icims.com/jobs/19066/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Aegis Living-Care Director-Bellevue, WA, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Bellevue, WA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 81,000 - 84,000 (yearly)
-
-📝 Description: Overview:
+If you would like to speak with me to learn more about this position and NaphCare, **apply directly to the position to initiate the application process**, and I’ll be in touch. **Follow Us:** Instagram **\\|** Facebook **\\|** LinkedIn **\\|** Advancing Correctional Healthcare \\| NaphCare","","https://www.indeed.com/cmp/Naphcare,-Inc.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ce869712d0878734faeb3fc6627b3e42","http://www.naphcare.com","Birmingham, AL","5,001 to 10,000","$500M to $1B (USD)","Since our founding in 1989, NaphCare, Inc. has been providing a wide range of services to our patients and partners within the correctional healthcare industry. ","","","","","","",""
+"in-1bf25dddbc959dc5","indeed","https://www.indeed.com/viewjob?jk=1bf25dddbc959dc5","https://careers2-aegisliving.icims.com/jobs/19066/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Care Director","Aegis Living","Bellevue, WA, US","2026-02-24","fulltime","direct_data","yearly",81000.0,84000.0,"USD",False,"","","","","Overview:
 
 The Care Director is an integral member of the health services team who reports to the General Manager (GM). The Care Director leads and manages all care team members to include Care Managers (CM), Medication Care Managers (MCM) and Associate Care Directors (ACD). The Care Director works in partnership with the Health Services Director to ensure residents receive assessed care services and to build positive relationships with residents and families through professional and timely communication.  
 
@@ -2536,39 +1830,17 @@ Qualifications:
 * Employee appreciation days (additional vacation time)
 
 
-Min Salary: USD $81,000\\.00/Yr. Max Salary: USD $84,000\\.00/Yr.
-🔗 Apply Direct: https://careers2-aegisliving.icims.com/jobs/19066/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1bf25dddbc959dc5</description>
-      <companyName>Aegis Living</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Bellevue, WA, US</jobLocation>
-      <salaryMin>81000</salaryMin>
-      <salaryMax>84000</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Clinical Liaison at Hospice of the West</title>
-      <link>https://careers-hospiceofthewest.icims.com/jobs/26221/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Hospice of the West-RN Clinical Liaison-Mesa, AZ, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Mesa, AZ, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 84,000 - 96,000 (yearly)
-
-📝 Description: Overview:
+Min Salary: USD $81,000\\.00/Yr. Max Salary: USD $84,000\\.00/Yr.","Health Care","https://www.indeed.com/cmp/Aegis-Living","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7116b5093fdbae94ffc14331eb5fee93","http://www.aegisliving.com","Bellevue","1,001 to 5,000","$100M to $500M (USD)","","","","","","","",""
+"in-c754014d402eadf7","indeed","https://www.indeed.com/viewjob?jk=c754014d402eadf7","https://careers-hospiceofthewest.icims.com/jobs/26221/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN Clinical Liaison","Hospice of the West","Mesa, AZ, US","2026-02-24","fulltime","direct_data","yearly",84000.0,96000.0,"USD",False,"","","","","Overview:
 **Hospice of the West** **is looking for a self\\-motivated and passionate Hospice RN Clinical Liaison to join our Team. We offer the opportunity to take on new challenges and a culture of teamwork that sets us apart.**  
 
 The RN Clinical Liaison is primarily responsible for hospital and medical facility\\-based outreach to identify new referral sources and maintain ongoing relationships that will increase census and preference for hospice services. Registered Nurse Liaisons use their clinical knowledge, empathetic communication skills, and marketing abilities to initiate one\\-on\\-one dialogue with referral sources, families, and prospective patients to help explain and educate on hospice services. Our RN Clinical Liaisons are hospice experts and serve as a resource to their referral sources to ensure extraordinary patient and customer service. **Schedule:** Monday \\- Friday, 8 am \\- 4:30 pm**Territory:** Mesa **Who we are:**
-At Hospice of the West, we take immense pride in being a mission\\-driven, patient\\-centered leader in end\\-of\\-life care. Guided by our vision to be the most trusted partner in hospice care, we surround our patients and their loved ones with unwavering support, comfort, and compassion. At Hospice of the West, we look for dedicated professionals who share our belief that true hospice care extends beyond medical needs—it’s about bringing dignity, peace, and human connection to every life we touch. **We offer a supportive, growth\\-oriented environment along with a comprehensive benefits package that includes:*** ***Comprehensive Health, Dental, \\&amp; Vision Insurance***
+At Hospice of the West, we take immense pride in being a mission\\-driven, patient\\-centered leader in end\\-of\\-life care. Guided by our vision to be the most trusted partner in hospice care, we surround our patients and their loved ones with unwavering support, comfort, and compassion. At Hospice of the West, we look for dedicated professionals who share our belief that true hospice care extends beyond medical needs—it’s about bringing dignity, peace, and human connection to every life we touch. **We offer a supportive, growth\\-oriented environment along with a comprehensive benefits package that includes:*** ***Comprehensive Health, Dental, \\& Vision Insurance***
 * ***Career Path Program that supports internal growth, advancement, and increased pay***
-* ***A generous time\\-off package with 15 days of PTO \\&amp; 10 Holidays to rest and recharge***
-* ***Tuition Reimbursement \\&amp; Certification Assistance to support your professional growth***
-* ***Wellness \\&amp; Discount Programs to help you lead a healthy and balanced life***
-* ***Cell Phone, Mileage, \\&amp; Gym Membership Reimbursement for your convenience***
+* ***A generous time\\-off package with 15 days of PTO \\& 10 Holidays to rest and recharge***
+* ***Tuition Reimbursement \\& Certification Assistance to support your professional growth***
+* ***Wellness \\& Discount Programs to help you lead a healthy and balanced life***
+* ***Cell Phone, Mileage, \\& Gym Membership Reimbursement for your convenience***
 * ***Company matching 401(k) to secure your future***
 
 
@@ -2588,30 +1860,8 @@ Qualifications:
 * Prior clinical experience is a plus.
 * Must be willing to drive with reliable transportation, valid driver’s license, and auto insurance.
 
-**$84,000 \\- $96,000 per year (Average Base Pay Range) plus uncapped commission! The base pay range listed represents a general guideline for the role and is not a guarantee of the final offer. Compensation will be determined based on the selected candidate’s relevant experience and the specific responsibilities of the position. The final compensation rate will be discussed and confirmed at the conclusion of the interview process.**
-🔗 Apply Direct: https://careers-hospiceofthewest.icims.com/jobs/26221/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c754014d402eadf7</description>
-      <companyName>Hospice of the West</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Mesa, AZ, US</jobLocation>
-      <salaryMin>84000</salaryMin>
-      <salaryMax>96000</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Nursing Student at PeaceHealth</title>
-      <link>https://careers.peacehealth.org/jobs/16180392-nursing-student?tm_job=PH-INFOR-112089&amp;tm_event=view&amp;tm_company=12800</link>
-      <guid isPermaLink="false">PeaceHealth-Nursing Student-Ketchikan, AK, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Ketchikan, AK, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 22 - 33 (hourly)
-
-📝 Description: **Description**
+**$84,000 \\- $96,000 per year (Average Base Pay Range) plus uncapped commission! The base pay range listed represents a general guideline for the role and is not a guarantee of the final offer. Compensation will be determined based on the selected candidate’s relevant experience and the specific responsibilities of the position. The final compensation rate will be discussed and confirmed at the conclusion of the interview process.**","","https://www.indeed.com/cmp/Hospice-of-the-West","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4cc7584f83d751c11600ae6423069b15","https://hospicewestaz.com/","Casa Grande, Mesa, Phoenix, Prescott Valley, & Tucson","1,001 to 5,000","$25M to $100M (USD)","Hospice of the West is a premier provider of end-of-life care.","","","","","","",""
+"in-991f54733deeea97","indeed","https://www.indeed.com/viewjob?jk=991f54733deeea97","https://careers.peacehealth.org/jobs/16180392-nursing-student?tm_job=PH-INFOR-112089&tm_event=view&tm_company=12800","Nursing Student","PeaceHealth","Ketchikan, AK, US","2026-02-24","fulltime","direct_data","hourly",22.0,33.0,"USD",False,"","","","","**Description**
 
 
 PeaceHealth is seeking a Nursing Student \\- Medical for a Per Diem/Relief, 0\\.00 FTE, Variable position. The general salary range for this job opening at PeaceHealth is $22\\.33 – $33\\.49\\. The actual hiring rate is dependent upon several factors, including but not limited to, the job/position responsibilities, location, terms of the applicable collective bargaining agreement, education, training, work experience, seniority, work performance, etc.
@@ -2673,29 +1923,9 @@ PeaceHealth is committed to the overall wellbeing of our caregivers: physical, e
 See how PeaceHealth is committed toInclusivity, Respect for Diversity and Cultural Humility.
 
 
-For full consideration of your skills and abilities, please attach a current resume with your application. EEO Affirmative Action Employer/Vets/Disabled in accordance with applicable local, state or federal laws.
-🔗 Apply Direct: https://careers.peacehealth.org/jobs/16180392-nursing-student?tm_job=PH-INFOR-112089&amp;tm_event=view&amp;tm_company=12800
-🔗 Job Board: https://www.indeed.com/viewjob?jk=991f54733deeea97</description>
-      <companyName>PeaceHealth</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Ketchikan, AK, US</jobLocation>
-      <salaryMin>22</salaryMin>
-      <salaryMax>33</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse - 2 S Behavioral Health Department at McLaren Health Care</title>
-      <link>https://careers.mclaren.org/jobs/registered-nurse-2-s-behavioral-health-department-34077</link>
-      <guid isPermaLink="false">McLaren Health Care-Registered Nurse - 2 S Behavioral Health Department-Lapeer, MI, US</guid>
-      <pubDate>Tue, 24 Feb 2026 09:48:36 +0000</pubDate>
-      <description>📍 Location: Lapeer, MI, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: About Us
+For full consideration of your skills and abilities, please attach a current resume with your application. EEO Affirmative Action Employer/Vets/Disabled in accordance with applicable local, state or federal laws.","Health Care","https://www.indeed.com/cmp/Peacehealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7f6bb7fc1fe5c0e64d4b90ed9a1ddab7","http://careers.peacehealth.org","1115  SE 164th Avenue
+Vancouver, WA 98683","10,000+","$1B to $5B (USD)","PeaceHealth offers exceptional and compassionate care to both rural and urban communities across Washington, Oregon & Alaska.","","","","","","",""
+"in-625ee280bd343c00","indeed","https://www.indeed.com/viewjob?jk=625ee280bd343c00","https://careers.mclaren.org/jobs/registered-nurse-2-s-behavioral-health-department-34077","Registered Nurse - 2 S Behavioral Health Department","McLaren Health Care","Lapeer, MI, US","2026-02-24","fulltime","","","","","",False,"","","","","About Us
 
 
 
@@ -2761,14 +1991,4 @@ Additional Information
 * Hours Per Pay Period: 72
 * On Call: No
 * Weekends: Yes
-McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.
-🔗 Apply Direct: https://careers.mclaren.org/jobs/registered-nurse-2-s-behavioral-health-department-34077
-🔗 Job Board: https://www.indeed.com/viewjob?jk=625ee280bd343c00</description>
-      <companyName>McLaren Health Care</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Lapeer, MI, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-  </channel>
-</rss>
+McLaren Health Care is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identification, age, sex, marital status, national origin, disability, genetic information, height or weight, protected veteran or other classification protected by law.","Health Care","https://www.indeed.com/cmp/Mclaren-Health-Care","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/28532a7a1265e65cbdee4a32ef445cff","https://www.mclaren.org","One McLaren Parkway Grand Blanc, MI 48439","10,000+","$100M to $500M (USD)","McLaren - Doing What's Best.","","","","","","",""
