@@ -1,26 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Daily Nurse Jobs Feed</title>
-    <description>Daily feed of nursing jobs with direct company application links</description>
-    <link>https://github.com/your-username/your-repo</link>
-    <lastBuildDate>Wed, 25 Feb 2026 09:52:15 +0000</lastBuildDate>
-    <generator>Nurse Job Search Bot</generator>
-    <language>en-us</language>
-    <item>
-      <title>Registered Nurse (RN) Level One Trauma Emergency Department at WakeMed Health &amp; Hospitals</title>
-      <link>https://jobs.wakemed.org/jobs/29766/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">WakeMed Health &amp; Hospitals-Registered Nurse (RN) Level One Trauma Emergency Department-Raleigh, NC, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Raleigh, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Overview:** The Clinical Nurse is responsible for providing total comprehensive nursing to patients and their families through the implementation of a plan of care. The plan is based upon the patient's developmental and health care needs identified through the assessment of the patient's physical, psychological, socioeconomic status, and physician orders regarding care, treatment, and education. The Clinical Nurse understands the needs of the organization and supports the mission, values, and management of patient care services. The Clinical Nurse actively supports and incorporates ANA Scope and Standards of Nursing Practice, North Carolina Board of Nursing Practice Act, WakeMed's Division of Nursing Professional Practice model, and WakeMed's Patient \\&amp; Family Centered Care (PFCC) model. The four key concepts of PFCC are: Dignity and Respect \\= Listen to and honor patient and family perspectives and choices; Information Sharing \\= Communicate and share complete and unbiased information with patients and families in ways that are affirming and useful; Participation \\= Patients and families are encouraged and supported in participating in care and decision\\-making at the level they choose; Collaboration \\= Patients and families and the Clinical Nurse collaborate in the delivery of care. Department Description:
+"id","site","job_board_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type","job_url"
+"in-b7ca691cedfdd373","indeed","https://www.indeed.com/viewjob?jk=b7ca691cedfdd373","https://jobs.wakemed.org/jobs/29766/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse (RN) Level One Trauma Emergency Department","WakeMed Health & Hospitals","Raleigh, NC, US","2026-02-25","fulltime","","","","","",False,"","","","","**Overview:** The Clinical Nurse is responsible for providing total comprehensive nursing to patients and their families through the implementation of a plan of care. The plan is based upon the patient's developmental and health care needs identified through the assessment of the patient's physical, psychological, socioeconomic status, and physician orders regarding care, treatment, and education. The Clinical Nurse understands the needs of the organization and supports the mission, values, and management of patient care services. The Clinical Nurse actively supports and incorporates ANA Scope and Standards of Nursing Practice, North Carolina Board of Nursing Practice Act, WakeMed's Division of Nursing Professional Practice model, and WakeMed's Patient \\& Family Centered Care (PFCC) model. The four key concepts of PFCC are: Dignity and Respect \\= Listen to and honor patient and family perspectives and choices; Information Sharing \\= Communicate and share complete and unbiased information with patients and families in ways that are affirming and useful; Participation \\= Patients and families are encouraged and supported in participating in care and decision\\-making at the level they choose; Collaboration \\= Patients and families and the Clinical Nurse collaborate in the delivery of care. Department Description:
   
   
 
-Serving the community since 1961, WakeMed Health \\&amp; Hospitals is the leading provider of health services in Wake County. With a mission to improve the health and well\\-being of our community, we are committed to providing outstanding and compassionate care. For more information, visit www.wakemed.org.
+Serving the community since 1961, WakeMed Health \\& Hospitals is the leading provider of health services in Wake County. With a mission to improve the health and well\\-being of our community, we are committed to providing outstanding and compassionate care. For more information, visit www.wakemed.org.
   
   
 
@@ -28,25 +11,8 @@ EOE
   
   
 
-**Licensure:** Registered Nurse Required Education: Diploma Nursing Required \\- Or Associate's Degree Nursing Required \\- And Bachelor's Degree Nursing Preferred Experience: 2 Years Nursing Required \\- Or No Experience Required With Preferred Education
-🔗 Apply Direct: https://jobs.wakemed.org/jobs/29766/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b7ca691cedfdd373</description>
-      <companyName>WakeMed Health &amp; Hospitals</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Raleigh, NC, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinical Coordinator - Infusion Center Tappahannock - Days at VCU Health System</title>
-      <link>https://careers.vcuhealth.org/us/en/job/R41872/Clinical-Coordinator-Infusion-Center-Tappahannock-Days</link>
-      <guid isPermaLink="false">VCU Health System-Clinical Coordinator - Infusion Center Tappahannock - Days-Tappahannock, VA, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Tappahannock, VA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: \\*\\*$20,000 Sign On Bonus for offers accepted by February 28, 2026\\. Terms and Conditions apply\\*\\*  
+**Licensure:** Registered Nurse Required Education: Diploma Nursing Required \\- Or Associate's Degree Nursing Required \\- And Bachelor's Degree Nursing Preferred Experience: 2 Years Nursing Required \\- Or No Experience Required With Preferred Education","","https://www.indeed.com/cmp/Wakemed-Health-&-Hospitals-66d864ee","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/81f75a8f85539918dbe60344e6f88a55","https://www.wakemed.org/","Raleigh, NC","10,000+","Decline to state","WakeMed Health & Hospitals is a private, not-for-profit health system based in Raleigh, NC. Join us today!","","","","","","",""
+"in-aaef46ae3dc4e89b","indeed","https://www.indeed.com/viewjob?jk=aaef46ae3dc4e89b","https://careers.vcuhealth.org/us/en/job/R41872/Clinical-Coordinator-Infusion-Center-Tappahannock-Days","Clinical Coordinator - Infusion Center Tappahannock - Days","VCU Health System","Tappahannock, VA, US","2026-02-25","fulltime","","","","","",False,"","","","","\\*\\*$20,000 Sign On Bonus for offers accepted by February 28, 2026\\. Terms and Conditions apply\\*\\*  
 
   
 
@@ -148,25 +114,9 @@ Emotional: Fast pace environment, Steady pace, Able to handle multiple prioritie
 
 
 Days
-EEO Employer/Disabled/Protected Veteran/41 CFR 60\\-1\\.4\\.
-🔗 Apply Direct: https://careers.vcuhealth.org/us/en/job/R41872/Clinical-Coordinator-Infusion-Center-Tappahannock-Days
-🔗 Job Board: https://www.indeed.com/viewjob?jk=aaef46ae3dc4e89b</description>
-      <companyName>VCU Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Tappahannock, VA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse Full Time Nights at Ernest Health</title>
-      <link>https://careers.ernesthealth.com/careers-home/jobs/23667/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Ernest Health-Registered Nurse Full Time Nights-Akron, OH, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Akron, OH, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+EEO Employer/Disabled/Protected Veteran/41 CFR 60\\-1\\.4\\.","Health Care","https://www.indeed.com/cmp/Vcu-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cca655a2fd1ab83219fbffa76f85fc1f","http://careers.vcuhealth.org","1250 E Marshall Street
+Richmond, VA 23219","10,000+","$500M to $1B (USD)","We are a strong, passionate organization of more than 13,000 who take pride in caring for every person who come through our doors.","","","","","","",""
+"in-a738028efdc0109a","indeed","https://www.indeed.com/viewjob?jk=a738028efdc0109a","https://careers.ernesthealth.com/careers-home/jobs/23667/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse Full Time Nights","Ernest Health","Akron, OH, US","2026-02-25","fulltime","","","","","",False,"","","","","Overview:
 **Registered Nurse \\- Full Time** **Summa Rehab Hospital** in **Akron, Ohio** (a partnership with Summa Health) is a state\\-of\\-the\\-art inpatient rehabilitation facility dedicated to helping patients overcome disabling injuries and illnesses. We specialize in intensive rehab for stroke recovery, traumatic brain and spinal cord injuries, orthopedic injuries, and other complex conditions. Our compassionate, multidisciplinary team provides comprehensive physical, occupational, and speech therapy in a supportive, healing environment. Joint Commission\\-accredited and certified in stroke and brain injury rehabilitation, Summa Rehab Hospital is nationally recognized (including being named one of America’s Best Rehab Hospitals by Newsweek) for delivering patient\\-centered care that helps individuals regain independence.  
 
 Located in the heart of Akron, “The Rubber City,” Summa Rehab Hospital offers the opportunity to work in a community rich in history, culture, and natural beauty. Explore local gems like Stan Hywet Hall and Gardens, the Akron Art Museum, and the Akron Zoo, or enjoy the scenic outdoors at Cuyahoga Valley National Park and the Towpath Trail. With attractions like the Goodyear Blimp and Blossom Music Center, Akron provides a unique blend of heritage and entertainment. It’s the perfect place to grow your career and enjoy a fulfilling lifestyle. ***Our hospital offers comprehensive benefits, designed to support your health and financial well\\-being.*** ***Benefits:**** *Medical, Dental, Vision plan coverage*
@@ -177,7 +127,7 @@ Located in the heart of Akron, “The Rubber City,” Summa Rehab Hospital offer
 * *Short\\-and\\-long term disability*
 * *Competitive compensation and shift differentials. CRRN/CCRN pay!*
 
- ***Wellness \\&amp; Work Life balance:**** *Employee Assistance Program*
+ ***Wellness \\& Work Life balance:**** *Employee Assistance Program*
 * *Wellness Program with quarterly wellness challenges with participation incentives.*
 * *Earned Time Off \\- Start accruing vacation time on start date.*
 
@@ -215,25 +165,8 @@ Located in the heart of Akron, “The Rubber City,” Summa Rehab Hospital offer
 
 Responsibilities:
 
-The Registered Nurse provides professional nursing care to patients within assigned unit. The role is also responsible for patient assessments, planning, supervising, interventions, and evaluations designed to prevent complications of physical disability, restore optimal functioning, and help the patient adapt to an altered life style. Integrates the hospital’s mission and “Guiding Principles” into daily practice.
-🔗 Apply Direct: https://careers.ernesthealth.com/careers-home/jobs/23667/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a738028efdc0109a</description>
-      <companyName>Ernest Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Akron, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse Full Time Days at Ernest Health</title>
-      <link>https://careers.ernesthealth.com/careers-home/jobs/23668/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Ernest Health-Registered Nurse Full Time Days-Akron, OH, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Akron, OH, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+The Registered Nurse provides professional nursing care to patients within assigned unit. The role is also responsible for patient assessments, planning, supervising, interventions, and evaluations designed to prevent complications of physical disability, restore optimal functioning, and help the patient adapt to an altered life style. Integrates the hospital’s mission and “Guiding Principles” into daily practice.","Health Care","https://www.indeed.com/cmp/Ernest-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b265e47975fa5087eedd8bb24cdca636","https://ernesthealth.com/","","1,001 to 5,000","","At Ernest Health, we offer a robust recognition, wellness, and retention programs. These programs focus to enhance the employees work experience, recognize, and celebrate achievements.","","","","","","",""
+"in-07b126fe1993281a","indeed","https://www.indeed.com/viewjob?jk=07b126fe1993281a","https://careers.ernesthealth.com/careers-home/jobs/23668/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse Full Time Days","Ernest Health","Akron, OH, US","2026-02-25","fulltime","","","","","",False,"","","","","Overview:
 **Registered Nurse \\- Full Time** **Summa Rehab Hospital** in **Akron, Ohio** (a partnership with Summa Health) is a state\\-of\\-the\\-art inpatient rehabilitation facility dedicated to helping patients overcome disabling injuries and illnesses. We specialize in intensive rehab for stroke recovery, traumatic brain and spinal cord injuries, orthopedic injuries, and other complex conditions. Our compassionate, multidisciplinary team provides comprehensive physical, occupational, and speech therapy in a supportive, healing environment. Joint Commission\\-accredited and certified in stroke and brain injury rehabilitation, Summa Rehab Hospital is nationally recognized (including being named one of America’s Best Rehab Hospitals by Newsweek) for delivering patient\\-centered care that helps individuals regain independence.  
 
 Located in the heart of Akron, “The Rubber City,” Summa Rehab Hospital offers the opportunity to work in a community rich in history, culture, and natural beauty. Explore local gems like Stan Hywet Hall and Gardens, the Akron Art Museum, and the Akron Zoo, or enjoy the scenic outdoors at Cuyahoga Valley National Park and the Towpath Trail. With attractions like the Goodyear Blimp and Blossom Music Center, Akron provides a unique blend of heritage and entertainment. It’s the perfect place to grow your career and enjoy a fulfilling lifestyle. ***Our hospital offers comprehensive benefits, designed to support your health and financial well\\-being.*** ***Benefits:**** *Medical, Dental, Vision plan coverage*
@@ -244,7 +177,7 @@ Located in the heart of Akron, “The Rubber City,” Summa Rehab Hospital offer
 * *Short\\-and\\-long term disability*
 * *Competitive compensation and shift differentials. CRRN/CCRN pay!*
 
- ***Wellness \\&amp; Work Life balance:**** *Employee Assistance Program*
+ ***Wellness \\& Work Life balance:**** *Employee Assistance Program*
 * *Wellness Program with quarterly wellness challenges with participation incentives.*
 * *Earned Time Off \\- Start accruing vacation time on start date.*
 
@@ -282,25 +215,8 @@ Located in the heart of Akron, “The Rubber City,” Summa Rehab Hospital offer
 
 Responsibilities:
 
-The Registered Nurse provides professional nursing care to patients within assigned unit. The role is also responsible for patient assessments, planning, supervising, interventions, and evaluations designed to prevent complications of physical disability, restore optimal functioning, and help the patient adapt to an altered life style. Integrates the hospital’s mission and “Guiding Principles” into daily practice.
-🔗 Apply Direct: https://careers.ernesthealth.com/careers-home/jobs/23668/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=07b126fe1993281a</description>
-      <companyName>Ernest Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Akron, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse RN at Ernest Health</title>
-      <link>https://careers.ernesthealth.com/careers-home/jobs/23669/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Ernest Health-Registered Nurse RN-Akron, OH, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Akron, OH, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+The Registered Nurse provides professional nursing care to patients within assigned unit. The role is also responsible for patient assessments, planning, supervising, interventions, and evaluations designed to prevent complications of physical disability, restore optimal functioning, and help the patient adapt to an altered life style. Integrates the hospital’s mission and “Guiding Principles” into daily practice.","Health Care","https://www.indeed.com/cmp/Ernest-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b265e47975fa5087eedd8bb24cdca636","https://ernesthealth.com/","","1,001 to 5,000","","At Ernest Health, we offer a robust recognition, wellness, and retention programs. These programs focus to enhance the employees work experience, recognize, and celebrate achievements.","","","","","","",""
+"in-4e04c55d234d28cd","indeed","https://www.indeed.com/viewjob?jk=4e04c55d234d28cd","https://careers.ernesthealth.com/careers-home/jobs/23669/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse RN","Ernest Health","Akron, OH, US","2026-02-25","fulltime","","","","","",False,"","","","","Overview:
 **Registered Nurse \\- Full Time** **Summa Rehab Hospital** in **Akron, Ohio** (a partnership with Summa Health) is a state\\-of\\-the\\-art inpatient rehabilitation facility dedicated to helping patients overcome disabling injuries and illnesses. We specialize in intensive rehab for stroke recovery, traumatic brain and spinal cord injuries, orthopedic injuries, and other complex conditions. Our compassionate, multidisciplinary team provides comprehensive physical, occupational, and speech therapy in a supportive, healing environment. Joint Commission\\-accredited and certified in stroke and brain injury rehabilitation, Summa Rehab Hospital is nationally recognized (including being named one of America’s Best Rehab Hospitals by Newsweek) for delivering patient\\-centered care that helps individuals regain independence.  
 
 Located in the heart of Akron, “The Rubber City,” Summa Rehab Hospital offers the opportunity to work in a community rich in history, culture, and natural beauty. Explore local gems like Stan Hywet Hall and Gardens, the Akron Art Museum, and the Akron Zoo, or enjoy the scenic outdoors at Cuyahoga Valley National Park and the Towpath Trail. With attractions like the Goodyear Blimp and Blossom Music Center, Akron provides a unique blend of heritage and entertainment. It’s the perfect place to grow your career and enjoy a fulfilling lifestyle. ***Our hospital offers comprehensive benefits, designed to support your health and financial well\\-being.*** ***Benefits:**** *Medical, Dental, Vision plan coverage*
@@ -311,7 +227,7 @@ Located in the heart of Akron, “The Rubber City,” Summa Rehab Hospital offer
 * *Short\\-and\\-long term disability*
 * *Competitive compensation and shift differentials. CRRN/CCRN pay!*
 
- ***Wellness \\&amp; Work Life balance:**** *Employee Assistance Program*
+ ***Wellness \\& Work Life balance:**** *Employee Assistance Program*
 * *Wellness Program with quarterly wellness challenges with participation incentives.*
 * *Earned Time Off \\- Start accruing vacation time on start date.*
 
@@ -349,25 +265,8 @@ Located in the heart of Akron, “The Rubber City,” Summa Rehab Hospital offer
 
 Responsibilities:
 
-The Registered Nurse provides professional nursing care to patients within assigned unit. The role is also responsible for patient assessments, planning, supervising, interventions, and evaluations designed to prevent complications of physical disability, restore optimal functioning, and help the patient adapt to an altered life style. Integrates the hospital’s mission and “Guiding Principles” into daily practice.
-🔗 Apply Direct: https://careers.ernesthealth.com/careers-home/jobs/23669/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4e04c55d234d28cd</description>
-      <companyName>Ernest Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Akron, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>REGISTERED NURSE (RN) at The GEO Group, Inc.</title>
-      <link>https://jobs.geogroup.com/jobs/19045/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">The GEO Group, Inc.-REGISTERED NURSE (RN)-Lovejoy, GA, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Lovejoy, GA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Benefits Information:
+The Registered Nurse provides professional nursing care to patients within assigned unit. The role is also responsible for patient assessments, planning, supervising, interventions, and evaluations designed to prevent complications of physical disability, restore optimal functioning, and help the patient adapt to an altered life style. Integrates the hospital’s mission and “Guiding Principles” into daily practice.","Health Care","https://www.indeed.com/cmp/Ernest-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b265e47975fa5087eedd8bb24cdca636","https://ernesthealth.com/","","1,001 to 5,000","","At Ernest Health, we offer a robust recognition, wellness, and retention programs. These programs focus to enhance the employees work experience, recognize, and celebrate achievements.","","","","","","",""
+"in-2c1e5d50ece242fa","indeed","https://www.indeed.com/viewjob?jk=2c1e5d50ece242fa","https://jobs.geogroup.com/jobs/19045/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","REGISTERED NURSE (RN)","The GEO Group, Inc.","Lovejoy, GA, US","2026-02-25","fulltime","","","","","",False,"","","","","Benefits Information:
 
 Full\\-time employees will enjoy a competitive benefits package with options for you and your family including:
 
@@ -429,25 +328,9 @@ Excellent diagnostic skills, patience and natural empathy are all key qualities 
 
 
 GEO Secured Services
-Pay: Pay USD $47\\.84/Hr.
-🔗 Apply Direct: https://jobs.geogroup.com/jobs/19045/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=2c1e5d50ece242fa</description>
-      <companyName>The GEO Group, Inc.</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Lovejoy, GA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>REGISTERED NURSE (RN) at The GEO Group, Inc.</title>
-      <link>https://healthservices-geogroup.icims.com/jobs/19045/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">The GEO Group, Inc.-REGISTERED NURSE (RN)-Lovejoy, GA, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Lovejoy, GA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Benefits Information:
+Pay: Pay USD $47\\.84/Hr.","","https://www.indeed.com/cmp/The-Geo-Group,-Inc.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/893e7371b632bf9a92b9a3d465cabe23","http://www.geogroup.com/","4955 Technology Way 
+Boca Raton, FL 33431","10,000+","$1B to $5B (USD)","The world’s leading provider of secure management and community reentry services","","","","","","",""
+"in-dabc8a55e9620952","indeed","https://www.indeed.com/viewjob?jk=dabc8a55e9620952","https://healthservices-geogroup.icims.com/jobs/19045/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","REGISTERED NURSE (RN)","The GEO Group, Inc.","Lovejoy, GA, US","2026-02-25","fulltime","","","","","",False,"","","","","Benefits Information:
 
 Full\\-time employees will enjoy a competitive benefits package with options for you and your family including:
 
@@ -509,25 +392,9 @@ Excellent diagnostic skills, patience and natural empathy are all key qualities 
 
 
 GEO Secured Services
-Pay: Pay USD $47\\.84/Hr.
-🔗 Apply Direct: https://healthservices-geogroup.icims.com/jobs/19045/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=dabc8a55e9620952</description>
-      <companyName>The GEO Group, Inc.</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Lovejoy, GA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse / RN Float Pool at BSA Health System</title>
-      <link>https://jobs.ardenthealth.com/bsa-health-system/jobs/129592/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">BSA Health System-Registered Nurse / RN Float Pool-Amarillo, TX, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Amarillo, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+Pay: Pay USD $47\\.84/Hr.","","https://www.indeed.com/cmp/The-Geo-Group,-Inc.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/893e7371b632bf9a92b9a3d465cabe23","http://www.geogroup.com/","4955 Technology Way 
+Boca Raton, FL 33431","10,000+","$1B to $5B (USD)","The world’s leading provider of secure management and community reentry services","","","","","","",""
+"in-e0b8c8753f3925da","indeed","https://www.indeed.com/viewjob?jk=e0b8c8753f3925da","https://jobs.ardenthealth.com/bsa-health-system/jobs/129592/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse / RN Float Pool","BSA Health System","Amarillo, TX, US","2026-02-25","fulltime","","","","","",False,"","","","","Overview:
 
 Join our team as a day shift, full\\-time, Float Pool Registered Nurse in Amarillo, TX. **Why Join Us?** **Thrive in a People\\-First Environment and Make Healthcare Better*** *Thrive:* We empower our team with career growth opportunities, tuition assistance, and resources that support your wellness, education, and financial well\\-being.
 * *People\\-First:* We prioritize your well\\-being with paid time off, comprehensive health benefits, and a supportive, inclusive culture where you are valued and cared for.
@@ -549,26 +416,9 @@ Job Requirements:* High School (or GED equivalent) diploma.
 * Graduate of an accredited School of Nursing
 
 
-Preferred Job Requirements:* Previous acute care experience.
-🔗 Apply Direct: https://jobs.ardenthealth.com/bsa-health-system/jobs/129592/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e0b8c8753f3925da</description>
-      <companyName>BSA Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Amarillo, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse ATRMC (Emergency Department) at Asante</title>
-      <link>https://jobs.asante.org/en/jobs/17393546-registered-nurse-atrmc-emergency-department?tm_job=24436&amp;tm_event=view&amp;tm_company=45924</link>
-      <guid isPermaLink="false">Asante-Registered Nurse ATRMC (Emergency Department)-Grants Pass, OR, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Grants Pass, OR, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 53 - 77 (hourly)
-
-📝 Description: **Registered Nurse ATRMC (Emergency Department)**
+Preferred Job Requirements:* Previous acute care experience.","Health Care","https://www.indeed.com/cmp/Bsa-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/966688157b0b58307d70b133ecdb205c","http://www.bsahs.org","1600 Wallace Blvd
+Amarillo, Texas 79106","1,001 to 5,000","less than $1M (USD)","BSA Health System, located in Amarillo, TX, is an extensive health system providing clinical excellence to the Texas Panhandle and the tri-state area.","","","","","","",""
+"in-0140fed7ff803f18","indeed","https://www.indeed.com/viewjob?jk=0140fed7ff803f18","https://jobs.asante.org/en/jobs/17393546-registered-nurse-atrmc-emergency-department?tm_job=24436&tm_event=view&tm_company=45924","Registered Nurse ATRMC (Emergency Department)","Asante","Grants Pass, OR, US","2026-02-25","parttime","direct_data","hourly",53.0,77.0,"USD",False,"","","","","**Registered Nurse ATRMC (Emergency Department)**
 
 
 **Additional Position Details: FTE: 0\\.150000 \\| Part Time \\| 1st Shift \\- Days**
@@ -650,7 +500,7 @@ Must obtain within 4 months of hire:
 We offer a comprehensive Total Rewards package designed to support your well\\-being and professional growth, including:
 
 * **Competitive Pay:** Hourly and salaried positions earn market\\-based compensation.
-* **Health \\&amp; Wellness:** Medical, dental, and vision coverage for part\\-time and above employees and their eligible dependents beginning within 30 days of hire.
+* **Health \\& Wellness:** Medical, dental, and vision coverage for part\\-time and above employees and their eligible dependents beginning within 30 days of hire.
 * **Retirement Savings:** Employer\\-sponsored retirement plan with company contribution and match.
 * **Paid Time Off:** Generous ETO for part\\-time and above employees.
 * **Professional Development:** Continue to enhance your education through our tuition reimbursement and tuition repayment program
@@ -665,30 +515,8 @@ At Asante, we are guided by our values:
 
 
 
-*Asante is proud to be an Equal Opportunity Employer. We are committed to creating a diverse and inclusive workplace and to employing and advancing qualified individuals of all backgrounds, including women, minorities, individuals with disabilities, and protected veterans.*
-🔗 Apply Direct: https://jobs.asante.org/en/jobs/17393546-registered-nurse-atrmc-emergency-department?tm_job=24436&amp;tm_event=view&amp;tm_company=45924
-🔗 Job Board: https://www.indeed.com/viewjob?jk=0140fed7ff803f18</description>
-      <companyName>Asante</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Grants Pass, OR, US</jobLocation>
-      <salaryMin>53</salaryMin>
-      <salaryMax>77</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Clinic - Gastroenterology at PeaceHealth</title>
-      <link>https://careers.peacehealth.org/jobs/17393438-rn-clinic-gastroenterology?tm_job=PH-INFOR-125707&amp;tm_event=view&amp;tm_company=12800</link>
-      <guid isPermaLink="false">PeaceHealth-RN Clinic - Gastroenterology-Springfield, OR, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Springfield, OR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 46 - 69 (hourly)
-
-📝 Description: **Description**
+*Asante is proud to be an Equal Opportunity Employer. We are committed to creating a diverse and inclusive workplace and to employing and advancing qualified individuals of all backgrounds, including women, minorities, individuals with disabilities, and protected veterans.*","Health Care","https://www.indeed.com/cmp/Asante","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/05a1bbc1a7e4c462aeca7326afe550eb","https://www.asante.org","Medford, OR","5,001 to 10,000","$500M to $1B (USD)","Asante exists to provide quality healthcare services in a compassionate manner valued by the communities we serve.","","","","","","",""
+"in-9ec63ddbb40cb012","indeed","https://www.indeed.com/viewjob?jk=9ec63ddbb40cb012","https://careers.peacehealth.org/jobs/17393438-rn-clinic-gastroenterology?tm_job=PH-INFOR-125707&tm_event=view&tm_company=12800","RN Clinic - Gastroenterology","PeaceHealth","Springfield, OR, US","2026-02-25","fulltime","direct_data","hourly",46.0,69.0,"USD",False,"","","","","**Description**
 
 
 PeaceHealth is seeking a RN Clinic \\- Gastroenterology for a Full Time, 1\\.00 FTE, Day position. The salary range for this job opening at PeaceHealth is $46\\.27 – $69\\.41\\. The hiring rate is dependent upon several factors, including but not limited to education, training, work experience, terms of any applicable collective bargaining agreement, seniority, etc.
@@ -732,7 +560,7 @@ Provides professional nursing care to patients in the clinic/outpatient setting 
 * Basic computer skills including MS Office applications (Required)
 * Effective prioritization skills (Required)
 * Ability to provide health education to patients, staff and community (Required)
-* Knowledge of Medicare, JCAHO, DNV \\&amp; HCFA regulations pertaining to ambulatory care (Required)
+* Knowledge of Medicare, JCAHO, DNV \\& HCFA regulations pertaining to ambulatory care (Required)
 * Demonstrated knowledge of and ability to apply age specific principles of growth and development and life stages to meet each patient’s needs (Required)
 
 PHMG:
@@ -773,30 +601,9 @@ PeaceHealth is committed to the overall wellbeing of our caregivers: physical, e
 See how PeaceHealth is committed to Inclusivity, Respect for Diversity and Cultural Humility.
 
 
-For full consideration of your skills and abilities, please attach a current resume with your application. EEO Affirmative Action Employer/Vets/Disabled in accordance with applicable local, state or federal laws.
-🔗 Apply Direct: https://careers.peacehealth.org/jobs/17393438-rn-clinic-gastroenterology?tm_job=PH-INFOR-125707&amp;tm_event=view&amp;tm_company=12800
-🔗 Job Board: https://www.indeed.com/viewjob?jk=9ec63ddbb40cb012</description>
-      <companyName>PeaceHealth</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Springfield, OR, US</jobLocation>
-      <salaryMin>46</salaryMin>
-      <salaryMax>69</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Clinic at PeaceHealth</title>
-      <link>https://careers.peacehealth.org/jobs/17393439-rn-clinic?tm_job=PH-INFOR-125765&amp;tm_event=view&amp;tm_company=12800</link>
-      <guid isPermaLink="false">PeaceHealth-RN Clinic-Springfield, OR, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Springfield, OR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 46 - 69 (hourly)
-
-📝 Description: **Description**
+For full consideration of your skills and abilities, please attach a current resume with your application. EEO Affirmative Action Employer/Vets/Disabled in accordance with applicable local, state or federal laws.","Health Care","https://www.indeed.com/cmp/Peacehealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7f6bb7fc1fe5c0e64d4b90ed9a1ddab7","http://careers.peacehealth.org","1115  SE 164th Avenue
+Vancouver, WA 98683","10,000+","$1B to $5B (USD)","PeaceHealth offers exceptional and compassionate care to both rural and urban communities across Washington, Oregon & Alaska.","","","","","","",""
+"in-7a91f69d5de4d8c4","indeed","https://www.indeed.com/viewjob?jk=7a91f69d5de4d8c4","https://careers.peacehealth.org/jobs/17393439-rn-clinic?tm_job=PH-INFOR-125765&tm_event=view&tm_company=12800","RN Clinic","PeaceHealth","Springfield, OR, US","2026-02-25","fulltime","direct_data","hourly",46.0,69.0,"USD",False,"","","","","**Description**
 
 
 PeaceHealth is seeking a RN Clinic for a Full Time, 1\\.00 FTE, Day position. The salary range for this job opening at PeaceHealth is $46\\.27 – $69\\.41\\. The hiring rate is dependent upon several factors, including but not limited to education, training, work experience, terms of any applicable collective bargaining agreement, seniority, etc.
@@ -838,7 +645,7 @@ Provides professional nursing care to patients in the clinic/outpatient setting 
 * Basic computer skills including MS Office applications (Required)
 * Effective prioritization skills (Required)
 * Ability to provide health education to patients, staff and community (Required)
-* Knowledge of Medicare, JCAHO, DNV \\&amp; HCFA regulations pertaining to ambulatory care (Required)
+* Knowledge of Medicare, JCAHO, DNV \\& HCFA regulations pertaining to ambulatory care (Required)
 * Demonstrated knowledge of and ability to apply age specific principles of growth and development and life stages to meet each patient’s needs (Required)
 
 **Department / Location Specific Notes**
@@ -849,7 +656,7 @@ Anticoagulation Services:
 * Ability to administer point of care testing required.
 * Ability to implement, document, and monitor, with health care team, patient anticoagulation management for achievement of desired therapeutic outcomes required.
 * Ability to work collaboratively as a member of an interdisciplinary team and establish and maintain effective working relationships with other healthcare professionals, practitioners, patients and families required.
-* Experience with warfarin counseling \\&amp; monitoring preferred.
+* Experience with warfarin counseling \\& monitoring preferred.
 
 
 PHMG:
@@ -890,30 +697,9 @@ PeaceHealth is committed to the overall wellbeing of our caregivers: physical, e
 See how PeaceHealth is committed to Inclusivity, Respect for Diversity and Cultural Humility.
 
 
-For full consideration of your skills and abilities, please attach a current resume with your application. EEO Affirmative Action Employer/Vets/Disabled in accordance with applicable local, state or federal laws.
-🔗 Apply Direct: https://careers.peacehealth.org/jobs/17393439-rn-clinic?tm_job=PH-INFOR-125765&amp;tm_event=view&amp;tm_company=12800
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7a91f69d5de4d8c4</description>
-      <companyName>PeaceHealth</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Springfield, OR, US</jobLocation>
-      <salaryMin>46</salaryMin>
-      <salaryMax>69</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse ATRMC (Emergency Department) at Asante</title>
-      <link>https://jobs.asante.org/en/jobs/17393575-registered-nurse-atrmc-emergency-department?tm_job=24435&amp;tm_event=view&amp;tm_company=45924</link>
-      <guid isPermaLink="false">Asante-Registered Nurse ATRMC (Emergency Department)-Grants Pass, OR, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Grants Pass, OR, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 53 - 77 (hourly)
-
-📝 Description: **Registered Nurse ATRMC (Emergency Department)**
+For full consideration of your skills and abilities, please attach a current resume with your application. EEO Affirmative Action Employer/Vets/Disabled in accordance with applicable local, state or federal laws.","Health Care","https://www.indeed.com/cmp/Peacehealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7f6bb7fc1fe5c0e64d4b90ed9a1ddab7","http://careers.peacehealth.org","1115  SE 164th Avenue
+Vancouver, WA 98683","10,000+","$1B to $5B (USD)","PeaceHealth offers exceptional and compassionate care to both rural and urban communities across Washington, Oregon & Alaska.","","","","","","",""
+"in-dcc6f4f1d21a0c60","indeed","https://www.indeed.com/viewjob?jk=dcc6f4f1d21a0c60","https://jobs.asante.org/en/jobs/17393575-registered-nurse-atrmc-emergency-department?tm_job=24435&tm_event=view&tm_company=45924","Registered Nurse ATRMC (Emergency Department)","Asante","Grants Pass, OR, US","2026-02-25","parttime","direct_data","hourly",53.0,77.0,"USD",False,"","","","","**Registered Nurse ATRMC (Emergency Department)**
 
 
 **Additional Position Details: FTE: 0\\.150000 \\| Part Time \\| 1st Shift \\- Days**
@@ -995,7 +781,7 @@ Must obtain within 4 months of hire:
 We offer a comprehensive Total Rewards package designed to support your well\\-being and professional growth, including:
 
 * **Competitive Pay:** Hourly and salaried positions earn market\\-based compensation.
-* **Health \\&amp; Wellness:** Medical, dental, and vision coverage for part\\-time and above employees and their eligible dependents beginning within 30 days of hire.
+* **Health \\& Wellness:** Medical, dental, and vision coverage for part\\-time and above employees and their eligible dependents beginning within 30 days of hire.
 * **Retirement Savings:** Employer\\-sponsored retirement plan with company contribution and match.
 * **Paid Time Off:** Generous ETO for part\\-time and above employees.
 * **Professional Development:** Continue to enhance your education through our tuition reimbursement and tuition repayment program
@@ -1010,30 +796,8 @@ At Asante, we are guided by our values:
 
 
 
-*Asante is proud to be an Equal Opportunity Employer. We are committed to creating a diverse and inclusive workplace and to employing and advancing qualified individuals of all backgrounds, including women, minorities, individuals with disabilities, and protected veterans.*
-🔗 Apply Direct: https://jobs.asante.org/en/jobs/17393575-registered-nurse-atrmc-emergency-department?tm_job=24435&amp;tm_event=view&amp;tm_company=45924
-🔗 Job Board: https://www.indeed.com/viewjob?jk=dcc6f4f1d21a0c60</description>
-      <companyName>Asante</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Grants Pass, OR, US</jobLocation>
-      <salaryMin>53</salaryMin>
-      <salaryMax>77</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse ATRMC (Emergency Department) at Asante</title>
-      <link>https://jobs.asante.org/en/jobs/17393540-registered-nurse-atrmc-emergency-department?tm_job=24552&amp;tm_event=view&amp;tm_company=45924</link>
-      <guid isPermaLink="false">Asante-Registered Nurse ATRMC (Emergency Department)-Grants Pass, OR, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Grants Pass, OR, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 53 - 77 (hourly)
-
-📝 Description: **Registered Nurse ATRMC (Emergency Department)**
+*Asante is proud to be an Equal Opportunity Employer. We are committed to creating a diverse and inclusive workplace and to employing and advancing qualified individuals of all backgrounds, including women, minorities, individuals with disabilities, and protected veterans.*","Health Care","https://www.indeed.com/cmp/Asante","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/05a1bbc1a7e4c462aeca7326afe550eb","https://www.asante.org","Medford, OR","5,001 to 10,000","$500M to $1B (USD)","Asante exists to provide quality healthcare services in a compassionate manner valued by the communities we serve.","","","","","","",""
+"in-c13bc393502f71f2","indeed","https://www.indeed.com/viewjob?jk=c13bc393502f71f2","https://jobs.asante.org/en/jobs/17393540-registered-nurse-atrmc-emergency-department?tm_job=24552&tm_event=view&tm_company=45924","Registered Nurse ATRMC (Emergency Department)","Asante","Grants Pass, OR, US","2026-02-25","parttime","direct_data","hourly",53.0,77.0,"USD",False,"","","","","**Registered Nurse ATRMC (Emergency Department)**
 
 
 **Additional Position Details: FTE: 0\\.750000 \\| Part Time \\| 1st Shift \\- Days**
@@ -1115,7 +879,7 @@ Must obtain within 4 months of hire:
 We offer a comprehensive Total Rewards package designed to support your well\\-being and professional growth, including:
 
 * **Competitive Pay:** Hourly and salaried positions earn market\\-based compensation.
-* **Health \\&amp; Wellness:** Medical, dental, and vision coverage for part\\-time and above employees and their eligible dependents beginning within 30 days of hire.
+* **Health \\& Wellness:** Medical, dental, and vision coverage for part\\-time and above employees and their eligible dependents beginning within 30 days of hire.
 * **Retirement Savings:** Employer\\-sponsored retirement plan with company contribution and match.
 * **Paid Time Off:** Generous ETO for part\\-time and above employees.
 * **Professional Development:** Continue to enhance your education through our tuition reimbursement and tuition repayment program
@@ -1130,36 +894,14 @@ At Asante, we are guided by our values:
 
 
 
-*Asante is proud to be an Equal Opportunity Employer. We are committed to creating a diverse and inclusive workplace and to employing and advancing qualified individuals of all backgrounds, including women, minorities, individuals with disabilities, and protected veterans.*
-🔗 Apply Direct: https://jobs.asante.org/en/jobs/17393540-registered-nurse-atrmc-emergency-department?tm_job=24552&amp;tm_event=view&amp;tm_company=45924
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c13bc393502f71f2</description>
-      <companyName>Asante</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Grants Pass, OR, US</jobLocation>
-      <salaryMin>53</salaryMin>
-      <salaryMax>77</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Crestwood Medical Center - Full-Time CRNA (10's) at NorthStar Anesthesia</title>
-      <link>https://careers-northstaranesthesia.icims.com/jobs/6712/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">NorthStar Anesthesia-Crestwood Medical Center - Full-Time CRNA (10's)-Huntsville, AL, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Huntsville, AL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 200,000 - 220,000 (yearly)
-
-📝 Description: **Role Overview:**  
+*Asante is proud to be an Equal Opportunity Employer. We are committed to creating a diverse and inclusive workplace and to employing and advancing qualified individuals of all backgrounds, including women, minorities, individuals with disabilities, and protected veterans.*","Health Care","https://www.indeed.com/cmp/Asante","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/05a1bbc1a7e4c462aeca7326afe550eb","https://www.asante.org","Medford, OR","5,001 to 10,000","$500M to $1B (USD)","Asante exists to provide quality healthcare services in a compassionate manner valued by the communities we serve.","","","","","","",""
+"in-a5566e19ff3be9e3","indeed","https://www.indeed.com/viewjob?jk=a5566e19ff3be9e3","https://careers-northstaranesthesia.icims.com/jobs/6712/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Crestwood Medical Center - Full-Time CRNA (10's)","NorthStar Anesthesia","Huntsville, AL, US","2026-02-25","fulltime","direct_data","yearly",200000.0,220000.0,"USD",False,"","","","","**Role Overview:**  
 
 **Summary of Job:** Looking for a CRNA to join our team at Crestwood Medical Center working Four 10 hour shifts! Our practice has been present at Crestwood for over 15 years and we have a first\\-class anesthesia team in place.
   
   
 
-**Cases include:** Bread \\&amp; Butter, Neuro, OB.
+**Cases include:** Bread \\& Butter, Neuro, OB.
   
   
 
@@ -1207,29 +949,8 @@ EEO/AA/M/F/Veteran/Disability Employer
   
   
 
-**Benefits Include:** Medical, Dental, Life, Long Term/Short Term, Malpractice, 401k and more
-🔗 Apply Direct: https://careers-northstaranesthesia.icims.com/jobs/6712/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a5566e19ff3be9e3</description>
-      <companyName>NorthStar Anesthesia</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Huntsville, AL, US</jobLocation>
-      <salaryMin>200000</salaryMin>
-      <salaryMax>220000</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Specialty Nurse - OB/GYN - Methodist Plaza at UnityPoint Health</title>
-      <link>https://careers-unitypoint.icims.com/jobs/178898/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">UnityPoint Health-Specialty Nurse - OB/GYN - Methodist Plaza-Des Moines, IA, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Des Moines, IA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+**Benefits Include:** Medical, Dental, Life, Long Term/Short Term, Malpractice, 401k and more","","https://www.indeed.com/cmp/Northstar-Anesthesia","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a019526d5195545f3559599c8d078dbe","https://www.northstaranesthesia.com","Irving, TX","1,001 to 5,000","Decline to state","NorthStar Anesthesia is a leading anesthesia management company in the U.S. With over 3,000 providers, we run successful anesthesia programs at 200+ facilities in over 20 states.","","","","","","",""
+"in-1a361f307996fece","indeed","https://www.indeed.com/viewjob?jk=1a361f307996fece","https://careers-unitypoint.icims.com/jobs/178898/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Specialty Nurse - OB/GYN - Methodist Plaza","UnityPoint Health","Des Moines, IA, US","2026-02-25","fulltime","","","","","",False,"","","","","Overview:
 **UnityPoint Clinic****Registered Nurse (RN) OB/GYN****Methodist Downtown Des Moines****Monday to Friday, 4 days/week with rotating day off \\- 1/2 hour lunch****7:45AM\\-5:15PM****Full\\-time \\+ benefits \\- 36 hours/week** **\\*\\*$5000 sign\\-on bonus for external candidates.**
 Why UnityPoint Health?:
 
@@ -1253,7 +974,7 @@ Find a fulfilling career and make a difference with UnityPoint Health.
 
 
 Responsibilities:
-**We are seeking a compassionate and motivated Registered Nurse (RN) to join our dynamic OBGYN team at the Methodist Hospital Specialty Clinic. This is an excellent opportunity for nurses who are passionate about women’s health and patient\\-centered care. Whether you have prior experience in obstetrics and gynecology or are looking to expand your clinical knowledge in this specialty, we welcome your application.** **In this role, you will triage and assess patient needs, coordinate care, and support patients through all stages of women’s health — including routine gynecologic care, pregnancy, and complex reproductive health concerns. You will work closely with OBGYN physicians, advanced practice providers, and clinical staff in a collaborative and supportive environment.**### **Patient Assessment \\&amp; Triage**
+**We are seeking a compassionate and motivated Registered Nurse (RN) to join our dynamic OBGYN team at the Methodist Hospital Specialty Clinic. This is an excellent opportunity for nurses who are passionate about women’s health and patient\\-centered care. Whether you have prior experience in obstetrics and gynecology or are looking to expand your clinical knowledge in this specialty, we welcome your application.** **In this role, you will triage and assess patient needs, coordinate care, and support patients through all stages of women’s health — including routine gynecologic care, pregnancy, and complex reproductive health concerns. You will work closely with OBGYN physicians, advanced practice providers, and clinical staff in a collaborative and supportive environment.**### **Patient Assessment \\& Triage**
 
 * Evaluate incoming patient calls to determine urgency of symptoms such as pelvic pain, abnormal bleeding, pregnancy\\-related concerns, or postoperative issues.
 * Provide telephone triage and guide patients to the appropriate level of care, appointment scheduling, or emergency services when needed.
@@ -1264,13 +985,13 @@ Responsibilities:
 * Support urgent and same\\-day patient needs.
 * Communicate efficiently with OBGYN providers and clinical team members to ensure timely and effective care.
 
-### **Patient \\&amp; Family Education**
+### **Patient \\& Family Education**
 
 * Educate patients on pregnancy care, postpartum recovery, contraception options, menopause management, surgical procedures, and preventive health screenings.
 * Provide guidance on medications, treatment plans, and at\\-home care instructions.
 * Offer compassionate support during sensitive or complex health situations.
 
-### **Clinical Documentation \\&amp; Follow\\-Up**
+### **Clinical Documentation \\& Follow\\-Up**
 
 * Accurately document all patient interactions, assessments, and care plans in the electronic health record (EHR).
 * Track lab results, imaging, and referrals.
@@ -1280,25 +1001,8 @@ Responsibilities:
 Qualifications:
 * **Licensure:** Current Registered Nurse (RN) license in Iowa
 * **Experience:** All levels of RN experience will be considered. Prior experience in OBGYN or specialty care is a plus, but **not required**.
-* **Education:** Associate Degree in Nursing (ADN) required; Bachelor of Science in Nursing (BSN) preferred.
-🔗 Apply Direct: https://careers-unitypoint.icims.com/jobs/178898/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1a361f307996fece</description>
-      <companyName>UnityPoint Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Des Moines, IA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinical Nurse - Lakeview Peds at UnityPoint Health</title>
-      <link>https://careers-unitypoint.icims.com/jobs/178966/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">UnityPoint Health-Clinical Nurse - Lakeview Peds-West Des Moines, IA, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: West Des Moines, IA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+* **Education:** Associate Degree in Nursing (ADN) required; Bachelor of Science in Nursing (BSN) preferred.","","https://www.indeed.com/cmp/Unitypoint-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/81ad6841bcfb4b49ce9ed72bcf87d791","http://unitypoint.org","","10,000+","Decline to state","We're proud to be recognized as a Top 150 Place to Work in Healthcare by Becker's Healthcare because we put people first, starting from the inside out. ","","","","","","",""
+"in-a3927833de7380e1","indeed","https://www.indeed.com/viewjob?jk=a3927833de7380e1","https://careers-unitypoint.icims.com/jobs/178966/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Clinical Nurse - Lakeview Peds","UnityPoint Health","West Des Moines, IA, US","2026-02-25","fulltime","","","","","",False,"","","","","Overview:
 **UnityPoint Clinic****Clinic Nurse \\- Lakeview Peds****West Des Moines, IA****Monday\\-Friday 7AM\\-5PM \\- TUESDAY OFF \\-****Full\\-time \\+ benefits** **$5,000 sign on bonus offered!**
 Why UnityPoint Health?:
 
@@ -1337,26 +1041,8 @@ Qualifications:
 * **Valid and current RN licensure in the state of Iowa**
 * + Registered Nurse (RN) – Iowa Board of Nursing
 * Prior experience in a clinical or outpatient setting preferred
-* Familiarity with EPIC a plus!
-🔗 Apply Direct: https://careers-unitypoint.icims.com/jobs/178966/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a3927833de7380e1</description>
-      <companyName>UnityPoint Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>West Des Moines, IA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN-Acute Care/ED Float at Rural Health Enterprise</title>
-      <link>https://ruralhealthent.bamboohr.com/careers/41?source=indeed&amp;src=indeed&amp;postedDate=2026-02-25</link>
-      <guid isPermaLink="false">Rural Health Enterprise-RN-Acute Care/ED Float-Republic, WA, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Republic, WA, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 1,935 - 2,196 (weekly)
-
-📝 Description: **Washington Healthcare Staffing Network (WHSN)**
+* Familiarity with EPIC a plus!","","https://www.indeed.com/cmp/Unitypoint-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/81ad6841bcfb4b49ce9ed72bcf87d791","http://unitypoint.org","","10,000+","Decline to state","We're proud to be recognized as a Top 150 Place to Work in Healthcare by Becker's Healthcare because we put people first, starting from the inside out. ","","","","","","",""
+"in-03914082593327f3","indeed","https://www.indeed.com/viewjob?jk=03914082593327f3","https://ruralhealthent.bamboohr.com/careers/41?source=indeed&src=indeed&postedDate=2026-02-25","RN-Acute Care/ED Float","Rural Health Enterprise","Republic, WA, US","2026-02-25","perdiem","direct_data","weekly",1935.0,2196.0,"USD",False,"","","","","**Washington Healthcare Staffing Network (WHSN)**
 
  ***Ready for a change of scenery?*** Come experience the professional and personal rewards of rural nursing! WHSN offers exclusive per diem and contract staffing opportunities at 23 Critical Access Hospitals throughout the state.  
 
@@ -1382,7 +1068,7 @@ Republic, Washington offers the kind of hands\\-on rural nursing experience that
  **Position Highlights**
 
 
-* Acute Care \\&amp; Emergency Department responsibilities
+* Acute Care \\& Emergency Department responsibilities
 * Collaborative, team\\-oriented environment
 * Opportunity to work independently and expand skillset
 * Direct impact on community health outcomes
@@ -1413,30 +1099,8 @@ Republic, Washington offers the kind of hands\\-on rural nursing experience that
 
 
 
-Whether you’re looking for a change of pace, interested in rural health, or just want to spend a few days surrounded by natural beauty while doing the work you love, we’d love to welcome you to WHSN.
-🔗 Apply Direct: https://ruralhealthent.bamboohr.com/careers/41?source=indeed&amp;src=indeed&amp;postedDate=2026-02-25
-🔗 Job Board: https://www.indeed.com/viewjob?jk=03914082593327f3</description>
-      <companyName>Rural Health Enterprise</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Republic, WA, US</jobLocation>
-      <salaryMin>1935</salaryMin>
-      <salaryMax>2196</salaryMax>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Case Manager (Mon-Fri Day Shift) at DDN Consulting Services, LLC</title>
-      <link>https://ddncs.bamboohr.com/careers/128?source=indeed&amp;src=indeed&amp;postedDate=2026-02-25</link>
-      <guid isPermaLink="false">DDN Consulting Services, LLC-RN Case Manager (Mon-Fri Day Shift)-Bridgeport, CT, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Bridgeport, CT, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 77,000 - 80,000 (yearly)
-
-📝 Description: Are you a compassionate Registered Nurse seeking a fulfilling career without sacrificing a work\\-life balance?
+Whether you’re looking for a change of pace, interested in rural health, or just want to spend a few days surrounded by natural beauty while doing the work you love, we’d love to welcome you to WHSN.","","https://www.indeed.com/cmp/Rural-Health-Enterprise","","http://www.ruralhealthenterprise.com","","","","The Rural Health Enterprise offers services and staffing to independent rural hospitals throughout the state. Together, we ensure quality care for every community!","","","","","","",""
+"in-110cc0621ad46790","indeed","https://www.indeed.com/viewjob?jk=110cc0621ad46790","https://ddncs.bamboohr.com/careers/128?source=indeed&src=indeed&postedDate=2026-02-25","RN Case Manager (Mon-Fri Day Shift)","DDN Consulting Services, LLC","Bridgeport, CT, US","2026-02-25","fulltime","direct_data","yearly",77000.0,80000.0,"USD",False,"","","","","Are you a compassionate Registered Nurse seeking a fulfilling career without sacrificing a work\\-life balance?
 
  **Join DDN Consulting Services and enjoy working Monday thru Friday with an 8 am to 5 pm schedule, no nights, weekends, holidays or On Call!**
 
@@ -1446,7 +1110,7 @@ Be part of a caring team of Nurses dedicated to making a difference in people's 
 
   
 
-Working for DDN means having a consistent case load, and being part of a company that believes in career advancement \\&amp; career longevity for their team members. As well as having the ability to advocate for others needs.
+Working for DDN means having a consistent case load, and being part of a company that believes in career advancement \\& career longevity for their team members. As well as having the ability to advocate for others needs.
 
  **Responsibilities:**
 
@@ -1484,9 +1148,9 @@ DDN Consulting, was founded by passionate Registered Nurses, and it provides nur
 * Long\\-Term Disability Insurance \\- company provided
 * SIMPLE IRA match of 3% (after one year of service)
 * Mileage Reimbursement
-* EAP Programs \\- Discounts \\&amp; Services for life events
+* EAP Programs \\- Discounts \\& Services for life events
 * Comprehensive onboarding with hands\\-on and classroom\\-based learning
-* Monthly training \\&amp; ongoing support
+* Monthly training \\& ongoing support
 * Opportunities for Career advancement
 
   
@@ -1497,30 +1161,8 @@ DDN Consulting, was founded by passionate Registered Nurses, and it provides nur
 
 * Active RN license in Connecticut
 * Valid driver's license and reliable transportation
-* 1\\-2 years of nursing experience preferred; experience with developmental disabilities is a plus
-🔗 Apply Direct: https://ddncs.bamboohr.com/careers/128?source=indeed&amp;src=indeed&amp;postedDate=2026-02-25
-🔗 Job Board: https://www.indeed.com/viewjob?jk=110cc0621ad46790</description>
-      <companyName>DDN Consulting Services, LLC</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Bridgeport, CT, US</jobLocation>
-      <salaryMin>77000</salaryMin>
-      <salaryMax>80000</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN, Cardiac Progressive Care at Community Health System</title>
-      <link>https://careers-communitymedical.icims.com/jobs/48559/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Community Health System-RN, Cardiac Progressive Care-Clovis, CA, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Clovis, CA, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 45 - 64 (hourly)
-
-📝 Description: Overview:
+* 1\\-2 years of nursing experience preferred; experience with developmental disabilities is a plus","","https://www.indeed.com/cmp/Ddn-Consulting-Services,-LLC","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/90cda8cdd61250ac0ff7665b212f35fa","http://ddncs.com","","Decline to state","Decline to state","DDN has been focused on providing nursing and support for nurses in a Developmental Disabilities setting for over 23 years. ","","","","","","",""
+"in-8859527f0cf0a281","indeed","https://www.indeed.com/viewjob?jk=8859527f0cf0a281","https://careers-communitymedical.icims.com/jobs/48559/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN, Cardiac Progressive Care","Community Health System","Clovis, CA, US","2026-02-25","parttime","direct_data","hourly",45.0,64.0,"USD",False,"","","","","Overview:
 **Opportunities for you!*** Consecutively recognized as a top employer by Forbes
 * Direct impact on quality patient care
 * Sign\\-on and relocation bonus incentives for eligible external hires
@@ -1558,30 +1200,8 @@ Qualifications:
 
 Disclaimers:
 * Pay ranges listed are an estimate and subject to change.
-* If any bonuses are noted, they are only applicable to external hires meeting criteria.
-🔗 Apply Direct: https://careers-communitymedical.icims.com/jobs/48559/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=8859527f0cf0a281</description>
-      <companyName>Community Health System</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Clovis, CA, US</jobLocation>
-      <salaryMin>45</salaryMin>
-      <salaryMax>64</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN, Medical Cardiac Progressive Care at Community Health System</title>
-      <link>https://careers-communitymedical.icims.com/jobs/48133/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Community Health System-RN, Medical Cardiac Progressive Care-Clovis, CA, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Clovis, CA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 45 - 64 (hourly)
-
-📝 Description: Overview:
+* If any bonuses are noted, they are only applicable to external hires meeting criteria.","","https://www.indeed.com/cmp/Community-Health-System-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a6fb0e03eb0dfb693a3ac3418aca0d56","http://jobs.communitymedical.org","Fresno, CA","10,000+","Decline to state","Community Health System is a private, not-for-profit, health system that employs more than 10,000 people. We've grown a lot since 1897 and we're not done yet.","","","","","","",""
+"in-4fe7ae16e346312b","indeed","https://www.indeed.com/viewjob?jk=4fe7ae16e346312b","https://careers-communitymedical.icims.com/jobs/48133/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN, Medical Cardiac Progressive Care","Community Health System","Clovis, CA, US","2026-02-25","fulltime","direct_data","hourly",45.0,64.0,"USD",False,"","","","","Overview:
 **Opportunities for you!*** Consecutively recognized as a top employer by Forbes
 * Direct impact on quality patient care
 * Sign\\-on and relocation bonus incentives for eligible external hires
@@ -1619,29 +1239,8 @@ Qualifications:
 
 Disclaimers:
 * Pay ranges listed are an estimate and subject to change.
-* If any bonuses are noted, they are only applicable to external hires meeting criteria.
-🔗 Apply Direct: https://careers-communitymedical.icims.com/jobs/48133/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4fe7ae16e346312b</description>
-      <companyName>Community Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Clovis, CA, US</jobLocation>
-      <salaryMin>45</salaryMin>
-      <salaryMax>64</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Hospice RN/LVN (Per Diem) - Yucaipa at American Veterans Hospice</title>
-      <link>https://amvetshospice.bamboohr.com/careers/208?source=indeed&amp;src=indeed&amp;postedDate=2026-02-25</link>
-      <guid isPermaLink="false">American Veterans Hospice-Hospice RN/LVN (Per Diem) - Yucaipa-Yucaipa, CA, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Yucaipa, CA, US
-💼 Type: Parttime
-🏠 Work: On-site
-
-📝 Description: American Veterans Hospice is **looking for a compassionate, organized, and team\\-oriented individual to fill the role of Per Diem Hospice LVN or RN.**
+* If any bonuses are noted, they are only applicable to external hires meeting criteria.","","https://www.indeed.com/cmp/Community-Health-System-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a6fb0e03eb0dfb693a3ac3418aca0d56","http://jobs.communitymedical.org","Fresno, CA","10,000+","Decline to state","Community Health System is a private, not-for-profit, health system that employs more than 10,000 people. We've grown a lot since 1897 and we're not done yet.","","","","","","",""
+"in-c8131af804652e92","indeed","https://www.indeed.com/viewjob?jk=c8131af804652e92","https://amvetshospice.bamboohr.com/careers/208?source=indeed&src=indeed&postedDate=2026-02-25","Hospice RN/LVN (Per Diem) - Yucaipa","American Veterans Hospice","Yucaipa, CA, US","2026-02-25","parttime","","","","","",False,"","","","","American Veterans Hospice is **looking for a compassionate, organized, and team\\-oriented individual to fill the role of Per Diem Hospice LVN or RN.**
 
   
 
@@ -1732,7 +1331,7 @@ Medical specialties:
 
 * Geriatrics
 * Home Health
-* Hospice \\&amp; Palliative Medicine
+* Hospice \\& Palliative Medicine
 
   
 
@@ -1757,24 +1356,8 @@ Weekly schedule:
 
 
 
-Work Location: In person/ On the road
-🔗 Apply Direct: https://amvetshospice.bamboohr.com/careers/208?source=indeed&amp;src=indeed&amp;postedDate=2026-02-25
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c8131af804652e92</description>
-      <companyName>American Veterans Hospice</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Yucaipa, CA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at Trusted Health</title>
-      <link>https://www.trustedhealth.com/jobs/afcddef6-2bdd-43a8-8e68-ae47659b84a2</link>
-      <guid isPermaLink="false">Trusted Health-Registered Nurse-New Haven, CT, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: New Haven, CT, US
-🏠 Work: On-site
-
-📝 Description: New Haven, CT
+Work Location: In person/ On the road","","https://www.indeed.com/cmp/American-Veterans-Hospice","","","","","","","","","","","","",""
+"in-eeea53d293659c7a","indeed","https://www.indeed.com/viewjob?jk=eeea53d293659c7a","https://www.trustedhealth.com/jobs/afcddef6-2bdd-43a8-8e68-ae47659b84a2","Registered Nurse","Trusted Health","New Haven, CT, US","2026-02-25","","","weekly","","","USD",False,"","","","","New Haven, CT
 Night
 3 shifts x 12 hours
 Start March 20th · 13 wks
@@ -1804,7 +1387,7 @@ Rate Breakdown
 Standard
 Overtime
 Lodging
-Meals \\&amp; Incidents
+Meals \\& Incidents
 Total$2,209/wk
 Sign Up to Unlock Full Visibility
 Keep in mind jobs like these can often fill quickly!Our platform is updated in real time to keep you informed and allow you to match with the perfect open opportunities!
@@ -1825,7 +1408,7 @@ You must be able to complete labs within 48 hours of signing.
 **Preferred skills and experience:** Preferred 2 yrs, will take 1\\.5 years experience from a like hospital. ICP monitoring, Care of Ventilated Patient, Triage, PA Lines
 
 
-**Shift \\&amp; schedule requirements:** Weekend REQ: Every other
+**Shift \\& schedule requirements:** Weekend REQ: Every other
 
 
 **Floating requirements:** Assigned to one campus, with possibility of rotating to other campuses.
@@ -1837,7 +1420,7 @@ You must be able to complete labs within 48 hours of signing.
 **Details:**
 
 
-* **AUTO OFFER \\- NO INTERVIEW**: This is an auto\\-offer position. You will likely not interview with the facility prior to receiving an offer. However, an interview can be arranged upon request. All time off requests must be submitted at application. Scheduling requests must be worked out with the manager directly upon starting the assignment. Any offers for this job will require a clear "Yes" or "No" response from the nurse within 24hrs or the offer must be declined.
+* **AUTO OFFER \\- NO INTERVIEW**: This is an auto\\-offer position. You will likely not interview with the facility prior to receiving an offer. However, an interview can be arranged upon request. All time off requests must be submitted at application. Scheduling requests must be worked out with the manager directly upon starting the assignment. Any offers for this job will require a clear ""Yes"" or ""No"" response from the nurse within 24hrs or the offer must be declined.
 
 
 Trusted Benefits
@@ -1856,27 +1439,10 @@ Vision
 401k
 
 
-(opt in)
-🔗 Apply Direct: https://www.trustedhealth.com/jobs/afcddef6-2bdd-43a8-8e68-ae47659b84a2
-🔗 Job Board: https://www.indeed.com/viewjob?jk=eeea53d293659c7a</description>
-      <companyName>Trusted Health</companyName>
-      <jobLocation>New Haven, CT, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Assistant Nurse Manager PCU Nights at Texas Health Huguley Hospital</title>
-      <link>https://AdventHealth.contacthr.com/151183183</link>
-      <guid isPermaLink="false">Texas Health Huguley Hospital-Assistant Nurse Manager PCU Nights-Burleson, TX, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Burleson, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 35 - 65 (hourly)
-
-📝 Description: **Our promise to you:**
+(opt in)","","https://www.indeed.com/cmp/Trusted-Health-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3250c17ab41c2ed66a258941f9af7027","http://trustedhealth.com","201 California St.
+Suite 950
+San Francisco, CA 94111","201 to 500","","Trusted is a new marketplace for nurses to connect with job opportunities. Trusted has used technology to remove recruiters from the equation meaning more money in your pocket. Join trustedhealth.com.","","","","","","",""
+"in-85dc528bec65886a","indeed","https://www.indeed.com/viewjob?jk=85dc528bec65886a","https://AdventHealth.contacthr.com/151183183","Assistant Nurse Manager PCU Nights","Texas Health Huguley Hospital","Burleson, TX, US","2026-02-25","fulltime","direct_data","hourly",35.0,65.0,"USD",False,"","","","","**Our promise to you:**
 
 
 Joining Texas Health Huguley is about being part of something bigger. It’s about belonging to a community that believes in the wholeness of each person, and serves to uplift others in body, mind and spirit. Texas Health Huguley is a place where you can thrive professionally, and grow spiritually, by Extending the Healing Ministry of Christ. Where you will be valued for who you are and the unique experiences you bring to our purpose\\-minded team. All while understanding that **together** we are even better.
@@ -1963,30 +1529,8 @@ Texas**Postal Code:**
 Physical Requirements \\-https://tinyurl.com/2vvwrzem**Pay Range:**
 
 
-$35\\.07 \\- $65\\.24*This facility is an equal opportunity employer and complies with federal, state and local anti\\-discrimination laws, regulations and ordinances.*
-🔗 Apply Direct: https://AdventHealth.contacthr.com/151183183
-🔗 Job Board: https://www.indeed.com/viewjob?jk=85dc528bec65886a</description>
-      <companyName>Texas Health Huguley Hospital</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Burleson, TX, US</jobLocation>
-      <salaryMin>35</salaryMin>
-      <salaryMax>65</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Oncology Nurse Navigator at AdventHealth Orlando</title>
-      <link>https://AdventHealth.contacthr.com/151184900</link>
-      <guid isPermaLink="false">AdventHealth Orlando-RN Oncology Nurse Navigator-Orlando, FL, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Orlando, FL, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 68,132 - 119,520 (yearly)
-
-📝 Description: **Our promise to you:**
+$35\\.07 \\- $65\\.24*This facility is an equal opportunity employer and complies with federal, state and local anti\\-discrimination laws, regulations and ordinances.*","","https://www.indeed.com/cmp/Texas-Health-Huguley-Hospital","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8fefed441b699de31e4459abcd988023","http://www.joinadventhealth.com/texashealthhuguley","Fort Worth, TX","1,001 to 5,000","$25M to $100M (USD)","As a member of AdventHealth, we carry on the tradition that recognizes that total health is achieved through the proper balance of physical, mental, social and spiritual well-being.","","","","","","",""
+"in-4bd0ac4802374c4d","indeed","https://www.indeed.com/viewjob?jk=4bd0ac4802374c4d","https://AdventHealth.contacthr.com/151184900","RN Oncology Nurse Navigator","AdventHealth Orlando","Orlando, FL, US","2026-02-25","fulltime","direct_data","yearly",68132.0,119520.0,"USD",False,"","","","","**Our promise to you:**
 
 
 Joining AdventHealth is about being part of something bigger. It’s about belonging to a community that believes in the wholeness of each person, and serves to uplift others in body, mind and spirit. AdventHealth is a place where you can thrive professionally, and grow spiritually, by Extending the Healing Ministry of Christ. Where you will be valued for who you are and the unique experiences you bring to our purpose\\-minded team. All while understanding that **together** we are even better.
@@ -2084,28 +1628,8 @@ Location: AdventHealth Cancer Institute 2501 N Orange Ave, Suite 283, Orlando, F
 Physical Requirements \\- https://tinyurl.com/msy4mja2**Pay Range:**
 
 
-$68,132\\.50 \\- $119,520\\.35*This facility is an equal opportunity employer and complies with federal, state and local anti\\-discrimination laws, regulations and ordinances.*
-🔗 Apply Direct: https://AdventHealth.contacthr.com/151184900
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4bd0ac4802374c4d</description>
-      <companyName>AdventHealth Orlando</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Orlando, FL, US</jobLocation>
-      <salaryMin>68132</salaryMin>
-      <salaryMax>119520</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at Trusted Health</title>
-      <link>https://www.trustedhealth.com/jobs/7649e0ed-c407-4c3e-a8c1-841893759079</link>
-      <guid isPermaLink="false">Trusted Health-Registered Nurse-Peoria, IL, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Peoria, IL, US
-🏠 Work: On-site
-
-📝 Description: Peoria, IL
+$68,132\\.50 \\- $119,520\\.35*This facility is an equal opportunity employer and complies with federal, state and local anti\\-discrimination laws, regulations and ordinances.*","","https://www.indeed.com/cmp/Adventhealth-Orlando-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fbe64a8630a72751aa2e295c464c72ab","http://www.joinadventhealth.com","Orlando, FL","5,001 to 10,000","Decline to state","AdventHealth Orlando began a new model of health care in 1908, in a converted farmhouse in rural Central Florida.","","","","","","",""
+"in-1c95368d64869918","indeed","https://www.indeed.com/viewjob?jk=1c95368d64869918","https://www.trustedhealth.com/jobs/7649e0ed-c407-4c3e-a8c1-841893759079","Registered Nurse","Trusted Health","Peoria, IL, US","2026-02-25","","","weekly","","","USD",False,"","","","","Peoria, IL
 Night
 3 shifts x 12 hours
 Start March 30th · 13 wks
@@ -2133,7 +1657,7 @@ Rate Breakdown
 Standard
 Overtime
 Lodging
-Meals \\&amp; Incidents
+Meals \\& Incidents
 Total$2,413/wk
 Sign Up to Unlock Full Visibility
 Keep in mind jobs like these can often fill quickly!Our platform is updated in real time to keep you informed and allow you to match with the perfect open opportunities!
@@ -2155,7 +1679,7 @@ Temp Illinois licensure is not accepted.
 **Preferred Credentials:** Preferred Education: \\-BSN
 
 
-**Shift \\&amp; Scheduling:** Holiday and Weekend Shifts: Every Other
+**Shift \\& Scheduling:** Holiday and Weekend Shifts: Every Other
 
 
 **Floating Requirements:** May float to Carle Health Methodist Hospital, Carle Health Pekin Hospital and/ or Carle Health Proctor Hospital
@@ -2164,7 +1688,7 @@ Temp Illinois licensure is not accepted.
 **Details:**
 
 
-* **AUTO OFFER \\- NO INTERVIEW**: This is an auto\\-offer position. You will likely not interview with the facility prior to receiving an offer. However, an interview can be arranged upon request. All time off requests must be submitted at application. Scheduling requests must be worked out with the manager directly upon starting the assignment. Any offers for this job will require a clear "Yes" or "No" response from the nurse within 24hrs or the offer must be declined.
+* **AUTO OFFER \\- NO INTERVIEW**: This is an auto\\-offer position. You will likely not interview with the facility prior to receiving an offer. However, an interview can be arranged upon request. All time off requests must be submitted at application. Scheduling requests must be worked out with the manager directly upon starting the assignment. Any offers for this job will require a clear ""Yes"" or ""No"" response from the nurse within 24hrs or the offer must be declined.
 
 
 Trusted Benefits
@@ -2183,25 +1707,10 @@ Vision
 401k
 
 
-(opt in)
-🔗 Apply Direct: https://www.trustedhealth.com/jobs/7649e0ed-c407-4c3e-a8c1-841893759079
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1c95368d64869918</description>
-      <companyName>Trusted Health</companyName>
-      <jobLocation>Peoria, IL, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at Trusted Health</title>
-      <link>https://www.trustedhealth.com/jobs/ce38760b-aa86-4259-9141-c47b480501aa</link>
-      <guid isPermaLink="false">Trusted Health-Registered Nurse-Peoria, IL, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Peoria, IL, US
-🏠 Work: On-site
-
-📝 Description: Peoria, IL
+(opt in)","","https://www.indeed.com/cmp/Trusted-Health-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3250c17ab41c2ed66a258941f9af7027","http://trustedhealth.com","201 California St.
+Suite 950
+San Francisco, CA 94111","201 to 500","","Trusted is a new marketplace for nurses to connect with job opportunities. Trusted has used technology to remove recruiters from the equation meaning more money in your pocket. Join trustedhealth.com.","","","","","","",""
+"in-1c66c2cb7fccdac8","indeed","https://www.indeed.com/viewjob?jk=1c66c2cb7fccdac8","https://www.trustedhealth.com/jobs/ce38760b-aa86-4259-9141-c47b480501aa","Registered Nurse","Trusted Health","Peoria, IL, US","2026-02-25","","","weekly","","","USD",False,"","","","","Peoria, IL
 Night
 3 shifts x 12 hours
 Start March 30th · 13 wks
@@ -2229,7 +1738,7 @@ Rate Breakdown
 Standard
 Overtime
 Lodging
-Meals \\&amp; Incidents
+Meals \\& Incidents
 Total$2,413/wk
 Sign Up to Unlock Full Visibility
 Keep in mind jobs like these can often fill quickly!Our platform is updated in real time to keep you informed and allow you to match with the perfect open opportunities!
@@ -2251,7 +1760,7 @@ Temp Illinois licensure is not accepted.
 **Preferred Credentials:** Preferred Education: \\-BSN
 
 
-**Shift \\&amp; Scheduling:** Holiday and Weekend Shifts: Rotation
+**Shift \\& Scheduling:** Holiday and Weekend Shifts: Rotation
 
 
 **Floating Requirements:** May float to Carle Health Methodist Hospital, Carle Health Pekin Hospital and/ or Carle Health Proctor Hospital
@@ -2260,7 +1769,7 @@ Temp Illinois licensure is not accepted.
 **Details:**
 
 
-* **AUTO OFFER \\- NO INTERVIEW**: This is an auto\\-offer position. You will likely not interview with the facility prior to receiving an offer. However, an interview can be arranged upon request. All time off requests must be submitted at application. Scheduling requests must be worked out with the manager directly upon starting the assignment. Any offers for this job will require a clear "Yes" or "No" response from the nurse within 24hrs or the offer must be declined.
+* **AUTO OFFER \\- NO INTERVIEW**: This is an auto\\-offer position. You will likely not interview with the facility prior to receiving an offer. However, an interview can be arranged upon request. All time off requests must be submitted at application. Scheduling requests must be worked out with the manager directly upon starting the assignment. Any offers for this job will require a clear ""Yes"" or ""No"" response from the nurse within 24hrs or the offer must be declined.
 
 
 Trusted Benefits
@@ -2279,25 +1788,10 @@ Vision
 401k
 
 
-(opt in)
-🔗 Apply Direct: https://www.trustedhealth.com/jobs/ce38760b-aa86-4259-9141-c47b480501aa
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1c66c2cb7fccdac8</description>
-      <companyName>Trusted Health</companyName>
-      <jobLocation>Peoria, IL, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at Trusted Health</title>
-      <link>https://www.trustedhealth.com/jobs/92bcc086-6e46-4dd9-8479-ad374c724da5</link>
-      <guid isPermaLink="false">Trusted Health-Registered Nurse-Peoria, IL, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Peoria, IL, US
-🏠 Work: On-site
-
-📝 Description: Peoria, IL
+(opt in)","","https://www.indeed.com/cmp/Trusted-Health-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3250c17ab41c2ed66a258941f9af7027","http://trustedhealth.com","201 California St.
+Suite 950
+San Francisco, CA 94111","201 to 500","","Trusted is a new marketplace for nurses to connect with job opportunities. Trusted has used technology to remove recruiters from the equation meaning more money in your pocket. Join trustedhealth.com.","","","","","","",""
+"in-33056fe743f87bfa","indeed","https://www.indeed.com/viewjob?jk=33056fe743f87bfa","https://www.trustedhealth.com/jobs/92bcc086-6e46-4dd9-8479-ad374c724da5","Registered Nurse","Trusted Health","Peoria, IL, US","2026-02-25","","","weekly","","","USD",False,"","","","","Peoria, IL
 Night
 3 shifts x 12 hours
 Start March 30th · 13 wks
@@ -2325,7 +1819,7 @@ Rate Breakdown
 Standard
 Overtime
 Lodging
-Meals \\&amp; Incidents
+Meals \\& Incidents
 Total$2,413/wk
 Sign Up to Unlock Full Visibility
 Keep in mind jobs like these can often fill quickly!Our platform is updated in real time to keep you informed and allow you to match with the perfect open opportunities!
@@ -2347,7 +1841,7 @@ Temp Illinois licensure is not accepted.
 **Preferred Credentials:** Preferred Education: \\-BSN
 
 
-**Shift \\&amp; Scheduling:** Holiday and Weekend Shifts: Rotation
+**Shift \\& Scheduling:** Holiday and Weekend Shifts: Rotation
 
 
 **Floating Requirements:** May float to Carle Health Methodist Hospital, Carle Health Pekin Hospital and/ or Carle Health Proctor Hospital
@@ -2356,7 +1850,7 @@ Temp Illinois licensure is not accepted.
 **Details:**
 
 
-* **AUTO OFFER \\- NO INTERVIEW**: This is an auto\\-offer position. You will likely not interview with the facility prior to receiving an offer. However, an interview can be arranged upon request. All time off requests must be submitted at application. Scheduling requests must be worked out with the manager directly upon starting the assignment. Any offers for this job will require a clear "Yes" or "No" response from the nurse within 24hrs or the offer must be declined.
+* **AUTO OFFER \\- NO INTERVIEW**: This is an auto\\-offer position. You will likely not interview with the facility prior to receiving an offer. However, an interview can be arranged upon request. All time off requests must be submitted at application. Scheduling requests must be worked out with the manager directly upon starting the assignment. Any offers for this job will require a clear ""Yes"" or ""No"" response from the nurse within 24hrs or the offer must be declined.
 
 
 Trusted Benefits
@@ -2375,25 +1869,10 @@ Vision
 401k
 
 
-(opt in)
-🔗 Apply Direct: https://www.trustedhealth.com/jobs/92bcc086-6e46-4dd9-8479-ad374c724da5
-🔗 Job Board: https://www.indeed.com/viewjob?jk=33056fe743f87bfa</description>
-      <companyName>Trusted Health</companyName>
-      <jobLocation>Peoria, IL, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at Trusted Health</title>
-      <link>https://www.trustedhealth.com/jobs/59c216dc-9ee8-4b2e-a369-edd464bfcab5</link>
-      <guid isPermaLink="false">Trusted Health-Registered Nurse-Peoria, IL, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Peoria, IL, US
-🏠 Work: On-site
-
-📝 Description: Peoria, IL
+(opt in)","","https://www.indeed.com/cmp/Trusted-Health-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3250c17ab41c2ed66a258941f9af7027","http://trustedhealth.com","201 California St.
+Suite 950
+San Francisco, CA 94111","201 to 500","","Trusted is a new marketplace for nurses to connect with job opportunities. Trusted has used technology to remove recruiters from the equation meaning more money in your pocket. Join trustedhealth.com.","","","","","","",""
+"in-429ef8957881a036","indeed","https://www.indeed.com/viewjob?jk=429ef8957881a036","https://www.trustedhealth.com/jobs/59c216dc-9ee8-4b2e-a369-edd464bfcab5","Registered Nurse","Trusted Health","Peoria, IL, US","2026-02-25","","","weekly","","","USD",False,"","","","","Peoria, IL
 Night
 3 shifts x 12 hours
 Start March 30th · 13 wks
@@ -2421,7 +1900,7 @@ Rate Breakdown
 Standard
 Overtime
 Lodging
-Meals \\&amp; Incidents
+Meals \\& Incidents
 Total$2,413/wk
 Sign Up to Unlock Full Visibility
 Keep in mind jobs like these can often fill quickly!Our platform is updated in real time to keep you informed and allow you to match with the perfect open opportunities!
@@ -2443,7 +1922,7 @@ Temp Illinois licensure is not accepted.
 **Preferred Credentials:** Preferred Education: \\-BSN
 
 
-**Shift \\&amp; Scheduling:** Holiday and Weekend Shifts: Rotation
+**Shift \\& Scheduling:** Holiday and Weekend Shifts: Rotation
 
 
 **Floating Requirements:** May float to Carle Health Methodist Hospital, Carle Health Pekin Hospital and/ or Carle Health Proctor Hospital
@@ -2452,7 +1931,7 @@ Temp Illinois licensure is not accepted.
 **Details:**
 
 
-* **AUTO OFFER \\- NO INTERVIEW**: This is an auto\\-offer position. You will likely not interview with the facility prior to receiving an offer. However, an interview can be arranged upon request. All time off requests must be submitted at application. Scheduling requests must be worked out with the manager directly upon starting the assignment. Any offers for this job will require a clear "Yes" or "No" response from the nurse within 24hrs or the offer must be declined.
+* **AUTO OFFER \\- NO INTERVIEW**: This is an auto\\-offer position. You will likely not interview with the facility prior to receiving an offer. However, an interview can be arranged upon request. All time off requests must be submitted at application. Scheduling requests must be worked out with the manager directly upon starting the assignment. Any offers for this job will require a clear ""Yes"" or ""No"" response from the nurse within 24hrs or the offer must be declined.
 
 
 Trusted Benefits
@@ -2471,25 +1950,10 @@ Vision
 401k
 
 
-(opt in)
-🔗 Apply Direct: https://www.trustedhealth.com/jobs/59c216dc-9ee8-4b2e-a369-edd464bfcab5
-🔗 Job Board: https://www.indeed.com/viewjob?jk=429ef8957881a036</description>
-      <companyName>Trusted Health</companyName>
-      <jobLocation>Peoria, IL, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at Trusted Health</title>
-      <link>https://www.trustedhealth.com/jobs/6beab0a5-888e-463f-950a-ff0a33d22123</link>
-      <guid isPermaLink="false">Trusted Health-Registered Nurse-Peoria, IL, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Peoria, IL, US
-🏠 Work: On-site
-
-📝 Description: Peoria, IL
+(opt in)","","https://www.indeed.com/cmp/Trusted-Health-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3250c17ab41c2ed66a258941f9af7027","http://trustedhealth.com","201 California St.
+Suite 950
+San Francisco, CA 94111","201 to 500","","Trusted is a new marketplace for nurses to connect with job opportunities. Trusted has used technology to remove recruiters from the equation meaning more money in your pocket. Join trustedhealth.com.","","","","","","",""
+"in-14b2479aa562d42a","indeed","https://www.indeed.com/viewjob?jk=14b2479aa562d42a","https://www.trustedhealth.com/jobs/6beab0a5-888e-463f-950a-ff0a33d22123","Registered Nurse","Trusted Health","Peoria, IL, US","2026-02-25","","","weekly","","","USD",False,"","","","","Peoria, IL
 Night
 3 shifts x 12 hours
 Start March 30th · 13 wks
@@ -2517,7 +1981,7 @@ Rate Breakdown
 Standard
 Overtime
 Lodging
-Meals \\&amp; Incidents
+Meals \\& Incidents
 Total$2,413/wk
 Sign Up to Unlock Full Visibility
 Keep in mind jobs like these can often fill quickly!Our platform is updated in real time to keep you informed and allow you to match with the perfect open opportunities!
@@ -2539,7 +2003,7 @@ Temp Illinois licensure is not accepted.
 **Preferred Credentials:** Preferred Education: \\-BSN
 
 
-**Shift \\&amp; Scheduling:** Holiday and Weekend Shifts: Rotation
+**Shift \\& Scheduling:** Holiday and Weekend Shifts: Rotation
 
 
 * On Call \\= None
@@ -2551,7 +2015,7 @@ Temp Illinois licensure is not accepted.
 **Details:**
 
 
-* **AUTO OFFER \\- NO INTERVIEW**: This is an auto\\-offer position. You will likely not interview with the facility prior to receiving an offer. However, an interview can be arranged upon request. All time off requests must be submitted at application. Scheduling requests must be worked out with the manager directly upon starting the assignment. Any offers for this job will require a clear "Yes" or "No" response from the nurse within 24hrs or the offer must be declined.
+* **AUTO OFFER \\- NO INTERVIEW**: This is an auto\\-offer position. You will likely not interview with the facility prior to receiving an offer. However, an interview can be arranged upon request. All time off requests must be submitted at application. Scheduling requests must be worked out with the manager directly upon starting the assignment. Any offers for this job will require a clear ""Yes"" or ""No"" response from the nurse within 24hrs or the offer must be declined.
 
 
 Trusted Benefits
@@ -2570,25 +2034,10 @@ Vision
 401k
 
 
-(opt in)
-🔗 Apply Direct: https://www.trustedhealth.com/jobs/6beab0a5-888e-463f-950a-ff0a33d22123
-🔗 Job Board: https://www.indeed.com/viewjob?jk=14b2479aa562d42a</description>
-      <companyName>Trusted Health</companyName>
-      <jobLocation>Peoria, IL, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at Trusted Health</title>
-      <link>https://www.trustedhealth.com/jobs/9e4d933a-7c31-4284-863f-79c8a6b361e7</link>
-      <guid isPermaLink="false">Trusted Health-Registered Nurse-Los Angeles, CA, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Los Angeles, CA, US
-🏠 Work: On-site
-
-📝 Description: Los Angeles, CA
+(opt in)","","https://www.indeed.com/cmp/Trusted-Health-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3250c17ab41c2ed66a258941f9af7027","http://trustedhealth.com","201 California St.
+Suite 950
+San Francisco, CA 94111","201 to 500","","Trusted is a new marketplace for nurses to connect with job opportunities. Trusted has used technology to remove recruiters from the equation meaning more money in your pocket. Join trustedhealth.com.","","","","","","",""
+"in-a156c3dd50d8ef7f","indeed","https://www.indeed.com/viewjob?jk=a156c3dd50d8ef7f","https://www.trustedhealth.com/jobs/9e4d933a-7c31-4284-863f-79c8a6b361e7","Registered Nurse","Trusted Health","Los Angeles, CA, US","2026-02-25","","","weekly","","","USD",False,"","","","","Los Angeles, CA
 Night
 3 shifts x 12 hours
 Start ASAP · 13 wks
@@ -2614,7 +2063,7 @@ Rate Breakdown
 Standard
 Overtime
 Lodging
-Meals \\&amp; Incidents
+Meals \\& Incidents
 Total$2,713/wk
 Sign Up to Unlock Full Visibility
 Keep in mind jobs like these can often fill quickly!Our platform is updated in real time to keep you informed and allow you to match with the perfect open opportunities!
@@ -2657,25 +2106,10 @@ Vision
 401k
 
 
-(opt in)
-🔗 Apply Direct: https://www.trustedhealth.com/jobs/9e4d933a-7c31-4284-863f-79c8a6b361e7
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a156c3dd50d8ef7f</description>
-      <companyName>Trusted Health</companyName>
-      <jobLocation>Los Angeles, CA, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at Trusted Health</title>
-      <link>https://www.trustedhealth.com/jobs/dc38ba68-8a58-4041-835b-d8d8f7a7d9b6</link>
-      <guid isPermaLink="false">Trusted Health-Registered Nurse-Marrero, LA, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Marrero, LA, US
-🏠 Work: On-site
-
-📝 Description: Marrero, LA
+(opt in)","","https://www.indeed.com/cmp/Trusted-Health-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3250c17ab41c2ed66a258941f9af7027","http://trustedhealth.com","201 California St.
+Suite 950
+San Francisco, CA 94111","201 to 500","","Trusted is a new marketplace for nurses to connect with job opportunities. Trusted has used technology to remove recruiters from the equation meaning more money in your pocket. Join trustedhealth.com.","","","","","","",""
+"in-ad01bf1ecbeb8a16","indeed","https://www.indeed.com/viewjob?jk=ad01bf1ecbeb8a16","https://www.trustedhealth.com/jobs/dc38ba68-8a58-4041-835b-d8d8f7a7d9b6","Registered Nurse","Trusted Health","Marrero, LA, US","2026-02-25","","","weekly","","","USD",False,"","","","","Marrero, LA
 Night
 4 shifts x 12 hours
 Start March 23rd · 13 wks
@@ -2705,7 +2139,7 @@ Rate Breakdown
 Standard
 Overtime
 Lodging
-Meals \\&amp; Incidents
+Meals \\& Incidents
 Total$2,661/wk
 Sign Up to Unlock Full Visibility
 Keep in mind jobs like these can often fill quickly!Our platform is updated in real time to keep you informed and allow you to match with the perfect open opportunities!
@@ -2724,19 +2158,19 @@ You must be willing to float, work weekends, and generally just be very flexible
 You must be able to complete labs within 48 hours of signing.
 
 
-**Required skills and experience:** 2 Years MS/Tele Experience Required. Interpretation/Management of Dysrhythmias \\&amp; Telemetry. Cardiac Monitoring and Emergency response, Interpretation of dysrhythmias, Management of dysrhythmias, IV therapy/Phlebotomy, Medications, Work Settings, Telemetry.
+**Required skills and experience:** 2 Years MS/Tele Experience Required. Interpretation/Management of Dysrhythmias \\& Telemetry. Cardiac Monitoring and Emergency response, Interpretation of dysrhythmias, Management of dysrhythmias, IV therapy/Phlebotomy, Medications, Work Settings, Telemetry.
 
 
 **Preferred skills and experience:** On the unit monitoring, Blood Product Administration, Peripheral Line Care/Management, PICC line management, Starting and maintaining IVs, Manage Cardiac drips\\- no titration
 
 
-**Shift \\&amp; schedule requirements:** This unit does not offer straight 3x12 schedules. Travelers can either work an alternating 3x12s alternating 4x12's every other week, or they can work straight 4x12's. Holiday Requirement: Yes at least 2 of 3 holidays.
+**Shift \\& schedule requirements:** This unit does not offer straight 3x12 schedules. Travelers can either work an alternating 3x12s alternating 4x12's every other week, or they can work straight 4x12's. Holiday Requirement: Yes at least 2 of 3 holidays.
 
 
 **Special request requirements:** Mardi Gras discussed with manager. More than 1 week RTO must add to end of contract.
 
 
-**Unit and facility details:** General MS, Covid, TB, \\&amp; all neg pressure rooms
+**Unit and facility details:** General MS, Covid, TB, \\& all neg pressure rooms
 
 
 
@@ -2756,25 +2190,10 @@ Vision
 401k
 
 
-(opt in)
-🔗 Apply Direct: https://www.trustedhealth.com/jobs/dc38ba68-8a58-4041-835b-d8d8f7a7d9b6
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ad01bf1ecbeb8a16</description>
-      <companyName>Trusted Health</companyName>
-      <jobLocation>Marrero, LA, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at Trusted Health</title>
-      <link>https://www.trustedhealth.com/jobs/8e4bcfaf-4027-4435-a089-d7aeb82c13af</link>
-      <guid isPermaLink="false">Trusted Health-Registered Nurse-Lafayette, IN, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Lafayette, IN, US
-🏠 Work: On-site
-
-📝 Description: Lafayette, IN
+(opt in)","","https://www.indeed.com/cmp/Trusted-Health-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3250c17ab41c2ed66a258941f9af7027","http://trustedhealth.com","201 California St.
+Suite 950
+San Francisco, CA 94111","201 to 500","","Trusted is a new marketplace for nurses to connect with job opportunities. Trusted has used technology to remove recruiters from the equation meaning more money in your pocket. Join trustedhealth.com.","","","","","","",""
+"in-2f418e77c2be56bd","indeed","https://www.indeed.com/viewjob?jk=2f418e77c2be56bd","https://www.trustedhealth.com/jobs/8e4bcfaf-4027-4435-a089-d7aeb82c13af","Registered Nurse","Trusted Health","Lafayette, IN, US","2026-02-25","","","weekly","","","USD",False,"","","","","Lafayette, IN
 Night
 4 shifts x 12 hours
 Start March 17th · 13 wks
@@ -2802,7 +2221,7 @@ Rate Breakdown
 Standard
 Overtime
 Lodging
-Meals \\&amp; Incidents
+Meals \\& Incidents
 Total$2,678/wk
 Sign Up to Unlock Full Visibility
 Keep in mind jobs like these can often fill quickly!Our platform is updated in real time to keep you informed and allow you to match with the perfect open opportunities!
@@ -2835,13 +2254,13 @@ IU Health will not allow IN RN’s to work at their facilities. Exceptions inclu
 **Special Request** Candidate MUST WORK 2 out of 3 major holidays
 
 
-**Shift \\&amp; Scheduling:** : Every other weekend required
+**Shift \\& Scheduling:** : Every other weekend required
 
 
 **Details:**
 
 
-* **AUTO OFFER \\- NO INTERVIEW**: This is an auto\\-offer position. You will likely not interview with the facility prior to receiving an offer. However, an interview can be arranged upon request. All time off requests must be submitted at application. Scheduling requests must be worked out with the manager directly upon starting the assignment. Any offers for this job will require a clear "Yes" or "No" response from the nurse within 24hrs or the offer must be declined.
+* **AUTO OFFER \\- NO INTERVIEW**: This is an auto\\-offer position. You will likely not interview with the facility prior to receiving an offer. However, an interview can be arranged upon request. All time off requests must be submitted at application. Scheduling requests must be worked out with the manager directly upon starting the assignment. Any offers for this job will require a clear ""Yes"" or ""No"" response from the nurse within 24hrs or the offer must be declined.
 
 
 Trusted Benefits
@@ -2860,25 +2279,10 @@ Vision
 401k
 
 
-(opt in)
-🔗 Apply Direct: https://www.trustedhealth.com/jobs/8e4bcfaf-4027-4435-a089-d7aeb82c13af
-🔗 Job Board: https://www.indeed.com/viewjob?jk=2f418e77c2be56bd</description>
-      <companyName>Trusted Health</companyName>
-      <jobLocation>Lafayette, IN, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at Trusted Health</title>
-      <link>https://www.trustedhealth.com/jobs/12e15e82-3c42-405b-8919-936dae737fe6</link>
-      <guid isPermaLink="false">Trusted Health-Registered Nurse-Los Angeles, CA, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Los Angeles, CA, US
-🏠 Work: On-site
-
-📝 Description: Los Angeles, CA
+(opt in)","","https://www.indeed.com/cmp/Trusted-Health-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3250c17ab41c2ed66a258941f9af7027","http://trustedhealth.com","201 California St.
+Suite 950
+San Francisco, CA 94111","201 to 500","","Trusted is a new marketplace for nurses to connect with job opportunities. Trusted has used technology to remove recruiters from the equation meaning more money in your pocket. Join trustedhealth.com.","","","","","","",""
+"in-7c0bcb1783c7cb91","indeed","https://www.indeed.com/viewjob?jk=7c0bcb1783c7cb91","https://www.trustedhealth.com/jobs/12e15e82-3c42-405b-8919-936dae737fe6","Registered Nurse","Trusted Health","Los Angeles, CA, US","2026-02-25","","","weekly","","","USD",False,"","","","","Los Angeles, CA
 Night
 3 shifts x 12 hours
 Start ASAP · 13 wks
@@ -2904,7 +2308,7 @@ Rate Breakdown
 Standard
 Overtime
 Lodging
-Meals \\&amp; Incidents
+Meals \\& Incidents
 Total$2,713/wk
 Sign Up to Unlock Full Visibility
 Keep in mind jobs like these can often fill quickly!Our platform is updated in real time to keep you informed and allow you to match with the perfect open opportunities!
@@ -2947,25 +2351,10 @@ Vision
 401k
 
 
-(opt in)
-🔗 Apply Direct: https://www.trustedhealth.com/jobs/12e15e82-3c42-405b-8919-936dae737fe6
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7c0bcb1783c7cb91</description>
-      <companyName>Trusted Health</companyName>
-      <jobLocation>Los Angeles, CA, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at Trusted Health</title>
-      <link>https://www.trustedhealth.com/jobs/7994116d-b9bc-49d6-8e18-f19116126a30</link>
-      <guid isPermaLink="false">Trusted Health-Registered Nurse-Los Angeles, CA, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Los Angeles, CA, US
-🏠 Work: On-site
-
-📝 Description: Los Angeles, CA
+(opt in)","","https://www.indeed.com/cmp/Trusted-Health-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3250c17ab41c2ed66a258941f9af7027","http://trustedhealth.com","201 California St.
+Suite 950
+San Francisco, CA 94111","201 to 500","","Trusted is a new marketplace for nurses to connect with job opportunities. Trusted has used technology to remove recruiters from the equation meaning more money in your pocket. Join trustedhealth.com.","","","","","","",""
+"in-e78ed54afdacc79b","indeed","https://www.indeed.com/viewjob?jk=e78ed54afdacc79b","https://www.trustedhealth.com/jobs/7994116d-b9bc-49d6-8e18-f19116126a30","Registered Nurse","Trusted Health","Los Angeles, CA, US","2026-02-25","","","weekly","","","USD",False,"","","","","Los Angeles, CA
 Night
 3 shifts x 12 hours
 Start ASAP · 13 wks
@@ -2991,7 +2380,7 @@ Rate Breakdown
 Standard
 Overtime
 Lodging
-Meals \\&amp; Incidents
+Meals \\& Incidents
 Total$2,713/wk
 Sign Up to Unlock Full Visibility
 Keep in mind jobs like these can often fill quickly!Our platform is updated in real time to keep you informed and allow you to match with the perfect open opportunities!
@@ -3034,26 +2423,10 @@ Vision
 401k
 
 
-(opt in)
-🔗 Apply Direct: https://www.trustedhealth.com/jobs/7994116d-b9bc-49d6-8e18-f19116126a30
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e78ed54afdacc79b</description>
-      <companyName>Trusted Health</companyName>
-      <jobLocation>Los Angeles, CA, US</jobLocation>
-      <salarySchedule>weekly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Vocational Nurse - LVN at Texas Health Resources</title>
-      <link>https://TexasHealthResources.contacthr.com/151185092</link>
-      <guid isPermaLink="false">Texas Health Resources-Licensed Vocational Nurse - LVN-Arlington, TX, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Arlington, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **LVN – Family Care 18145**
+(opt in)","","https://www.indeed.com/cmp/Trusted-Health-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3250c17ab41c2ed66a258941f9af7027","http://trustedhealth.com","201 California St.
+Suite 950
+San Francisco, CA 94111","201 to 500","","Trusted is a new marketplace for nurses to connect with job opportunities. Trusted has used technology to remove recruiters from the equation meaning more money in your pocket. Join trustedhealth.com.","","","","","","",""
+"in-2732342d8a581183","indeed","https://www.indeed.com/viewjob?jk=2732342d8a581183","https://TexasHealthResources.contacthr.com/151185092","Licensed Vocational Nurse - LVN","Texas Health Resources","Arlington, TX, US","2026-02-25","fulltime","","","","","",False,"","","","recruitment@texashealth.org","**LVN – Family Care 18145**
 
 *Bring your passion to Texas Health so we are Better \\+ Together*
 
@@ -3118,25 +2491,8 @@ Vision
 ***Do you still have questions or concerns?*** Feel free to email your questions to recruitment@texashealth.org.
 
 
-\\#LI\\-JL1
-🔗 Apply Direct: https://TexasHealthResources.contacthr.com/151185092
-🔗 Job Board: https://www.indeed.com/viewjob?jk=2732342d8a581183</description>
-      <companyName>Texas Health Resources</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Arlington, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) Acute Medical Dept- Full Time Nights at Texas Health Resources</title>
-      <link>https://TexasHealthResources.contacthr.com/151185072</link>
-      <guid isPermaLink="false">Texas Health Resources-Registered Nurse (RN) Acute Medical Dept- Full Time Nights-Fort Worth, TX, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Fort Worth, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Registered Nurse (RN) Acute Medical Dept**
+\\#LI\\-JL1","","https://www.indeed.com/cmp/Texas-Health-Resources","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/93fd45cafed3b708a5f15b631928647c","https://jobs.texashealth.org/","Arlington, TX","10,000+","Decline to state","Join our award-winning Texas Health in North Texas family and become a part of a team that is improving the health of our communities.","","","","","","",""
+"in-4a634d2e86d96ce3","indeed","https://www.indeed.com/viewjob?jk=4a634d2e86d96ce3","https://TexasHealthResources.contacthr.com/151185072","Registered Nurse (RN) Acute Medical Dept- Full Time Nights","Texas Health Resources","Fort Worth, TX, US","2026-02-25","fulltime","","","","","",False,"","","","recruitment@texashealth.org","**Registered Nurse (RN) Acute Medical Dept**
 
 ***Bring your passion to Texas Health so we are Better \\+ Together***
 
@@ -3188,25 +2544,8 @@ Delivers care to patients utilizing the Nursing Process
 * A supportive, team environment with outstanding opportunities for growth.
 * Explore our Texas Health careers site for info like Benefits, Job Listings by Category, recent Awards we’ve won and more.
 
-***Do you still have questions or concerns?*** Feel free to email your questions to recruitment@texashealth.org. \\#cb \\#LI\\-CR1
-🔗 Apply Direct: https://TexasHealthResources.contacthr.com/151185072
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4a634d2e86d96ce3</description>
-      <companyName>Texas Health Resources</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Fort Worth, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse – Alliance Women’s Healthcare Clinic – Full-Time, Days at Texas Health Resources</title>
-      <link>https://TexasHealthResources.contacthr.com/151185016</link>
-      <guid isPermaLink="false">Texas Health Resources-Registered Nurse – Alliance Women’s Healthcare Clinic – Full-Time, Days-Keller, TX, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Keller, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Registered Nurse –** **Alliance Women’s Healthcare** **Clinic – Full\\-Time, Days**
+***Do you still have questions or concerns?*** Feel free to email your questions to recruitment@texashealth.org. \\#cb \\#LI\\-CR1","","https://www.indeed.com/cmp/Texas-Health-Resources","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/93fd45cafed3b708a5f15b631928647c","https://jobs.texashealth.org/","Arlington, TX","10,000+","Decline to state","Join our award-winning Texas Health in North Texas family and become a part of a team that is improving the health of our communities.","","","","","","",""
+"in-a8e1ff03517315e6","indeed","https://www.indeed.com/viewjob?jk=a8e1ff03517315e6","https://TexasHealthResources.contacthr.com/151185016","Registered Nurse – Alliance Women’s Healthcare Clinic – Full-Time, Days","Texas Health Resources","Keller, TX, US","2026-02-25","fulltime","","","","","",False,"","","","recruitment@texashealth.org","**Registered Nurse –** **Alliance Women’s Healthcare** **Clinic – Full\\-Time, Days**
 
 ***Bring your passion to Texas Health so we are Better \\+ Together***
 
@@ -3222,7 +2561,7 @@ Delivers care to patients utilizing the Nursing Process
 **Alliance Women’s Healthcare Clinic Highlights:**
 
 * If you have strong leadership and time management skills, this is the job for you!
-* Our team has strong teamwork \\&amp; collaboration
+* Our team has strong teamwork \\& collaboration
 * Our clinic thrives in quickly learning new tasks and information
 * Compassion and empathy to our patients and the team
 **Here’s What You Need**
@@ -3270,25 +2609,8 @@ Texas Health Physicians Group includes more than 1,000 physicians, nurse practit
 THPG members are active in group governance and serve on multiple committees and councils. Ongoing Texas Health initiatives, like the Diversity Action Council and Living the Promise, have helped to create an inclusive, supportive, people\\-first, excellence\\-driven culture and workplace, making THPG a great place to work.
 **If you’re ready to join us in our mission to improve the health of our community, then let’s show the world how we’re even better together!**
 ***Do you still have questions or concerns?***Feel free to email your questions to recruitment@texashealth.org.
-\\#LI\\-CT1
-🔗 Apply Direct: https://TexasHealthResources.contacthr.com/151185016
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a8e1ff03517315e6</description>
-      <companyName>Texas Health Resources</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Keller, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Vocational Nurse - LVN at Texas Health Resources</title>
-      <link>https://TexasHealthResources.contacthr.com/151185064</link>
-      <guid isPermaLink="false">Texas Health Resources-Licensed Vocational Nurse - LVN-Plano, TX, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Plano, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **LVN – Family Care 18135**
+\\#LI\\-CT1","","https://www.indeed.com/cmp/Texas-Health-Resources","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/93fd45cafed3b708a5f15b631928647c","https://jobs.texashealth.org/","Arlington, TX","10,000+","Decline to state","Join our award-winning Texas Health in North Texas family and become a part of a team that is improving the health of our communities.","","","","","","",""
+"in-9f4d901387087bfa","indeed","https://www.indeed.com/viewjob?jk=9f4d901387087bfa","https://TexasHealthResources.contacthr.com/151185064","Licensed Vocational Nurse - LVN","Texas Health Resources","Plano, TX, US","2026-02-25","fulltime","","","","","",False,"","","","recruitment@texashealth.org","**LVN – Family Care 18135**
 
 *Bring your passion to Texas Health so we are Better \\+ Together*
 
@@ -3359,25 +2681,8 @@ THPG members are active in group governance and serve on multiple committees and
 ***Do you still have questions or concerns?*** Feel free to email your questions to recruitment@texashealth.org.
 
 
-\\#LI\\-JL1
-🔗 Apply Direct: https://TexasHealthResources.contacthr.com/151185064
-🔗 Job Board: https://www.indeed.com/viewjob?jk=9f4d901387087bfa</description>
-      <companyName>Texas Health Resources</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Plano, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse – Heart &amp; Vascular Specialists Clinic – Full-Time, Days at Texas Health Resources</title>
-      <link>https://TexasHealthResources.contacthr.com/151185048</link>
-      <guid isPermaLink="false">Texas Health Resources-Registered Nurse – Heart &amp; Vascular Specialists Clinic – Full-Time, Days-Rockwall, TX, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Rockwall, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Registered Nurse –** **Heart \\&amp; Vascular Specialists** **Clinic – Full\\-Time, Days**
+\\#LI\\-JL1","","https://www.indeed.com/cmp/Texas-Health-Resources","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/93fd45cafed3b708a5f15b631928647c","https://jobs.texashealth.org/","Arlington, TX","10,000+","Decline to state","Join our award-winning Texas Health in North Texas family and become a part of a team that is improving the health of our communities.","","","","","","",""
+"in-f2eb65f283a7449f","indeed","https://www.indeed.com/viewjob?jk=f2eb65f283a7449f","https://TexasHealthResources.contacthr.com/151185048","Registered Nurse – Heart & Vascular Specialists Clinic – Full-Time, Days","Texas Health Resources","Rockwall, TX, US","2026-02-25","fulltime","","","","","",False,"","","","recruitment@texashealth.org","**Registered Nurse –** **Heart \\& Vascular Specialists** **Clinic – Full\\-Time, Days**
 
 ***Bring your passion to Texas Health so we are Better \\+ Together***
 
@@ -3391,7 +2696,7 @@ THPG members are active in group governance and serve on multiple committees and
 
 
 
-**Heart \\&amp; Vascular Specialist Clinic Highlights:**
+**Heart \\& Vascular Specialist Clinic Highlights:**
 
 * Strong teamwork and collaboration
 * Fast\\-paced, busy clinic
@@ -3440,25 +2745,8 @@ Texas Health Physicians Group includes more than 1,000 physicians, nurse practit
 THPG members are active in group governance and serve on multiple committees and councils. Ongoing Texas Health initiatives, like the Diversity Action Council and Living the Promise, have helped to create an inclusive, supportive, people\\-first, excellence\\-driven culture and workplace, making THPG a great place to work.
 **If you’re ready to join us in our mission to improve the health of our community, then let’s show the world how we’re even better together!**
 ***Do you still have questions or concerns?***Feel free to email your questions to recruitment@texashealth.org.
-\\#LI\\-CT1
-🔗 Apply Direct: https://TexasHealthResources.contacthr.com/151185048
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f2eb65f283a7449f</description>
-      <companyName>Texas Health Resources</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Rockwall, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinical Concierge MA LVN - Allen at Texas Health Resources</title>
-      <link>https://TexasHealthResources.contacthr.com/151185012</link>
-      <guid isPermaLink="false">Texas Health Resources-Clinical Concierge MA LVN - Allen-Allen, TX, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Allen, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Clinical Concierge MA/LVN – Executive Direct Collin 18107**
+\\#LI\\-CT1","","https://www.indeed.com/cmp/Texas-Health-Resources","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/93fd45cafed3b708a5f15b631928647c","https://jobs.texashealth.org/","Arlington, TX","10,000+","Decline to state","Join our award-winning Texas Health in North Texas family and become a part of a team that is improving the health of our communities.","","","","","","",""
+"in-7d7351fb62bdc33d","indeed","https://www.indeed.com/viewjob?jk=7d7351fb62bdc33d","https://TexasHealthResources.contacthr.com/151185012","Clinical Concierge MA LVN - Allen","Texas Health Resources","Allen, TX, US","2026-02-25","fulltime","","","","","",False,"","","","recruitment@texashealth.org","**Clinical Concierge MA/LVN – Executive Direct Collin 18107**
 
 *Bring your passion to Texas Health so we are Better \\+ Together*
 
@@ -3539,24 +2827,8 @@ THPG members are active in group governance and serve on multiple committees and
 
 
 
-***Do you still have questions or concerns?*** Feel free to email your questions to recruitment@texashealth.org.
-🔗 Apply Direct: https://TexasHealthResources.contacthr.com/151185012
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7d7351fb62bdc33d</description>
-      <companyName>Texas Health Resources</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Allen, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Director Nursing Perioperative at Texas Health Resources</title>
-      <link>https://TexasHealthResources.contacthr.com/151185008</link>
-      <guid isPermaLink="false">Texas Health Resources-Director Nursing Perioperative-Dallas, TX, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Dallas, TX, US
-🏠 Work: On-site
-
-📝 Description: **Director Perioperative**  
+***Do you still have questions or concerns?*** Feel free to email your questions to recruitment@texashealth.org.","","https://www.indeed.com/cmp/Texas-Health-Resources","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/93fd45cafed3b708a5f15b631928647c","https://jobs.texashealth.org/","Arlington, TX","10,000+","Decline to state","Join our award-winning Texas Health in North Texas family and become a part of a team that is improving the health of our communities.","","","","","","",""
+"in-4f775c3c110ef7ac","indeed","https://www.indeed.com/viewjob?jk=4f775c3c110ef7ac","https://TexasHealthResources.contacthr.com/151185008","Director Nursing Perioperative","Texas Health Resources","Dallas, TX, US","2026-02-25","","","","","","",False,"","","","","**Director Perioperative**  
 
   
 
@@ -3773,23 +3045,8 @@ As part of the Texas Health family and its 28,000\\+ employees, we’re one of t
 **Learn** more about our culture, benefits, and recent awards.
 
 
-\\#LI\\-AZ1
-🔗 Apply Direct: https://TexasHealthResources.contacthr.com/151185008
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4f775c3c110ef7ac</description>
-      <companyName>Texas Health Resources</companyName>
-      <jobLocation>Dallas, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Director Clinical Innovations and Outcomes at Texas Health Resources</title>
-      <link>https://TexasHealthResources.contacthr.com/151184988</link>
-      <guid isPermaLink="false">Texas Health Resources-Director Clinical Innovations and Outcomes-Dallas, TX, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Dallas, TX, US
-🏠 Work: On-site
-
-📝 Description: **Director Clinical Innovations and Outcomes**  
+\\#LI\\-AZ1","","https://www.indeed.com/cmp/Texas-Health-Resources","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/93fd45cafed3b708a5f15b631928647c","https://jobs.texashealth.org/","Arlington, TX","10,000+","Decline to state","Join our award-winning Texas Health in North Texas family and become a part of a team that is improving the health of our communities.","","","","","","",""
+"in-a55ba42d44e88042","indeed","https://www.indeed.com/viewjob?jk=a55ba42d44e88042","https://TexasHealthResources.contacthr.com/151184988","Director Clinical Innovations and Outcomes","Texas Health Resources","Dallas, TX, US","2026-02-25","","","","","","",False,"","","","","**Director Clinical Innovations and Outcomes**  
 
   
 
@@ -3880,24 +3137,8 @@ As part of the Texas Health family and its 28,000\\+ employees, we’re one of t
 **Learn** more about our culture, benefits, and recent awards.
 
 
-\\#LI\\-AZ1
-🔗 Apply Direct: https://TexasHealthResources.contacthr.com/151184988
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a55ba42d44e88042</description>
-      <companyName>Texas Health Resources</companyName>
-      <jobLocation>Dallas, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Transitional Registered Nurse, Antepartum - Full Time, Nights at Texas Health Resources</title>
-      <link>https://TexasHealthResources.contacthr.com/151184984</link>
-      <guid isPermaLink="false">Texas Health Resources-Transitional Registered Nurse, Antepartum - Full Time, Nights-Plano, TX, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Plano, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Transitional Registered Nurse (RN) Antepartum**
+\\#LI\\-AZ1","","https://www.indeed.com/cmp/Texas-Health-Resources","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/93fd45cafed3b708a5f15b631928647c","https://jobs.texashealth.org/","Arlington, TX","10,000+","Decline to state","Join our award-winning Texas Health in North Texas family and become a part of a team that is improving the health of our communities.","","","","","","",""
+"in-52449dfa11b6acff","indeed","https://www.indeed.com/viewjob?jk=52449dfa11b6acff","https://TexasHealthResources.contacthr.com/151184984","Transitional Registered Nurse, Antepartum - Full Time, Nights","Texas Health Resources","Plano, TX, US","2026-02-25","fulltime","","","","","",False,"","","","recruitment@texashealth.org","**Transitional Registered Nurse (RN) Antepartum**
 
 *Bring your passion to Texas Health so we are Better \\+ Together*
 
@@ -3939,25 +3180,8 @@ Texas Health Plano is a four\\-time Magnet\\-designated hospital, the only AACN 
 ***Do you still have questions or concerns?*** Feel free to email your questions to recruitment@texashealth.org
 
 
-**\\#LI\\-TC1**
-🔗 Apply Direct: https://TexasHealthResources.contacthr.com/151184984
-🔗 Job Board: https://www.indeed.com/viewjob?jk=52449dfa11b6acff</description>
-      <companyName>Texas Health Resources</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Plano, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - GI Lab (Full Time/Evenings) at Texas Health Resources</title>
-      <link>https://TexasHealthResources.contacthr.com/151184968</link>
-      <guid isPermaLink="false">Texas Health Resources-Registered Nurse (RN) - GI Lab (Full Time/Evenings)-Plano, TX, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Plano, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Registered Nurse (RN) – GI Lab**
+**\\#LI\\-TC1**","","https://www.indeed.com/cmp/Texas-Health-Resources","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/93fd45cafed3b708a5f15b631928647c","https://jobs.texashealth.org/","Arlington, TX","10,000+","Decline to state","Join our award-winning Texas Health in North Texas family and become a part of a team that is improving the health of our communities.","","","","","","",""
+"in-94e7c98d7f639aa1","indeed","https://www.indeed.com/viewjob?jk=94e7c98d7f639aa1","https://TexasHealthResources.contacthr.com/151184968","Registered Nurse (RN) - GI Lab (Full Time/Evenings)","Texas Health Resources","Plano, TX, US","2026-02-25","fulltime","","","","","",False,"","","","recruitment@texashealth.org","**Registered Nurse (RN) – GI Lab**
 
 *Bring your passion for Texas Health So We Are Better \\+ Together*
 
@@ -4043,25 +3267,8 @@ Texas Health Plano is a four\\-time Magnet\\-designated hospital, the only AACN 
 ***Do you still have questions or concerns?*** Feel free to email your questions to recruitment@texashealth.org
 
 
-**\\#LI\\-KA2**
-🔗 Apply Direct: https://TexasHealthResources.contacthr.com/151184968
-🔗 Job Board: https://www.indeed.com/viewjob?jk=94e7c98d7f639aa1</description>
-      <companyName>Texas Health Resources</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Plano, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse / RN - ICU - Full Time, Nights at Texas Health Resources</title>
-      <link>https://TexasHealthResources.contacthr.com/151184956</link>
-      <guid isPermaLink="false">Texas Health Resources-Registered Nurse / RN - ICU - Full Time, Nights-Bedford, TX, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Bedford, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Registered Nurse**
+**\\#LI\\-KA2**","","https://www.indeed.com/cmp/Texas-Health-Resources","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/93fd45cafed3b708a5f15b631928647c","https://jobs.texashealth.org/","Arlington, TX","10,000+","Decline to state","Join our award-winning Texas Health in North Texas family and become a part of a team that is improving the health of our communities.","","","","","","",""
+"in-a9c4d53a42a9fd55","indeed","https://www.indeed.com/viewjob?jk=a9c4d53a42a9fd55","https://TexasHealthResources.contacthr.com/151184956","Registered Nurse / RN - ICU - Full Time, Nights","Texas Health Resources","Bedford, TX, US","2026-02-25","fulltime","","","","","",False,"","","","recruitment@texashealth.org","**Registered Nurse**
 
 **RN \\- ICU**
 
@@ -4139,25 +3346,8 @@ If you’re ready to join us in our mission to improve the health of our communi
 
 **Learn** more about our culture, benefits, and recent awards.
 
-***Do you still have questions or concerns?*** Feel free to email your questions to recruitment@texashealth.org
-🔗 Apply Direct: https://TexasHealthResources.contacthr.com/151184956
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a9c4d53a42a9fd55</description>
-      <companyName>Texas Health Resources</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Bedford, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse, Antepartum - Full Time, Nights at Texas Health Resources</title>
-      <link>https://TexasHealthResources.contacthr.com/151184948</link>
-      <guid isPermaLink="false">Texas Health Resources-Registered Nurse, Antepartum - Full Time, Nights-Dallas, TX, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Dallas, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Registered Nurse (RN) Antepartum**
+***Do you still have questions or concerns?*** Feel free to email your questions to recruitment@texashealth.org","","https://www.indeed.com/cmp/Texas-Health-Resources","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/93fd45cafed3b708a5f15b631928647c","https://jobs.texashealth.org/","Arlington, TX","10,000+","Decline to state","Join our award-winning Texas Health in North Texas family and become a part of a team that is improving the health of our communities.","","","","","","",""
+"in-41535b2dcd5d97fc","indeed","https://www.indeed.com/viewjob?jk=41535b2dcd5d97fc","https://TexasHealthResources.contacthr.com/151184948","Registered Nurse, Antepartum - Full Time, Nights","Texas Health Resources","Dallas, TX, US","2026-02-25","fulltime","","","","","",False,"","","","recruitment@texashealth.org","**Registered Nurse (RN) Antepartum**
 
 *Bring your passion to Texas Health so we are Better \\+ Together*
 
@@ -4174,7 +3364,7 @@ If you’re ready to join us in our mission to improve the health of our communi
 * Other – CLIAFE Must comply with CLIA regulations regarding foreign education equivalency required
 * One\\-year experience as a clinical nurse, or completion of an RN residency program.
 * One year of Antepartum experience strongly preferred
-* One year of Labor \\&amp; Delivery experience strongly preferred
+* One year of Labor \\& Delivery experience strongly preferred
 * RN – Registered Nurse Upon Hire Required and
 * BCLS – Basic Cardiac Life Support prior to providing independent patient care and maintained quarterly and
 * NRP – Essential Neonatal Resuscitation Program within 90 days required and
@@ -4205,28 +3395,11 @@ Texas Health Plano is a four\\-time Magnet\\-designated hospital, the only AACN 
 ***Do you still have questions or concerns?*** Feel free to email your questions to recruitment@texashealth.org
 
 
-**\\#LI\\-TC1**
-🔗 Apply Direct: https://TexasHealthResources.contacthr.com/151184948
-🔗 Job Board: https://www.indeed.com/viewjob?jk=41535b2dcd5d97fc</description>
-      <companyName>Texas Health Resources</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Dallas, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) Full Time-Nights, Labor &amp; Delivery at Texas Health Resources</title>
-      <link>https://TexasHealthResources.contacthr.com/151184936</link>
-      <guid isPermaLink="false">Texas Health Resources-Registered Nurse (RN) Full Time-Nights, Labor &amp; Delivery-Dallas, TX, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Dallas, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Registered Nurse (RN) Full Time\\-Nights, Labor \\&amp; Delivery**
+**\\#LI\\-TC1**","","https://www.indeed.com/cmp/Texas-Health-Resources","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/93fd45cafed3b708a5f15b631928647c","https://jobs.texashealth.org/","Arlington, TX","10,000+","Decline to state","Join our award-winning Texas Health in North Texas family and become a part of a team that is improving the health of our communities.","","","","","","",""
+"in-21b54ae01f616fb4","indeed","https://www.indeed.com/viewjob?jk=21b54ae01f616fb4","https://TexasHealthResources.contacthr.com/151184936","Registered Nurse (RN) Full Time-Nights, Labor & Delivery","Texas Health Resources","Dallas, TX, US","2026-02-25","fulltime","","","","","",False,"","","","recruitment@texashealth.org","**Registered Nurse (RN) Full Time\\-Nights, Labor \\& Delivery**
 
 
-*Fast\\-paced, high volume Labor \\&amp; Delivery unit is looking for top skilled nurses. Is that you?*
+*Fast\\-paced, high volume Labor \\& Delivery unit is looking for top skilled nurses. Is that you?*
 
 
 
@@ -4238,7 +3411,7 @@ Texas Health Plano is a four\\-time Magnet\\-designated hospital, the only AACN 
 **Work hours:** Full Time – 36 Hours; Nights; 7:00pm – 7:00am, Rotating weekends
 
 
-**Labor \\&amp; Delivery Department highlights:**
+**Labor \\& Delivery Department highlights:**
 
 
 * 375 – 400 deliveries per month
@@ -4322,26 +3495,8 @@ Delivers care to patients utilizing the Nursing Process
 
 
 
-\\#LI\\-AR1
-🔗 Apply Direct: https://TexasHealthResources.contacthr.com/151184936
-🔗 Job Board: https://www.indeed.com/viewjob?jk=21b54ae01f616fb4</description>
-      <companyName>Texas Health Resources</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Dallas, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse ATRMC (Emergency Department) at Asante</title>
-      <link>https://jobs.asante.org/en/jobs/17393534-registered-nurse-atrmc-emergency-department?tm_job=24604&amp;tm_event=view&amp;tm_company=45924</link>
-      <guid isPermaLink="false">Asante-Registered Nurse ATRMC (Emergency Department)-Grants Pass, OR, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Grants Pass, OR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 53 - 77 (hourly)
-
-📝 Description: **Registered Nurse ATRMC (Emergency Department)**
+\\#LI\\-AR1","","https://www.indeed.com/cmp/Texas-Health-Resources","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/93fd45cafed3b708a5f15b631928647c","https://jobs.texashealth.org/","Arlington, TX","10,000+","Decline to state","Join our award-winning Texas Health in North Texas family and become a part of a team that is improving the health of our communities.","","","","","","",""
+"in-005261f222f8bf6f","indeed","https://www.indeed.com/viewjob?jk=005261f222f8bf6f","https://jobs.asante.org/en/jobs/17393534-registered-nurse-atrmc-emergency-department?tm_job=24604&tm_event=view&tm_company=45924","Registered Nurse ATRMC (Emergency Department)","Asante","Grants Pass, OR, US","2026-02-25","fulltime","direct_data","hourly",53.0,77.0,"USD",False,"","","","","**Registered Nurse ATRMC (Emergency Department)**
 
 
 **Additional Position Details: FTE: 0\\.900000 \\| Full Time \\| 3rd Shift \\- Nights**
@@ -4423,7 +3578,7 @@ Must obtain within 4 months of hire:
 We offer a comprehensive Total Rewards package designed to support your well\\-being and professional growth, including:
 
 * **Competitive Pay:** Hourly and salaried positions earn market\\-based compensation.
-* **Health \\&amp; Wellness:** Medical, dental, and vision coverage for part\\-time and above employees and their eligible dependents beginning within 30 days of hire.
+* **Health \\& Wellness:** Medical, dental, and vision coverage for part\\-time and above employees and their eligible dependents beginning within 30 days of hire.
 * **Retirement Savings:** Employer\\-sponsored retirement plan with company contribution and match.
 * **Paid Time Off:** Generous ETO for part\\-time and above employees.
 * **Professional Development:** Continue to enhance your education through our tuition reimbursement and tuition repayment program
@@ -4438,29 +3593,8 @@ At Asante, we are guided by our values:
 
 
 
-*Asante is proud to be an Equal Opportunity Employer. We are committed to creating a diverse and inclusive workplace and to employing and advancing qualified individuals of all backgrounds, including women, minorities, individuals with disabilities, and protected veterans.*
-🔗 Apply Direct: https://jobs.asante.org/en/jobs/17393534-registered-nurse-atrmc-emergency-department?tm_job=24604&amp;tm_event=view&amp;tm_company=45924
-🔗 Job Board: https://www.indeed.com/viewjob?jk=005261f222f8bf6f</description>
-      <companyName>Asante</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Grants Pass, OR, US</jobLocation>
-      <salaryMin>53</salaryMin>
-      <salaryMax>77</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse ATRMC (Emergency Room) at Asante</title>
-      <link>https://jobs.asante.org/en/jobs/17393578-licensed-practical-nurse-atrmc-emergency-room?tm_job=24455&amp;tm_event=view&amp;tm_company=45924</link>
-      <guid isPermaLink="false">Asante-Licensed Practical Nurse ATRMC (Emergency Room)-Grants Pass, OR, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Grants Pass, OR, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Licensed Practical Nurse ATRMC (Emergency Room)**
+*Asante is proud to be an Equal Opportunity Employer. We are committed to creating a diverse and inclusive workplace and to employing and advancing qualified individuals of all backgrounds, including women, minorities, individuals with disabilities, and protected veterans.*","Health Care","https://www.indeed.com/cmp/Asante","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/05a1bbc1a7e4c462aeca7326afe550eb","https://www.asante.org","Medford, OR","5,001 to 10,000","$500M to $1B (USD)","Asante exists to provide quality healthcare services in a compassionate manner valued by the communities we serve.","","","","","","",""
+"in-495ca479256992b3","indeed","https://www.indeed.com/viewjob?jk=495ca479256992b3","https://jobs.asante.org/en/jobs/17393578-licensed-practical-nurse-atrmc-emergency-room?tm_job=24455&tm_event=view&tm_company=45924","Licensed Practical Nurse ATRMC (Emergency Room)","Asante","Grants Pass, OR, US","2026-02-25","fulltime","","","","","",False,"","","","","**Licensed Practical Nurse ATRMC (Emergency Room)**
 
 
 **Additional Position Details: FTE: 0\\.900000 \\| Full Time \\| 3rd Shift \\- Nights**
@@ -4495,7 +3629,7 @@ As an LPN, we offer a robust new nursing orientation training program designed t
 We offer a comprehensive Total Rewards package designed to support your well\\-being and professional growth, including:
 
 * **Competitive Pay:** Hourly and salaried positions earn market\\-based compensation.
-* **Health \\&amp; Wellness:** Medical, dental, and vision coverage for part\\-time and above employees and their eligible dependents beginning within 30 days of hire.
+* **Health \\& Wellness:** Medical, dental, and vision coverage for part\\-time and above employees and their eligible dependents beginning within 30 days of hire.
 * **Retirement Savings:** Employer\\-sponsored retirement plan with company contribution and match.
 * **Paid Time Off:** Generous ETO for part\\-time and above employees.
 * **Professional Development:** Continue to enhance your education through our tuition reimbursement and tuition repayment program
@@ -4510,25 +3644,8 @@ At Asante, we are guided by our values:
 
 
 
-*Asante is proud to be an Equal Opportunity Employer. We are committed to creating a diverse and inclusive workplace and to employing and advancing qualified individuals of all backgrounds, including women, minorities, individuals with disabilities, and protected veterans.*
-🔗 Apply Direct: https://jobs.asante.org/en/jobs/17393578-licensed-practical-nurse-atrmc-emergency-room?tm_job=24455&amp;tm_event=view&amp;tm_company=45924
-🔗 Job Board: https://www.indeed.com/viewjob?jk=495ca479256992b3</description>
-      <companyName>Asante</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Grants Pass, OR, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Charge Registered Nurse - Northwest at Comprehensive Cancer Centers of Nevada</title>
-      <link>https://careers.usoncology.com/jobs/38492/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Comprehensive Cancer Centers of Nevada-Charge Registered Nurse - Northwest-Las Vegas, NV, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Las Vegas, NV, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+*Asante is proud to be an Equal Opportunity Employer. We are committed to creating a diverse and inclusive workplace and to employing and advancing qualified individuals of all backgrounds, including women, minorities, individuals with disabilities, and protected veterans.*","Health Care","https://www.indeed.com/cmp/Asante","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/05a1bbc1a7e4c462aeca7326afe550eb","https://www.asante.org","Medford, OR","5,001 to 10,000","$500M to $1B (USD)","Asante exists to provide quality healthcare services in a compassionate manner valued by the communities we serve.","","","","","","",""
+"in-b3f0212827e8d99a","indeed","https://www.indeed.com/viewjob?jk=b3f0212827e8d99a","https://careers.usoncology.com/jobs/38492/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Charge Registered Nurse - Northwest","Comprehensive Cancer Centers of Nevada","Las Vegas, NV, US","2026-02-25","fulltime","","","","","",False,"","","","","Overview:
 
 At Comprehensive Cancer Centers of Nevada (CCCN) a distinguished team of doctors, researchers, nurses, and healthcare professionals have provided patients with groundbreaking treatments on the healing edge of medicine for over 50 years. Our team provides the most effective treatments, both existing and emerging, to diagnose and successfully treat cancer and blood disorders. We support this goal with state\\-of\\-the\\-art facilities across Southern Nevada, all of which integrate the latest diagnostic, therapeutic, and research capabilities. CCCN is dedicated to patient\\-centered care, advancing innovation, discovery, and improving outcomes. Motivated, caring professionals are encouraged to join us.
 
@@ -4601,7 +3718,7 @@ Responsibilities:
 
 
 Qualifications:
-**Minimum Job Qualifications (Knowledge, Skills, \\&amp; Abilities):**
+**Minimum Job Qualifications (Knowledge, Skills, \\& Abilities):**
 
   
 
@@ -4661,24 +3778,8 @@ If you possess the above qualifications and a desire to make a difference, we in
 
   
 
-The US Oncology Network is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability, or protected veteran status. This employer participates in E\\-Verify.
-🔗 Apply Direct: https://careers.usoncology.com/jobs/38492/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b3f0212827e8d99a</description>
-      <companyName>Comprehensive Cancer Centers of Nevada</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Las Vegas, NV, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Orthopedics - Medical Surgical - Springfield Regional Medical Center at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR267911EXTERNALENUS/Registered-Nurse-RN-Orthopedics-Medical-Surgical-Springfield-Regional-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Registered Nurse (RN) - Orthopedics - Medical Surgical - Springfield Regional Medical Center-Springfield, OH, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Springfield, OH, US
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Mercy Health**
+The US Oncology Network is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability, or protected veteran status. This employer participates in E\\-Verify.","Health Care","https://www.indeed.com/cmp/Comprehensive-Cancer-Centers-of-Nevada","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/866e98c563154623500359cbc11c1867","http://www.cccnevada.com/","Multiple locations across Southern Nevada","501 to 1,000","less than $1M (USD)","","","","","","","",""
+"in-3bbb8e57cb61e1e1","indeed","https://www.indeed.com/viewjob?jk=3bbb8e57cb61e1e1","https://careers.mercy.com/us/en/job/BSMMHPUSR267911EXTERNALENUS/Registered-Nurse-RN-Orthopedics-Medical-Surgical-Springfield-Regional-Medical-Center?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse (RN) - Orthopedics - Medical Surgical - Springfield Regional Medical Center","Mercy Health","Springfield, OH, US","2026-02-25","","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Mercy Health**
 
 ***About Mercy Health***
 
@@ -4717,7 +3818,7 @@ The Med\\-Surg Ortho Registered Nurse (RN) position is responsible for deliverin
 
 * Previous RN experience on a similar nursing unit or Long\\-Term Care setting
 
-**Required Licensing \\&amp; Certifications:**
+**Required Licensing \\& Certifications:**
 
 * Current state licensure as a Registered Nurse (RN)
 * Basic Life Support (BLS) – American Heart Association (preferred upon hire, must obtain prior to direct patient care)
@@ -4737,23 +3838,8 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR267911EXTERNALENUS/Registered-Nurse-RN-Orthopedics-Medical-Surgical-Springfield-Regional-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=3bbb8e57cb61e1e1</description>
-      <companyName>Mercy Health</companyName>
-      <jobLocation>Springfield, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Progressive Cardiac Care Unit - Springfield Regional Medical Center at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR267912EXTERNALENUS/Registered-Nurse-RN-Progressive-Cardiac-Care-Unit-Springfield-Regional-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Registered Nurse (RN) - Progressive Cardiac Care Unit - Springfield Regional Medical Center-Springfield, OH, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Springfield, OH, US
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Summary of Primary Function**  
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-a13889c2b1cd88be","indeed","https://www.indeed.com/viewjob?jk=a13889c2b1cd88be","https://careers.mercy.com/us/en/job/BSMMHPUSR267912EXTERNALENUS/Registered-Nurse-RN-Progressive-Cardiac-Care-Unit-Springfield-Regional-Medical-Center?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse (RN) - Progressive Cardiac Care Unit - Springfield Regional Medical Center","Mercy Health","Springfield, OH, US","2026-02-25","","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Summary of Primary Function**  
 
 Delivers patient care utilizing the nursing process through data collection and assessment, identifies and determines the priority of patient’s problems/needs, and evaluates the process and outcome of nursing care; coordinates, provides and directs patient teaching activities and coordinates the care provided by health team members.  
 
@@ -4814,28 +3900,13 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR267912EXTERNALENUS/Registered-Nurse-RN-Progressive-Cardiac-Care-Unit-Springfield-Regional-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a13889c2b1cd88be</description>
-      <companyName>Mercy Health</companyName>
-      <jobLocation>Springfield, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Case Management - St. Vincent Medical Center at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR266574EXTERNALENUS/Registered-Nurse-RN-Case-Management-St-Vincent-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Registered Nurse (RN) - Case Management - St. Vincent Medical Center-Toledo, OH, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Toledo, OH, US
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Mercy Health St. Vincent**
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-c284836745eb715d","indeed","https://www.indeed.com/viewjob?jk=c284836745eb715d","https://careers.mercy.com/us/en/job/BSMMHPUSR266574EXTERNALENUS/Registered-Nurse-RN-Case-Management-St-Vincent-Medical-Center?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse (RN) - Case Management - St. Vincent Medical Center","Mercy Health","Toledo, OH, US","2026-02-25","","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Mercy Health St. Vincent**
 
 **Join our team today!**
 
 * **Higher Pay Scales and Sign\\-On Incentives**
-* **Accredited Residency Programs \\&amp; Specialty Fellowships**
+* **Accredited Residency Programs \\& Specialty Fellowships**
 * **Flexible Schedule to live the life you deserve**
 * **Preceptor Pay**
 * **Rewarding Higher Differentials with working on the Weekend**
@@ -4893,23 +3964,8 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR266574EXTERNALENUS/Registered-Nurse-RN-Case-Management-St-Vincent-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c284836745eb715d</description>
-      <companyName>Mercy Health</companyName>
-      <jobLocation>Toledo, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Progressive Cardiac Care Stepdown - Springfield Regional Medical Center at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR267910EXTERNALENUS/Registered-Nurse-RN-Progressive-Cardiac-Care-Stepdown-Springfield-Regional-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Registered Nurse (RN) - Progressive Cardiac Care Stepdown - Springfield Regional Medical Center-Springfield, OH, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Springfield, OH, US
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Summary of Primary Function/General Purpose of Position**  
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-17410a59b31dbd0d","indeed","https://www.indeed.com/viewjob?jk=17410a59b31dbd0d","https://careers.mercy.com/us/en/job/BSMMHPUSR267910EXTERNALENUS/Registered-Nurse-RN-Progressive-Cardiac-Care-Stepdown-Springfield-Regional-Medical-Center?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse (RN) - Progressive Cardiac Care Stepdown - Springfield Regional Medical Center","Mercy Health","Springfield, OH, US","2026-02-25","","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Summary of Primary Function/General Purpose of Position**  
 
 The Stepdown Registered Nurse (RN) delivers patient care utilizing the nursing process through data collection and assessment, identifying and determining the priority of patient’s problems/needs, and evaluating the process and outcome of nursing care, all in collaboration with the interdisciplinary care team. The RN coordinates, provides, and directs patient teaching activities and coordinates the care provided by health team members.  
 
@@ -5118,23 +4174,8 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR267910EXTERNALENUS/Registered-Nurse-RN-Progressive-Cardiac-Care-Stepdown-Springfield-Regional-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=17410a59b31dbd0d</description>
-      <companyName>Mercy Health</companyName>
-      <jobLocation>Springfield, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Oncology - Springfield Regional Medical Center at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR267905EXTERNALENUS/Registered-Nurse-RN-Oncology-Springfield-Regional-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Registered Nurse (RN) - Oncology - Springfield Regional Medical Center-Springfield, OH, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Springfield, OH, US
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Mercy Health**
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-55cea0b413797c91","indeed","https://www.indeed.com/viewjob?jk=55cea0b413797c91","https://careers.mercy.com/us/en/job/BSMMHPUSR267905EXTERNALENUS/Registered-Nurse-RN-Oncology-Springfield-Regional-Medical-Center?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse (RN) - Oncology - Springfield Regional Medical Center","Mercy Health","Springfield, OH, US","2026-02-25","","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Mercy Health**
 
 ***About Mercy Health***
 
@@ -5173,7 +4214,7 @@ The Med\\-Surg Oncology Registered Nurse (RN) position is responsible for delive
 
 * Previous RN experience on a similar nursing unit or Long\\-Term Care setting
 
-**Required Licensing \\&amp; Certifications:**
+**Required Licensing \\& Certifications:**
 
 * Current state licensure as a Registered Nurse (RN)
 * Basic Life Support (BLS) – American Heart Association (preferred upon hire, must obtain prior to direct patient care)
@@ -5193,23 +4234,8 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR267905EXTERNALENUS/Registered-Nurse-RN-Oncology-Springfield-Regional-Medical-Center?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=55cea0b413797c91</description>
-      <companyName>Mercy Health</companyName>
-      <jobLocation>Springfield, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse(RN) New Grad Critical Care Float Pool - Lourdes Hospital at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR267916EXTERNALENUS/Registered-Nurse-RN-New-Grad-Critical-Care-Float-Pool-Lourdes-Hospital?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Registered Nurse(RN) New Grad Critical Care Float Pool - Lourdes Hospital-Paducah, KY, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Paducah, KY, US
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Summary of Primary Function**  
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-7f25c5db9825ae4f","indeed","https://www.indeed.com/viewjob?jk=7f25c5db9825ae4f","https://careers.mercy.com/us/en/job/BSMMHPUSR267916EXTERNALENUS/Registered-Nurse-RN-New-Grad-Critical-Care-Float-Pool-Lourdes-Hospital?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse(RN) New Grad Critical Care Float Pool - Lourdes Hospital","Mercy Health","Paducah, KY, US","2026-02-25","","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Summary of Primary Function**  
 
 Delivers patient care utilizing the nursing process through data collection and assessment, identifies and determines the priority of patient’s problems/needs, and evaluates the process and outcome of nursing care; coordinates, provides and directs patient teaching activities and coordinates the care provided by health team members.  
 
@@ -5270,26 +4296,11 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR267916EXTERNALENUS/Registered-Nurse-RN-New-Grad-Critical-Care-Float-Pool-Lourdes-Hospital?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=7f25c5db9825ae4f</description>
-      <companyName>Mercy Health</companyName>
-      <jobLocation>Paducah, KY, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - PACU - Mercy Health St. Vincent at Mercy Health</title>
-      <link>https://careers.mercy.com/us/en/job/BSMMHPUSR266682EXTERNALENUS/Registered-Nurse-RN-PACU-Mercy-Health-St-Vincent?utm_source=indeed&amp;utm_medium=phenom-feeds</link>
-      <guid isPermaLink="false">Mercy Health-Registered Nurse (RN) - PACU - Mercy Health St. Vincent-Toledo, OH, US</guid>
-      <pubDate>Wed, 25 Feb 2026 09:52:15 +0000</pubDate>
-      <description>📍 Location: Toledo, OH, US
-🏠 Work: On-site
-
-📝 Description: Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Join our team today!**
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
+"in-d22c18e256562d2e","indeed","https://www.indeed.com/viewjob?jk=d22c18e256562d2e","https://careers.mercy.com/us/en/job/BSMMHPUSR266682EXTERNALENUS/Registered-Nurse-RN-PACU-Mercy-Health-St-Vincent?utm_source=indeed&utm_medium=phenom-feeds","Registered Nurse (RN) - PACU - Mercy Health St. Vincent","Mercy Health","Toledo, OH, US","2026-02-25","","","","","","",False,"","","","recruitment@mercy.com, recruitment@mercy.com","Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.**Join our team today!**
 
 * **Higher Pay Scales and Sign\\-On Incentives**
-* **Accredited Residency Programs \\&amp; Specialty Fellowships**
+* **Accredited Residency Programs \\& Specialty Fellowships**
 * **Flexible Schedule to live the life you deserve**
 * **Preceptor Pay**
 * **Rewarding Higher Differentials with working on the Weekend**
@@ -5335,13 +4346,4 @@ As a Mercy Health associate, you're part of a Mission that matters. We support y
 *Benefits may vary based on the market and employment status.*
 
 
-All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com
-🔗 Apply Direct: https://careers.mercy.com/us/en/job/BSMMHPUSR266682EXTERNALENUS/Registered-Nurse-RN-PACU-Mercy-Health-St-Vincent?utm_source=indeed&amp;utm_medium=phenom-feeds
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d22c18e256562d2e</description>
-      <companyName>Mercy Health</companyName>
-      <jobLocation>Toledo, OH, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-  </channel>
-</rss>
+All applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com","","https://www.indeed.com/cmp/Mercy-Health-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b11afb918efc9ea90185e7bbaa057257","http://www.mercy.com","Cincinnati, OH","10,000+","$5B to $10B (USD)","Mercy Health is a faith-based health system in Ohio and Kentucky where you can serve with compassion, grow your career and make a lasting impact in the communities we call home.","","","","","","",""
