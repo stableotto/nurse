@@ -1,23 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Daily Nurse Jobs Feed</title>
-    <description>Daily feed of nursing jobs with direct company application links</description>
-    <link>https://github.com/your-username/your-repo</link>
-    <lastBuildDate>Fri, 27 Feb 2026 09:37:50 +0000</lastBuildDate>
-    <generator>Nurse Job Search Bot</generator>
-    <language>en-us</language>
-    <item>
-      <title>Health Office Assistant at nan</title>
-      <link>https://www.SchoolSpring.com/jobdetail?jobId=5558172</link>
-      <guid isPermaLink="false">nan-Health Office Assistant-Columbus, OH, US</guid>
-      <pubDate>Fri, 27 Feb 2026 09:37:50 +0000</pubDate>
-      <description>📍 Location: Columbus, OH, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 25 - 32 (hourly)
-
-📝 Description: **Health Office Assistant\\-Worthington Park Elementary**  
+"id","site","job_board_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type","job_url"
+"in-4e16f9ac23f459a2","indeed","https://www.indeed.com/viewjob?jk=4e16f9ac23f459a2","https://www.SchoolSpring.com/jobdetail?jobId=5558172","Health Office Assistant","","Columbus, OH, US","2026-02-27","fulltime","direct_data","hourly",25.0,32.0,"USD",False,"","","","","**Health Office Assistant\\-Worthington Park Elementary**  
 
   
 
@@ -41,7 +23,7 @@ One full\\-time Health Office Assistant to work 7hrs per day, Monday through Fri
 * Attends inservice and training programs
 * Attends IEP meetings, as directed
 
-**Job Skills \\&amp; Abilities:**
+**Job Skills \\& Abilities:**
 
 * Ability to identify symptoms and follow appropriate health service protocols
 * Ability to participate in first aid, CPR, Bloodborne Pathogens, and medication administration training and other trainings as needed and provided by the District
@@ -53,29 +35,8 @@ One full\\-time Health Office Assistant to work 7hrs per day, Monday through Fri
 * Ability to contribute to the positive personal\\-social development of students
 * Ability to develop and maintain effective working relationships with others
 
-\\*Salary Range $25\\.51/hr. to $32\\.46/hr.\\*
-🔗 Apply Direct: https://www.SchoolSpring.com/jobdetail?jobId=5558172
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4e16f9ac23f459a2</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Columbus, OH, US</jobLocation>
-      <salaryMin>25</salaryMin>
-      <salaryMax>32</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Senior Vocational Case Manager at Enlyte</title>
-      <link>https://careers.enlyte.com/jobs/18745/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Enlyte-Senior Vocational Case Manager-MI, US</guid>
-      <pubDate>Fri, 27 Feb 2026 09:37:50 +0000</pubDate>
-      <description>📍 Location: MI, US
-💼 Type: Parttime
-🏠 Work: Remote
-💰 Salary: USD 85,000 - 90,000 (yearly)
-
-📝 Description: Company Overview:
+\\*Salary Range $25\\.51/hr. to $32\\.46/hr.\\*","","","","","","","","","","","","","","",""
+"in-dc658ae7420b7b65","indeed","https://www.indeed.com/viewjob?jk=dc658ae7420b7b65","https://careers.enlyte.com/jobs/18745/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Senior Vocational Case Manager","Enlyte","MI, US","2026-02-27","parttime","direct_data","yearly",85000.0,90000.0,"USD",True,"","","","","Company Overview:
 
 At Enlyte, we combine innovative technology, clinical expertise, and human compassion to help people recover after workplace injuries or auto accidents. We support their journey back to health and wellness through our industry\\-leading solutions and services. Whether you're supporting a Fortune 500 client or a local business, developing cutting\\-edge technology, or providing clinical services you'll work alongside dedicated professionals who share your commitment to excellence and make a meaningful impact. Join us in fueling our mission to protect dreams and restore lives, while building your career in an environment that values collaboration, innovation, and personal growth. **Be part of a team that makes a real difference.**
 Job Description:
@@ -103,7 +64,7 @@ Qualifications:
 
 Benefits:
 
-We’re committed to supporting your ultimate well\\-being through our total compensation package offerings that support your health, wealth and self. These offerings include Medical, Dental, Vision, Health Savings Accounts / Flexible Spending Accounts, Life and AD\\&amp;D Insurance, 401(k), Tuition Reimbursement, and an array of resources that encourage a lifetime of healthier living. Benefits eligibility may differ depending on full\\-time or part\\-time status. Compensation depends on the applicable US geographic market. The expected base pay for this position ranges from $85,000 \\- $90,000 annually. In addition to the base salary, you will be eligible to participate in our productivity\\-based bonus program. Your total compensation, including base pay and potential bonus, will be based on a number of factors including skills, experience, education, and performance metrics.  
+We’re committed to supporting your ultimate well\\-being through our total compensation package offerings that support your health, wealth and self. These offerings include Medical, Dental, Vision, Health Savings Accounts / Flexible Spending Accounts, Life and AD\\&D Insurance, 401(k), Tuition Reimbursement, and an array of resources that encourage a lifetime of healthier living. Benefits eligibility may differ depending on full\\-time or part\\-time status. Compensation depends on the applicable US geographic market. The expected base pay for this position ranges from $85,000 \\- $90,000 annually. In addition to the base salary, you will be eligible to participate in our productivity\\-based bonus program. Your total compensation, including base pay and potential bonus, will be based on a number of factors including skills, experience, education, and performance metrics.  
 
 *The Company is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, gender, gender identity, sexual orientation, age, status as a protected veteran, among other things, or status as a qualified individual with disability.*
 
@@ -112,30 +73,9 @@ We’re committed to supporting your ultimate well\\-being through our total com
 
 
 
-Registered Nurse (RN), Nursing, Home Care Registered Nurse, Emergency Room Registered Nurse, Clinical Nurse, Nurse Case Manager, Field Case Manager, Medical Nurse Case Manager, Workers’ Compensation Nurse Case Manager, Critical Care Registered Nurse, Advanced Practice Registered Nurse (APRN), Nurse Practitioner, Case Management, Case Manager, Home Healthcare, Clinical Case Management, Hospital Case Management, Occupational Health, Patient Care, Utilization Management, Acute Care, Orthopedics, Rehabilitation, Rehab, CCM, Certified Case Manager, CDMS, Certified Disability Management Specialist, CRC, Certified Rehab Certificate, CRRN, Certified Rehab Registered Nurse, COHN, Certified Occupational Health Nurse, CMC, Cardiac Medicine Certification, CMAC, Case Management Administrator Certification, ACM, Accredited Case Manager, MSW, Masters in Social Work, URAC, Vocational Case Manager
-🔗 Apply Direct: https://careers.enlyte.com/jobs/18745/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=dc658ae7420b7b65</description>
-      <companyName>Enlyte</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>MI, US</jobLocation>
-      <salaryMin>85000</salaryMin>
-      <salaryMax>90000</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>true</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>School Nurse 2026-2027 SY at Madison Elementary School District</title>
-      <link>https://www.SchoolSpring.com/jobdetail?jobId=5558098</link>
-      <guid isPermaLink="false">Madison Elementary School District-School Nurse 2026-2027 SY-Phoenix, AZ, US</guid>
-      <pubDate>Fri, 27 Feb 2026 09:37:50 +0000</pubDate>
-      <description>📍 Location: Phoenix, AZ, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 45,133 - 65,368 (yearly)
-
-📝 Description: **MADISON ELEMENTARY SCHOOL DISTRICT \\#38**
+Registered Nurse (RN), Nursing, Home Care Registered Nurse, Emergency Room Registered Nurse, Clinical Nurse, Nurse Case Manager, Field Case Manager, Medical Nurse Case Manager, Workers’ Compensation Nurse Case Manager, Critical Care Registered Nurse, Advanced Practice Registered Nurse (APRN), Nurse Practitioner, Case Management, Case Manager, Home Healthcare, Clinical Case Management, Hospital Case Management, Occupational Health, Patient Care, Utilization Management, Acute Care, Orthopedics, Rehabilitation, Rehab, CCM, Certified Case Manager, CDMS, Certified Disability Management Specialist, CRC, Certified Rehab Certificate, CRRN, Certified Rehab Registered Nurse, COHN, Certified Occupational Health Nurse, CMC, Cardiac Medicine Certification, CMAC, Case Management Administrator Certification, ACM, Accredited Case Manager, MSW, Masters in Social Work, URAC, Vocational Case Manager","","https://www.indeed.com/cmp/Enlyte","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/3365ee5913b2bd65291bcfd6f808858a","https://www.enlyte.com/","9771 Clairemont Mesa Blvd, Suite A,
+San Diego, CA 92124","5,001 to 10,000","$1B to $5B (USD)","Our employees share a passion for developing technology and delivering clinical solutions that support people in their journey back health and wellness after an injury at work or car accident.","","","","","","",""
+"in-bbc9b242ee8544be","indeed","https://www.indeed.com/viewjob?jk=bbc9b242ee8544be","https://www.SchoolSpring.com/jobdetail?jobId=5558098","School Nurse 2026-2027 SY","Madison Elementary School District","Phoenix, AZ, US","2026-02-27","fulltime","direct_data","yearly",45133.0,65368.0,"USD",False,"","","","","**MADISON ELEMENTARY SCHOOL DISTRICT \\#38**
 
  **Position Title:** **School Nurse 2026\\-2027 SY**
 
@@ -244,29 +184,8 @@ The work environment characteristics described here are representative of those 
 
   
 
-While performing the duties of this job, the employee regularly works in an indoor environment that may be dark or low light and include sounds/music at a high volume.
-🔗 Apply Direct: https://www.SchoolSpring.com/jobdetail?jobId=5558098
-🔗 Job Board: https://www.indeed.com/viewjob?jk=bbc9b242ee8544be</description>
-      <companyName>Madison Elementary School District</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Phoenix, AZ, US</jobLocation>
-      <salaryMin>45133</salaryMin>
-      <salaryMax>65368</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>School Nurse at Southeast Polk Community School District</title>
-      <link>https://www.SchoolSpring.com/jobdetail?jobId=5558146</link>
-      <guid isPermaLink="false">Southeast Polk Community School District-School Nurse-Altoona, IA, US</guid>
-      <pubDate>Fri, 27 Feb 2026 09:37:50 +0000</pubDate>
-      <description>📍 Location: Altoona, IA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **SOUTHEAST POLK COMMUNITY SCHOOL DISTRICT**  
+While performing the duties of this job, the employee regularly works in an indoor environment that may be dark or low light and include sounds/music at a high volume.","Education And Schools","https://www.indeed.com/cmp/Madison-Elementary-School-District","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/324a7fce7302aa96b5aef4388a4cf098","https://www.madisonaz.org/","","","","","","","","","","",""
+"in-4360af8ad9c043b6","indeed","https://www.indeed.com/viewjob?jk=4360af8ad9c043b6","https://www.SchoolSpring.com/jobdetail?jobId=5558146","School Nurse","Southeast Polk Community School District","Altoona, IA, US","2026-02-27","fulltime","","","","","",False,"","","","joseph.horton@southeastpolk.org","**SOUTHEAST POLK COMMUNITY SCHOOL DISTRICT**  
 
 **Job Description**
 
@@ -358,25 +277,8 @@ The statements of this job description are intended to describe the general natu
 
   
 
-It is the policy of the Southeast Polk Community School District not to illegally discriminate on the basis of race, color, national origin, gender, disability, religion, creed, age (for employment), marital status (for programs), genetic information (for employment), sexual orientation, gender identity and socioeconomic status (for programs) in its educational programs and its employment practices. There is a grievance procedure for processing complaints of discrimination. If you have questions or a grievance related to this policy please contact, Joseph M. Horton, Deputy Superintendent, Equal Opportunity Coordinator and Title IX Coordinator, Southeast Polk District Office, 8031 NE University Ave., Pleasant Hill, IA 50327, (515\\)\\-967\\-4294, joseph.horton@southeastpolk.org. Inquiries or grievances may also be directed to the Iowa Civil Rights Commission, Des Moines, IA, 50319\\-0201, (515\\) 281\\-4121; or the U.S. Department of Education, Region VII Office of Civil Rights, 500 West Madison Street, Suite 1475, Chicago IL 60661\\.
-🔗 Apply Direct: https://www.SchoolSpring.com/jobdetail?jobId=5558146
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4360af8ad9c043b6</description>
-      <companyName>Southeast Polk Community School District</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Altoona, IA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Operating Room at Piedmont Healthcare</title>
-      <link>https://careers-piedmont.icims.com/jobs/17331/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Piedmont Healthcare-RN - Operating Room-Newnan, GA, US</guid>
-      <pubDate>Fri, 27 Feb 2026 09:37:50 +0000</pubDate>
-      <description>📍 Location: Newnan, GA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview: The staff nurse provides nursing care to patients from birth through the lifecycle utilizing nursing processes to assess, plan, implement, and evaluate the care for patients. He/she functions within the framework of the policies and procedures of the organization and demonstrates professional growth and accountability. The staff nurse is responsible for maintaining standards of practice, coordinating patient care activities of all assigned staff in the provision of quality nursing care. Responsibilities: The staff nurse provides nursing care to patients from birth through the lifecycle utilizing nursing processes to assess, plan, implement, and evaluate the care for patients. He/she functions within the framework of the policies and procedures of the organization and demonstrates professional growth and accountability. The staff nurse is responsible for maintaining standards of practice, coordinating patient care activities of all assigned staff in the provision of quality nursing care. Qualifications: **Education*** Graduate from a recognized, accredited school of nursing Required
+It is the policy of the Southeast Polk Community School District not to illegally discriminate on the basis of race, color, national origin, gender, disability, religion, creed, age (for employment), marital status (for programs), genetic information (for employment), sexual orientation, gender identity and socioeconomic status (for programs) in its educational programs and its employment practices. There is a grievance procedure for processing complaints of discrimination. If you have questions or a grievance related to this policy please contact, Joseph M. Horton, Deputy Superintendent, Equal Opportunity Coordinator and Title IX Coordinator, Southeast Polk District Office, 8031 NE University Ave., Pleasant Hill, IA 50327, (515\\)\\-967\\-4294, joseph.horton@southeastpolk.org. Inquiries or grievances may also be directed to the Iowa Civil Rights Commission, Des Moines, IA, 50319\\-0201, (515\\) 281\\-4121; or the U.S. Department of Education, Region VII Office of Civil Rights, 500 West Madison Street, Suite 1475, Chicago IL 60661\\.","","https://www.indeed.com/cmp/Southeast-Polk-Community-School-District","","https://www.southeastpolk.org","Pleasant Hill","501 to 1,000","$25M to $100M (USD)","","","","","","","",""
+"in-1c51fb2deee0ab24","indeed","https://www.indeed.com/viewjob?jk=1c51fb2deee0ab24","https://careers-piedmont.icims.com/jobs/17331/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN - Operating Room","Piedmont Healthcare","Newnan, GA, US","2026-02-27","fulltime","","","","","",False,"","","","","Overview: The staff nurse provides nursing care to patients from birth through the lifecycle utilizing nursing processes to assess, plan, implement, and evaluate the care for patients. He/she functions within the framework of the policies and procedures of the organization and demonstrates professional growth and accountability. The staff nurse is responsible for maintaining standards of practice, coordinating patient care activities of all assigned staff in the provision of quality nursing care. Responsibilities: The staff nurse provides nursing care to patients from birth through the lifecycle utilizing nursing processes to assess, plan, implement, and evaluate the care for patients. He/she functions within the framework of the policies and procedures of the organization and demonstrates professional growth and accountability. The staff nurse is responsible for maintaining standards of practice, coordinating patient care activities of all assigned staff in the provision of quality nursing care. Qualifications: **Education*** Graduate from a recognized, accredited school of nursing Required
 * Bachelor’s Degree Preferred
 
 **Work Experience*** No experience required New Graduates of a nursing program eligible Required
@@ -396,31 +298,13 @@ It is the policy of the Southeast Polk Community School District not to illegall
 * Surgical Services: Additional Required Certifications: PreOp/PACU/ENDO/CSU – ACLS; PALS if unit provides care to pediatric patients (Nurse Residents or nurses new to specialty will complete applicable certifications within 6 months of start date) OR – BLS required only within 180 Days Required
 * Women’s Services: Additional Required Certifications: Labor and Delivery\\-ACLS Certification \\- (Nurse Residents or nurses new to specialty will complete applicable certifications within 6 months of start date) NRP by the end of orientation period, AWHONN Intermediate Fetal Monitoring Program within 12 months of start date Mother/Baby\\- NRP by the end of orientation period NICU\\- NRP by the end of orientation period NAT (Newborn Admission Team)\\- NRP by the end of orientation period Nursery\\- NRP by the end of orientation period within 180 Days Required
 
-Business Unit : Company Name: Piedmont Newnan Hospital
-🔗 Apply Direct: https://careers-piedmont.icims.com/jobs/17331/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1c51fb2deee0ab24</description>
-      <companyName>Piedmont Healthcare</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Newnan, GA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse (LPN) - Physician Practice at TidalHealth</title>
-      <link>https://www.tidalhealthcareers.org/jobs/2141525-licensed-practical-nurse-lpn-physician-practice</link>
-      <guid isPermaLink="false">TidalHealth-Licensed Practical Nurse (LPN) - Physician Practice-Berlin, MD, US</guid>
-      <pubDate>Fri, 27 Feb 2026 09:37:50 +0000</pubDate>
-      <description>📍 Location: Berlin, MD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 21 - 35 (hourly)
-
-📝 Description: Location
+Business Unit : Company Name: Piedmont Newnan Hospital","","https://www.indeed.com/cmp/Piedmont-Healthcare","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/af1d02d54f5831cd44b66521c5a2f638","http://www.piedmont.org","Atlanta, GA","10,000+","Decline to state","At Piedmont, you’ll be a part of an exceptional healthcare experience.","","","","","","",""
+"in-eedeb223a87dbc3f","indeed","https://www.indeed.com/viewjob?jk=eedeb223a87dbc3f","https://www.tidalhealthcareers.org/jobs/2141525-licensed-practical-nurse-lpn-physician-practice","Licensed Practical Nurse (LPN) - Physician Practice","TidalHealth","Berlin, MD, US","2026-02-27","fulltime","direct_data","hourly",21.0,35.0,"USD",False,"","","","","Location
  Berlin, MD
 Facility
  Atlantic General Hospital
 Department
- Primary \\&amp; Specialty
+ Primary \\& Specialty
 Schedule \\- Shift \\- Hours
  Full Time \\- Monday \\- Friday \\- 8\\-430
 Req \\#: 35365
@@ -458,30 +342,9 @@ The Physician Practice LPN is responsible for rendering professional clinical as
 
 * Benefits include medical, prescription, vision, dental, flexible spending accounts, disability insurance plans, life insurance, paid time off plans, retirement plans, tuition reimbursement and more!
 
-Salary range:$21\\.96 \\- $35\\.13 Commensurate with experience
-🔗 Apply Direct: https://www.tidalhealthcareers.org/jobs/2141525-licensed-practical-nurse-lpn-physician-practice
-🔗 Job Board: https://www.indeed.com/viewjob?jk=eedeb223a87dbc3f</description>
-      <companyName>TidalHealth</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Berlin, MD, US</jobLocation>
-      <salaryMin>21</salaryMin>
-      <salaryMax>35</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinical Supervisor - W&amp;C at TidalHealth</title>
-      <link>https://www.tidalhealthcareers.org/jobs/2135085-clinical-supervisor-w-and-c</link>
-      <guid isPermaLink="false">TidalHealth-Clinical Supervisor - W&amp;C-Salisbury, MD, US</guid>
-      <pubDate>Fri, 27 Feb 2026 09:37:50 +0000</pubDate>
-      <description>📍 Location: Salisbury, MD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 83,428 - 133,494 (yearly)
-
-📝 Description: Location
+Salary range:$21\\.96 \\- $35\\.13 Commensurate with experience","","https://www.indeed.com/cmp/Tidalhealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/83f291c3fdec9fc845ba027844ea033e","https://www.tidalhealth.org/","100 E. Carroll St.
+Salisbury, MD 21801","5,001 to 10,000","","TidalHealth delivers trusted, compassionate care across Delmarva with 400+ providers in 29 specialties. We're nationally recognized and committed to shaping healthcare’s future through education.","","","","","","",""
+"in-1150512966907615","indeed","https://www.indeed.com/viewjob?jk=1150512966907615","https://www.tidalhealthcareers.org/jobs/2135085-clinical-supervisor-w-and-c","Clinical Supervisor - W&C","TidalHealth","Salisbury, MD, US","2026-02-27","fulltime","direct_data","yearly",83428.0,133494.0,"USD",False,"","","","","Location
  Salisbury, MD
 Facility
  TidalHealth Peninsula Regional
@@ -495,7 +358,7 @@ Req \\#: 35264
 **Why work at TidalHealth?**
 
 
-Looking for a rewarding place to work? Choose TidalHealth. Our hospitals have been named among the Top 5 percent of all U.S. hospitals by Healthgrades and a five\\-star hospital by the Centers for Medicare \\&amp; Medicaid Services. Located just 30 minutes from the beach, TidalHealth offers the widest array of specialty and subspecialty services such as neurosurgery, cardiothoracic surgery, joint replacement, emergency/trauma care, comprehensive cancer care, wound care and clinical trials and research. Take advantage of our tuition assistance and scholarship programs to grow both personally and professionally.
+Looking for a rewarding place to work? Choose TidalHealth. Our hospitals have been named among the Top 5 percent of all U.S. hospitals by Healthgrades and a five\\-star hospital by the Centers for Medicare \\& Medicaid Services. Located just 30 minutes from the beach, TidalHealth offers the widest array of specialty and subspecialty services such as neurosurgery, cardiothoracic surgery, joint replacement, emergency/trauma care, comprehensive cancer care, wound care and clinical trials and research. Take advantage of our tuition assistance and scholarship programs to grow both personally and professionally.
 
 
 **Clinical Supervisor Position Summary**
@@ -538,30 +401,9 @@ Three years of clinical nursing experience, with 1\\-2 years of leadership exper
 * Benefits include medical, prescription, vision, dental, flexible spending accounts, disability insurance plans, life insurance, paid time off plans, retirement plans, tuition assistance, employee assistance, and access to on\\-site childcare and a credit union.
 
 Salary range: $83,428\\.80 - 
- $133,494\\.40 Commensurate with experience
-🔗 Apply Direct: https://www.tidalhealthcareers.org/jobs/2135085-clinical-supervisor-w-and-c
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1150512966907615</description>
-      <companyName>TidalHealth</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Salisbury, MD, US</jobLocation>
-      <salaryMin>83428</salaryMin>
-      <salaryMax>133494</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinical Supervisor - W&amp;C at TidalHealth</title>
-      <link>https://www.tidalhealthcareers.org/jobs/2136023-clinical-supervisor-w-and-c</link>
-      <guid isPermaLink="false">TidalHealth-Clinical Supervisor - W&amp;C-Salisbury, MD, US</guid>
-      <pubDate>Fri, 27 Feb 2026 09:37:50 +0000</pubDate>
-      <description>📍 Location: Salisbury, MD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 83,428 - 133,494 (yearly)
-
-📝 Description: Location
+ $133,494\\.40 Commensurate with experience","","https://www.indeed.com/cmp/Tidalhealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/83f291c3fdec9fc845ba027844ea033e","https://www.tidalhealth.org/","100 E. Carroll St.
+Salisbury, MD 21801","5,001 to 10,000","","TidalHealth delivers trusted, compassionate care across Delmarva with 400+ providers in 29 specialties. We're nationally recognized and committed to shaping healthcare’s future through education.","","","","","","",""
+"in-fa79273aa3cb61b5","indeed","https://www.indeed.com/viewjob?jk=fa79273aa3cb61b5","https://www.tidalhealthcareers.org/jobs/2136023-clinical-supervisor-w-and-c","Clinical Supervisor - W&C","TidalHealth","Salisbury, MD, US","2026-02-27","fulltime","direct_data","yearly",83428.0,133494.0,"USD",False,"","","","","Location
  Salisbury, MD
 Facility
  TidalHealth Peninsula Regional
@@ -575,7 +417,7 @@ Req \\#: 35263
 **Why work at TidalHealth?**
 
 
-Looking for a rewarding place to work? Choose TidalHealth. Our hospitals have been named among the Top 5 percent of all U.S. hospitals by Healthgrades and a five\\-star hospital by the Centers for Medicare \\&amp; Medicaid Services. Located just 30 minutes from the beach, TidalHealth offers the widest array of specialty and subspecialty services such as neurosurgery, cardiothoracic surgery, joint replacement, emergency/trauma care, comprehensive cancer care, wound care and clinical trials and research. Take advantage of our tuition assistance and scholarship programs to grow both personally and professionally.
+Looking for a rewarding place to work? Choose TidalHealth. Our hospitals have been named among the Top 5 percent of all U.S. hospitals by Healthgrades and a five\\-star hospital by the Centers for Medicare \\& Medicaid Services. Located just 30 minutes from the beach, TidalHealth offers the widest array of specialty and subspecialty services such as neurosurgery, cardiothoracic surgery, joint replacement, emergency/trauma care, comprehensive cancer care, wound care and clinical trials and research. Take advantage of our tuition assistance and scholarship programs to grow both personally and professionally.
 
 
 **Clinical Supervisor Position Summary**
@@ -618,30 +460,9 @@ Three years of clinical nursing experience, with 1\\-2 years of leadership exper
 * Benefits include medical, prescription, vision, dental, flexible spending accounts, disability insurance plans, life insurance, paid time off plans, retirement plans, tuition assistance, employee assistance, and access to on\\-site childcare and a credit union.
 
 Salary range: $83,428\\.80 - 
- $133,494\\.40 Commensurate with experience
-🔗 Apply Direct: https://www.tidalhealthcareers.org/jobs/2136023-clinical-supervisor-w-and-c
-🔗 Job Board: https://www.indeed.com/viewjob?jk=fa79273aa3cb61b5</description>
-      <companyName>TidalHealth</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Salisbury, MD, US</jobLocation>
-      <salaryMin>83428</salaryMin>
-      <salaryMax>133494</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>EP Supervisor at TidalHealth</title>
-      <link>https://www.tidalhealthcareers.org/jobs/1697298-ep-supervisor</link>
-      <guid isPermaLink="false">TidalHealth-EP Supervisor-Salisbury, MD, US</guid>
-      <pubDate>Fri, 27 Feb 2026 09:37:50 +0000</pubDate>
-      <description>📍 Location: Salisbury, MD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 38 - 61 (hourly)
-
-📝 Description: Location
+ $133,494\\.40 Commensurate with experience","","https://www.indeed.com/cmp/Tidalhealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/83f291c3fdec9fc845ba027844ea033e","https://www.tidalhealth.org/","100 E. Carroll St.
+Salisbury, MD 21801","5,001 to 10,000","","TidalHealth delivers trusted, compassionate care across Delmarva with 400+ providers in 29 specialties. We're nationally recognized and committed to shaping healthcare’s future through education.","","","","","","",""
+"in-d308d34fc65f5344","indeed","https://www.indeed.com/viewjob?jk=d308d34fc65f5344","https://www.tidalhealthcareers.org/jobs/1697298-ep-supervisor","EP Supervisor","TidalHealth","Salisbury, MD, US","2026-02-27","fulltime","direct_data","hourly",38.0,61.0,"USD",False,"","","","","Location
  Salisbury, MD
 Facility
  TidalHealth Peninsula Regional
@@ -655,7 +476,7 @@ Req \\#: 28643
 **Why work at TidalHealth?**
 
 
-Looking for a rewarding place to work? Choose TidalHealth. U.S. News \\&amp; World Report, a global authority in hospital rankings and consumer advice, has named TidalHealth Peninsula Regional and TidalHealth Nanticoke as 2022\\-2023 High Performing hospitals for 11 challenging and elective health conditions; the highest award a hospital can earn for U.S. News’ Best Hospitals Procedures \\&amp; Conditions ratings. Located just 30 minutes from the beach, TidalHealth offers the widest array of specialty and subspecialty services such as neurosurgery, cardiothoracic surgery, joint replacement, emergency/trauma care, comprehensive cancer care, wound care and clinical trials and research. Take advantage of our tuition assistance and scholarship programs to grow both personally and professionally.
+Looking for a rewarding place to work? Choose TidalHealth. U.S. News \\& World Report, a global authority in hospital rankings and consumer advice, has named TidalHealth Peninsula Regional and TidalHealth Nanticoke as 2022\\-2023 High Performing hospitals for 11 challenging and elective health conditions; the highest award a hospital can earn for U.S. News’ Best Hospitals Procedures \\& Conditions ratings. Located just 30 minutes from the beach, TidalHealth offers the widest array of specialty and subspecialty services such as neurosurgery, cardiothoracic surgery, joint replacement, emergency/trauma care, comprehensive cancer care, wound care and clinical trials and research. Take advantage of our tuition assistance and scholarship programs to grow both personally and professionally.
 
 
 **EP Supervisor Position Summary**
@@ -729,30 +550,9 @@ Contact with Others
 * Benefits include medical, prescription, vision, dental, flexible spending accounts, disability insurance plans, life insurance, paid time off plans, retirement plans, tuition assistance, employee assistance, and access to on\\-site childcare and a credit union.
 
 Salary range (RN w/ requirement): $38\\.20 - 
- $61\\.12 Commensurate with experience
-🔗 Apply Direct: https://www.tidalhealthcareers.org/jobs/1697298-ep-supervisor
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d308d34fc65f5344</description>
-      <companyName>TidalHealth</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Salisbury, MD, US</jobLocation>
-      <salaryMin>38</salaryMin>
-      <salaryMax>61</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinical Supervisor - Emergency Department at TidalHealth</title>
-      <link>https://www.tidalhealthcareers.org/jobs/2146757-clinical-supervisor-emergency-department</link>
-      <guid isPermaLink="false">TidalHealth-Clinical Supervisor - Emergency Department-Salisbury, MD, US</guid>
-      <pubDate>Fri, 27 Feb 2026 09:37:50 +0000</pubDate>
-      <description>📍 Location: Salisbury, MD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 83,428 - 133,494 (yearly)
-
-📝 Description: Location
+ $61\\.12 Commensurate with experience","","https://www.indeed.com/cmp/Tidalhealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/83f291c3fdec9fc845ba027844ea033e","https://www.tidalhealth.org/","100 E. Carroll St.
+Salisbury, MD 21801","5,001 to 10,000","","TidalHealth delivers trusted, compassionate care across Delmarva with 400+ providers in 29 specialties. We're nationally recognized and committed to shaping healthcare’s future through education.","","","","","","",""
+"in-624d22305a4f716f","indeed","https://www.indeed.com/viewjob?jk=624d22305a4f716f","https://www.tidalhealthcareers.org/jobs/2146757-clinical-supervisor-emergency-department","Clinical Supervisor - Emergency Department","TidalHealth","Salisbury, MD, US","2026-02-27","fulltime","direct_data","yearly",83428.0,133494.0,"USD",False,"","","","","Location
  Salisbury, MD
 Facility
  TidalHealth Peninsula Regional
@@ -766,7 +566,7 @@ Req \\#: 35588
 **Why work at TidalHealth?**
 
 
-Looking for a rewarding place to work? Choose TidalHealth. Our hospitals have been named among the Top 5 percent of all U.S. hospitals by Healthgrades and a five\\-star hospital by the Centers for Medicare \\&amp; Medicaid Services. Located just 30 minutes from the beach, TidalHealth offers the widest array of specialty and subspecialty services such as neurosurgery, cardiothoracic surgery, joint replacement, emergency/trauma care, comprehensive cancer care, wound care and clinical trials and research. Take advantage of our tuition assistance and scholarship programs to grow both personally and professionally.
+Looking for a rewarding place to work? Choose TidalHealth. Our hospitals have been named among the Top 5 percent of all U.S. hospitals by Healthgrades and a five\\-star hospital by the Centers for Medicare \\& Medicaid Services. Located just 30 minutes from the beach, TidalHealth offers the widest array of specialty and subspecialty services such as neurosurgery, cardiothoracic surgery, joint replacement, emergency/trauma care, comprehensive cancer care, wound care and clinical trials and research. Take advantage of our tuition assistance and scholarship programs to grow both personally and professionally.
 
 
 **Clinical Supervisor Position Summary**
@@ -807,33 +607,14 @@ Experience
 * Benefits include medical, prescription, vision, dental, flexible spending accounts, disability insurance plans, life insurance, paid time off plans, retirement plans, tuition assistance, employee assistance, and access to on\\-site childcare and a credit union.
 
 Salary range: $83,428\\.80 - 
- $133,494\\.40 Commensurate with experience
-🔗 Apply Direct: https://www.tidalhealthcareers.org/jobs/2146757-clinical-supervisor-emergency-department
-🔗 Job Board: https://www.indeed.com/viewjob?jk=624d22305a4f716f</description>
-      <companyName>TidalHealth</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Salisbury, MD, US</jobLocation>
-      <salaryMin>83428</salaryMin>
-      <salaryMax>133494</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse (LPN) at Signature HealthCARE LLC</title>
-      <link>https://signaturehealthcarejobs.com/jobs/25274/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Signature HealthCARE LLC-Licensed Practical Nurse (LPN)-Danville, KY, US</guid>
-      <pubDate>Fri, 27 Feb 2026 09:37:50 +0000</pubDate>
-      <description>📍 Location: Danville, KY, US
-🏠 Work: On-site
-
-📝 Description: About Us :
-**Danville Centre for Health \\&amp; Rehab** is a 106\\-bed healthcare center offering short\\-term rehabilitative care as well as long\\-term care. We offer a variety of clinical care programs, along with physical, occupational and speech therapies. The vision, to radically change the landscape of healthcare, forever. Through education and empowerment, we earn the trust of every patient, family member, and the community we serve.
+ $133,494\\.40 Commensurate with experience","","https://www.indeed.com/cmp/Tidalhealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/83f291c3fdec9fc845ba027844ea033e","https://www.tidalhealth.org/","100 E. Carroll St.
+Salisbury, MD 21801","5,001 to 10,000","","TidalHealth delivers trusted, compassionate care across Delmarva with 400+ providers in 29 specialties. We're nationally recognized and committed to shaping healthcare’s future through education.","","","","","","",""
+"in-e0fc504aa6d1d1a2","indeed","https://www.indeed.com/viewjob?jk=e0fc504aa6d1d1a2","https://signaturehealthcarejobs.com/jobs/25274/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Licensed Practical Nurse (LPN)","Signature HealthCARE LLC","Danville, KY, US","2026-02-27","","","","","","",False,"","","","","About Us :
+**Danville Centre for Health \\& Rehab** is a 106\\-bed healthcare center offering short\\-term rehabilitative care as well as long\\-term care. We offer a variety of clinical care programs, along with physical, occupational and speech therapies. The vision, to radically change the landscape of healthcare, forever. Through education and empowerment, we earn the trust of every patient, family member, and the community we serve.
 About Signature :
 **Signature HealthCARE** is a family\\-based healthcare company offering integrated services across multiple states. Our continuum of care includes skilled nursing, rehabilitation, assisted and memory care, and home\\-based services supported by innovative technologies like telehealth and Care.ai\\-enabled solutions.  
 
-We are committed to advancing person\\-directed care and quality outcomes. Many of our facilities continue to receive high performance ratings and accreditations. As an award\\-winning organization recognized over the years by national outlets such as *U.S. News \\&amp; World Report*, we take pride in fostering compassionate care environments and being an employer of choice in the healthcare industry.
+We are committed to advancing person\\-directed care and quality outcomes. Many of our facilities continue to receive high performance ratings and accreditations. As an award\\-winning organization recognized over the years by national outlets such as *U.S. News \\& World Report*, we take pride in fostering compassionate care environments and being an employer of choice in the healthcare industry.
 Overview:
 **Are you a caring LPN looking to make strong connections and an impact on patients?**  
 
@@ -864,7 +645,7 @@ Our exceptional Benefits Package and Signature Perks include the following and m
 * Uniform Allowance (Seventy\\-Five Dollars) for first\\-time newly hired stakeholders and continuous allotment
 * Pay Advance and Next Day Pay!
 * Paid Time Off (PTO)
-* Reward \\&amp; Recognition Program (HEART)
+* Reward \\& Recognition Program (HEART)
 * VitalLinks
 * Signature Inspire Foundation – providing a safety net for our stakeholders
 
@@ -884,25 +665,8 @@ Each pillar has its own staff and initiatives, ensuring that our unique culture 
 Signature HealthCARE is an Equal Opportunity\\-Affirmative Action Employer – Minority / Female / Disability / Veteran and other protected categories
 
 
-Hashtag : \\#LI\\-TG3
-🔗 Apply Direct: https://signaturehealthcarejobs.com/jobs/25274/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e0fc504aa6d1d1a2</description>
-      <companyName>Signature HealthCARE LLC</companyName>
-      <jobLocation>Danville, KY, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Clinical Nurse III - Medical Surgical, 3rd Floor/Days at City of Hope</title>
-      <link>https://click.appcast.io/t/xyr59JGRpr3gAVGItRXUjzRYN7wBCQ5lIROZoVZfupc=</link>
-      <guid isPermaLink="false">City of Hope-Clinical Nurse III - Medical Surgical, 3rd Floor/Days-Irvine, CA, US</guid>
-      <pubDate>Fri, 27 Feb 2026 09:37:50 +0000</pubDate>
-      <description>📍 Location: Irvine, CA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 61 - 89 (hourly)
-
-📝 Description: Join the transformative team at City of Hope, where we're changing lives and making a real difference in the fight against cancer, diabetes, and other life\\-threatening illnesses. City of Hope’s growing national system includes its Los Angeles campus, a network of clinical care locations across Southern California, a new cancer center in Orange County, California, and treatment facilities in Atlanta, Chicago and Phoenix. Our dedicated and compassionate employees are driven by a common mission: To deliver the cures of tomorrow to the people who need them today.
+Hashtag : \\#LI\\-TG3","","https://www.indeed.com/cmp/Signature-Healthcare-LLC-6","","http://ltcrevolution.com/","","5,001 to 10,000","Decline to state","Signature HealthCARE has a vision to radically change the landscape of health care to transform lives.","","","","","","",""
+"in-811543479ca10a67","indeed","https://www.indeed.com/viewjob?jk=811543479ca10a67","https://click.appcast.io/t/xyr59JGRpr3gAVGItRXUjzRYN7wBCQ5lIROZoVZfupc=","Clinical Nurse III - Medical Surgical, 3rd Floor/Days","City of Hope","Irvine, CA, US","2026-02-27","fulltime","direct_data","hourly",61.0,89.0,"USD",False,"","","","","Join the transformative team at City of Hope, where we're changing lives and making a real difference in the fight against cancer, diabetes, and other life\\-threatening illnesses. City of Hope’s growing national system includes its Los Angeles campus, a network of clinical care locations across Southern California, a new cancer center in Orange County, California, and treatment facilities in Atlanta, Chicago and Phoenix. Our dedicated and compassionate employees are driven by a common mission: To deliver the cures of tomorrow to the people who need them today.
 
 
 With the opening of the hospital, the full continuum of advanced cancer care—from prevention through survivorship—will be available in Orange County for the first time, eliminating the need to travel for lifesaving treatment. Seamlessly connected to our outpatient cancer center, the new clinical research hospital will feature 73 inpatient beds, advanced surgical suites, groundbreaking clinical trials, and holistic services such as rehabilitative therapy and spiritual care. This isn’t standard cancer care. This is lifesaving cancer care. This is Hope.
@@ -938,18 +702,4 @@ We are looking for passionate, skilled nurses who can think critically, act deci
 
 **City of Hope employees pay is based on the following criteria: work experience, qualifications, and work location.**
 
-**City of Hope is an equal opportunity employer.** **To learn more about our Comprehensive Benefits, please****CLICK HERE****.**
-🔗 Apply Direct: https://click.appcast.io/t/xyr59JGRpr3gAVGItRXUjzRYN7wBCQ5lIROZoVZfupc=
-🔗 Job Board: https://www.indeed.com/viewjob?jk=811543479ca10a67</description>
-      <companyName>City of Hope</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Irvine, CA, US</jobLocation>
-      <salaryMin>61</salaryMin>
-      <salaryMax>89</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-  </channel>
-</rss>
+**City of Hope is an equal opportunity employer.** **To learn more about our Comprehensive Benefits, please****CLICK HERE****.**","","https://www.indeed.com/cmp/City-of-Hope","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/c5abf4892f86188a850676b66682786d","http://www.cityofhope.org","Duarte, CA","10,000+","$100M to $500M (USD)","","","","","","","",""
