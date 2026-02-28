@@ -1,23 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Daily Nurse Jobs Feed</title>
-    <description>Daily feed of nursing jobs with direct company application links</description>
-    <link>https://github.com/your-username/your-repo</link>
-    <lastBuildDate>Sat, 28 Feb 2026 09:23:41 +0000</lastBuildDate>
-    <generator>Nurse Job Search Bot</generator>
-    <language>en-us</language>
-    <item>
-      <title>Registered Nurse Orthopedics at Children's Hospital Colorado</title>
-      <link>https://erecruit4.childrenscolorado.org/psc/erecruit/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=2&amp;JobOpeningId=104278&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">Children's Hospital Colorado-Registered Nurse Orthopedics-Aurora, CO, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Aurora, CO, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 36 - 54 (hourly)
-
-📝 Description: **Job Overview**
+"id","site","job_board_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type","job_url"
+"in-f1b5347c46519823","indeed","https://www.indeed.com/viewjob?jk=f1b5347c46519823","https://erecruit4.childrenscolorado.org/psc/erecruit/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=2&JobOpeningId=104278&PostingSeq=1","Registered Nurse Orthopedics","Children's Hospital Colorado","Aurora, CO, US","2026-02-28","fulltime","direct_data","hourly",36.0,54.0,"USD",False,"","","","","**Job Overview**
 ----------------
 
 
@@ -26,14 +8,14 @@ The Clinical Nurse (CN) II provides Family\\-Centered Care as demonstrated by re
 
   
 
-**Duties \\&amp; Responsibilities**
+**Duties \\& Responsibilities**
 
 * Family\\-Centered Care: Recognize the patient or designee as the source of control and full partner in providing compassionate and coordinated care based on respect for patient’s preferences, values, and needs.  
 
 	+ Delivers patient and family centered care incorporating the nursing process while providing developmentally appropriate, culturally sensitive, evidence based care. Actively anticipates changes in patient outcomes/ unit needs in the provision of care.
 	+ Care is guided by the Professional Practice Model throughout the continuum of care.
 	+ Communicate and advocate patient values, preferences and expressed needs as part of implementation of care plan, evaluation of care and assessment of patient/family learning needs to the interdisciplinary team. Initiates and anticipates individualized care and education for patients/families across the continuum using an interdisciplinary approach.
-* Teamwork \\&amp; Collaboration: Function effectively within nursing and inter\\-professional teams, fostering open communication, mutual respect, and shared decision\\-making to achieve quality patient care.  
+* Teamwork \\& Collaboration: Function effectively within nursing and inter\\-professional teams, fostering open communication, mutual respect, and shared decision\\-making to achieve quality patient care.  
 
 	+ Applies communication practices that minimize risks across transitions of care.
 	+ Presents own perspective and supporting evidence in patient care and team discussions.
@@ -72,7 +54,7 @@ The Clinical Nurse (CN) II provides Family\\-Centered Care as demonstrated by re
 	+ Required:One (1\\) year of nursing experience.
 * **Equivalency**
 	+ Applicants with an Associate's Degree in Nursing and who agree to obtain a BSN within three (3\\) years from their start/hire date may be considered in lieu of a Bachelor of Science in Nursing (BSN) or Master’s Entry to Practice Nursing (MEPN) may substitute for a BSN.
-* **Licenses \\&amp; Certifications**
+* **Licenses \\& Certifications**
 	+ Basic Life Support
 	+ Registered Nurse
 
@@ -122,31 +104,9 @@ Ambulatory orthopedic nurses collaborate closely with an interdisciplinary healt
 * Acute and episodic injuries such as fractures, ligament injuries, back pain, and sports\\- or trauma\\-related conditions
   
 
-As an Ambulatory Orthopedic Nurse, you will have the opportunity to learn from a highly skilled interdisciplinary team of health care providers. You will be challenged to coordinate patients care through the continuum, provide support in the clinic setting and deliver education to our patients/families.
-🔗 Apply Direct: https://erecruit4.childrenscolorado.org/psc/erecruit/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=2&amp;JobOpeningId=104278&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f1b5347c46519823</description>
-      <companyName>Children's Hospital Colorado</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Aurora, CO, US</jobLocation>
-      <salaryMin>36</salaryMin>
-      <salaryMax>54</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Acute Med Surg - Placentia - FT Days at UC Irvine Health</title>
-      <link>https://jobs.uci.edu/jobs/140889/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">UC Irvine Health-RN - Acute Med Surg - Placentia - FT Days-Placentia, CA, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Placentia, CA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 67 - 92 (hourly)
-
-📝 Description: Overview:
-**UCI Health** is the clinical enterprise of the University of California, Irvine, and the only academic health system based in Orange County. UCI Health is comprised of its main campus, UCI Medical Center, a 459\\-bed, acute care hospital in in Orange, Calif., four hospitals and affiliated physicians of the UCI Health Community Network in Orange and Los Angeles counties and ambulatory care centers across the region. Listed among America’s Best Hospitals by U.S. News \\&amp; World Report for 23 consecutive years, UCI Medical Center provides tertiary and quaternary care and is home to Orange County’s only National Cancer Institute\\-designated comprehensive cancer center, high\\-risk perinatal/neonatal program and American College of Surgeons\\-verified Level I adult and Level II pediatric trauma center, gold level 1 geriatric emergency department and regional burn center. UCI Health serves a region of nearly 4 million people in Orange County, western Riverside County and southeast Los Angeles County.
+As an Ambulatory Orthopedic Nurse, you will have the opportunity to learn from a highly skilled interdisciplinary team of health care providers. You will be challenged to coordinate patients care through the continuum, provide support in the clinic setting and deliver education to our patients/families.","","https://www.indeed.com/cmp/Children's-Hospital-Colorado","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/990cec59fdabd7f1b38c674ffc277b5d","https://www.childrenscolorado.org","Aurora, CO","1,001 to 5,000","$500M to $1B (USD)","Children's Colorado has been reimagining child health for more than a century, and we’re just getting started. We're looking for talented, dedicated team members to carry that legacy forward. ","","","","","","",""
+"in-efbc0bf5c11a3c45","indeed","https://www.indeed.com/viewjob?jk=efbc0bf5c11a3c45","https://jobs.uci.edu/jobs/140889/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN - Acute Med Surg - Placentia - FT Days","UC Irvine Health","Placentia, CA, US","2026-02-28","fulltime","direct_data","hourly",67.0,92.0,"USD",False,"","","","eec@uci.edu","Overview:
+**UCI Health** is the clinical enterprise of the University of California, Irvine, and the only academic health system based in Orange County. UCI Health is comprised of its main campus, UCI Medical Center, a 459\\-bed, acute care hospital in in Orange, Calif., four hospitals and affiliated physicians of the UCI Health Community Network in Orange and Los Angeles counties and ambulatory care centers across the region. Listed among America’s Best Hospitals by U.S. News \\& World Report for 23 consecutive years, UCI Medical Center provides tertiary and quaternary care and is home to Orange County’s only National Cancer Institute\\-designated comprehensive cancer center, high\\-risk perinatal/neonatal program and American College of Surgeons\\-verified Level I adult and Level II pediatric trauma center, gold level 1 geriatric emergency department and regional burn center. UCI Health serves a region of nearly 4 million people in Orange County, western Riverside County and southeast Los Angeles County.
 To learn more about UCI Health, visit www.ucihealth.org.
 Responsibilities:
 **Position Summary:**
@@ -213,30 +173,9 @@ We are committed to attracting and retaining a diverse workforce along with hono
 
   
 
-UCI provides reasonable accommodations for applicants with disabilities upon request. For more information, please contact UCI's Employee Experience Center (EEC) at eec@uci.edu or at (949\\) 824\\-0500, Monday \\- Friday from 8:30 a.m. \\- 5:00 p.m.
-🔗 Apply Direct: https://jobs.uci.edu/jobs/140889/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=efbc0bf5c11a3c45</description>
-      <companyName>UC Irvine Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Placentia, CA, US</jobLocation>
-      <salaryMin>67</salaryMin>
-      <salaryMax>92</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Acute Med Surg - Placentia - Per Diem Nights at UC Irvine Health</title>
-      <link>https://jobs.uci.edu/jobs/140682/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">UC Irvine Health-RN - Acute Med Surg - Placentia - Per Diem Nights-Placentia, CA, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Placentia, CA, US
-💼 Type: Perdiem
-🏠 Work: On-site
-
-📝 Description: Overview:
-**UCI Health** is the clinical enterprise of the University of California, Irvine, and the only academic health system based in Orange County. UCI Health is comprised of its main campus, UCI Medical Center, a 459\\-bed, acute care hospital in in Orange, Calif., four hospitals and affiliated physicians of the UCI Health Community Network in Orange and Los Angeles counties and ambulatory care centers across the region. Listed among America’s Best Hospitals by U.S. News \\&amp; World Report for 23 consecutive years, UCI Medical Center provides tertiary and quaternary care and is home to Orange County’s only National Cancer Institute\\-designated comprehensive cancer center, high\\-risk perinatal/neonatal program and American College of Surgeons\\-verified Level I adult and Level II pediatric trauma center, gold level 1 geriatric emergency department and regional burn center. UCI Health serves a region of nearly 4 million people in Orange County, western Riverside County and southeast Los Angeles County.
+UCI provides reasonable accommodations for applicants with disabilities upon request. For more information, please contact UCI's Employee Experience Center (EEC) at eec@uci.edu or at (949\\) 824\\-0500, Monday \\- Friday from 8:30 a.m. \\- 5:00 p.m.","Health Care","https://www.indeed.com/cmp/Uc-Irvine-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f719f6d113695ec78bc684eac0982507","http://careers.ucirvinehealth.org/","Orange, CA","1,001 to 5,000","","UC Irvine Health is committed to attracting talented employees to continue to build on the organization's strengths and achievements.","","","","","","",""
+"in-a0dfc27ca307f75c","indeed","https://www.indeed.com/viewjob?jk=a0dfc27ca307f75c","https://jobs.uci.edu/jobs/140682/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN - Acute Med Surg - Placentia - Per Diem Nights","UC Irvine Health","Placentia, CA, US","2026-02-28","perdiem","","hourly","","","USD",False,"","","","eec@uci.edu","Overview:
+**UCI Health** is the clinical enterprise of the University of California, Irvine, and the only academic health system based in Orange County. UCI Health is comprised of its main campus, UCI Medical Center, a 459\\-bed, acute care hospital in in Orange, Calif., four hospitals and affiliated physicians of the UCI Health Community Network in Orange and Los Angeles counties and ambulatory care centers across the region. Listed among America’s Best Hospitals by U.S. News \\& World Report for 23 consecutive years, UCI Medical Center provides tertiary and quaternary care and is home to Orange County’s only National Cancer Institute\\-designated comprehensive cancer center, high\\-risk perinatal/neonatal program and American College of Surgeons\\-verified Level I adult and Level II pediatric trauma center, gold level 1 geriatric emergency department and regional burn center. UCI Health serves a region of nearly 4 million people in Orange County, western Riverside County and southeast Los Angeles County.
 To learn more about UCI Health, visit www.ucihealth.org.
 Responsibilities:
 **Position Summary:**
@@ -303,27 +242,8 @@ We are committed to attracting and retaining a diverse workforce along with hono
 
   
 
-UCI provides reasonable accommodations for applicants with disabilities upon request. For more information, please contact UCI's Employee Experience Center (EEC) at eec@uci.edu or at (949\\) 824\\-0500, Monday \\- Friday from 8:30 a.m. \\- 5:00 p.m.
-🔗 Apply Direct: https://jobs.uci.edu/jobs/140682/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a0dfc27ca307f75c</description>
-      <companyName>UC Irvine Health</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Placentia, CA, US</jobLocation>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse (LPN) -CMH Surgical Physician Practice - Days at VCU Health System</title>
-      <link>https://careers.vcuhealth.org/us/en/job/R42298/Licensed-Practical-Nurse-LPN-CMH-Surgical-Physician-Practice-Days</link>
-      <guid isPermaLink="false">VCU Health System-Licensed Practical Nurse (LPN) -CMH Surgical Physician Practice - Days-South Hill, VA, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: South Hill, VA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Monday \\- Friday
+UCI provides reasonable accommodations for applicants with disabilities upon request. For more information, please contact UCI's Employee Experience Center (EEC) at eec@uci.edu or at (949\\) 824\\-0500, Monday \\- Friday from 8:30 a.m. \\- 5:00 p.m.","Health Care","https://www.indeed.com/cmp/Uc-Irvine-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f719f6d113695ec78bc684eac0982507","http://careers.ucirvinehealth.org/","Orange, CA","1,001 to 5,000","","UC Irvine Health is committed to attracting talented employees to continue to build on the organization's strengths and achievements.","","","","","","",""
+"in-a1da857b8eb5d491","indeed","https://www.indeed.com/viewjob?jk=a1da857b8eb5d491","https://careers.vcuhealth.org/us/en/job/R42298/Licensed-Practical-Nurse-LPN-CMH-Surgical-Physician-Practice-Days","Licensed Practical Nurse (LPN) -CMH Surgical Physician Practice - Days","VCU Health System","South Hill, VA, US","2026-02-28","fulltime","","","","","",False,"","","","","Monday \\- Friday
   
 
   
@@ -336,26 +256,9 @@ The LPN job commences to integrate technical skills and theoretical knowledge to
 The LPN job delivers and accurately documents direct, age\\-specific care to a patient or group of patients based on medical orders and an integrated, multidisciplinary plan of care. This role safely administers prescribed medications, identifying incompatibilities and/or interactions.
 Licensure, Certification, or Registration Requirements for Hire: Licensure, certification or registration varies depending on the incumbent\\`s employment background and transitional assignment; LPN licensure in Virginia or eligible Licensure, Certification, or Registration Requirements for continued employment: Current LPN Licensure in Virginia AHA BLS Certification or equivalent Experience REQUIRED: Varies based on transitional duty assignment. Experience PREFERRED: Experience as a LPN in either an acute care setting or as applicable to area of practice Education/training REQUIRED: Graduate from a Board of Nursing approved School of Practical Nursing Education/training PREFERRED: N/A Independent action(s) required: Follows documented physician/licensed independent provider orders, standards, and practice guidelines such as treatments and organizes work to carry out assignment. Supervisory responsibilities (if applicable): N/A Additional position requirements: Licensed Practical Nurses work all three shifts, weekends and holidays. Individual shift rotation and schedules will be established with your specific Nurse Manager/Practice Manager. Schedules, including requirements of shift rotations and hours of work may be adjusted as necessary to meet unit requirements and/or as needed. Age Specific groups served: As appropriate based on transitional duty assignment. Physical Requirements (includes use of assistance devices as appropriate): Physical: Lifting 50\\-100 lbs. Other: Exposure to potentially hazardous and infectious substances Activities: Prolonged standing, Prolonged sitting, Frequent bending, Walking (distance), Climbing (steps, ladder, other), Reaching (overhead, extensive, repetitive) Mental/Sensory: Strong recall, Reasoning, Problem solving, Hearing, Speak clearly, Write legibly, Reading, Logical thinking Emotional: Steady pace, Frequent and intense customer interactions, Noisy environment, Able to adapt to frequent, change
 Days
-EEO Employer/Disabled/Protected Veteran/41 CFR 60\\-1\\.4\\.
-🔗 Apply Direct: https://careers.vcuhealth.org/us/en/job/R42298/Licensed-Practical-Nurse-LPN-CMH-Surgical-Physician-Practice-Days
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a1da857b8eb5d491</description>
-      <companyName>VCU Health System</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>South Hill, VA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) at Suncrest Hospice</title>
-      <link>https://careers-suncrestcare.icims.com/jobs/13712/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Suncrest Hospice-Registered Nurse (RN)-Palo Alto, CA, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Palo Alto, CA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 50 - 60 (hourly)
-
-📝 Description: Why Suncrest:
+EEO Employer/Disabled/Protected Veteran/41 CFR 60\\-1\\.4\\.","Health Care","https://www.indeed.com/cmp/Vcu-Health-System","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cca655a2fd1ab83219fbffa76f85fc1f","http://careers.vcuhealth.org","1250 E Marshall Street
+Richmond, VA 23219","10,000+","$500M to $1B (USD)","We are a strong, passionate organization of more than 13,000 who take pride in caring for every person who come through our doors.","","","","","","",""
+"in-e4e3580fe7634950","indeed","https://www.indeed.com/viewjob?jk=e4e3580fe7634950","https://careers-suncrestcare.icims.com/jobs/13712/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse (RN)","Suncrest Hospice","Palo Alto, CA, US","2026-02-28","fulltime","direct_data","hourly",50.0,60.0,"USD",False,"","","","","Why Suncrest:
 
 At Brighton/Suncrest Hospice our goal is to change the expectation of hospice care in your area by providing exceptional care and service to our patients. This is achieved by allocating the resources to increase our staff to patient ratios, thereby increasing clinical visits while lowering clinician caseloads. We are proud to be a Community Health Accreditation Partner (CHAP) certified hospice. If you have a commitment to providing the highest quality of care to patients and their families, we would like to hear from you!
 Benefits:
@@ -378,29 +281,17 @@ Qualifications:
 * Can work independently and on your own from a day\\-to\\-day basis with activities which include: phone, email and written communication, meetings with a variety of healthcare professionals, and an understanding of hospice rules and regulations.
 * Time management skills to manage visits, documentation, meetings (i.e.: to scheduled visits, attend required meetings, respond to urgent needs by prioritizing and triaging multiple concerns)
 * Ability to learn an electronic medical records system.
-* Must be willing to drive with reliable transportation, valid driver’s license, and auto insurance, to be able to travel across the service area
-🔗 Apply Direct: https://careers-suncrestcare.icims.com/jobs/13712/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e4e3580fe7634950</description>
-      <companyName>Suncrest Hospice</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Palo Alto, CA, US</jobLocation>
-      <salaryMin>50</salaryMin>
-      <salaryMax>60</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Registered Nurse PRN at Amedisys</title>
-      <link>https://careers.amedisys.com/jobs/49936/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Amedisys-RN Registered Nurse PRN-Shenandoah, TX, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Shenandoah, TX, US
-🏠 Work: On-site
-💰 Salary: USD 37 - 47 (hourly)
-
-📝 Description: Overview:
+* Must be willing to drive with reliable transportation, valid driver’s license, and auto insurance, to be able to travel across the service area","Health Care","https://www.indeed.com/cmp/Suncrest-Hospice-8af51e81","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/bdd3f6989b05ea398b7701b3dbc928ac","http://suncrestcare.com","San Jose, CA
+Sacramento, CA
+Salt Lake City, UT
+Phoenix, AZ
+Oklahoma City, OK
+Chicago, IL
+West Des Moines, IA
+Ames, IA
+Pittsburgh, PA
+San Antonio, TX","501 to 1,000","$1M to $5M (USD)","","","","","","","",""
+"in-e2d9207783dfa77b","indeed","https://www.indeed.com/viewjob?jk=e2d9207783dfa77b","https://careers.amedisys.com/jobs/49936/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","RN Registered Nurse PRN","Amedisys","Shenandoah, TX, US","2026-02-28","","direct_data","hourly",37.0,47.0,"USD",False,"","","","","Overview:
 
 Home Health RN
 TX RN License Required
@@ -448,28 +339,8 @@ Qualifications:
 * Able to assess patient status and identify requirements relative to age specific needs.
 * Must be familiar with general use and functions of the computer, such as, user names and password concepts; internet; e\\-mail; navigation of computer desktop, including starting programs, using files and windows, effectively use navigation buttons and tool bars; ability to self\\-manage online HR services and online training programs.
 * Note \\- If less than 6 months clinical experience as a RN, candidate must participate in RN Intern program.
-*Our compensation reflects the cost of labor across several U.S. geographic markets and may vary depending on location, job\\-related knowledge, skills**,* *and experience.**Amedisys is an equal opportunity employer. All qualified employees and applicants will receive consideration for employment without regard to race, color, religion, sex, age, pregnancy, marital status, national origin, citizenship status, disability, military status, sexual orientation, genetic predisposition or carrier status or any other legally protected characteristic.*
-🔗 Apply Direct: https://careers.amedisys.com/jobs/49936/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e2d9207783dfa77b</description>
-      <companyName>Amedisys</companyName>
-      <jobLocation>Shenandoah, TX, US</jobLocation>
-      <salaryMin>37</salaryMin>
-      <salaryMax>47</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse - WISH at UNC Health</title>
-      <link>https://jobs.unchealthcare.org/jobs/17409867-registered-nurse-wish?tm_job=9999-INFOR-212944&amp;tm_event=view&amp;tm_company=12726</link>
-      <guid isPermaLink="false">UNC Health-Registered Nurse - WISH-Goldsboro, NC, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Goldsboro, NC, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Description**
+*Our compensation reflects the cost of labor across several U.S. geographic markets and may vary depending on location, job\\-related knowledge, skills**,* *and experience.**Amedisys is an equal opportunity employer. All qualified employees and applicants will receive consideration for employment without regard to race, color, religion, sex, age, pregnancy, marital status, national origin, citizenship status, disability, military status, sexual orientation, genetic predisposition or carrier status or any other legally protected characteristic.*","","https://www.indeed.com/cmp/Amedisys","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/379a2230ae9cb9c9d2aa4fe19ed12beb","https://careers.amedisys.com/careers-home/","Baton Rouge, LA","10,000+","$1B to $5B (USD)","Amedisys is one of the largest and most trusted home health and hospice companies in the U.S. Here, each member of our team is considered a caregiver, no matter their job title.","","","","","","",""
+"in-626fd00d31816d57","indeed","https://www.indeed.com/viewjob?jk=626fd00d31816d57","https://jobs.unchealthcare.org/jobs/17409867-registered-nurse-wish?tm_job=9999-INFOR-212944&tm_event=view&tm_company=12726","Registered Nurse - WISH","UNC Health","Goldsboro, NC, US","2026-02-28","fulltime","","","","","",False,"","","","","**Description**
 
 
 The Registered Nurse delivers health care to students in a school\\-based adolescent health care program and fulfills such duties as assessment, planning, teaching, and counseling. The Registered Nurse functions as a health team member in meeting objectives of the school\\-based clinic under the supervision of the Program Manager and Nurse Practitioner.
@@ -624,26 +495,8 @@ Exempt From Overtime: Exempt: No
 
   
 
-Qualified applicants will be considered without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, genetic information, disability, status as a protected veteran or political affiliation.
-🔗 Apply Direct: https://jobs.unchealthcare.org/jobs/17409867-registered-nurse-wish?tm_job=9999-INFOR-212944&amp;tm_event=view&amp;tm_company=12726
-🔗 Job Board: https://www.indeed.com/viewjob?jk=626fd00d31816d57</description>
-      <companyName>UNC Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Goldsboro, NC, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN Assistant Nurse Manager ICU/Med Surg at PeaceHealth</title>
-      <link>https://careers.peacehealth.org/jobs/17409672-rn-assistant-nurse-manager-icu-slash-med-surg?tm_job=PH-INFOR-125865&amp;tm_event=view&amp;tm_company=12800</link>
-      <guid isPermaLink="false">PeaceHealth-RN Assistant Nurse Manager ICU/Med Surg-Florence, OR, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Florence, OR, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 134,264 - 201,406 (yearly)
-
-📝 Description: **Description**  
+Qualified applicants will be considered without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, genetic information, disability, status as a protected veteran or political affiliation.","","https://www.indeed.com/cmp/Unc-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/bee687062c4bad65d54285410ee2f67a","https://www.unchealthcare.org","Chapel Hill, NC","10,000+","Decline to state","Did you know UNC Health has ranked #2 Most Trusted Healthcare Brand in the U.S.? The UNC Health brand was ranked as the #4 healthcare brand in the U.S. overall & the #2 most trusted healthcare brand. ","","","","","","",""
+"in-6283096dc10f2b53","indeed","https://www.indeed.com/viewjob?jk=6283096dc10f2b53","https://careers.peacehealth.org/jobs/17409672-rn-assistant-nurse-manager-icu-slash-med-surg?tm_job=PH-INFOR-125865&tm_event=view&tm_company=12800","RN Assistant Nurse Manager ICU/Med Surg","PeaceHealth","Florence, OR, US","2026-02-28","parttime","direct_data","yearly",134264.0,201406.0,"USD",False,"","","","","**Description**  
 
 
 
@@ -760,30 +613,9 @@ PeaceHealth is an EEO/Affirmative Action Employer, supporting veterans, individu
 ----------------------------------------------------
 
 
-For full consideration of your experience and qualifications, please attach a current resume with your application.
-🔗 Apply Direct: https://careers.peacehealth.org/jobs/17409672-rn-assistant-nurse-manager-icu-slash-med-surg?tm_job=PH-INFOR-125865&amp;tm_event=view&amp;tm_company=12800
-🔗 Job Board: https://www.indeed.com/viewjob?jk=6283096dc10f2b53</description>
-      <companyName>PeaceHealth</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Florence, OR, US</jobLocation>
-      <salaryMin>134264</salaryMin>
-      <salaryMax>201406</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Vocational Nurse/Licensed Psychiatric Technician (Full-Time) at Sierra Vista Hospital</title>
-      <link>https://uhs.jibeapply.com/careers/jobs/343622/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Sierra Vista Hospital-Licensed Vocational Nurse/Licensed Psychiatric Technician (Full-Time)-Sacramento, CA, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Sacramento, CA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 26 - 42 (hourly)
-
-📝 Description: Responsibilities:
+For full consideration of your experience and qualifications, please attach a current resume with your application.","Health Care","https://www.indeed.com/cmp/Peacehealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7f6bb7fc1fe5c0e64d4b90ed9a1ddab7","http://careers.peacehealth.org","1115  SE 164th Avenue
+Vancouver, WA 98683","10,000+","$1B to $5B (USD)","PeaceHealth offers exceptional and compassionate care to both rural and urban communities across Washington, Oregon & Alaska.","","","","","","",""
+"in-c25b3b190f7000a8","indeed","https://www.indeed.com/viewjob?jk=c25b3b190f7000a8","https://uhs.jibeapply.com/careers/jobs/343622/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Licensed Vocational Nurse/Licensed Psychiatric Technician (Full-Time)","Sierra Vista Hospital","Sacramento, CA, US","2026-02-28","fulltime","direct_data","hourly",26.0,42.0,"USD",False,"","","","","Responsibilities:
 
 Sierra Vista Hospital is seeking Full\\-time Licensed Vocational Nurses for the Nursing Department. If you're passionate about working in the behavioral health setting and have the desire to lead a team of healthcare professionals dedicated to serving our patients, we want to hear from you!
 
@@ -840,29 +672,9 @@ We believe that diversity and inclusion among our teammates is critical to our s
 At UHS and all our subsidiaries, our Human Resources departments and recruiters are here to help prospective candidates by matching skill set and experience with the best possible career path at UHS and our subsidiaries. We take pride in creating a highly efficient and best in class candidate experience. During the recruitment process, no recruiter or employee will request financial or personal information (Social Security Number, credit card or bank information, etc.) from you via email. The recruiters will not email you from a public webmail client like Hotmail, Gmail, Yahoo Mail, etc. If you are suspicious of a job posting or job\\-related email mentioning UHS or its subsidiaries, let us know by contacting us at: https://uhs.alertline.com or 1\\-800\\-852\\-3449\\.  
 
 
-Salary: Starting from $26\\.00 to $42\\.60 an hour
-🔗 Apply Direct: https://uhs.jibeapply.com/careers/jobs/343622/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c25b3b190f7000a8</description>
-      <companyName>Sierra Vista Hospital</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Sacramento, CA, US</jobLocation>
-      <salaryMin>26</salaryMin>
-      <salaryMax>42</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Interim Nurse Manager (RN) - Adolescent Unit at Pembroke Hospital</title>
-      <link>https://uhs.jibeapply.com/careers/jobs/343627/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Pembroke Hospital-Interim Nurse Manager (RN) - Adolescent Unit-Pembroke, MA, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Pembroke, MA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Responsibilities:
+Salary: Starting from $26\\.00 to $42\\.60 an hour","Health Care","https://www.indeed.com/cmp/Sierra-Vista-Hospital","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/441f1e06d3027f7749fb60055c929924","https://www.sierravistahospital.com/","8001 Bruceville Road
+Sacramento, CA 95823","501 to 1,000","$100M to $500M (USD)","Sierra Vista Hospital is a full-service mental health facility and a center of support for patients and their families.","","","","","","",""
+"in-cb76e518cab26b05","indeed","https://www.indeed.com/viewjob?jk=cb76e518cab26b05","https://uhs.jibeapply.com/careers/jobs/343627/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Interim Nurse Manager (RN) - Adolescent Unit","Pembroke Hospital","Pembroke, MA, US","2026-02-28","fulltime","","","","","",False,"","","","asifa.nishat@uhsinc.com","Responsibilities:
 **Interim Nurse Manager Opportunity \\- Adolescent Behavioral Health Unit**
 
  **Pembroke Hospital** is a 120\\-bed acute care, inpatient behavioral health facility located south of Boston, in Pembroke, MA. Situated on 26 acres, we offer inpatient and partial hospitalization treatment to teens, adults and older adults, and our services are designed to assess, stabilize, and treat patients by addressing their primary symptoms and problems. At Pembroke Hospital, all positions begin and end with **caring for the Patient**. By Listening Deeply and Understanding the Story of our Patients, we will ***Make a Difference*** in the Lives we Touch.
@@ -880,7 +692,7 @@ Under the general supervision of the Chief Nursing Officer, the **Nurse Manager*
 * Career development opportunities within UHS and its 300\\+ locations!
 * Diverse programming to expand your experience and energize you career
 * HealthStream online learning catalogue with plenty of free CEU courses
-* Competitive Compensation \\&amp; Generous Paid Time Off
+* Competitive Compensation \\& Generous Paid Time Off
 * Excellent Medical, Dental, Vision and Prescription Drug Plan
 * 401(K) with company match and discounted stock plan
 * Pet Insurance
@@ -924,25 +736,9 @@ All UHS subsidiaries are committed to providing an environment of mutual respect
 We believe that diversity and inclusion among our teammates is critical to our success. **Avoid and Report Recruitment Scams**
 At UHS and all our subsidiaries, our Human Resources departments and recruiters are here to help prospective candidates by matching skill set and experience with the best possible career path at UHS and our subsidiaries. During the recruitment process, no recruiter or employee will request financial or personal information (e.g., Social Security Number, credit card or bank information, etc.) from you via email. Our recruiters will not email you from a public webmail client like Hotmail, Gmail, Yahoo Mail, etc.  
 
-If you suspect a fraudulent job posting or job\\-related email mentioning UHS or its subsidiaries, we encourage you to report such concerns to appropriate law enforcement. We encourage you to refer to legitimate UHS and UHS subsidiary career websites to verify job opportunities and not rely on unsolicited calls from recruiters.
-🔗 Apply Direct: https://uhs.jibeapply.com/careers/jobs/343627/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=cb76e518cab26b05</description>
-      <companyName>Pembroke Hospital</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Pembroke, MA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Intake Coordinator - Registered Nurse (RN) at Pembroke Hospital</title>
-      <link>https://uhs.jibeapply.com/careers/jobs/343625/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Pembroke Hospital-Intake Coordinator - Registered Nurse (RN)-Pembroke, MA, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Pembroke, MA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Responsibilities:
+If you suspect a fraudulent job posting or job\\-related email mentioning UHS or its subsidiaries, we encourage you to report such concerns to appropriate law enforcement. We encourage you to refer to legitimate UHS and UHS subsidiary career websites to verify job opportunities and not rely on unsolicited calls from recruiters.","Health Care","https://www.indeed.com/cmp/Pembroke-Hospital","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/aadcf0b3c2054911db97119eb45956d3","https://pembrokehospital.org","199 Oak Street
+Pembroke, MA 02359","","","Pembroke Hospital is a 120-bed private psychiatric facility located on the South Shore in Pembroke, Mass.","","","","","","",""
+"in-77e1603cbdb3920e","indeed","https://www.indeed.com/viewjob?jk=77e1603cbdb3920e","https://uhs.jibeapply.com/careers/jobs/343625/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Intake Coordinator - Registered Nurse (RN)","Pembroke Hospital","Pembroke, MA, US","2026-02-28","fulltime","","","","","",False,"","","","","Responsibilities:
 **Intake Coordinator \\- Registered Nurse (RN) Opportunity \\- 3pm to 11pm, 32hrs/week**  
 
 This is a full time, 32 hour per week, evening shift (3\\-11pm) position. This position requires working every other weekend. **Pembroke Hospital** is a 120\\-bed acute care, inpatient behavioral health facility located south of Boston, in Pembroke, MA. Situated on 26 acres, we offer inpatient and partial hospitalization treatment to teens, adults and older adults, and our services are designed to assess, stabilize, and treat patients by addressing their primary symptoms and problems. At Pembroke Hospital, all positions begin and end with caring for the Patient. By Listening Deeply and Understanding the Story of our Patients, we will Make a Difference in the Lives we Touch. **Website:** https://www.pembrokehospital.com/  
@@ -950,7 +746,7 @@ This is a full time, 32 hour per week, evening shift (3\\-11pm) position. This p
 The **Intake Coordinator (RN)** is responsible for working collaboratively in the admissions department responding to inpatient referral requests from clinicians, patients, family members, managed care company staff, and others. The Intake Coordinator must answer calls entering the queue (or coming in on direct extensions) and process demographic, clinical and insurance information in a manner consistent with service excellence and that ensures efficient and effective call processing, leading to a patient admission to Pembroke Hospitals program or providing appropriate information to the caller. The Intake Coordinator \\- RN is an adjunct to the department and is available as an immediate resource to non\\- clinical staff to assist them in ensuring appropriate medical screening in order to facilitate timely and expedited placement of patients within Pembroke Hospital facilities who meet admission guidelines.  
 
 **Benefit Highlights*** Challenging and rewarding work environment
-* Competitive Compensation \\&amp; Generous Paid Time Off
+* Competitive Compensation \\& Generous Paid Time Off
 * Excellent Medical, Dental, Vision and Prescription Drug Plans
 * 401(K) with company match and discounted stock plan
 * SoFi Student Loan Refinancing Program
@@ -977,26 +773,9 @@ All UHS subsidiaries are committed to providing an environment of mutual respect
 We believe that diversity and inclusion among our teammates is critical to our success. **Avoid and Report Recruitment Scams**
 At UHS and all our subsidiaries, our Human Resources departments and recruiters are here to help prospective candidates by matching skill set and experience with the best possible career path at UHS and our subsidiaries. During the recruitment process, no recruiter or employee will request financial or personal information (e.g., Social Security Number, credit card or bank information, etc.) from you via email. Our recruiters will not email you from a public webmail client like Hotmail, Gmail, Yahoo Mail, etc.  
 
-If you suspect a fraudulent job posting or job\\-related email mentioning UHS or its subsidiaries, we encourage you to report such concerns to appropriate law enforcement. We encourage you to refer to legitimate UHS and UHS subsidiary career websites to verify job opportunities and not rely on unsolicited calls from recruiters.
-🔗 Apply Direct: https://uhs.jibeapply.com/careers/jobs/343625/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=77e1603cbdb3920e</description>
-      <companyName>Pembroke Hospital</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Pembroke, MA, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>IR Nurse at Precision Scans Inc</title>
-      <link>https://www-precisionscans-net.careerplug.com/j/02wi7fd</link>
-      <guid isPermaLink="false">Precision Scans Inc-IR Nurse-Visalia, CA, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Visalia, CA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 80 - 83 (hourly)
-
-📝 Description: **JOBID:** NK002802  
+If you suspect a fraudulent job posting or job\\-related email mentioning UHS or its subsidiaries, we encourage you to report such concerns to appropriate law enforcement. We encourage you to refer to legitimate UHS and UHS subsidiary career websites to verify job opportunities and not rely on unsolicited calls from recruiters.","Health Care","https://www.indeed.com/cmp/Pembroke-Hospital","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/aadcf0b3c2054911db97119eb45956d3","https://pembrokehospital.org","199 Oak Street
+Pembroke, MA 02359","","","Pembroke Hospital is a 120-bed private psychiatric facility located on the South Shore in Pembroke, Mass.","","","","","","",""
+"in-30896a7cafd8f469","indeed","https://www.indeed.com/viewjob?jk=30896a7cafd8f469","https://www-precisionscans-net.careerplug.com/j/02wi7fd","IR Nurse","Precision Scans Inc","Visalia, CA, US","2026-02-28","fulltime","direct_data","hourly",80.0,83.0,"USD",False,"","","","","**JOBID:** NK002802  
 
 
 **Position:** IR Nurse
@@ -1079,29 +858,8 @@ Type of facility: (Hospital or Outpatient)\\- Out Patient
 Minimum 1–2 years of critical care, ICU, ER, or procedural nursing experience preferred  
 * 
 
-*Precision Scans is an equal opportunity employer, committed to cultural diversity. Precision Scans will provide equal consideration for employment to all qualified applicants without regard to their race, religion, ancestry, national origin, sex, sexual orientation, age, disability, marital status, domestic partner status, or medical condition.*
-🔗 Apply Direct: https://www-precisionscans-net.careerplug.com/j/02wi7fd
-🔗 Job Board: https://www.indeed.com/viewjob?jk=30896a7cafd8f469</description>
-      <companyName>Precision Scans Inc</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Visalia, CA, US</jobLocation>
-      <salaryMin>80</salaryMin>
-      <salaryMax>83</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>L &amp; D Nurse Night shift at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003889&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003889%2FL-D-Nurse-Night-shift%3Frx_a%3D1%26rx_c%3D18-nursing%26rx_ch%3Djobp4p%26rx_group%3D315024%26rx_id%3Dfb14a570-1441-11f1-abc5-fde066bd8a76%26rx_job%3D26003889%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-L &amp; D Nurse Night shift-Temple, TX, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Temple, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Baylor Scott \\&amp; White Medical Center Temple
+*Precision Scans is an equal opportunity employer, committed to cultural diversity. Precision Scans will provide equal consideration for employment to all qualified applicants without regard to their race, religion, ancestry, national origin, sex, sexual orientation, age, disability, marital status, domestic partner status, or medical condition.*","","https://www.indeed.com/cmp/Precision-Scans-Inc","","","","","","","","","","","","",""
+"in-23ed9a8a91edd49f","indeed","https://www.indeed.com/viewjob?jk=23ed9a8a91edd49f","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=26003889&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003889%2FL-D-Nurse-Night-shift%3Frx_a%3D1%26rx_c%3D18-nursing%26rx_ch%3Djobp4p%26rx_group%3D315024%26rx_id%3Dfb14a570-1441-11f1-abc5-fde066bd8a76%26rx_job%3D26003889%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","L & D Nurse Night shift","Baylor Scott & White Health","Temple, TX, US","2026-02-28","fulltime","","","","","",False,"","","","","Baylor Scott \\& White Medical Center Temple
 
 
 Registered Nurse (RN) Labor and Delivery
@@ -1251,24 +1009,8 @@ Note: Benefits may vary based upon position type and/or level **QUALIFICATIONS**
 
   
 
- Basic Life Support (BLS): BLS or BLS within 30 days of hire or transfer.
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003889&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003889%2FL-D-Nurse-Night-shift%3Frx_a%3D1%26rx_c%3D18-nursing%26rx_ch%3Djobp4p%26rx_group%3D315024%26rx_id%3Dfb14a570-1441-11f1-abc5-fde066bd8a76%26rx_job%3D26003889%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=23ed9a8a91edd49f</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Temple, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>ED Boarder RN Days at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003414&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003414%2FED-Boarder-RN-Days%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df6029474-1441-11f1-abc5-85e8b4128035%26rx_job%3D26003414%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-ED Boarder RN Days-Temple, TX, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Temple, TX, US
-🏠 Work: On-site
-
-📝 Description: **Why the ED Boarder RN Role?**
+ Basic Life Support (BLS): BLS or BLS within 30 days of hire or transfer.","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
+"in-6e5e49e72b26b8d9","indeed","https://www.indeed.com/viewjob?jk=6e5e49e72b26b8d9","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=26003414&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003414%2FED-Boarder-RN-Days%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df6029474-1441-11f1-abc5-85e8b4128035%26rx_job%3D26003414%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","ED Boarder RN Days","Baylor Scott & White Health","Temple, TX, US","2026-02-28","","","","","","",False,"","","","","**Why the ED Boarder RN Role?**
 
 
 This unique position supports admitted patients who remain in the Emergency Department while awaiting an inpatient bed assignment. These patients have been evaluated and admitted by the appropriate inpatient service and require continued acute care nursing management until transfer to their assigned unit.
@@ -1307,7 +1049,7 @@ Patient populations may include, but are not limited to:
 * Patients requiring ongoing IV therapy, monitoring, and care management
 
 
-This role supports Baylor Scott \\&amp; White’s mission by promoting patient safety, throughput efficiency, quality outcomes, and an exceptional patient experience during a critical transition of care.
+This role supports Baylor Scott \\& White’s mission by promoting patient safety, throughput efficiency, quality outcomes, and an exceptional patient experience during a critical transition of care.
 
 **Requirements of the Ideal Candidate**
 
@@ -1323,23 +1065,8 @@ This role supports Baylor Scott \\&amp; White’s mission by promoting patient s
 * Grad of an Accredited Program
 * Specialized field of study should be nursing.
 * RN license.
-* Must have BLS certification or get it within 30 days of starting in this role.
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003414&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003414%2FED-Boarder-RN-Days%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df6029474-1441-11f1-abc5-85e8b4128035%26rx_job%3D26003414%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=6e5e49e72b26b8d9</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobLocation>Temple, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>ED Boarder RN Nights at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003418&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003418%2FED-Boarder-RN-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df9cc94e8-1441-11f1-abc5-b5a457791543%26rx_job%3D26003418%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-ED Boarder RN Nights-Temple, TX, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Temple, TX, US
-🏠 Work: On-site
-
-📝 Description: **Why the ED Boarder RN Role?**
+* Must have BLS certification or get it within 30 days of starting in this role.","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
+"in-8091d0d89490201a","indeed","https://www.indeed.com/viewjob?jk=8091d0d89490201a","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=26003418&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003418%2FED-Boarder-RN-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df9cc94e8-1441-11f1-abc5-b5a457791543%26rx_job%3D26003418%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","ED Boarder RN Nights","Baylor Scott & White Health","Temple, TX, US","2026-02-28","","","","","","",False,"","","","","**Why the ED Boarder RN Role?**
 
 
 This unique position supports admitted patients who remain in the Emergency Department while awaiting an inpatient bed assignment. These patients have been evaluated and admitted by the appropriate inpatient service and require continued acute care nursing management until transfer to their assigned unit.
@@ -1378,7 +1105,7 @@ Patient populations may include, but are not limited to:
 * Patients requiring ongoing IV therapy, monitoring, and care management
 
 
-This role supports Baylor Scott \\&amp; White’s mission by promoting patient safety, throughput efficiency, quality outcomes, and an exceptional patient experience during a critical transition of care.
+This role supports Baylor Scott \\& White’s mission by promoting patient safety, throughput efficiency, quality outcomes, and an exceptional patient experience during a critical transition of care.
 
 **Requirements of the Ideal Candidate**
 
@@ -1394,24 +1121,8 @@ This role supports Baylor Scott \\&amp; White’s mission by promoting patient s
 * Grad of an Accredited Program
 * Specialized field of study should be nursing.
 * RN license.
-* Must have BLS certification or get it within 30 days of starting in this role.
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003418&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003418%2FED-Boarder-RN-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df9cc94e8-1441-11f1-abc5-b5a457791543%26rx_job%3D26003418%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=8091d0d89490201a</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobLocation>Temple, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>IR RN FT Days at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003749&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003749%2FIR-RN-FT-Days%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df707823c-1441-11f1-abc5-79c2f3ef8e68%26rx_job%3D26003749%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-IR RN FT Days-Frisco, TX, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Frisco, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **Location: Baylor Scott and White Medical Center Frisco at PGA Parkway**
+* Must have BLS certification or get it within 30 days of starting in this role.","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
+"in-92505d859b75795a","indeed","https://www.indeed.com/viewjob?jk=92505d859b75795a","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=26003749&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003749%2FIR-RN-FT-Days%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df707823c-1441-11f1-abc5-79c2f3ef8e68%26rx_job%3D26003749%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","IR RN FT Days","Baylor Scott & White Health","Frisco, TX, US","2026-02-28","fulltime","","","","","",False,"","","","","**Location: Baylor Scott and White Medical Center Frisco at PGA Parkway**
 
 **Shift: FT Day Coverage**
 
@@ -1427,7 +1138,7 @@ Apply today and join a growing team dedicated to bringing an elevated level of c
 #### **About Us**
 
 
-Here at Baylor Scott \\&amp; White Health we promote the well\\-being of all individuals, families, and communities. Baylor Scott and White is the largest not\\-for\\-profit healthcare system in Texas that empowers you to live well.
+Here at Baylor Scott \\& White Health we promote the well\\-being of all individuals, families, and communities. Baylor Scott and White is the largest not\\-for\\-profit healthcare system in Texas that empowers you to live well.
 
 
 Our Core Values are:
@@ -1440,7 +1151,7 @@ Our Core Values are:
 #### **Benefits**
 
 
-Our benefits are designed to help you live well no matter where you are on your journey. For full details on coverage and eligibility, visit the Baylor Scott \\&amp; White Benefits Hub to explore our offerings, which may include:
+Our benefits are designed to help you live well no matter where you are on your journey. For full details on coverage and eligibility, visit the Baylor Scott \\& White Benefits Hub to explore our offerings, which may include:
 
 * Immediate eligibility for health and welfare benefits
 * 401(k) savings plan with dollar\\-for\\-dollar match up to 5%
@@ -1482,24 +1193,8 @@ We believe that all people should feel welcomed, valued and supported.
 * Graduate of an Accredited Program or (2\\) years of work experience above the minimum qualification
 * The applicant's major field of study should be Nursing.
 * Candidates must be Registered Nurses(RN).
-* A (BLS) Basic Life Support certification is required or must obtain within (30\\) thirty days of hire
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003749&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003749%2FIR-RN-FT-Days%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df707823c-1441-11f1-abc5-79c2f3ef8e68%26rx_job%3D26003749%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=92505d859b75795a</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Frisco, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>ED Boarder RN Days at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003412&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003412%2FED-Boarder-RN-Days%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df6e0e6aa-1441-11f1-abc5-9758d53e67f1%26rx_job%3D26003412%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-ED Boarder RN Days-Temple, TX, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Temple, TX, US
-🏠 Work: On-site
-
-📝 Description: **Why the ED Boarder RN Role?**
+* A (BLS) Basic Life Support certification is required or must obtain within (30\\) thirty days of hire","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
+"in-ac967415894f0e0e","indeed","https://www.indeed.com/viewjob?jk=ac967415894f0e0e","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=26003412&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003412%2FED-Boarder-RN-Days%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df6e0e6aa-1441-11f1-abc5-9758d53e67f1%26rx_job%3D26003412%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","ED Boarder RN Days","Baylor Scott & White Health","Temple, TX, US","2026-02-28","","","","","","",False,"","","","","**Why the ED Boarder RN Role?**
 
 
 This unique position supports admitted patients who remain in the Emergency Department while awaiting an inpatient bed assignment. These patients have been evaluated and admitted by the appropriate inpatient service and require continued acute care nursing management until transfer to their assigned unit.
@@ -1538,7 +1233,7 @@ Patient populations may include, but are not limited to:
 * Patients requiring ongoing IV therapy, monitoring, and care management
 
 
-This role supports Baylor Scott \\&amp; White’s mission by promoting patient safety, throughput efficiency, quality outcomes, and an exceptional patient experience during a critical transition of care.
+This role supports Baylor Scott \\& White’s mission by promoting patient safety, throughput efficiency, quality outcomes, and an exceptional patient experience during a critical transition of care.
 
 **Requirements of the Ideal Candidate**
 
@@ -1554,23 +1249,8 @@ This role supports Baylor Scott \\&amp; White’s mission by promoting patient s
 * Grad of an Accredited Program
 * Specialized field of study should be nursing.
 * RN license.
-* Must have BLS certification or get it within 30 days of starting in this role.
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003412&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003412%2FED-Boarder-RN-Days%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df6e0e6aa-1441-11f1-abc5-9758d53e67f1%26rx_job%3D26003412%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=ac967415894f0e0e</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobLocation>Temple, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>ED Boarder RN Nights at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003416&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003416%2FED-Boarder-RN-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Dfb0dee8e-1441-11f1-abc5-ab47600253dd%26rx_job%3D26003416%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-ED Boarder RN Nights-Temple, TX, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Temple, TX, US
-🏠 Work: On-site
-
-📝 Description: **Why the ED Boarder RN Role?**
+* Must have BLS certification or get it within 30 days of starting in this role.","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
+"in-444ca8cfee8264f8","indeed","https://www.indeed.com/viewjob?jk=444ca8cfee8264f8","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=26003416&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003416%2FED-Boarder-RN-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Dfb0dee8e-1441-11f1-abc5-ab47600253dd%26rx_job%3D26003416%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","ED Boarder RN Nights","Baylor Scott & White Health","Temple, TX, US","2026-02-28","","","","","","",False,"","","","","**Why the ED Boarder RN Role?**
 
 
 This unique position supports admitted patients who remain in the Emergency Department while awaiting an inpatient bed assignment. These patients have been evaluated and admitted by the appropriate inpatient service and require continued acute care nursing management until transfer to their assigned unit.
@@ -1609,7 +1289,7 @@ Patient populations may include, but are not limited to:
 * Patients requiring ongoing IV therapy, monitoring, and care management
 
 
-This role supports Baylor Scott \\&amp; White’s mission by promoting patient safety, throughput efficiency, quality outcomes, and an exceptional patient experience during a critical transition of care.
+This role supports Baylor Scott \\& White’s mission by promoting patient safety, throughput efficiency, quality outcomes, and an exceptional patient experience during a critical transition of care.
 
 **Requirements of the Ideal Candidate**
 
@@ -1625,23 +1305,8 @@ This role supports Baylor Scott \\&amp; White’s mission by promoting patient s
 * Grad of an Accredited Program
 * Specialized field of study should be nursing.
 * RN license.
-* Must have BLS certification or get it within 30 days of starting in this role.
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003416&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003416%2FED-Boarder-RN-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Dfb0dee8e-1441-11f1-abc5-ab47600253dd%26rx_job%3D26003416%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=444ca8cfee8264f8</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobLocation>Temple, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>ED Boarder RN Nights at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003417&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003417%2FED-Boarder-RN-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df73e97d8-1441-11f1-abc5-237cb5df0d12%26rx_job%3D26003417%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-ED Boarder RN Nights-Temple, TX, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Temple, TX, US
-🏠 Work: On-site
-
-📝 Description: **Why the ED Boarder RN Role?**
+* Must have BLS certification or get it within 30 days of starting in this role.","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
+"in-b45e03e240b9c87b","indeed","https://www.indeed.com/viewjob?jk=b45e03e240b9c87b","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=26003417&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003417%2FED-Boarder-RN-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df73e97d8-1441-11f1-abc5-237cb5df0d12%26rx_job%3D26003417%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","ED Boarder RN Nights","Baylor Scott & White Health","Temple, TX, US","2026-02-28","","","","","","",False,"","","","","**Why the ED Boarder RN Role?**
 
 
 This unique position supports admitted patients who remain in the Emergency Department while awaiting an inpatient bed assignment. These patients have been evaluated and admitted by the appropriate inpatient service and require continued acute care nursing management until transfer to their assigned unit.
@@ -1680,7 +1345,7 @@ Patient populations may include, but are not limited to:
 * Patients requiring ongoing IV therapy, monitoring, and care management
 
 
-This role supports Baylor Scott \\&amp; White’s mission by promoting patient safety, throughput efficiency, quality outcomes, and an exceptional patient experience during a critical transition of care.
+This role supports Baylor Scott \\& White’s mission by promoting patient safety, throughput efficiency, quality outcomes, and an exceptional patient experience during a critical transition of care.
 
 **Requirements of the Ideal Candidate**
 
@@ -1696,23 +1361,8 @@ This role supports Baylor Scott \\&amp; White’s mission by promoting patient s
 * Grad of an Accredited Program
 * Specialized field of study should be nursing.
 * RN license.
-* Must have BLS certification or get it within 30 days of starting in this role.
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003417&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003417%2FED-Boarder-RN-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df73e97d8-1441-11f1-abc5-237cb5df0d12%26rx_job%3D26003417%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b45e03e240b9c87b</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobLocation>Temple, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>ED Boarder RN Days at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003415&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003415%2FED-Boarder-RN-Days%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df9a36260-1441-11f1-abc5-8d02a1b93942%26rx_job%3D26003415%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-ED Boarder RN Days-Temple, TX, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Temple, TX, US
-🏠 Work: On-site
-
-📝 Description: **Why the ED Boarder RN Role?**
+* Must have BLS certification or get it within 30 days of starting in this role.","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
+"in-0af3f015c677d2b7","indeed","https://www.indeed.com/viewjob?jk=0af3f015c677d2b7","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=26003415&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003415%2FED-Boarder-RN-Days%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df9a36260-1441-11f1-abc5-8d02a1b93942%26rx_job%3D26003415%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","ED Boarder RN Days","Baylor Scott & White Health","Temple, TX, US","2026-02-28","","","","","","",False,"","","","","**Why the ED Boarder RN Role?**
 
 
 This unique position supports admitted patients who remain in the Emergency Department while awaiting an inpatient bed assignment. These patients have been evaluated and admitted by the appropriate inpatient service and require continued acute care nursing management until transfer to their assigned unit.
@@ -1751,7 +1401,7 @@ Patient populations may include, but are not limited to:
 * Patients requiring ongoing IV therapy, monitoring, and care management
 
 
-This role supports Baylor Scott \\&amp; White’s mission by promoting patient safety, throughput efficiency, quality outcomes, and an exceptional patient experience during a critical transition of care.
+This role supports Baylor Scott \\& White’s mission by promoting patient safety, throughput efficiency, quality outcomes, and an exceptional patient experience during a critical transition of care.
 
 **Requirements of the Ideal Candidate**
 
@@ -1767,23 +1417,8 @@ This role supports Baylor Scott \\&amp; White’s mission by promoting patient s
 * Grad of an Accredited Program
 * Specialized field of study should be nursing.
 * RN license.
-* Must have BLS certification or get it within 30 days of starting in this role.
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003415&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003415%2FED-Boarder-RN-Days%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df9a36260-1441-11f1-abc5-8d02a1b93942%26rx_job%3D26003415%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=0af3f015c677d2b7</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobLocation>Temple, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>ED Boarder RN Days at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003413&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003413%2FED-Boarder-RN-Days%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df93ed45e-1441-11f1-abc5-6115fffb0997%26rx_job%3D26003413%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-ED Boarder RN Days-Temple, TX, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Temple, TX, US
-🏠 Work: On-site
-
-📝 Description: **Why the ED Boarder RN Role?**
+* Must have BLS certification or get it within 30 days of starting in this role.","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
+"in-1e8a97e0c8352837","indeed","https://www.indeed.com/viewjob?jk=1e8a97e0c8352837","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=26003413&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003413%2FED-Boarder-RN-Days%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df93ed45e-1441-11f1-abc5-6115fffb0997%26rx_job%3D26003413%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","ED Boarder RN Days","Baylor Scott & White Health","Temple, TX, US","2026-02-28","","","","","","",False,"","","","","**Why the ED Boarder RN Role?**
 
 
 This unique position supports admitted patients who remain in the Emergency Department while awaiting an inpatient bed assignment. These patients have been evaluated and admitted by the appropriate inpatient service and require continued acute care nursing management until transfer to their assigned unit.
@@ -1822,7 +1457,7 @@ Patient populations may include, but are not limited to:
 * Patients requiring ongoing IV therapy, monitoring, and care management
 
 
-This role supports Baylor Scott \\&amp; White’s mission by promoting patient safety, throughput efficiency, quality outcomes, and an exceptional patient experience during a critical transition of care.
+This role supports Baylor Scott \\& White’s mission by promoting patient safety, throughput efficiency, quality outcomes, and an exceptional patient experience during a critical transition of care.
 
 **Requirements of the Ideal Candidate**
 
@@ -1838,24 +1473,8 @@ This role supports Baylor Scott \\&amp; White’s mission by promoting patient s
 * Grad of an Accredited Program
 * Specialized field of study should be nursing.
 * RN license.
-* Must have BLS certification or get it within 30 days of starting in this role.
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003413&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003413%2FED-Boarder-RN-Days%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df93ed45e-1441-11f1-abc5-6115fffb0997%26rx_job%3D26003413%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1e8a97e0c8352837</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobLocation>Temple, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>PACU RN Supv FT Days at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003761&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003761%2FPACU-RN-Supv-FT-Days%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df945b248-1441-11f1-abc5-a390b34c7bce%26rx_job%3D26003761%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-PACU RN Supv FT Days-Frisco, TX, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Frisco, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: #### **Location: Baylor Scott \\&amp; White \\- Centennial (Frisco, Texas)**
+* Must have BLS certification or get it within 30 days of starting in this role.","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
+"in-56884f7379079092","indeed","https://www.indeed.com/viewjob?jk=56884f7379079092","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=26003761&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003761%2FPACU-RN-Supv-FT-Days%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df945b248-1441-11f1-abc5-a390b34c7bce%26rx_job%3D26003761%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","PACU RN Supv FT Days","Baylor Scott & White Health","Frisco, TX, US","2026-02-28","fulltime","","","","","",False,"","","","","#### **Location: Baylor Scott \\& White \\- Centennial (Frisco, Texas)**
 
 #### **Shift: FT Days**
 
@@ -1864,7 +1483,7 @@ This role supports Baylor Scott \\&amp; White’s mission by promoting patient s
 #### **About Us**
 
 
-Here at Baylor Scott \\&amp; White Health we promote the well\\-being of all individuals, families, and communities. Baylor Scott and White is the largest not\\-for\\-profit healthcare system in Texas that empowers you to live well.
+Here at Baylor Scott \\& White Health we promote the well\\-being of all individuals, families, and communities. Baylor Scott and White is the largest not\\-for\\-profit healthcare system in Texas that empowers you to live well.
 
 
 Our Core Values are:
@@ -1877,7 +1496,7 @@ Our Core Values are:
 #### **Benefits**
 
 
-Our benefits are designed to help you live well no matter where you are on your journey. For full details on coverage and eligibility, visit the Baylor Scott \\&amp; White Benefits Hub to explore our offerings, which may include:
+Our benefits are designed to help you live well no matter where you are on your journey. For full details on coverage and eligibility, visit the Baylor Scott \\& White Benefits Hub to explore our offerings, which may include:
 
 * Immediate eligibility for health and welfare benefits
 * 401(k) savings plan with dollar\\-for\\-dollar match up to 5%
@@ -1916,28 +1535,11 @@ We believe that all people should feel welcomed, valued and supported.
 * MAJOR \\- Nursing
 * EXPERIENCE \\- (2\\) Two Years of Experience in a Supv role, with proficient PACU experience
 * CERTIFICATION/LICENSE/REGISTRATION \\-Registered Nurse (RN)
-* Basic Life Support (BLS) or obtain within 30 days of hire or transfer.
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003761&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003761%2FPACU-RN-Supv-FT-Days%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df945b248-1441-11f1-abc5-a390b34c7bce%26rx_job%3D26003761%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=56884f7379079092</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Frisco, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN ICU Float Pool FT Nights at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=25009462_rxr-3&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F25009462%2FRN-ICU-Float-Pool-FT-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df58946a0-1441-11f1-abc5-0576e318bbd4%26rx_job%3D25009462_rxr-3%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-RN ICU Float Pool FT Nights-Dallas, TX, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Dallas, TX, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **About Us**
+* Basic Life Support (BLS) or obtain within 30 days of hire or transfer.","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
+"in-661459c405503933","indeed","https://www.indeed.com/viewjob?jk=661459c405503933","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=25009462_rxr-3&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F25009462%2FRN-ICU-Float-Pool-FT-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df58946a0-1441-11f1-abc5-0576e318bbd4%26rx_job%3D25009462_rxr-3%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","RN ICU Float Pool FT Nights","Baylor Scott & White Health","Dallas, TX, US","2026-02-28","fulltime","","","","","",False,"","","","","**About Us**
 
 
-Here at Baylor Scott \\&amp; White Health we promote the well\\-being of all individuals, families, and communities. Baylor Scott and White is the largest not\\-for\\-profit healthcare system in Texas that empowers you to live well.
+Here at Baylor Scott \\& White Health we promote the well\\-being of all individuals, families, and communities. Baylor Scott and White is the largest not\\-for\\-profit healthcare system in Texas that empowers you to live well.
 
 
 Our Core Values are:
@@ -1950,7 +1552,7 @@ Our Core Values are:
 **Benefits**
 
 
-Our benefits are designed to help you live well no matter where you are on your journey. For full details on coverage and eligibility, visit the Baylor Scott \\&amp; White Benefits Hub to explore our offerings, which may include:
+Our benefits are designed to help you live well no matter where you are on your journey. For full details on coverage and eligibility, visit the Baylor Scott \\& White Benefits Hub to explore our offerings, which may include:
 
   
 
@@ -2000,24 +1602,8 @@ We believe that all people should feel welcomed, valued and supported.
 * Float Pool experience highly desired
 * License/Certification RN – Registered Nurse
 * ACLS
-* BLS – Basic Life Support (required within 30 days of hire)
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=25009462_rxr-3&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F25009462%2FRN-ICU-Float-Pool-FT-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df58946a0-1441-11f1-abc5-0576e318bbd4%26rx_job%3D25009462_rxr-3%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=661459c405503933</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Dallas, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>ED Boarder RN Nights at Baylor Scott &amp; White Health</title>
-      <link>https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003419&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003419%2FED-Boarder-RN-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df6ce70ac-1441-11f1-abc5-f55f57b8810b%26rx_job%3D26003419%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc</link>
-      <guid isPermaLink="false">Baylor Scott &amp; White Health-ED Boarder RN Nights-Temple, TX, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Temple, TX, US
-🏠 Work: On-site
-
-📝 Description: **Why the ED Boarder RN Role?**
+* BLS – Basic Life Support (required within 30 days of hire)","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
+"in-fd82c675ef910932","indeed","https://www.indeed.com/viewjob?jk=fd82c675ef910932","https://jsv3.recruitics.com/redirect?rx_cid=3394&rx_jobId=26003419&rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003419%2FED-Boarder-RN-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df6ce70ac-1441-11f1-abc5-f55f57b8810b%26rx_job%3D26003419%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc","ED Boarder RN Nights","Baylor Scott & White Health","Temple, TX, US","2026-02-28","","","","","","",False,"","","","","**Why the ED Boarder RN Role?**
 
 
 This unique position supports admitted patients who remain in the Emergency Department while awaiting an inpatient bed assignment. These patients have been evaluated and admitted by the appropriate inpatient service and require continued acute care nursing management until transfer to their assigned unit.
@@ -2056,7 +1642,7 @@ Patient populations may include, but are not limited to:
 * Patients requiring ongoing IV therapy, monitoring, and care management
 
 
-This role supports Baylor Scott \\&amp; White’s mission by promoting patient safety, throughput efficiency, quality outcomes, and an exceptional patient experience during a critical transition of care.
+This role supports Baylor Scott \\& White’s mission by promoting patient safety, throughput efficiency, quality outcomes, and an exceptional patient experience during a critical transition of care.
 
 **Requirements of the Ideal Candidate**
 
@@ -2072,25 +1658,8 @@ This role supports Baylor Scott \\&amp; White’s mission by promoting patient s
 * Grad of an Accredited Program
 * Specialized field of study should be nursing.
 * RN license.
-* Must have BLS certification or get it within 30 days of starting in this role.
-🔗 Apply Direct: https://jsv3.recruitics.com/redirect?rx_cid=3394&amp;rx_jobId=26003419&amp;rx_url=https%3A%2F%2Fjobs.bswhealth.com%2Fus%2Fen%2Fjob%2F26003419%2FED-Boarder-RN-Nights%3Frx_a%3D1%26rx_c%3D18h-all-rn-jobs%26rx_ch%3Djobp4p%26rx_group%3D379794%26rx_id%3Df6ce70ac-1441-11f1-abc5-f55f57b8810b%26rx_job%3D26003419%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3DIndeed%26rx_ts%3D20260228T060405Z%26rx_vp%3Dcpc%26src%3DJB-10181%26utm_medium%3Dcpc%26utm_source%3Dindeedcpc
-🔗 Job Board: https://www.indeed.com/viewjob?jk=fd82c675ef910932</description>
-      <companyName>Baylor Scott &amp; White Health</companyName>
-      <jobLocation>Temple, TX, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse, night shift at nan</title>
-      <link>https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=92546&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">nan-Registered Nurse, night shift-Annandale, MN, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Annandale, MN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 39 - 58 (hourly)
-
-📝 Description: **Job Details**
+* Must have BLS certification or get it within 30 days of starting in this role.","","https://www.indeed.com/cmp/Baylor-Scott-&-White-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b2516be609a8cb919a7ac43b19f52d98","https://jobs.bswhealth.com","Dallas, TX","10,000+","$5B to $10B (USD)","Baylor Scott & White Health is the largest not-for-profit healthcare system in the state of Texas and one of the largest in the U.S.","","","","","","",""
+"in-a8f073c7af3cec33","indeed","https://www.indeed.com/viewjob?jk=a8f073c7af3cec33","https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=92546&PostingSeq=1","Registered Nurse, night shift","","Annandale, MN, US","2026-02-28","fulltime","direct_data","hourly",39.0,58.0,"USD",False,"","","","careers@state.mn.us, kayla.evenson@state.mn.us, kayla.evenson@state.mn.us, Accommodations.DCT@state.mn.us, kayla.evenson@state.mn.us, careers@state.mn.us","**Job Details**
 ---------------
 
 **Working Title: Registered Nurse**  
@@ -2120,7 +1689,7 @@ This role supports Baylor Scott \\&amp; White’s mission by promoting patient s
 * Designated in Connect 700 Program for Applicants with Disabilities: Yes
 
 
-Direct Care \\&amp; Treatment (DCT) is unable to provide sponsorship for work visas. Applicants must be eligible to work in the United States at the start of employment. DCT does not participate in E\\-Verify.
+Direct Care \\& Treatment (DCT) is unable to provide sponsorship for work visas. Applicants must be eligible to work in the United States at the start of employment. DCT does not participate in E\\-Verify.
 
 ### **The work you'll do is more than just a job.**
 
@@ -2161,7 +1730,7 @@ REFERENCE/BACKGROUND CHECKS \\- The Department of Human Services will conduct re
 EDUCATION VERIFICATION \\- Applicants will be required to provide a copy of their high school diploma at time of interview OR copies of their college transcript or college degree/diploma at time of interview. Copies of the college degree/diploma are acceptable ONLY if it clearly identifies the field in which it was earned.
 
 
-Direct Care \\&amp; Treatment (DCT) healthcare facilities require employees to provide documentation that they are free from tuberculosis (TB) through a blood test prior to employment. DCT does not accept TB skin testing.
+Direct Care \\& Treatment (DCT) healthcare facilities require employees to provide documentation that they are free from tuberculosis (TB) through a blood test prior to employment. DCT does not accept TB skin testing.
 
 
 **Application Details**
@@ -2241,29 +1810,8 @@ All qualified applicants will receive consideration for employment without regar
 **APPLICANTS WITH DISABILITIES**
 
 
-Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the Careers Help Desk at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.
-🔗 Apply Direct: https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=92546&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a8f073c7af3cec33</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Annandale, MN, US</jobLocation>
-      <salaryMin>39</salaryMin>
-      <salaryMax>58</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse at nan</title>
-      <link>https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=92547&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">nan-Registered Nurse-Annandale, MN, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Annandale, MN, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 39 - 58 (hourly)
-
-📝 Description: **Job Details**
+Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the Careers Help Desk at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.","","","","","","","","","","","","","","",""
+"in-4b545c742db2ea52","indeed","https://www.indeed.com/viewjob?jk=4b545c742db2ea52","https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=92547&PostingSeq=1","Registered Nurse","","Annandale, MN, US","2026-02-28","fulltime","direct_data","hourly",39.0,58.0,"USD",False,"","","","careers@state.mn.us, kayla.evenson@state.mn.us, kayla.evenson@state.mn.us, Accommodations.DCT@state.mn.us, kayla.evenson@state.mn.us, careers@state.mn.us","**Job Details**
 ---------------
 
 **Working Title: Registered Nurse**  
@@ -2293,7 +1841,7 @@ Minnesota state agencies make reasonable accommodations to their employees and a
 * Designated in Connect 700 Program for Applicants with Disabilities: Yes
 
 
-Direct Care \\&amp; Treatment (DCT) is unable to provide sponsorship for work visas. Applicants must be eligible to work in the United States at the start of employment. DCT does not participate in E\\-Verify.
+Direct Care \\& Treatment (DCT) is unable to provide sponsorship for work visas. Applicants must be eligible to work in the United States at the start of employment. DCT does not participate in E\\-Verify.
 
 ### **The work you'll do is more than just a job.**
 
@@ -2334,7 +1882,7 @@ REFERENCE/BACKGROUND CHECKS \\- The Department of Human Services will conduct re
 EDUCATION VERIFICATION \\- Applicants will be required to provide a copy of their high school diploma at time of interview OR copies of their college transcript or college degree/diploma at time of interview. Copies of the college degree/diploma are acceptable ONLY if it clearly identifies the field in which it was earned.
 
 
-Direct Care \\&amp; Treatment (DCT) healthcare facilities require employees to provide documentation that they are free from tuberculosis (TB) through a blood test prior to employment. DCT does not accept TB skin testing.
+Direct Care \\& Treatment (DCT) healthcare facilities require employees to provide documentation that they are free from tuberculosis (TB) through a blood test prior to employment. DCT does not accept TB skin testing.
 
 
 **Application Details**
@@ -2414,29 +1962,8 @@ All qualified applicants will receive consideration for employment without regar
 **APPLICANTS WITH DISABILITIES**
 
 
-Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the Careers Help Desk at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.
-🔗 Apply Direct: https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=92547&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4b545c742db2ea52</description>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Annandale, MN, US</jobLocation>
-      <salaryMin>39</salaryMin>
-      <salaryMax>58</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>RN - Registered Nurse / Intermittent / PRN at nan</title>
-      <link>https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=92540&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">nan-RN - Registered Nurse / Intermittent / PRN-Silver Bay, MN, US</guid>
-      <pubDate>Sat, 28 Feb 2026 09:23:41 +0000</pubDate>
-      <description>📍 Location: Silver Bay, MN, US
-💼 Type: Temporary, Fulltime
-🏠 Work: On-site
-💰 Salary: USD 39 - 58 (hourly)
-
-📝 Description: **Job Details**
+Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the Careers Help Desk at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.","","","","","","","","","","","","","","",""
+"in-f877b2de75652026","indeed","https://www.indeed.com/viewjob?jk=f877b2de75652026","https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1001&JobOpeningId=92540&PostingSeq=1","RN - Registered Nurse / Intermittent / PRN","","Silver Bay, MN, US","2026-02-28","temporary, fulltime","direct_data","hourly",39.0,58.0,"USD",False,"","","","careers@state.mn.us, pamela.melby@state.mn.us, patrice.langlee@state.mn.us, patrice.langlee@state.mn.us, careers@state.mn.us","**Job Details**
 ---------------
 
 **Working Title: RN \\- Registered Nurse / Intermittent / PRN**  
@@ -2586,17 +2113,4 @@ All qualified applicants will receive consideration for employment without regar
 **APPLICANTS WITH DISABILITIES**
 
 
-Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the Careers Help Desk at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.
-🔗 Apply Direct: https://careers.mn.gov/psp/mnjob/MNCAREERS/HRCR/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1001&amp;JobOpeningId=92540&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f877b2de75652026</description>
-      <jobType>Temporary, Fulltime</jobType>
-      <jobLocation>Silver Bay, MN, US</jobLocation>
-      <salaryMin>39</salaryMin>
-      <salaryMax>58</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-  </channel>
-</rss>
+Minnesota state agencies make reasonable accommodations to their employees and applicants with disabilities. If you have a disability and need assistance in searching or applying for jobs with the State of Minnesota, call the Careers Help Desk at 651\\-259\\-3637 or email careers@state.mn.us and let us know the support you need.","","","","","","","","","","","","","","",""
