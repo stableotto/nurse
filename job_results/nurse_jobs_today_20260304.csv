@@ -1,22 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Daily Nurse Jobs Feed</title>
-    <description>Daily feed of nursing jobs with direct company application links</description>
-    <link>https://github.com/your-username/your-repo</link>
-    <lastBuildDate>Wed, 04 Mar 2026 09:37:27 +0000</lastBuildDate>
-    <generator>Nurse Job Search Bot</generator>
-    <language>en-us</language>
-    <item>
-      <title>Staff Nurse-Ambulatory Care, Pediatric Primary Care Clinic at NYC Health + Hospitals</title>
-      <link>https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=132778&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">NYC Health + Hospitals-Staff Nurse-Ambulatory Care, Pediatric Primary Care Clinic-New York, NY, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: New York, NY, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **About NYC Health \\+ Hospitals**
+"id","site","job_board_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type","job_url"
+"in-1f37bc63efd9ba48","indeed","https://www.indeed.com/viewjob?jk=1f37bc63efd9ba48","https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=132778&PostingSeq=1","Staff Nurse-Ambulatory Care, Pediatric Primary Care Clinic","NYC Health + Hospitals","New York, NY, US","2026-03-04","fulltime","","yearly","","","USD",False,"","","","","**About NYC Health \\+ Hospitals**
 ---------------------------------
 
   
@@ -40,7 +23,7 @@ At NYC Health \\+ Hospitals, our mission is to deliver high quality care health 
 
   
 
-**Duties \\&amp; Responsibilities**
+**Duties \\& Responsibilities**
 ------------------------------
 
   
@@ -163,27 +146,8 @@ NYC Health and Hospitals offers a competitive benefits package that includes:
   
 
 
-If you wish to apply for this position, please apply online by clicking the "Apply for Job" button.
-🔗 Apply Direct: https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=132778&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=1f37bc63efd9ba48</description>
-      <companyName>NYC Health + Hospitals</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>New York, NY, US</jobLocation>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Staff Nurse-Emergency Services, Adults at NYC Health + Hospitals</title>
-      <link>https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=132779&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">NYC Health + Hospitals-Staff Nurse-Emergency Services, Adults-New York, NY, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: New York, NY, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **About NYC Health \\+ Hospitals**
+If you wish to apply for this position, please apply online by clicking the ""Apply for Job"" button.","Health Care","https://www.indeed.com/cmp/Nyc-Health-Hospitals","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2a7e0ac7eac70bd3addbf14e8f17512c","https://www.nychealthandhospitals.org/","50 Water St. New York, NY 10004","1,001 to 5,000","$25M to $100M (USD)","We always put patients first! NYCHHC is committed to excellence in health care and the safety of people in the City of New York.","","","","","","",""
+"in-0d5b3c5f0117a256","indeed","https://www.indeed.com/viewjob?jk=0d5b3c5f0117a256","https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=132779&PostingSeq=1","Staff Nurse-Emergency Services, Adults","NYC Health + Hospitals","New York, NY, US","2026-03-04","fulltime","","yearly","","","USD",False,"","","","","**About NYC Health \\+ Hospitals**
 ---------------------------------
 
   
@@ -207,7 +171,7 @@ At NYC Health \\+ Hospitals, our mission is to deliver high quality care health 
 
   
 
-**Duties \\&amp; Responsibilities**
+**Duties \\& Responsibilities**
 ------------------------------
 
   
@@ -330,27 +294,8 @@ NYC Health and Hospitals offers a competitive benefits package that includes:
   
 
 
-If you wish to apply for this position, please apply online by clicking the "Apply for Job" button.
-🔗 Apply Direct: https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=132779&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=0d5b3c5f0117a256</description>
-      <companyName>NYC Health + Hospitals</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>New York, NY, US</jobLocation>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Staff Nurse-Emergency Services, Adults at NYC Health + Hospitals</title>
-      <link>https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=132780&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">NYC Health + Hospitals-Staff Nurse-Emergency Services, Adults-New York, NY, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: New York, NY, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **About NYC Health \\+ Hospitals**
+If you wish to apply for this position, please apply online by clicking the ""Apply for Job"" button.","Health Care","https://www.indeed.com/cmp/Nyc-Health-Hospitals","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2a7e0ac7eac70bd3addbf14e8f17512c","https://www.nychealthandhospitals.org/","50 Water St. New York, NY 10004","1,001 to 5,000","$25M to $100M (USD)","We always put patients first! NYCHHC is committed to excellence in health care and the safety of people in the City of New York.","","","","","","",""
+"in-f9e271ba7e115f90","indeed","https://www.indeed.com/viewjob?jk=f9e271ba7e115f90","https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=132780&PostingSeq=1","Staff Nurse-Emergency Services, Adults","NYC Health + Hospitals","New York, NY, US","2026-03-04","fulltime","","yearly","","","USD",False,"","","","","**About NYC Health \\+ Hospitals**
 ---------------------------------
 
   
@@ -374,7 +319,7 @@ At NYC Health \\+ Hospitals, our mission is to deliver high quality care health 
 
   
 
-**Duties \\&amp; Responsibilities**
+**Duties \\& Responsibilities**
 ------------------------------
 
   
@@ -497,27 +442,8 @@ NYC Health and Hospitals offers a competitive benefits package that includes:
   
 
 
-If you wish to apply for this position, please apply online by clicking the "Apply for Job" button.
-🔗 Apply Direct: https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=132780&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f9e271ba7e115f90</description>
-      <companyName>NYC Health + Hospitals</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>New York, NY, US</jobLocation>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Staff Nurse-Womens Health Services at NYC Health + Hospitals</title>
-      <link>https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=132679&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">NYC Health + Hospitals-Staff Nurse-Womens Health Services-New York, NY, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: New York, NY, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **About NYC Health \\+ Hospitals**
+If you wish to apply for this position, please apply online by clicking the ""Apply for Job"" button.","Health Care","https://www.indeed.com/cmp/Nyc-Health-Hospitals","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2a7e0ac7eac70bd3addbf14e8f17512c","https://www.nychealthandhospitals.org/","50 Water St. New York, NY 10004","1,001 to 5,000","$25M to $100M (USD)","We always put patients first! NYCHHC is committed to excellence in health care and the safety of people in the City of New York.","","","","","","",""
+"in-0cde486afc543fa1","indeed","https://www.indeed.com/viewjob?jk=0cde486afc543fa1","https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=132679&PostingSeq=1","Staff Nurse-Womens Health Services","NYC Health + Hospitals","New York, NY, US","2026-03-04","fulltime","","yearly","","","USD",False,"","","","","**About NYC Health \\+ Hospitals**
 ---------------------------------
 
   
@@ -536,10 +462,10 @@ At NYC Health \\+ Hospitals, our mission is to deliver high quality care health 
   
 
 
-**8:00 A.M – 6:00 P.M; Rotating Weekends \\&amp; Holidays. \\*\\[37\\.5 Hours per Week.]**
+**8:00 A.M – 6:00 P.M; Rotating Weekends \\& Holidays. \\*\\[37\\.5 Hours per Week.]**
 
 
-**Duties \\&amp; Responsibilities**
+**Duties \\& Responsibilities**
 ------------------------------
 
   
@@ -662,27 +588,8 @@ NYC Health and Hospitals offers a competitive benefits package that includes:
   
 
 
-If you wish to apply for this position, please apply online by clicking the "Apply for Job" button.
-🔗 Apply Direct: https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=132679&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=0cde486afc543fa1</description>
-      <companyName>NYC Health + Hospitals</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>New York, NY, US</jobLocation>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Staff Nurse-Medicine/Surgery at NYC Health + Hospitals</title>
-      <link>https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=132781&amp;PostingSeq=1</link>
-      <guid isPermaLink="false">NYC Health + Hospitals-Staff Nurse-Medicine/Surgery-New York, NY, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: New York, NY, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: **About NYC Health \\+ Hospitals**
+If you wish to apply for this position, please apply online by clicking the ""Apply for Job"" button.","Health Care","https://www.indeed.com/cmp/Nyc-Health-Hospitals","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2a7e0ac7eac70bd3addbf14e8f17512c","https://www.nychealthandhospitals.org/","50 Water St. New York, NY 10004","1,001 to 5,000","$25M to $100M (USD)","We always put patients first! NYCHHC is committed to excellence in health care and the safety of people in the City of New York.","","","","","","",""
+"in-cab2dfb1f757eff6","indeed","https://www.indeed.com/viewjob?jk=cab2dfb1f757eff6","https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=132781&PostingSeq=1","Staff Nurse-Medicine/Surgery","NYC Health + Hospitals","New York, NY, US","2026-03-04","fulltime","","yearly","","","USD",False,"","","","","**About NYC Health \\+ Hospitals**
 ---------------------------------
 
   
@@ -706,7 +613,7 @@ At NYC Health \\+ Hospitals, our mission is to deliver high quality care health 
 
   
 
-**Duties \\&amp; Responsibilities**
+**Duties \\& Responsibilities**
 ------------------------------
 
   
@@ -829,28 +736,8 @@ NYC Health and Hospitals offers a competitive benefits package that includes:
   
 
 
-If you wish to apply for this position, please apply online by clicking the "Apply for Job" button.
-🔗 Apply Direct: https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&amp;Action=U&amp;FOCUS=Applicant&amp;SiteId=1&amp;JobOpeningId=132781&amp;PostingSeq=1
-🔗 Job Board: https://www.indeed.com/viewjob?jk=cab2dfb1f757eff6</description>
-      <companyName>NYC Health + Hospitals</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>New York, NY, US</jobLocation>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>REGISTERED NURSE BEGINNING 2026 - 2027 SCHOOL YEAR at BUTLER COUNTY EDUCATIONAL SERVICE CENTER</title>
-      <link>https://www.SchoolSpring.com/jobdetail?jobId=5566411</link>
-      <guid isPermaLink="false">BUTLER COUNTY EDUCATIONAL SERVICE CENTER-REGISTERED NURSE BEGINNING 2026 - 2027 SCHOOL YEAR-Cincinnati, OH, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: Cincinnati, OH, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 28 - 31 (hourly)
-
-📝 Description: **Description:** Registered Nurse, .9375 FTE  
+If you wish to apply for this position, please apply online by clicking the ""Apply for Job"" button.","Health Care","https://www.indeed.com/cmp/Nyc-Health-Hospitals","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2a7e0ac7eac70bd3addbf14e8f17512c","https://www.nychealthandhospitals.org/","50 Water St. New York, NY 10004","1,001 to 5,000","$25M to $100M (USD)","We always put patients first! NYCHHC is committed to excellence in health care and the safety of people in the City of New York.","","","","","","",""
+"in-b7aafb5b0b895c89","indeed","https://www.indeed.com/viewjob?jk=b7aafb5b0b895c89","https://www.SchoolSpring.com/jobdetail?jobId=5566411","REGISTERED NURSE BEGINNING 2026 - 2027 SCHOOL YEAR","BUTLER COUNTY EDUCATIONAL SERVICE CENTER","Cincinnati, OH, US","2026-03-04","fulltime","direct_data","hourly",28.0,31.0,"USD",False,"","","","","**Description:** Registered Nurse, .9375 FTE  
 
   
 
@@ -885,7 +772,7 @@ Must exhibit professional behavior and sound judgment.
 
  Must possess demonstrated computer skills.  
 
- View an attachment for any special requirements and job description under "Apply/View Open Positions" at www.lakotaonline.com  
+ View an attachment for any special requirements and job description under ""Apply/View Open Positions"" at www.lakotaonline.com  
 
   
 
@@ -909,30 +796,9 @@ Applicants that are offered positions shall be required to submit to an FBI/BCII
 
   
 
-**EQUAL EMPLOYMENT OPPORTUNITY EMPLOYER**
-🔗 Apply Direct: https://www.SchoolSpring.com/jobdetail?jobId=5566411
-🔗 Job Board: https://www.indeed.com/viewjob?jk=b7aafb5b0b895c89</description>
-      <companyName>BUTLER COUNTY EDUCATIONAL SERVICE CENTER</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Cincinnati, OH, US</jobLocation>
-      <salaryMin>28</salaryMin>
-      <salaryMax>31</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>REGISTERED NURSE BEGINNING 2026 - 2027 SCHOOL YEAR at BUTLER COUNTY EDUCATIONAL SERVICE CENTER</title>
-      <link>https://www.SchoolSpring.com/jobdetail?jobId=5566410</link>
-      <guid isPermaLink="false">BUTLER COUNTY EDUCATIONAL SERVICE CENTER-REGISTERED NURSE BEGINNING 2026 - 2027 SCHOOL YEAR-West Chester, OH, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: West Chester, OH, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 28 - 31 (hourly)
-
-📝 Description: **Description:** Registered Nurse, .9375 FTE  
+**EQUAL EMPLOYMENT OPPORTUNITY EMPLOYER**","Education And Schools","https://www.indeed.com/cmp/Butler-County-Educational-Service-Center","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e6a01c1156e8cff3d3d10614152a6529","https://www.bcesc.org","400 N. Erie Blvd., Suite A
+Hamilton, OH 45011","501 to 1,000","$25M to $100M (USD)","By building positive relationships, we provide programs and services that promote achievement and improve the quality of life for families and children.","","","","","","",""
+"in-75d543c035b293a4","indeed","https://www.indeed.com/viewjob?jk=75d543c035b293a4","https://www.SchoolSpring.com/jobdetail?jobId=5566410","REGISTERED NURSE BEGINNING 2026 - 2027 SCHOOL YEAR","BUTLER COUNTY EDUCATIONAL SERVICE CENTER","West Chester, OH, US","2026-03-04","fulltime","direct_data","hourly",28.0,31.0,"USD",False,"","","","","**Description:** Registered Nurse, .9375 FTE  
 
   
 
@@ -967,7 +833,7 @@ Must exhibit professional behavior and sound judgment.
 
  Must possess demonstrated computer skills.  
 
- View an attachment for any special requirements and job description under "Apply/View Open Positions" at www.lakotaonline.com  
+ View an attachment for any special requirements and job description under ""Apply/View Open Positions"" at www.lakotaonline.com  
 
   
 
@@ -991,29 +857,9 @@ Applicants that are offered positions shall be required to submit to an FBI/BCII
 
   
 
-**EQUAL EMPLOYMENT OPPORTUNITY EMPLOYER**
-🔗 Apply Direct: https://www.SchoolSpring.com/jobdetail?jobId=5566410
-🔗 Job Board: https://www.indeed.com/viewjob?jk=75d543c035b293a4</description>
-      <companyName>BUTLER COUNTY EDUCATIONAL SERVICE CENTER</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>West Chester, OH, US</jobLocation>
-      <salaryMin>28</salaryMin>
-      <salaryMax>31</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>psych nurse manager at Yale New Haven Health</title>
-      <link>https://jobs.ynhhs.org/jobs/85782/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Yale New Haven Health-psych nurse manager-Bridgeport, CT, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: Bridgeport, CT, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Overview:
+**EQUAL EMPLOYMENT OPPORTUNITY EMPLOYER**","Education And Schools","https://www.indeed.com/cmp/Butler-County-Educational-Service-Center","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e6a01c1156e8cff3d3d10614152a6529","https://www.bcesc.org","400 N. Erie Blvd., Suite A
+Hamilton, OH 45011","501 to 1,000","$25M to $100M (USD)","By building positive relationships, we provide programs and services that promote achievement and improve the quality of life for families and children.","","","","","","",""
+"in-41fca6c6ccafbe48","indeed","https://www.indeed.com/viewjob?jk=41fca6c6ccafbe48","https://jobs.ynhhs.org/jobs/85782/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","psych nurse manager","Yale New Haven Health","Bridgeport, CT, US","2026-03-04","fulltime","","","","","",False,"","","","","Overview:
 
 To be part of our organization, every employee should understand and share in the YNHHS Vision, support our Mission, and live our Values. These values \\- integrity, patient\\-centered, respect, accountability, and compassion \\- must guide what we do, as individuals and professionals, every day.  
 
@@ -1059,32 +905,14 @@ Strong interpersonal and leadership skills, Good analytical ability to interpret
 
 PHYSICAL DEMAND  
 
-Requires prolonged standing; walking; use of sight, hearing and touch; moving/lifting patients of varying wieghts.
-🔗 Apply Direct: https://jobs.ynhhs.org/jobs/85782/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=41fca6c6ccafbe48</description>
-      <companyName>Yale New Haven Health</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Bridgeport, CT, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>LPN/RN (3pm-10pm) - Assisted Living - Bay Vista Commons at Martha &amp; Mary</title>
-      <link>https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fd93ab9a-463a-4547-a7ac-d355942993f3&amp;ccId=19000101_000001&amp;jobId=551477&amp;source=IN&amp;lang=en_US</link>
-      <guid isPermaLink="false">Martha &amp; Mary-LPN/RN (3pm-10pm) - Assisted Living - Bay Vista Commons-Bremerton, WA, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: Bremerton, WA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 30 - 39 (hourly)
-
-📝 Description: **Licensed Nurse (LPN or RN)\\- PM shift**
+Requires prolonged standing; walking; use of sight, hearing and touch; moving/lifting patients of varying wieghts.","Health Care","https://www.indeed.com/cmp/Yale-New-Haven-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2f87252241dcfa1553d8438c929ec06c","https://www.ynhhs.org/","789 Howard Avenue New Haven, CT 06519","10,000+","$100M to $500M (USD)","Yale New Haven Health enhances the lives of the people we serve by providing access to high value, patient-centered care in collaboration with those who share our values.","","","","","","",""
+"in-602f32c9662ef6a2","indeed","https://www.indeed.com/viewjob?jk=602f32c9662ef6a2","https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fd93ab9a-463a-4547-a7ac-d355942993f3&ccId=19000101_000001&jobId=551477&source=IN&lang=en_US","LPN/RN (3pm-10pm) - Assisted Living - Bay Vista Commons","Martha & Mary","Bremerton, WA, US","2026-03-04","fulltime","direct_data","hourly",30.0,39.0,"USD",False,"","","","","**Licensed Nurse (LPN or RN)\\- PM shift**
 
 **Assisted Living \\-****Bay Vista Commons**
 
 **Bremerton, Washington**
 
-### **Martha \\&amp; Mary is a faith\\-based, not\\-for\\-profit organization committed to providing compassionate care and services to seniors in our assisted living community. We are looking for a dedicated Licensed Nurse to join our team, bringing clinical expertise and a heart for service to enhance the well\\-being of our residents.**
+### **Martha \\& Mary is a faith\\-based, not\\-for\\-profit organization committed to providing compassionate care and services to seniors in our assisted living community. We are looking for a dedicated Licensed Nurse to join our team, bringing clinical expertise and a heart for service to enhance the well\\-being of our residents.**
 
 
 As a Licensed Nurse in our Assisted Living facility, you will collaborate closely with our Director of Nursing, Assistant Director of Nursing, and other key staff to ensure the highest standards of resident care. This role involves a blend of hands\\-on nursing care, staff support, and administrative duties, including monitoring resident health, coordinating with healthcare providers, and ensuring compliance with state regulations.
@@ -1114,7 +942,7 @@ As a Licensed Nurse in our Assisted Living facility, you will collaborate closel
 	+ Experience with dementia care is an advantage.
 * **Licensure:** Must hold an unencumbered Washington State Nursing License (LPN or RN)
 
-**Skills \\&amp; Abilities:**
+**Skills \\& Abilities:**
 
 * Strong organizational skills with attention to detail and independent judgment.
 * Exceptional communication and interpersonal skills, with a focus on customer service and teamwork.
@@ -1133,10 +961,10 @@ As a Licensed Nurse in our Assisted Living facility, you will collaborate closel
 **Benefits**
 
 
-Martha \\&amp; Mary offers competitive wages, an array of benefits and supportive work environments, where we become friends and family. We invite you to apply and become a part of one of Kitsap County's largest not\\-for profit employers, voted **Best Senior Care** in Kitsap County and in the **TOP 3 BEST NURSING HO****MES** in Washington State (source Newsweek 2021, 2022 and 2023\\).
+Martha \\& Mary offers competitive wages, an array of benefits and supportive work environments, where we become friends and family. We invite you to apply and become a part of one of Kitsap County's largest not\\-for profit employers, voted **Best Senior Care** in Kitsap County and in the **TOP 3 BEST NURSING HO****MES** in Washington State (source Newsweek 2021, 2022 and 2023\\).
  
 
-**The following benefits/compensation are offered at Martha \\&amp; Mary.**
+**The following benefits/compensation are offered at Martha \\& Mary.**
 
 * Paid Time Off (PTO) is accrued at varying rates depending on length of employment. Accrual rates begin at 5\\.32 hours per month based on a 40\\-hour workweek. These accruals include the required sick leave per Washington State’s Paid Sick Leave Law
 * 40% discount on child care services while working
@@ -1148,7 +976,7 @@ Martha \\&amp; Mary offers competitive wages, an array of benefits and supportiv
 * Cell phone, Health Club and Auto service discounts
 * And much more
 
-**Martha \\&amp; Mary employee benefits and wages offered are reviewed annually and are intended to be fair, beneficial and competitive in today’s market whether just entering our workforce or nearing retirement. Benefit offerings are based on employment status.** **Salary ranges, benefits and other compensation are subject to change.**
+**Martha \\& Mary employee benefits and wages offered are reviewed annually and are intended to be fair, beneficial and competitive in today’s market whether just entering our workforce or nearing retirement. Benefit offerings are based on employment status.** **Salary ranges, benefits and other compensation are subject to change.**
 
 **We are looking for a LPN or RN with the following strengths:**
 
@@ -1167,7 +995,7 @@ Martha \\&amp; Mary offers competitive wages, an array of benefits and supportiv
 **About our organization**
 
 
-We offer competitive pay and a supportive environment, where we become friends and family. Martha \\&amp; Mary Health Services provides quality care and services to those in need of short\\-term care, long\\-term care, memory care, respite and end\\-of\\-life care. We invite you to join our team and see what makes Martha \\&amp; Mary so amazing!
+We offer competitive pay and a supportive environment, where we become friends and family. Martha \\& Mary Health Services provides quality care and services to those in need of short\\-term care, long\\-term care, memory care, respite and end\\-of\\-life care. We invite you to join our team and see what makes Martha \\& Mary so amazing!
 
 
 The work of a nurse is rewarding in itself. Where you work can make all the difference. Join our team today!
@@ -1178,84 +1006,19 @@ Martha and Mary has been caring for children, seniors and families in Greater Ki
 
 Employment is contingent upon satisfactory background and reference checks.
 
-**Martha \\&amp; Mary** is proud to be an equal opportunity employer, dedicated to a policy of non\\-discrimination in employment on any basis including race, color, age, sex, religion, national origin, the presence of any mental, physical, or sensory disability, sexual orientation, or any other status protected by federal, state, or local law.
-🔗 Apply Direct: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fd93ab9a-463a-4547-a7ac-d355942993f3&amp;ccId=19000101_000001&amp;jobId=551477&amp;source=IN&amp;lang=en_US
-🔗 Job Board: https://www.indeed.com/viewjob?jk=602f32c9662ef6a2</description>
-      <companyName>Martha &amp; Mary</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Bremerton, WA, US</jobLocation>
-      <salaryMin>30</salaryMin>
-      <salaryMax>39</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Staff Nurse RN - Telemetry at San Antonio Regional Hospital</title>
-      <link>https://careers-sarh.icims.com/jobs/15528/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">San Antonio Regional Hospital-Staff Nurse RN - Telemetry-Upland, CA, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: Upland, CA, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 47 - 71 (hourly)
-
-📝 Description: Overview:
+**Martha \\& Mary** is proud to be an equal opportunity employer, dedicated to a policy of non\\-discrimination in employment on any basis including race, color, age, sex, religion, national origin, the presence of any mental, physical, or sensory disability, sexual orientation, or any other status protected by federal, state, or local law.","","https://www.indeed.com/cmp/Martha-&-Mary-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e115a7573327baad38aa8f41ea4ea0f1","https://www.marthaandmary.org/","19160 Front St. NE
+Poulsbo, WA 98370","201 to 500","","For 130 years, Martha & Mary has been caring for children, seniors and families in the West Sound Community. We are your trusted care partner.","","","","","","",""
+"in-a2b771a7cade03b0","indeed","https://www.indeed.com/viewjob?jk=a2b771a7cade03b0","https://careers-sarh.icims.com/jobs/15528/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Staff Nurse RN - Telemetry","San Antonio Regional Hospital","Upland, CA, US","2026-03-04","perdiem","direct_data","hourly",47.0,71.0,"USD",False,"","","","","Overview:
 **JOB SUMMARY**
 The role encompasses the management of critical care patient care through implementation of the nursing process, supervision of licensed and unlicensed personnel, and coordination of interdisciplinary care. **MINIMUM QUALIFICATIONS** **Education:** See License and Certifications. **Experience:** None. **Knowledge and Skills**: Able to work in a fast\\-paced environment; manage/prioritize/delegate patient care, and complete work assignments and other duties as assigned. Able to communicate effectively in English both orally and in writing.  
 
-**License and Certifications**: Current nursing license, state of California and current American Heart Association (AHA) BLS and ACLS required. Basic Arrhythmia, Basic 12\\-lead EKG, and a Critical Care course are required within 6 months of hire. **Equipment:** None. **Physical Requirements**: Must be able to perform the essential physical job requirements. **PAY RANGE**$47\\.90 \\- $71\\.84 ***The posted pay range reflects the lowest to highest pay that was available for this position at the time of posting and may be subject to change. Salary offers are determined by candidate’s relevant experience and skills. For per diem positions, a standard rate is used based on market data and not the candidate’s individual experience.***
-🔗 Apply Direct: https://careers-sarh.icims.com/jobs/15528/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a2b771a7cade03b0</description>
-      <companyName>San Antonio Regional Hospital</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Upland, CA, US</jobLocation>
-      <salaryMin>47</salaryMin>
-      <salaryMax>71</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Staff Nurse RN - Telemetry at San Antonio Regional Hospital</title>
-      <link>https://careers-sarh.icims.com/jobs/15527/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">San Antonio Regional Hospital-Staff Nurse RN - Telemetry-Upland, CA, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: Upland, CA, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 47 - 71 (hourly)
-
-📝 Description: Overview:
+**License and Certifications**: Current nursing license, state of California and current American Heart Association (AHA) BLS and ACLS required. Basic Arrhythmia, Basic 12\\-lead EKG, and a Critical Care course are required within 6 months of hire. **Equipment:** None. **Physical Requirements**: Must be able to perform the essential physical job requirements. **PAY RANGE**$47\\.90 \\- $71\\.84 ***The posted pay range reflects the lowest to highest pay that was available for this position at the time of posting and may be subject to change. Salary offers are determined by candidate’s relevant experience and skills. For per diem positions, a standard rate is used based on market data and not the candidate’s individual experience.***","Health Care","https://www.indeed.com/cmp/SAN-Antonio-Regional-Hospital","","https://www.sarh.org","Upland, CA","1,001 to 5,000","$100M to $500M (USD)","","","","","","","",""
+"in-a509809dc5bd12c6","indeed","https://www.indeed.com/viewjob?jk=a509809dc5bd12c6","https://careers-sarh.icims.com/jobs/15527/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Staff Nurse RN - Telemetry","San Antonio Regional Hospital","Upland, CA, US","2026-03-04","perdiem","direct_data","hourly",47.0,71.0,"USD",False,"","","","","Overview:
 **JOB SUMMARY**
 The role encompasses the management of critical care patient care through implementation of the nursing process, supervision of licensed and unlicensed personnel, and coordination of interdisciplinary care. **MINIMUM QUALIFICATIONS** **Education:** See License and Certifications. **Experience:** None. **Knowledge and Skills**: Able to work in a fast\\-paced environment; manage/prioritize/delegate patient care, and complete work assignments and other duties as assigned. Able to communicate effectively in English both orally and in writing.  
 
-**License and Certifications**: Current nursing license, state of California and current American Heart Association (AHA) BLS and ACLS required. Basic Arrhythmia, Basic 12\\-lead EKG, and a Critical Care course are required within 6 months of hire. **Equipment:** None. **Physical Requirements**: Must be able to perform the essential physical job requirements. **PAY RANGE**$47\\.90 \\- $71\\.84 ***The posted pay range reflects the lowest to highest pay that was available for this position at the time of posting and may be subject to change. Salary offers are determined by candidate’s relevant experience and skills. For per diem positions, a standard rate is used based on market data and not the candidate’s individual experience.***
-🔗 Apply Direct: https://careers-sarh.icims.com/jobs/15527/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a509809dc5bd12c6</description>
-      <companyName>San Antonio Regional Hospital</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Upland, CA, US</jobLocation>
-      <salaryMin>47</salaryMin>
-      <salaryMax>71</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse, ED at Community Memorial Healthcare</title>
-      <link>https://careers-mycmh.icims.com/jobs/11526/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Community Memorial Healthcare-Registered Nurse, ED-Ventura, CA, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: Ventura, CA, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 50 - 75 (hourly)
-
-📝 Description: Compensation:
+**License and Certifications**: Current nursing license, state of California and current American Heart Association (AHA) BLS and ACLS required. Basic Arrhythmia, Basic 12\\-lead EKG, and a Critical Care course are required within 6 months of hire. **Equipment:** None. **Physical Requirements**: Must be able to perform the essential physical job requirements. **PAY RANGE**$47\\.90 \\- $71\\.84 ***The posted pay range reflects the lowest to highest pay that was available for this position at the time of posting and may be subject to change. Salary offers are determined by candidate’s relevant experience and skills. For per diem positions, a standard rate is used based on market data and not the candidate’s individual experience.***","Health Care","https://www.indeed.com/cmp/SAN-Antonio-Regional-Hospital","","https://www.sarh.org","Upland, CA","1,001 to 5,000","$100M to $500M (USD)","","","","","","","",""
+"in-fbaa6a09c071d54b","indeed","https://www.indeed.com/viewjob?jk=fbaa6a09c071d54b","https://careers-mycmh.icims.com/jobs/11526/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse, ED","Community Memorial Healthcare","Ventura, CA, US","2026-03-04","fulltime","direct_data","hourly",50.0,75.0,"USD",False,"","","","","Compensation:
 ***Salary Range: $50\\.00 \\- $75\\.44 per hour***
 
  *The pay range above represents the lowest possible rate for the position and the highest possible rate. Factors that may be used to determine where newly hired employees will be placed in the pay range include the employee specific skills and qualifications, relevant years of experience and comparison to other employees already in this role. Most often, a newly hired employee will be placed below the midpoint of the range. If you are viewing this posting on a job site, please visit our company page and search for the opportunity to view the pay range:* *https://careers\\-mycmh.icims.com/jobs*
@@ -1278,7 +1041,7 @@ Qualifications: **Required:*** Current CA Registered Nurse License
 * Certified Emergency Nurse (CEN)
 * Bachelors of Science Degree in Nursing (BSN)
 * Previous ER experience, and/or Six (6\\) months acute care experience
-* Knowledge of Det Norske Veritas (DNV) \\&amp; College of American Pathologist (CAP) Requirements
+* Knowledge of Det Norske Veritas (DNV) \\& College of American Pathologist (CAP) Requirements
 
 
 Overview:
@@ -1286,7 +1049,7 @@ Overview:
 
 Community Memorial Health System was established in 2005 when Community Memorial Hospital in Ventura merged with Ojai Valley Community Hospital. It is comprised of these two hospitals along with a network of primary and specialty care health centers serving various communities across west Ventura County. Our health system is a community\\-owned, not\\-for\\-profit organization. As such, we are not backed by a corporate or government entity, nor do we answer to shareholders. We depend on – and answer to – the communities we serve.  
 
-Community Memorial Hospital – Ventura has been awarded a prestigious five\\-star rating by the Centers for Medicare \\&amp; Medicaid Services (CMS)! This achievement represents thousands of people going the extra mile every day for our patients, and we are the ONLY hospital in Ventura County to earn this distinction!  
+Community Memorial Hospital – Ventura has been awarded a prestigious five\\-star rating by the Centers for Medicare \\& Medicaid Services (CMS)! This achievement represents thousands of people going the extra mile every day for our patients, and we are the ONLY hospital in Ventura County to earn this distinction!  
 
 **Community Memorial Healthcare Benefits**
 To help heal, comfort, and promote health for the communities we serve, Community Memorial Healthcare takes care of our community of employees so our local community can be cared for. That’s why we provide competitive benefits, along with great career choices, training, and leadership development. Our total rewards package provides benefits that support you and your family’s health and wellness in all aspects of life. From our top tier insurance plans to our employee assistance program, take advantage of what CMH has to offer so you and your loved ones can have peace of mind now and for years to come. CMH is here for you and your family every step of the way.  
@@ -1296,52 +1059,30 @@ To help heal, comfort, and promote health for the communities we serve, Communit
 * In\\-House Registry Rates
 * Fidelity 403(b) Retirement Plan
 * Paid Time Off
-* Medical (EPO/PPO), Dental, \\&amp; Vision Insurance Coverage
+* Medical (EPO/PPO), Dental, \\& Vision Insurance Coverage
 * Voluntary Worksite Benefits
 * Employee Assistance Program Available 24/7 (EAP)
 * Tuition Reimbursement
 * Public Service Loan Forgiveness (PSLF)
 * Recognition programs
 * Employee service recognition events
-* Home, Retail, Travel \\&amp; Entertainment Discounts
+* Home, Retail, Travel \\& Entertainment Discounts
 * National Hospital Week and National Nurses Week celebrations
 
- *Community Memorial Healthcare is an equal opportunity employer to all, regardless of age, ancestry, color, disability (mental and physical), exercising the right to family care and medical leave, gender, gender expression, gender identity, genetic information, marital status, medical condition, military or veteran status, national origin, political affiliation, race, religious creed, sex (includes pregnancy, childbirth, breastfeeding and related medical conditions), and sexual orientation. We strive to promote an environment where exceptional people bring diverse perspectives and find belonging, support and connection to their work in our community.***“We are an AA/EEO/Veterans/Disabled Employer”**
-🔗 Apply Direct: https://careers-mycmh.icims.com/jobs/11526/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=fbaa6a09c071d54b</description>
-      <companyName>Community Memorial Healthcare</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Ventura, CA, US</jobLocation>
-      <salaryMin>50</salaryMin>
-      <salaryMax>75</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Director of Nursing DON at Restore Health Rehabilitation Center</title>
-      <link>https://restorerehabilitationcenter-careers-fundltc.icims.com/jobs/5401/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Restore Health Rehabilitation Center-Director of Nursing DON-White Plains, MD, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: White Plains, MD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 130,000 - 140,000 (yearly)
-
-📝 Description: Position Summary:
+ *Community Memorial Healthcare is an equal opportunity employer to all, regardless of age, ancestry, color, disability (mental and physical), exercising the right to family care and medical leave, gender, gender expression, gender identity, genetic information, marital status, medical condition, military or veteran status, national origin, political affiliation, race, religious creed, sex (includes pregnancy, childbirth, breastfeeding and related medical conditions), and sexual orientation. We strive to promote an environment where exceptional people bring diverse perspectives and find belonging, support and connection to their work in our community.***“We are an AA/EEO/Veterans/Disabled Employer”**","Health Care","https://www.indeed.com/cmp/Community-Memorial-Healthcare-2","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2a3f49319a50407773821717ad945150","https://www.mycmh.org/careers/","147 N Brent Street, Ventura, CA 93003","1,001 to 5,000","$5M to $25M (USD)","To heal, comfort, and promote health in the communities we serve.","","","","","","",""
+"in-3faff3620fff2f0f","indeed","https://www.indeed.com/viewjob?jk=3faff3620fff2f0f","https://restorerehabilitationcenter-careers-fundltc.icims.com/jobs/5401/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Director of Nursing DON","Restore Health Rehabilitation Center","White Plains, MD, US","2026-03-04","fulltime","direct_data","yearly",130000.0,140000.0,"USD",False,"","","","","Position Summary:
 
 As Director of Nursing (DON) , you will be responsible for the overall quality clinical outcomes of the community. Priority one will be quality care, customer service and employee relations. In addition, regulatory management, attracting and retaining top performing talented team members as well as the supervision and career coaching of existing team members on staff.  
 
 We are looking for an experience Director of Nursing (DON) to lead our facility’s care\\-giving team. The successful DON will be responsible for managing all aspects of nursing care for the community. Must value safety, security and patient wellness above all else. We strive to provide the best care possible while ensuring patient satisfaction in every interaction. The Director of Nursing is responsible for making sure those values are reflected in their staff at all times.  
 
 Full\\-time benefits start on the first day of the month following your start date!
-Posted Salary Range: USD $130,000\\.00 \\- USD $140,000\\.00 /Yr. Wage Commensuration: The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including, but not limited to, skill sets, experience, education and training, licensure and certifications, and other business and organizational needs. Duties \\&amp; Responsibilities:
+Posted Salary Range: USD $130,000\\.00 \\- USD $140,000\\.00 /Yr. Wage Commensuration: The wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including, but not limited to, skill sets, experience, education and training, licensure and certifications, and other business and organizational needs. Duties \\& Responsibilities:
 * Supports practices, philosophy, nursing objectives and standards of the Nursing Department and participates in the revision of the aforementioned items as necessary to ensure quality care to all patients/residents.
 * Ensures Implementation of a patient/resident care planning process in compliance with patient/resident needs, facility policies and procedures and regulatory requirements.
 
 
-Qualifications \\&amp; Requirements:
+Qualifications \\& Requirements:
 * Ideal candidate must be a skilled communicator, director and motivator.
 * Able to organize and prioritize many tasks effectively.
 * Desire to enrich resident and staff’s lives.
@@ -1358,7 +1099,7 @@ Qualifications \\&amp; Requirements:
 Benefits:
 
 All of our employees are valued and receive a competitive wage; full time team members are also offered a comprehensive benefit package which includes:* Medical, Dental, Vision, Life and Disability Insurance/ Flexible Spending Accounts
-* Tuition Reimbursement \\&amp; Nursing Loan Repayment Programs
+* Tuition Reimbursement \\& Nursing Loan Repayment Programs
 * PerkSpot \\- Local Deals and Weekly Perks Program
 * 401(k)
 * Paid Time Off Plan
@@ -1374,30 +1115,9 @@ All of our employees are valued and receive a competitive wage; full time team m
 
 EOE Statement:
 
-Drug Free, Smoke\\-Free work place. Equal Opportunity Employer, including disability/vets
-🔗 Apply Direct: https://restorerehabilitationcenter-careers-fundltc.icims.com/jobs/5401/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=3faff3620fff2f0f</description>
-      <companyName>Restore Health Rehabilitation Center</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>White Plains, MD, US</jobLocation>
-      <salaryMin>130000</salaryMin>
-      <salaryMax>140000</salaryMax>
-      <salarySchedule>yearly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse, RN at Genesis Healthcare</title>
-      <link>https://www.genesiscareers.jobs/genesishcc/jobs/43005/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Genesis Healthcare-Registered Nurse, RN-Seaford, DE, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: Seaford, DE, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 42 - 45 (hourly)
-
-📝 Description: Overview:
+Drug Free, Smoke\\-Free work place. Equal Opportunity Employer, including disability/vets","Health Care","https://www.indeed.com/cmp/Restore-Health-Rehabilitation-Center","","http://www.restorerehabilitationcenter.com/","4615 Einstein Place
+White Plains, MD 20695","","","Restore Health and Rehabilitation Center is a 67-bed skilled nursing facility located in White Plains, Maryland.","","","","","","",""
+"in-f76797ff8658d1d6","indeed","https://www.indeed.com/viewjob?jk=f76797ff8658d1d6","https://www.genesiscareers.jobs/genesishcc/jobs/43005/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse, RN","Genesis Healthcare","Seaford, DE, US","2026-03-04","parttime","direct_data","hourly",42.0,45.0,"USD",False,"","","","","Overview:
 **\\*\\*\\*Exciting new wages are here — come join our team!\\*\\*\\*** **We are pleased to announce a retention bonus for Registered Nurses. Eligible full\\-time RNs may receive $15,000, and eligible part\\-time RNs may receive $7,500\\.**  
 
 
@@ -1444,30 +1164,8 @@ We also offer several voluntary insurances such as:
   
 
 Restrictions apply based on collective bargaining agreements, applicable state law and factors such as pay classification, job grade, location, and length of service.
-Posted Salary Range: USD $42\\.00 \\- USD $45\\.00 /Hr.
-🔗 Apply Direct: https://www.genesiscareers.jobs/genesishcc/jobs/43005/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=f76797ff8658d1d6</description>
-      <companyName>Genesis Healthcare</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Seaford, DE, US</jobLocation>
-      <salaryMin>42</salaryMin>
-      <salaryMax>45</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse - LPN at Genesis Healthcare</title>
-      <link>https://www.genesiscareers.jobs/genesishcc/jobs/42999/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Genesis Healthcare-Licensed Practical Nurse - LPN-Seaford, DE, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: Seaford, DE, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 30 - 33 (hourly)
-
-📝 Description: Overview:
+Posted Salary Range: USD $42\\.00 \\- USD $45\\.00 /Hr.","Health Care","https://www.indeed.com/cmp/Genesis-Healthcare-6","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26754bcd7f4553315c065858e0744ed5","http://www.genesishcc.com/","101 E. State St., Kennett Square, PA","10,000+","","Our mission is to improve the lives we touch through the delivery of high quality healthcare and everyday compassion.","","","","","","",""
+"in-d33a5c8bb8db20f1","indeed","https://www.indeed.com/viewjob?jk=d33a5c8bb8db20f1","https://www.genesiscareers.jobs/genesishcc/jobs/42999/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Licensed Practical Nurse - LPN","Genesis Healthcare","Seaford, DE, US","2026-03-04","parttime","direct_data","hourly",30.0,33.0,"USD",False,"","","","","Overview:
 **\\*\\*\\*Exciting new wages are here — come join our team!\\*\\*\\*** **We are pleased to announce a retention bonus for LPN'S. Eligible full\\-time LPN'S may receive $10,000, and eligible part\\-time LPN'S may receive $5,000\\.**  
 
 
@@ -1508,30 +1206,8 @@ We also offer several voluntary insurances such as:
   
 
 Restrictions apply based on collective bargaining agreements, applicable state law and factors such as pay classification, job grade, location, and length of service.
-Posted Salary Range: USD $30\\.00 \\- USD $33\\.00 /Hr.
-🔗 Apply Direct: https://www.genesiscareers.jobs/genesishcc/jobs/42999/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=d33a5c8bb8db20f1</description>
-      <companyName>Genesis Healthcare</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Seaford, DE, US</jobLocation>
-      <salaryMin>30</salaryMin>
-      <salaryMax>33</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Unit Manager, RN at Genesis Healthcare</title>
-      <link>https://www.genesiscareers.jobs/genesishcc/jobs/42995/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Genesis Healthcare-Unit Manager, RN-Waldorf, MD, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: Waldorf, MD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 45 - 50 (hourly)
-
-📝 Description: Overview:
+Posted Salary Range: USD $30\\.00 \\- USD $33\\.00 /Hr.","Health Care","https://www.indeed.com/cmp/Genesis-Healthcare-6","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26754bcd7f4553315c065858e0744ed5","http://www.genesishcc.com/","101 E. State St., Kennett Square, PA","10,000+","","Our mission is to improve the lives we touch through the delivery of high quality healthcare and everyday compassion.","","","","","","",""
+"in-e3357ec36b0f7ef0","indeed","https://www.indeed.com/viewjob?jk=e3357ec36b0f7ef0","https://www.genesiscareers.jobs/genesishcc/jobs/42995/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Unit Manager, RN","Genesis Healthcare","Waldorf, MD, US","2026-03-04","fulltime","direct_data","hourly",45.0,50.0,"USD",False,"","","","","Overview:
 At Genesis Healthcare, we are dedicated to improving the lives we touch through the delivery of high\\-quality care and exceptional service. As a leading provider in the long\\-term care industry, we believe in fostering a collaborative, inclusive and supportive work environment where every team member is valued and empowered to make a difference. Whether you're an experienced professional or just starting your career, we offer opportunities for growth, development, and advancement in a range of roles. Join us in our mission to enhance the well\\-being of our patients and residents while making a meaningful impact in the communities we serve.
 Responsibilities:
 
@@ -1572,30 +1248,8 @@ We also offer several voluntary insurances such as:
   
 
 Restrictions apply based on collective bargaining agreements, applicable state law and factors such as pay classification, job grade, location, and length of service.
-Posted Salary Range: USD $45\\.00 \\- USD $50\\.00 /Hr.
-🔗 Apply Direct: https://www.genesiscareers.jobs/genesishcc/jobs/42995/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=e3357ec36b0f7ef0</description>
-      <companyName>Genesis Healthcare</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Waldorf, MD, US</jobLocation>
-      <salaryMin>45</salaryMin>
-      <salaryMax>50</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse, RN at Genesis Healthcare</title>
-      <link>https://www.genesiscareers.jobs/genesishcc/jobs/42994/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Genesis Healthcare-Registered Nurse, RN-Lanham, MD, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: Lanham, MD, US
-💼 Type: Parttime
-🏠 Work: On-site
-💰 Salary: USD 43 - 46 (hourly)
-
-📝 Description: Overview:
+Posted Salary Range: USD $45\\.00 \\- USD $50\\.00 /Hr.","Health Care","https://www.indeed.com/cmp/Genesis-Healthcare-6","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26754bcd7f4553315c065858e0744ed5","http://www.genesishcc.com/","101 E. State St., Kennett Square, PA","10,000+","","Our mission is to improve the lives we touch through the delivery of high quality healthcare and everyday compassion.","","","","","","",""
+"in-08419d5877d761b1","indeed","https://www.indeed.com/viewjob?jk=08419d5877d761b1","https://www.genesiscareers.jobs/genesishcc/jobs/42994/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse, RN","Genesis Healthcare","Lanham, MD, US","2026-03-04","parttime","direct_data","hourly",43.0,46.0,"USD",False,"","","","","Overview:
 **\\*\\*\\*Exciting new wages are here — come join our team!\\*\\*\\***  
 
 
@@ -1642,30 +1296,8 @@ We also offer several voluntary insurances such as:
   
 
 Restrictions apply based on collective bargaining agreements, applicable state law and factors such as pay classification, job grade, location, and length of service.
-Posted Salary Range: USD $43\\.00 \\- USD $46\\.00 /Hr.
-🔗 Apply Direct: https://www.genesiscareers.jobs/genesishcc/jobs/42994/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=08419d5877d761b1</description>
-      <companyName>Genesis Healthcare</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Lanham, MD, US</jobLocation>
-      <salaryMin>43</salaryMin>
-      <salaryMax>46</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse, RN at Genesis Healthcare</title>
-      <link>https://www.genesiscareers.jobs/genesishcc/jobs/43001/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Genesis Healthcare-Registered Nurse, RN-Lanham, MD, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: Lanham, MD, US
-💼 Type: Perdiem
-🏠 Work: On-site
-💰 Salary: USD 43 - 46 (hourly)
-
-📝 Description: Overview:
+Posted Salary Range: USD $43\\.00 \\- USD $46\\.00 /Hr.","Health Care","https://www.indeed.com/cmp/Genesis-Healthcare-6","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26754bcd7f4553315c065858e0744ed5","http://www.genesishcc.com/","101 E. State St., Kennett Square, PA","10,000+","","Our mission is to improve the lives we touch through the delivery of high quality healthcare and everyday compassion.","","","","","","",""
+"in-c2bbe06124d83a10","indeed","https://www.indeed.com/viewjob?jk=c2bbe06124d83a10","https://www.genesiscareers.jobs/genesishcc/jobs/43001/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse, RN","Genesis Healthcare","Lanham, MD, US","2026-03-04","perdiem","direct_data","hourly",43.0,46.0,"USD",False,"","","","","Overview:
 **\\*\\*\\*Exciting new wages are here — come join our team!\\*\\*\\***  
 
 
@@ -1712,30 +1344,8 @@ We also offer several voluntary insurances such as:
   
 
 Restrictions apply based on collective bargaining agreements, applicable state law and factors such as pay classification, job grade, location, and length of service.
-Posted Salary Range: USD $43\\.00 \\- USD $46\\.00 /Hr.
-🔗 Apply Direct: https://www.genesiscareers.jobs/genesishcc/jobs/43001/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c2bbe06124d83a10</description>
-      <companyName>Genesis Healthcare</companyName>
-      <jobType>Perdiem</jobType>
-      <jobLocation>Lanham, MD, US</jobLocation>
-      <salaryMin>43</salaryMin>
-      <salaryMax>46</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse, RN at Genesis Healthcare</title>
-      <link>https://www.genesiscareers.jobs/genesishcc/jobs/43004/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Genesis Healthcare-Registered Nurse, RN-Milford, DE, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: Milford, DE, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 42 - 45 (hourly)
-
-📝 Description: Overview:
+Posted Salary Range: USD $43\\.00 \\- USD $46\\.00 /Hr.","Health Care","https://www.indeed.com/cmp/Genesis-Healthcare-6","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26754bcd7f4553315c065858e0744ed5","http://www.genesishcc.com/","101 E. State St., Kennett Square, PA","10,000+","","Our mission is to improve the lives we touch through the delivery of high quality healthcare and everyday compassion.","","","","","","",""
+"in-c8712750d0b94d9f","indeed","https://www.indeed.com/viewjob?jk=c8712750d0b94d9f","https://www.genesiscareers.jobs/genesishcc/jobs/43004/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse, RN","Genesis Healthcare","Milford, DE, US","2026-03-04","fulltime","direct_data","hourly",42.0,45.0,"USD",False,"","","","","Overview:
 **\\*\\*\\*Exciting new wages are here — come join our team!\\*\\*\\*** **We are pleased to announce a retention bonus for Registered Nurses. Eligible full\\-time RNs may receive $15,000, and eligible part\\-time RNs may receive $7,500\\.**
 At Genesis Healthcare, we are dedicated to improving the lives we touch through the delivery of high\\-quality care and exceptional service. As a leading provider in the long\\-term care industry, we believe in fostering a collaborative, inclusive and supportive work environment where every team member is valued and empowered to make a difference. Whether you're an experienced professional or just starting your career, we offer opportunities for growth, development, and advancement in a range of roles. Join us in our mission to enhance the well\\-being of our patients and residents while making a meaningful impact in the communities we serve.
 Responsibilities:
@@ -1780,30 +1390,8 @@ We also offer several voluntary insurances such as:
   
 
 Restrictions apply based on collective bargaining agreements, applicable state law and factors such as pay classification, job grade, location, and length of service.
-Posted Salary Range: USD $42\\.00 \\- USD $45\\.00 /Hr.
-🔗 Apply Direct: https://www.genesiscareers.jobs/genesishcc/jobs/43004/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=c8712750d0b94d9f</description>
-      <companyName>Genesis Healthcare</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Milford, DE, US</jobLocation>
-      <salaryMin>42</salaryMin>
-      <salaryMax>45</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse - LPN at Genesis Healthcare</title>
-      <link>https://www.genesiscareers.jobs/genesishcc/jobs/43000/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Genesis Healthcare-Licensed Practical Nurse - LPN-Seaford, DE, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: Seaford, DE, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 30 - 33 (hourly)
-
-📝 Description: Overview:
+Posted Salary Range: USD $42\\.00 \\- USD $45\\.00 /Hr.","Health Care","https://www.indeed.com/cmp/Genesis-Healthcare-6","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26754bcd7f4553315c065858e0744ed5","http://www.genesishcc.com/","101 E. State St., Kennett Square, PA","10,000+","","Our mission is to improve the lives we touch through the delivery of high quality healthcare and everyday compassion.","","","","","","",""
+"in-54685dc378b774c4","indeed","https://www.indeed.com/viewjob?jk=54685dc378b774c4","https://www.genesiscareers.jobs/genesishcc/jobs/43000/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Licensed Practical Nurse - LPN","Genesis Healthcare","Seaford, DE, US","2026-03-04","fulltime","direct_data","hourly",30.0,33.0,"USD",False,"","","","","Overview:
 **\\*\\*\\*Exciting new wages are here — come join our team!\\*\\*\\*** **We are pleased to announce a retention bonus for LPN's . Eligible full\\-time LPN's may receive $10,000, and eligible part\\-time LPN's may receive $5,000\\.**  
 
 
@@ -1844,30 +1432,8 @@ We also offer several voluntary insurances such as:
   
 
 Restrictions apply based on collective bargaining agreements, applicable state law and factors such as pay classification, job grade, location, and length of service.
-Posted Salary Range: USD $30\\.00 \\- USD $33\\.00 /Hr.
-🔗 Apply Direct: https://www.genesiscareers.jobs/genesishcc/jobs/43000/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=54685dc378b774c4</description>
-      <companyName>Genesis Healthcare</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Seaford, DE, US</jobLocation>
-      <salaryMin>30</salaryMin>
-      <salaryMax>33</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Licensed Practical Nurse - LPN at Genesis Healthcare</title>
-      <link>https://www.genesiscareers.jobs/genesishcc/jobs/42996/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Genesis Healthcare-Licensed Practical Nurse - LPN-Waldorf, MD, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: Waldorf, MD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 32 - 35 (hourly)
-
-📝 Description: Overview:
+Posted Salary Range: USD $30\\.00 \\- USD $33\\.00 /Hr.","Health Care","https://www.indeed.com/cmp/Genesis-Healthcare-6","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26754bcd7f4553315c065858e0744ed5","http://www.genesishcc.com/","101 E. State St., Kennett Square, PA","10,000+","","Our mission is to improve the lives we touch through the delivery of high quality healthcare and everyday compassion.","","","","","","",""
+"in-6077b40ce0b24605","indeed","https://www.indeed.com/viewjob?jk=6077b40ce0b24605","https://www.genesiscareers.jobs/genesishcc/jobs/42996/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Licensed Practical Nurse - LPN","Genesis Healthcare","Waldorf, MD, US","2026-03-04","fulltime","direct_data","hourly",32.0,35.0,"USD",False,"","","","","Overview:
 **\\*\\*\\*Exciting new wages are here — come join our team!\\*\\*\\***  
 
 
@@ -1908,30 +1474,8 @@ We also offer several voluntary insurances such as:
   
 
 Restrictions apply based on collective bargaining agreements, applicable state law and factors such as pay classification, job grade, location, and length of service.
-Posted Salary Range: USD $32\\.00 \\- USD $35\\.00 /Hr.
-🔗 Apply Direct: https://www.genesiscareers.jobs/genesishcc/jobs/42996/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=6077b40ce0b24605</description>
-      <companyName>Genesis Healthcare</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Waldorf, MD, US</jobLocation>
-      <salaryMin>32</salaryMin>
-      <salaryMax>35</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse, RN at Genesis Healthcare</title>
-      <link>https://www.genesiscareers.jobs/genesishcc/jobs/42997/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Genesis Healthcare-Registered Nurse, RN-Seaford, DE, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: Seaford, DE, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 42 - 45 (hourly)
-
-📝 Description: Overview:
+Posted Salary Range: USD $32\\.00 \\- USD $35\\.00 /Hr.","Health Care","https://www.indeed.com/cmp/Genesis-Healthcare-6","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26754bcd7f4553315c065858e0744ed5","http://www.genesishcc.com/","101 E. State St., Kennett Square, PA","10,000+","","Our mission is to improve the lives we touch through the delivery of high quality healthcare and everyday compassion.","","","","","","",""
+"in-a3021beec46b1246","indeed","https://www.indeed.com/viewjob?jk=a3021beec46b1246","https://www.genesiscareers.jobs/genesishcc/jobs/42997/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse, RN","Genesis Healthcare","Seaford, DE, US","2026-03-04","fulltime","direct_data","hourly",42.0,45.0,"USD",False,"","","","","Overview:
 **\\*\\*\\*Exciting new wages are here — come join our team!\\*\\*\\*** **We are pleased to announce a retention bonus for Registered Nurses. Eligible full\\-time RNs may receive $15,000, and eligible part\\-time RNs may receive $7,500\\.**
 At Genesis Healthcare, we are dedicated to improving the lives we touch through the delivery of high\\-quality care and exceptional service. As a leading provider in the long\\-term care industry, we believe in fostering a collaborative, inclusive and supportive work environment where every team member is valued and empowered to make a difference. Whether you're an experienced professional or just starting your career, we offer opportunities for growth, development, and advancement in a range of roles. Join us in our mission to enhance the well\\-being of our patients and residents while making a meaningful impact in the communities we serve.
 Responsibilities:
@@ -1976,30 +1520,8 @@ We also offer several voluntary insurances such as:
   
 
 Restrictions apply based on collective bargaining agreements, applicable state law and factors such as pay classification, job grade, location, and length of service.
-Posted Salary Range: USD $42\\.00 \\- USD $45\\.00 /Hr.
-🔗 Apply Direct: https://www.genesiscareers.jobs/genesishcc/jobs/42997/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a3021beec46b1246</description>
-      <companyName>Genesis Healthcare</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Seaford, DE, US</jobLocation>
-      <salaryMin>42</salaryMin>
-      <salaryMax>45</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse, RN at Genesis Healthcare</title>
-      <link>https://www.genesiscareers.jobs/genesishcc/jobs/42998/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f</link>
-      <guid isPermaLink="false">Genesis Healthcare-Registered Nurse, RN-Bowie, MD, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: Bowie, MD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-💰 Salary: USD 43 - 46 (hourly)
-
-📝 Description: Overview:
+Posted Salary Range: USD $42\\.00 \\- USD $45\\.00 /Hr.","Health Care","https://www.indeed.com/cmp/Genesis-Healthcare-6","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26754bcd7f4553315c065858e0744ed5","http://www.genesishcc.com/","101 E. State St., Kennett Square, PA","10,000+","","Our mission is to improve the lives we touch through the delivery of high quality healthcare and everyday compassion.","","","","","","",""
+"in-a44bd2da455bfed1","indeed","https://www.indeed.com/viewjob?jk=a44bd2da455bfed1","https://www.genesiscareers.jobs/genesishcc/jobs/42998/job?utm_source=indeed_integration&iis=Job%20Board&iisn=Indeed&indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f","Registered Nurse, RN","Genesis Healthcare","Bowie, MD, US","2026-03-04","fulltime","direct_data","hourly",43.0,46.0,"USD",False,"","","","","Overview:
 **\\*\\*\\*Exciting new wages are here — come join our team!\\*\\*\\***  
 
 
@@ -2046,29 +1568,8 @@ We also offer several voluntary insurances such as:
   
 
 Restrictions apply based on collective bargaining agreements, applicable state law and factors such as pay classification, job grade, location, and length of service.
-Posted Salary Range: USD $43\\.00 \\- USD $46\\.00 /Hr.
-🔗 Apply Direct: https://www.genesiscareers.jobs/genesishcc/jobs/42998/job?utm_source=indeed_integration&amp;iis=Job%20Board&amp;iisn=Indeed&amp;indeed-apply-token=73a2d2b2a8d6d5c0a62696875eaebd669103652d3f0c2cd5445d3e66b1592b0f
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a44bd2da455bfed1</description>
-      <companyName>Genesis Healthcare</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Bowie, MD, US</jobLocation>
-      <salaryMin>43</salaryMin>
-      <salaryMax>46</salaryMax>
-      <salarySchedule>hourly</salarySchedule>
-      <salaryCurrency>USD</salaryCurrency>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Student Nurse Technician - Intern - PRN - Health Professionals (OU Accelerated Program July 2026 Nursing Student Graduates) at OU Health</title>
-      <link>https://oumedicine.wd5.myworkdayjobs.com/en-US/OUHealthCareers/job/Oklahoma-City/Student-Nurse-Technician---Intern---PRN---Health-Professionals--OU-Accelerated-Program-July-2026-Nursing-Student-Graduates-_R0053350</link>
-      <guid isPermaLink="false">OU Health-Student Nurse Technician - Intern - PRN - Health Professionals (OU Accelerated Program July 2026 Nursing Student Graduates)-Oklahoma City, OK, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: Oklahoma City, OK, US
-💼 Type: Parttime
-🏠 Work: On-site
-
-📝 Description: Position Title:
+Posted Salary Range: USD $43\\.00 \\- USD $46\\.00 /Hr.","Health Care","https://www.indeed.com/cmp/Genesis-Healthcare-6","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26754bcd7f4553315c065858e0744ed5","http://www.genesishcc.com/","101 E. State St., Kennett Square, PA","10,000+","","Our mission is to improve the lives we touch through the delivery of high quality healthcare and everyday compassion.","","","","","","",""
+"in-85187d3968722854","indeed","https://www.indeed.com/viewjob?jk=85187d3968722854","https://oumedicine.wd5.myworkdayjobs.com/en-US/OUHealthCareers/job/Oklahoma-City/Student-Nurse-Technician---Intern---PRN---Health-Professionals--OU-Accelerated-Program-July-2026-Nursing-Student-Graduates-_R0053350","Student Nurse Technician - Intern - PRN - Health Professionals (OU Accelerated Program July 2026 Nursing Student Graduates)","OU Health","Oklahoma City, OK, US","2026-03-04","parttime","","","","","",False,"","","","","Position Title:
 Student Nurse Technician \\- Intern \\- PRN \\- Health Professionals (OU Accelerated Program July 2026 Nursing Student Graduates)
 Department:
 Nursing Student Programs
@@ -2083,34 +1584,17 @@ Essential Responsibilities:*Responsibilities listed in this section are core to 
 General Responsibilities:
 Performs other duties as assigned
 Minimum Qualifications:
-Education \\&amp; Experience: Currently enrolled as a senior nursing student in an accredited college of nursing.
+Education \\& Experience: Currently enrolled as a senior nursing student in an accredited college of nursing.
 License(s)/Certification(s)/Registration(s) Required: Current Basic Life Support issued by the American Heart Association required upon hire.
 Knowledge, Skills and Abilities: Knowledge of basic nursing techniques and procedures. Ability to communicate effectively, and follow written and oral instructions; and to maintain effective working relations with others.
 Current OU Health Employees \\- Please click HERE to login.
-OU Health is an equal opportunity employer. We offer a comprehensive benefits package, including PTO, 401(k), medical and dental plans, and many more. We know that a total benefits and compensation package, designed to meet your specific needs both inside and outside of the work environment, create peace of mind for you and your family.
-🔗 Apply Direct: https://oumedicine.wd5.myworkdayjobs.com/en-US/OUHealthCareers/job/Oklahoma-City/Student-Nurse-Technician---Intern---PRN---Health-Professionals--OU-Accelerated-Program-July-2026-Nursing-Student-Graduates-_R0053350
-🔗 Job Board: https://www.indeed.com/viewjob?jk=85187d3968722854</description>
-      <companyName>OU Health</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Oklahoma City, OK, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Med Surg at TidalHealth</title>
-      <link>https://www.tidalhealthcareers.org/jobs/2153321-registered-nurse-rn-med-surg</link>
-      <guid isPermaLink="false">TidalHealth-Registered Nurse (RN) - Med Surg-Salisbury, MD, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: Salisbury, MD, US
-💼 Type: Parttime
-🏠 Work: On-site
-
-📝 Description: Location
+OU Health is an equal opportunity employer. We offer a comprehensive benefits package, including PTO, 401(k), medical and dental plans, and many more. We know that a total benefits and compensation package, designed to meet your specific needs both inside and outside of the work environment, create peace of mind for you and your family.","","https://www.indeed.com/cmp/Ou-Health","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/71bee0d69ca2f32cc03d022f05f3d96c","http://www.ouhealth.com/careers","Oklahoma City, OK","10,000+","$1B to $5B (USD)","Changing lives through discovery and healing.","","","","","","",""
+"in-4802ce9c152a7fa4","indeed","https://www.indeed.com/viewjob?jk=4802ce9c152a7fa4","https://www.tidalhealthcareers.org/jobs/2153321-registered-nurse-rn-med-surg","Registered Nurse (RN) - Med Surg","TidalHealth","Salisbury, MD, US","2026-03-04","parttime","","","","","",False,"","","","","Location
  Salisbury, MD
 Facility
  TidalHealth Peninsula Regional
 Department
- 5 Layfield \\- Neurosciences \\&amp; Stroke Unit
+ 5 Layfield \\- Neurosciences \\& Stroke Unit
 Schedule \\- Shift \\- Hours
  Part Time \\- 12 hr shifts; rotating weekends \\- 7P\\-7:30A
 Req \\#: 35649
@@ -2119,7 +1603,7 @@ Req \\#: 35649
 **Why work at TidalHealth?**
 
 
-Looking for a rewarding place to work? Choose TidalHealth. Our hospitals have been named among the Top 5 percent of all U.S. hospitals by Healthgrades and a five\\-star hospital by the Centers for Medicare \\&amp; Medicaid Services. Located just 30 minutes from the beach, TidalHealth offers the widest array of specialty and subspecialty services such as neurosurgery, cardiothoracic surgery, joint replacement, emergency/trauma care, comprehensive cancer care, wound care and clinical trials and research. Take advantage of our tuition assistance and scholarship programs to grow both personally and professionally.
+Looking for a rewarding place to work? Choose TidalHealth. Our hospitals have been named among the Top 5 percent of all U.S. hospitals by Healthgrades and a five\\-star hospital by the Centers for Medicare \\& Medicaid Services. Located just 30 minutes from the beach, TidalHealth offers the widest array of specialty and subspecialty services such as neurosurgery, cardiothoracic surgery, joint replacement, emergency/trauma care, comprehensive cancer care, wound care and clinical trials and research. Take advantage of our tuition assistance and scholarship programs to grow both personally and professionally.
 
   
 
@@ -2150,25 +1634,9 @@ The Med Surg RN provides nursing care to neurological and neurosurgical patients
 
 
 * At TidalHealth, full\\-time employees working at least 72 hours per pay period, part\\-time employees working at least 36 hours per pay period and part\\-time employees working at least 30 hours or more on weekends only are eligible for benefits.
-* Benefits include medical, prescription, vision, dental, flexible spending accounts, disability insurance plans, life insurance, paid time off plans, retirement plans, tuition assistance, employee assistance, and access to on\\-site childcare and a credit union.
-🔗 Apply Direct: https://www.tidalhealthcareers.org/jobs/2153321-registered-nurse-rn-med-surg
-🔗 Job Board: https://www.indeed.com/viewjob?jk=4802ce9c152a7fa4</description>
-      <companyName>TidalHealth</companyName>
-      <jobType>Parttime</jobType>
-      <jobLocation>Salisbury, MD, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-    <item>
-      <title>Registered Nurse (RN) - Same Day Surgery at TidalHealth</title>
-      <link>https://www.tidalhealthcareers.org/jobs/2153320-registered-nurse-rn-same-day-surgery</link>
-      <guid isPermaLink="false">TidalHealth-Registered Nurse (RN) - Same Day Surgery-Salisbury, MD, US</guid>
-      <pubDate>Wed, 04 Mar 2026 09:37:27 +0000</pubDate>
-      <description>📍 Location: Salisbury, MD, US
-💼 Type: Fulltime
-🏠 Work: On-site
-
-📝 Description: Location
+* Benefits include medical, prescription, vision, dental, flexible spending accounts, disability insurance plans, life insurance, paid time off plans, retirement plans, tuition assistance, employee assistance, and access to on\\-site childcare and a credit union.","","https://www.indeed.com/cmp/Tidalhealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/83f291c3fdec9fc845ba027844ea033e","https://www.tidalhealth.org/","100 E. Carroll St.
+Salisbury, MD 21801","5,001 to 10,000","","TidalHealth delivers trusted, compassionate care across Delmarva with 400+ providers in 29 specialties. We're nationally recognized and committed to shaping healthcare’s future through education.","","","","","","",""
+"in-a8538c660e1617b5","indeed","https://www.indeed.com/viewjob?jk=a8538c660e1617b5","https://www.tidalhealthcareers.org/jobs/2153320-registered-nurse-rn-same-day-surgery","Registered Nurse (RN) - Same Day Surgery","TidalHealth","Salisbury, MD, US","2026-03-04","fulltime","","","","","",False,"","","","","Location
  Salisbury, MD
 Facility
  TidalHealth Peninsula Regional
@@ -2182,7 +1650,7 @@ Req \\#: 35655
 **Why work at TidalHealth?**
 
 
-Looking for a rewarding place to work? Choose TidalHealth. Our hospitals have been named among the Top 5 percent of all U.S. hospitals by Healthgrades and a five\\-star hospital by the Centers for Medicare \\&amp; Medicaid Services. Located just 30 minutes from the beach, TidalHealth offers the widest array of specialty and subspecialty services such as neurosurgery, cardiothoracic surgery, joint replacement, emergency/trauma care, comprehensive cancer care, wound care and clinical trials and research. Take advantage of our tuition assistance and scholarship programs to grow both personally and professionally.
+Looking for a rewarding place to work? Choose TidalHealth. Our hospitals have been named among the Top 5 percent of all U.S. hospitals by Healthgrades and a five\\-star hospital by the Centers for Medicare \\& Medicaid Services. Located just 30 minutes from the beach, TidalHealth offers the widest array of specialty and subspecialty services such as neurosurgery, cardiothoracic surgery, joint replacement, emergency/trauma care, comprehensive cancer care, wound care and clinical trials and research. Take advantage of our tuition assistance and scholarship programs to grow both personally and professionally.
 
   
 
@@ -2211,14 +1679,5 @@ The Surgical RN provides care for pre\\-op and post op patients as well as Pre\\
 
 
 * At TidalHealth, full\\-time employees working at least 72 hours per pay period, part\\-time employees working at least 36 hours per pay period and part\\-time employees working at least 30 hours or more on weekends only are eligible for benefits.
-* Benefits include medical, prescription, vision, dental, flexible spending accounts, disability insurance plans, life insurance, paid time off plans, retirement plans, tuition assistance, employee assistance, and access to on\\-site childcare and a credit union.
-🔗 Apply Direct: https://www.tidalhealthcareers.org/jobs/2153320-registered-nurse-rn-same-day-surgery
-🔗 Job Board: https://www.indeed.com/viewjob?jk=a8538c660e1617b5</description>
-      <companyName>TidalHealth</companyName>
-      <jobType>Fulltime</jobType>
-      <jobLocation>Salisbury, MD, US</jobLocation>
-      <isRemote>false</isRemote>
-      <category>Nursing Jobs</category>
-    </item>
-  </channel>
-</rss>
+* Benefits include medical, prescription, vision, dental, flexible spending accounts, disability insurance plans, life insurance, paid time off plans, retirement plans, tuition assistance, employee assistance, and access to on\\-site childcare and a credit union.","","https://www.indeed.com/cmp/Tidalhealth","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/83f291c3fdec9fc845ba027844ea033e","https://www.tidalhealth.org/","100 E. Carroll St.
+Salisbury, MD 21801","5,001 to 10,000","","TidalHealth delivers trusted, compassionate care across Delmarva with 400+ providers in 29 specialties. We're nationally recognized and committed to shaping healthcare’s future through education.","","","","","","",""
